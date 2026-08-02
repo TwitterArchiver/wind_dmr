@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2051014186550087783",
+    "created_at": "2026-05-04T04:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051162333427494982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051162333427494982",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051014186550087783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2051014186550087783",
+        "created_at": "2026-05-04T04:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051162333427494982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051162333427494982",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051014186550087783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618909954156679168",
+        "conversation_id": "2051014186550087783",
+        "created_at": "2026-05-03T19:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051014186550087783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051014186550087783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是这和我们拧过螺丝焊过钢条锉过毛刺设计过电路折腾过开发板接过220V电线调过神经网络跑过强化学习设计过机械臂出过工程图算过正逆运动学跑过流体仿真模态分析手算过结构强度传递函数调过PID手搓过图形学引擎手撕过红黑树vibe过前端做过精测操作过车床上述每条都写过报告的工科牛马有什么关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 862,
+          "like_count": 127151,
+          "listed_count": 9,
+          "media_count": 2955,
+          "tweet_count": 24690
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "MtF/INTP/退役OIer/舞萌W2/m/健全逼/日子人/慢性鼻炎/胃胀气\n🚪：一个月内拍摄的腹肌照\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 939,
+          "like_count": 12799,
+          "listed_count": 16,
+          "media_count": 1567,
+          "tweet_count": 8588
+        },
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}
