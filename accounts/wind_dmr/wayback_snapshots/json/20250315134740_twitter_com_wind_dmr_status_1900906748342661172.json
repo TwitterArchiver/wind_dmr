@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1900902830019600775",
+    "created_at": "2025-03-15T13:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T14:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900906748342661172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1456239176827944965",
+          "start": 0,
+          "username": "biantaishark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900906748342661172",
+    "in_reply_to_user_id": "1456239176827944965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900902830019600775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaishark 你就说头皮破没破吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1900902830019600775].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1900902830019600775",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1900902830019600775"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1900902830019600775",
+        "created_at": "2025-03-15T13:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900906748342661172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1456239176827944965",
+              "start": 0,
+              "username": "biantaishark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900906748342661172",
+        "in_reply_to_user_id": "1456239176827944965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900902830019600775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaishark 你就说头皮破没破吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 705,
+          "like_count": 112911,
+          "listed_count": 8,
+          "media_count": 2710,
+          "tweet_count": 23076
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:37:45.000Z",
+        "description": "乱交，极端，田园，纳粹，自闭",
+        "id": "1456239176827944965",
+        "location": "上海",
+        "name": "徐小樱🌸",
+        "pinned_tweet_id": "1690222115499442176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759892663942488064/z1D87wV3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38566,
+          "following_count": 991,
+          "like_count": 876,
+          "listed_count": 119,
+          "media_count": 1433,
+          "tweet_count": 18883
+        },
+        "username": "biantaishark",
+        "verified": false
+      }
+    ]
+  }
+}

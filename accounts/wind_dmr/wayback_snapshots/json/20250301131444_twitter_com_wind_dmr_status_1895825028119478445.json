@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1895811897284575681",
+    "created_at": "2025-03-01T13:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895825028119478445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520156802368753664",
+          "start": 0,
+          "username": "ksk41760545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895825028119478445",
+    "in_reply_to_user_id": "1520156802368753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895811897284575681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksk41760545 我妈开始给我买黑猫卫衣穿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 242,
+        "media_key": "3_1895811871531307008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9G2kuXkAAyPLP.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1895811897284575681",
+        "created_at": "2025-03-01T13:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895825028119478445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "ksk41760545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895825028119478445",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895811897284575681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksk41760545 我妈开始给我买黑猫卫衣穿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895811871531307008"
+          ]
+        },
+        "author_id": "1520156802368753664",
+        "conversation_id": "1895811897284575681",
+        "created_at": "2025-03-01T12:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895811897284575681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzXmuZReBE",
+              "end": 39,
+              "expanded_url": "https://x.com/ksk41760545/status/1895811897284575681/photo/1",
+              "media_key": "3_1895811871531307008",
+              "start": 16,
+              "url": "https://t.co/VzXmuZReBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895811897284575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将保持贫穷\n直到戒掉黑猫谷子 https://t.co/VzXmuZReBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 701,
+          "like_count": 111155,
+          "listed_count": 8,
+          "media_count": 2691,
+          "tweet_count": 22803
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "pinned_tweet_id": "1664605179973607426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877754360484233216/REPrzXGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 306,
+          "like_count": 16368,
+          "listed_count": 6,
+          "media_count": 4196,
+          "tweet_count": 12654
+        },
+        "username": "ksk41760545",
+        "verified": false
+      }
+    ]
+  }
+}

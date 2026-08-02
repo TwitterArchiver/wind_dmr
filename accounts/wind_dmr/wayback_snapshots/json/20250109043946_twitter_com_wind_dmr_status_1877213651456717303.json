@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1876921342643052930",
+    "created_at": "2025-01-09T04:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T05:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877213651456717303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "920141035212124161",
+          "start": 0,
+          "username": "JourneymanChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877213651456717303",
+    "in_reply_to_user_id": "920141035212124161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876921342643052930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JourneymanChina 要不是桌子空间不够真想来个一主屏+三四个副屏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1876921342643052930",
+        "created_at": "2025-01-09T04:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T05:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877213651456717303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "920141035212124161",
+              "start": 0,
+              "username": "JourneymanChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877213651456717303",
+        "in_reply_to_user_id": "920141035212124161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876921342643052930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JourneymanChina 要不是桌子空间不够真想来个一主屏+三四个副屏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876921220811333632"
+          ]
+        },
+        "author_id": "920141035212124161",
+        "conversation_id": "1876921342643052930",
+        "created_at": "2025-01-08T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876921342643052930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jFZAQIXtY",
+              "end": 43,
+              "expanded_url": "https://x.com/JourneymanChina/status/1876921342643052930/photo/1",
+              "media_key": "3_1876921220811333632",
+              "start": 20,
+              "url": "https://t.co/4jFZAQIXtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876921342643052930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 38441,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "伟大的国产化，\n让大屏显示器都白菜价了 https://t.co/4jFZAQIXtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 691,
+          "like_count": 103348,
+          "listed_count": 7,
+          "media_count": 2582,
+          "tweet_count": 21682
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-17T04:14:52.000Z",
+        "description": "🛠  Founder https://t.co/8W09BmupVP 正在打造最好的视觉笔记软件\n💰  Ex Co-Founder https://t.co/W9oZurRLgw\n🤓  All In 出海  | 斜杠中年 | 分享被动收入经验\n🌎 En @AlexLauReal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "AlexLauReal"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "noteey.com",
+                "end": 34,
+                "expanded_url": "http://noteey.com",
+                "start": 11,
+                "url": "https://t.co/8W09BmupVP"
+              },
+              {
+                "display_url": "videoshowapp.com",
+                "end": 89,
+                "expanded_url": "http://videoshowapp.com",
+                "start": 66,
+                "url": "https://t.co/W9oZurRLgw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noteey.com",
+                "end": 23,
+                "expanded_url": "http://noteey.com/",
+                "start": 0,
+                "url": "https://t.co/0NELT4IAjt"
+              }
+            ]
+          }
+        },
+        "id": "920141035212124161",
+        "location": "Shanghai",
+        "name": "Journeyman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677830837134561280/zB6gCCLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38352,
+          "following_count": 485,
+          "like_count": 1199,
+          "listed_count": 360,
+          "media_count": 2401,
+          "tweet_count": 9382
+        },
+        "url": "https://t.co/0NELT4IAjt",
+        "username": "JourneymanChina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1896184920248390076",
+    "created_at": "2025-03-03T09:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896487809395085443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636244273245966343",
+          "start": 0,
+          "username": "JapanBanZaiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896487809395085443",
+    "in_reply_to_user_id": "1636244273245966343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896184920248390076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JapanBanZaiLove 我相信多输一个零，多算一份菜，有小费的餐厅多算百分之多少，不相信加五万这种整数是不小心的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 227934,
+        "height": 960,
+        "media_key": "13_1896184847179407360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1896184847179407360/img/TVDZPhTjI1D5AZ1C.jpg",
+        "public_metrics": {
+          "view_count": 11072
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896184847179407360/vid/avc1/320x426/qz090vFfL4xYUkbU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896184847179407360/vid/avc1/480x640/svmrxVp8nxQxOUC0.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1896184847179407360/vid/avc1/720x960/tIO_BNblt9IxnhcC.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1896184847179407360/pl/7MOiTS1sC_Ef-ahA.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1387,
+        "media_key": "3_1896184847133265920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCaEnHbUAAvKhE.jpg",
+        "width": 1179
+      },
+      {
+        "height": 748,
+        "media_key": "3_1896184847141638144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCaEnJbEAAqPwS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1896184920248390076",
+        "created_at": "2025-03-03T09:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896487809395085443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636244273245966343",
+              "start": 0,
+              "username": "JapanBanZaiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896487809395085443",
+        "in_reply_to_user_id": "1636244273245966343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896184920248390076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JapanBanZaiLove 我相信多输一个零，多算一份菜，有小费的餐厅多算百分之多少，不相信加五万这种整数是不小心的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1896184847179407360",
+            "3_1896184847133265920",
+            "3_1896184847141638144"
+          ]
+        },
+        "author_id": "1636244273245966343",
+        "conversation_id": "1896184920248390076",
+        "created_at": "2025-03-02T13:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896184920248390076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15fWdUFvSq",
+              "end": 131,
+              "expanded_url": "https://x.com/JapanBanZaiLove/status/1896184920248390076/video/1",
+              "media_key": "13_1896184847179407360",
+              "start": 108,
+              "url": "https://t.co/15fWdUFvSq"
+            },
+            {
+              "display_url": "pic.x.com/15fWdUFvSq",
+              "end": 131,
+              "expanded_url": "https://x.com/JapanBanZaiLove/status/1896184920248390076/video/1",
+              "media_key": "3_1896184847133265920",
+              "start": 108,
+              "url": "https://t.co/15fWdUFvSq"
+            },
+            {
+              "display_url": "pic.x.com/15fWdUFvSq",
+              "end": 131,
+              "expanded_url": "https://x.com/JapanBanZaiLove/status/1896184920248390076/video/1",
+              "media_key": "3_1896184847141638144",
+              "start": 108,
+              "url": "https://t.co/15fWdUFvSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896184920248390076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 35756,
+          "like_count": 361,
+          "quote_count": 17,
+          "reply_count": 75,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "中国人在一家日本餐厅用餐\n\n餐厅工作人员在结账时发生了失误，多算了5万日元，但是被及时发现。\n\n中国客人把工作人员的失误当做“诈欺”和“故意”向餐厅讨要说法。\n\n餐厅无奈报警…\n\n中国人的沟通能力几乎为0\n\n🤡🤡🤡 https://t.co/15fWdUFvSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 701,
+          "like_count": 111225,
+          "listed_count": 0,
+          "media_count": 2693,
+          "tweet_count": 22867
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:53:47.000Z",
+        "description": "日本をずっと愛してる人｜元満州人エホナラ氏｜魔除に8964天安門",
+        "id": "1636244273245966343",
+        "location": "Japan",
+        "name": "のらいぬ",
+        "pinned_tweet_id": "1868539928956768679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844274598487195648/t5tpey8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31808,
+          "following_count": 1119,
+          "like_count": 26102,
+          "listed_count": 74,
+          "media_count": 1963,
+          "tweet_count": 6970
+        },
+        "username": "JapanBanZaiLove",
+        "verified": true
+      }
+    ]
+  }
+}

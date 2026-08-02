@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801309323311857665"
+      ],
+      "media_source_tweet_id": [
+        "1801309331025240431"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1801460923754025167",
+    "created_at": "2024-06-14T03:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T04:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801460923754025167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666010240725450752",
+          "start": 3,
+          "username": "amedesu01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/06f762C9b4",
+          "end": 96,
+          "expanded_url": "https://twitter.com/amedesu01/status/1801309331025240431/photo/1",
+          "media_key": "3_1801309323311857665",
+          "start": 73,
+          "url": "https://t.co/06f762C9b4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801460923754025167",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801309331025240431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @amedesu01: 4000fo抽獎…！\n大家好我是ame\n小女孩和我互關好不 轉這條抽三個13.14\n還有我不接線下了除非鈔能力嗯嗯 https://t.co/06f762C9b4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1801460923754025167].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1801460923754025167",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1801460923754025167"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1801309323311857665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GP-JSSqaQAEF-zz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801309323311857665"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1801309331025240431",
+        "created_at": "2024-06-13T17:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T18:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801309331025240431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/06f762C9b4",
+              "end": 81,
+              "expanded_url": "https://twitter.com/amedesu01/status/1801309331025240431/photo/1",
+              "media_key": "3_1801309323311857665",
+              "start": 58,
+              "url": "https://t.co/06f762C9b4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801309331025240431",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1894,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "following",
+        "text": "4000fo抽獎…！\n大家好我是ame\n小女孩和我互關好不 轉這條抽三個13.14\n還有我不接線下了除非鈔能力嗯嗯 https://t.co/06f762C9b4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 616,
+          "like_count": 83467,
+          "listed_count": 5,
+          "tweet_count": 17933
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 喜歡和小女孩玩 不接線下",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388过门解锁线下",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1794245593763840436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791642038758522880/l__8_obF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4003,
+          "following_count": 1400,
+          "like_count": 7755,
+          "listed_count": 10,
+          "tweet_count": 3307
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395155006580396032",
+          "name": "Tokyo Game Show"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2082938580763361300",
+    "created_at": "2026-07-30T21:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082938580763361300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokyo_game_sho…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/tokyo_game_show/status/2077717216133578982",
+          "start": 18,
+          "url": "https://t.co/4XPc4O2mGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082938580763361300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077717216133578982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又是一年tgs，这次可没法过去了。 https://t.co/4XPc4O2mGT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395155006580396032",
+              "name": "Tokyo Game Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2082938580763361300",
+        "created_at": "2026-07-30T21:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082938580763361300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokyo_game_sho…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/tokyo_game_show/status/2077717216133578982",
+              "start": 18,
+              "url": "https://t.co/4XPc4O2mGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082938580763361300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077717216133578982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又是一年tgs，这次可没法过去了。 https://t.co/4XPc4O2mGT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94486399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395155006580396032",
+              "name": "Tokyo Game Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2077717216133578982",
+        "created_at": "2026-07-16T11:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077717216133578982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077717216133578982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 818,
+          "impression_count": 10401016,
+          "like_count": 3485,
+          "quote_count": 163,
+          "reply_count": 6,
+          "retweet_count": 632
+        },
+        "reply_settings": "everyone",
+        "text": "◢◤◢◤東京ゲームショウ2026\n⠀⠀⠀⠀⠀⠀⠀チケット好評発売中◢◤◢◤        \n⠀\n📅 一般公開日：9/19(土)～9/21(月・祝)\n📍 会場：幕張メッセ・TKP東京ベイ幕張ホール\n⠀\n30周年のテーマは\n『史上最長、遊びづくしの5DAYS』\n⠀\n詳しくは公式サイトをチェック👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 875,
+          "like_count": 128474,
+          "listed_count": 8,
+          "media_count": 2999,
+          "tweet_count": 24991
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-04T04:26:58.000Z",
+        "description": "TGS公式アカウント。TGS2026は2026年9月17日(木)～9月21日(月・祝)開催！\nこちらのアカウントは配信専用のため、質問等は公式サイト内問い合わせフォームからお願いします。\nハッシュタグ→ #TGS2026 #東京ゲームショウ30th",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "TGS2026"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "tag": "東京ゲームショウ30th"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tgs.cesa.or.jp",
+                "end": 23,
+                "expanded_url": "https://tgs.cesa.or.jp/",
+                "start": 0,
+                "url": "https://t.co/H1CItlN8eA"
+              }
+            ]
+          }
+        },
+        "id": "94486399",
+        "location": "Tokyo Japan",
+        "name": "TOKYO GAME SHOW／東京ゲームショウ",
+        "pinned_tweet_id": "2074825829243031869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922864526862548992/WnUmcmoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135863,
+          "following_count": 337,
+          "like_count": 788,
+          "listed_count": 1521,
+          "media_count": 1698,
+          "tweet_count": 4399
+        },
+        "url": "https://t.co/H1CItlN8eA",
+        "username": "tokyo_game_show",
+        "verified": true
+      }
+    ]
+  }
+}

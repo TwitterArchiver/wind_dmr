@@ -1,0 +1,629 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1814847978294628352"
+      ],
+      "media_source_tweet_id": [
+        "1814847982103068946"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1815217650244759831",
+    "created_at": "2024-07-22T02:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T03:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815217650244759831"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "lgbtq",
+          "probability": 0.5477,
+          "start": 30,
+          "type": "Place"
+        },
+        {
+          "end": 51,
+          "normalized_text": "trump",
+          "probability": 0.7824,
+          "start": 47,
+          "type": "Person"
+        },
+        {
+          "end": 94,
+          "normalized_text": "colonel sanders",
+          "probability": 0.7876,
+          "start": 80,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3911216058",
+          "start": 3,
+          "username": "iamAtheistGirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/HdG2x11G8c",
+          "end": 119,
+          "expanded_url": "https://twitter.com/iamAtheistGirl/status/1814847982103068946/photo/1",
+          "media_key": "3_1814847978294628352",
+          "start": 96,
+          "url": "https://t.co/HdG2x11G8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815217650244759831",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 669
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814847982103068946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamAtheistGirl: women and lgbtq voting for trump is like chicken voting for colonel sanders https://t.co/HdG2x11G8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1814847978294628352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GS-inuuWUAAxJ2Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814847978294628352"
+          ],
+          "media_source_tweet_id": [
+            "1814847982103068946"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1815217650244759831",
+        "created_at": "2024-07-22T02:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T03:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815217650244759831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "lgbtq",
+              "probability": 0.5477,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "trump",
+              "probability": 0.7824,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "colonel sanders",
+              "probability": 0.7876,
+              "start": 80,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3911216058",
+              "start": 3,
+              "username": "iamAtheistGirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HdG2x11G8c",
+              "end": 119,
+              "expanded_url": "https://twitter.com/iamAtheistGirl/status/1814847982103068946/photo/1",
+              "media_key": "3_1814847978294628352",
+              "start": 96,
+              "url": "https://t.co/HdG2x11G8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815217650244759831",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 669
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814847982103068946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamAtheistGirl: women and lgbtq voting for trump is like chicken voting for colonel sanders https://t.co/HdG2x11G8c"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814847978294628352"
+          ]
+        },
+        "author_id": "3911216058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1814847982103068946",
+        "created_at": "2024-07-21T02:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T03:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814847982103068946"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "lgbtq",
+              "probability": 0.4838,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "trump",
+              "probability": 0.8503,
+              "start": 27,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "colonel sanders",
+              "probability": 0.95,
+              "start": 60,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HdG2x11G8c",
+              "end": 99,
+              "expanded_url": "https://twitter.com/iamAtheistGirl/status/1814847982103068946/photo/1",
+              "media_key": "3_1814847978294628352",
+              "start": 76,
+              "url": "https://t.co/HdG2x11G8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814847982103068946",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 41391,
+          "like_count": 3156,
+          "quote_count": 15,
+          "reply_count": 79,
+          "retweet_count": 669
+        },
+        "reply_settings": "everyone",
+        "text": "women and lgbtq voting for trump is like chicken voting for colonel sanders https://t.co/HdG2x11G8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 652,
+          "like_count": 90139,
+          "listed_count": 5,
+          "tweet_count": 19590
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-16T07:11:39.000Z",
+        "description": "I’m the tree hugging + cannabis lovin’ + animal rescuing + prochoice + lgbtq + secular + humanist + liberal + activist your parents warned you about. 🐈‍⬛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/iamatheistgirl",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/iamatheistgirl",
+                "start": 0,
+                "url": "https://t.co/Sn9xGrB3Z7"
+              }
+            ]
+          }
+        },
+        "id": "3911216058",
+        "location": "Room 1408",
+        "name": "Atheist Girl",
+        "pinned_tweet_id": "1798796033071485096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719852945804505088/6rZZsjyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65089,
+          "following_count": 14261,
+          "like_count": 646353,
+          "listed_count": 442,
+          "tweet_count": 275470
+        },
+        "url": "https://t.co/Sn9xGrB3Z7",
+        "username": "iamAtheistGirl",
+        "verified": true
+      }
+    ]
+  }
+}

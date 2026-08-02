@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025434280542044162"
+      ],
+      "media_source_tweet_id": [
+        "2025434291812139329"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2027279708946374656",
+    "created_at": "2026-02-27T07:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027279708946374656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "137674549",
+          "start": 3,
+          "username": "a_m_mococo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kvJ3XrJsYO",
+          "end": 43,
+          "expanded_url": "https://x.com/a_m_mococo/status/2025434291812139329/photo/1",
+          "media_key": "3_2025434280542044162",
+          "start": 20,
+          "url": "https://t.co/kvJ3XrJsYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027279708946374656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025434291812139329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a_m_mococo: 描けた https://t.co/kvJ3XrJsYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2025434280542044162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvJvzebgAIxTZQ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025434280542044162"
+          ],
+          "media_source_tweet_id": [
+            "2025434291812139329"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2027279708946374656",
+        "created_at": "2026-02-27T07:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027279708946374656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "137674549",
+              "start": 3,
+              "username": "a_m_mococo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvJ3XrJsYO",
+              "end": 43,
+              "expanded_url": "https://x.com/a_m_mococo/status/2025434291812139329/photo/1",
+              "media_key": "3_2025434280542044162",
+              "start": 20,
+              "url": "https://t.co/kvJ3XrJsYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027279708946374656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025434291812139329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a_m_mococo: 描けた https://t.co/kvJ3XrJsYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025434280542044162"
+          ]
+        },
+        "author_id": "137674549",
+        "conversation_id": "2025434291812139329",
+        "created_at": "2026-02-22T04:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025434291812139329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvJ3XrJsYO",
+              "end": 27,
+              "expanded_url": "https://x.com/a_m_mococo/status/2025434291812139329/photo/1",
+              "media_key": "3_2025434280542044162",
+              "start": 4,
+              "url": "https://t.co/kvJ3XrJsYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025434291812139329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 793,
+          "impression_count": 116819,
+          "like_count": 14400,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 617
+        },
+        "reply_settings": "everyone",
+        "text": "描けた https://t.co/kvJ3XrJsYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 840,
+          "like_count": 125394,
+          "listed_count": 8,
+          "media_count": 2913,
+          "tweet_count": 24261
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-27T12:10:33.000Z",
+        "description": "油絵で壊れたデジタルっぽいキャラクターを描いています。 | 展示・お仕事の依頼はメールにて(aimaimococo@gmail.com) | Skeb→https://t.co/ilbbgpNf9t | SHOP→https://t.co/mzkyeTW6iZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@a_m_mococo",
+                "end": 99,
+                "expanded_url": "https://skeb.jp/@a_m_mococo",
+                "start": 76,
+                "url": "https://t.co/ilbbgpNf9t"
+              },
+              {
+                "display_url": "mococo.thebase.in",
+                "end": 130,
+                "expanded_url": "https://mococo.thebase.in",
+                "start": 107,
+                "url": "https://t.co/mzkyeTW6iZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocosawada.com",
+                "end": 23,
+                "expanded_url": "https://mocosawada.com",
+                "start": 0,
+                "url": "https://t.co/FF8NsXkeXD"
+              }
+            ]
+          }
+        },
+        "id": "137674549",
+        "location": "OSAKA",
+        "name": "サワダモコ | COMITIA155 あ13b",
+        "pinned_tweet_id": "2023021193973191125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976612405544415233/XFCVjmnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6277,
+          "following_count": 1309,
+          "like_count": 21489,
+          "listed_count": 116,
+          "media_count": 4364,
+          "tweet_count": 62034
+        },
+        "url": "https://t.co/FF8NsXkeXD",
+        "username": "a_m_mococo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1876382909374124041",
+    "created_at": "2025-01-06T21:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T22:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876387564141322411"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876387564141322411",
+    "in_reply_to_user_id": "4736358500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876382909374124041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凭什么外卖一点好吃的都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1876382909374124041",
+        "created_at": "2025-01-06T21:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T22:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876387564141322411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876387564141322411",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876382909374124041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凭什么外卖一点好吃的都没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876382905943109632"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876382909374124041",
+        "created_at": "2025-01-06T21:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T22:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876382909374124041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLbpkVs2bg",
+              "end": 38,
+              "expanded_url": "https://x.com/wind_dmr/status/1876382909374124041/photo/1",
+              "media_key": "3_1876382905943109632",
+              "start": 15,
+              "url": "https://t.co/JLbpkVs2bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876382909374124041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么啊什么啊什么啊我不要睡了 https://t.co/JLbpkVs2bg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 691,
+          "like_count": 102973,
+          "listed_count": 7,
+          "media_count": 2574,
+          "tweet_count": 21558
+        },
+        "username": "wind_dmr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976486750894886912"
+      ],
+      "media_source_tweet_id": [
+        "1976486764807377347"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1976553826611253266",
+    "created_at": "2025-10-10T07:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T08:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976553826611253266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "15748109",
+          "start": 3,
+          "username": "hdk124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zj3YYKQkWf",
+          "end": 38,
+          "expanded_url": "https://x.com/hdk124/status/1976486764807377347/photo/1",
+          "media_key": "3_1976486750894886912",
+          "start": 15,
+          "url": "https://t.co/zj3YYKQkWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976553826611253266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976486764807377347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hdk124: 記憶 https://t.co/zj3YYKQkWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976486750894886912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23kOmJbEAAPln8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976486750894886912"
+          ],
+          "media_source_tweet_id": [
+            "1976486764807377347"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1976553826611253266",
+        "created_at": "2025-10-10T07:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T08:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976553826611253266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "15748109",
+              "start": 3,
+              "username": "hdk124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zj3YYKQkWf",
+              "end": 38,
+              "expanded_url": "https://x.com/hdk124/status/1976486764807377347/photo/1",
+              "media_key": "3_1976486750894886912",
+              "start": 15,
+              "url": "https://t.co/zj3YYKQkWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976553826611253266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976486764807377347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hdk124: 記憶 https://t.co/zj3YYKQkWf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976486750894886912"
+          ]
+        },
+        "author_id": "15748109",
+        "conversation_id": "1976486764807377347",
+        "created_at": "2025-10-10T03:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976486764807377347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zj3YYKQkWf",
+              "end": 26,
+              "expanded_url": "https://x.com/hdk124/status/1976486764807377347/photo/1",
+              "media_key": "3_1976486750894886912",
+              "start": 3,
+              "url": "https://t.co/zj3YYKQkWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976486764807377347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 18124,
+          "like_count": 1628,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "記憶 https://t.co/zj3YYKQkWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 800,
+          "like_count": 120799,
+          "listed_count": 9,
+          "media_count": 2866,
+          "tweet_count": 23805
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-06T09:52:16.000Z",
+        "description": "猫とゲームを愛する一ノ瀬志希P￤👾💤👾￤😋☃️￤ header: @Koooooh_8 🛒https://t.co/9uzwDuS20D 🤍#ひづきみて 📷Insta▷@hdk124 さぶ▷@hdk220",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "ひづきみて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Koooooh_8"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "hdk124"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "hdk220"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hdk124.booth.pm",
+                "end": 68,
+                "expanded_url": "http://hdk124.booth.pm",
+                "start": 45,
+                "url": "https://t.co/9uzwDuS20D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/412423",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/412423",
+                "start": 0,
+                "url": "https://t.co/sGPzQ9qTZV"
+              }
+            ]
+          }
+        },
+        "id": "15748109",
+        "location": "京都生まれ加工育ち",
+        "name": "ひづき🐈‍⬛🥀VGGC【K-28】",
+        "pinned_tweet_id": "1970825011339600291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933493067245596672/MS30XEgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39273,
+          "following_count": 772,
+          "like_count": 34054,
+          "listed_count": 378,
+          "media_count": 3473,
+          "tweet_count": 80643
+        },
+        "url": "https://t.co/sGPzQ9qTZV",
+        "username": "hdk124",
+        "verified": true
+      }
+    ]
+  }
+}

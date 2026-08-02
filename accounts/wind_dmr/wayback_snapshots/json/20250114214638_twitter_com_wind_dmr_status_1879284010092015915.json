@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1879212015559815168"
+      ],
+      "media_source_tweet_id": [
+        "1879212031586295913"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1879284010092015915",
+    "created_at": "2025-01-14T21:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T22:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879284010092015915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546639149872168960",
+          "start": 3,
+          "username": "visualscat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1NVIgBlF8",
+          "end": 39,
+          "expanded_url": "https://x.com/visualscat/status/1879212031586295913/video/1",
+          "media_key": "7_1879212015559815168",
+          "start": 16,
+          "url": "https://t.co/I1NVIgBlF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879284010092015915",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879212031586295913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @visualscat: https://t.co/I1NVIgBlF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19200,
+        "height": 798,
+        "media_key": "7_1879212015559815168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1879212015559815168/pu/img/p6KFJPV4X-o_OADg.jpg",
+        "public_metrics": {
+          "view_count": 11697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879212015559815168/pu/vid/avc1/320x442/_77I36sbjYsN3Va_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879212015559815168/pu/vid/avc1/480x664/djIhKUMAYhvjWToJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879212015559815168/pu/vid/avc1/576x798/rtVKc7qbwtlcqS7n.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1879212015559815168/pu/pl/hokEucwKKxAo_0t-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879212015559815168"
+          ],
+          "media_source_tweet_id": [
+            "1879212031586295913"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1879284010092015915",
+        "created_at": "2025-01-14T21:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T22:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879284010092015915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546639149872168960",
+              "start": 3,
+              "username": "visualscat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1NVIgBlF8",
+              "end": 39,
+              "expanded_url": "https://x.com/visualscat/status/1879212031586295913/video/1",
+              "media_key": "7_1879212015559815168",
+              "start": 16,
+              "url": "https://t.co/I1NVIgBlF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879284010092015915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879212031586295913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @visualscat: https://t.co/I1NVIgBlF8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879212015559815168"
+          ]
+        },
+        "author_id": "1546639149872168960",
+        "conversation_id": "1879212031586295913",
+        "created_at": "2025-01-14T17:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T18:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879212031586295913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1NVIgBlF8",
+              "end": 23,
+              "expanded_url": "https://x.com/visualscat/status/1879212031586295913/video/1",
+              "media_key": "7_1879212015559815168",
+              "start": 0,
+              "url": "https://t.co/I1NVIgBlF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879212031586295913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 34936,
+          "like_count": 3438,
+          "quote_count": 46,
+          "reply_count": 17,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/I1NVIgBlF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 691,
+          "like_count": 103794,
+          "listed_count": 7,
+          "media_count": 2596,
+          "tweet_count": 21861
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T23:34:53.000Z",
+        "description": "Black Cats are not bad luck. They are elegant loving and delightful companions 🐈‍⬛❤️",
+        "id": "1546639149872168960",
+        "name": "Black cats are not bad luck",
+        "pinned_tweet_id": "1878989671310778516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789834661281079296/EbSdsCSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176919,
+          "following_count": 27,
+          "like_count": 101,
+          "listed_count": 435,
+          "media_count": 4102,
+          "tweet_count": 4116
+        },
+        "username": "visualscat",
+        "verified": true
+      }
+    ]
+  }
+}

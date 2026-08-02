@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826893362869202945"
+      ],
+      "media_source_tweet_id": [
+        "1826893365453226350"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248370550247849988",
+          "name": "Tokusatsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296035544485392384",
+          "name": "Kaiju"
+        }
+      }
+    ],
+    "conversation_id": "1827168185902362933",
+    "created_at": "2024-08-24T02:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T03:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827168185902362933"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "怪獣大決戦",
+          "probability": 0.5864,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "黒猫"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "黒猫同盟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1013236229465239552",
+          "start": 3,
+          "username": "pepekurogoma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p8l8k1hryb",
+          "end": 57,
+          "expanded_url": "https://twitter.com/pepekurogoma/status/1826893365453226350/photo/1",
+          "media_key": "3_1826893362869202945",
+          "start": 34,
+          "url": "https://t.co/p8L8k1Hryb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827168185902362933",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826893365453226350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pepekurogoma: 怪獣大決戦\n#黒猫 #黒猫同盟 https://t.co/p8L8k1Hryb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1826893362869202945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVpt1ZBWcAEpPKt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826893362869202945"
+          ],
+          "media_source_tweet_id": [
+            "1826893365453226350"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "1827168185902362933",
+        "created_at": "2024-08-24T02:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T03:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827168185902362933"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "怪獣大決戦",
+              "probability": 0.5864,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "黒猫"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "黒猫同盟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1013236229465239552",
+              "start": 3,
+              "username": "pepekurogoma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8l8k1hryb",
+              "end": 57,
+              "expanded_url": "https://twitter.com/pepekurogoma/status/1826893365453226350/photo/1",
+              "media_key": "3_1826893362869202945",
+              "start": 34,
+              "url": "https://t.co/p8L8k1Hryb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827168185902362933",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826893365453226350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pepekurogoma: 怪獣大決戦\n#黒猫 #黒猫同盟 https://t.co/p8L8k1Hryb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826893362869202945"
+          ]
+        },
+        "author_id": "1013236229465239552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "1826893365453226350",
+        "created_at": "2024-08-23T08:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826893365453226350"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "怪獣大決戦",
+              "probability": 0.5673,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "黒猫"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "黒猫同盟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8l8k1hryb",
+              "end": 39,
+              "expanded_url": "https://twitter.com/pepekurogoma/status/1826893365453226350/photo/1",
+              "media_key": "3_1826893362869202945",
+              "start": 16,
+              "url": "https://t.co/p8L8k1Hryb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826893365453226350",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 71753,
+          "like_count": 1377,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "怪獣大決戦\n#黒猫 #黒猫同盟 https://t.co/p8L8k1Hryb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 668,
+          "like_count": 93664,
+          "listed_count": 5,
+          "tweet_count": 20133
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-01T01:41:56.000Z",
+        "description": "元野良猫のクロちゃん（2020）とごまちゃん（2021）です。",
+        "id": "1013236229465239552",
+        "name": "ぺぺ太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612826134579941377/C-VlbBwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 523,
+          "like_count": 80113,
+          "listed_count": 15,
+          "tweet_count": 3581
+        },
+        "username": "pepekurogoma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1815950386823586151",
+    "created_at": "2024-07-24T03:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T04:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815950386823586151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realShellWen/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/realShellWen/status/1815874798704287996",
+          "start": 15,
+          "url": "https://t.co/ZZASBDGGjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815950386823586151",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815874798704287996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能给我植入点更好玩的东西 https://t.co/ZZASBDGGjZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1815950386823586151",
+        "created_at": "2024-07-24T03:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T04:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815950386823586151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realShellWen/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/realShellWen/status/1815874798704287996",
+              "start": 15,
+              "url": "https://t.co/ZZASBDGGjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815950386823586151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815874798704287996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能给我植入点更好玩的东西 https://t.co/ZZASBDGGjZ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1204752745481170944",
+        "conversation_id": "1815874798704287996",
+        "created_at": "2024-07-23T22:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T23:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815874798704287996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815874798704287996",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 949,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你正在阅读这段话，你已经昏迷快20年了。\n我们现在正积极寻求新的治疗方案。\n我们尝试在你的环境中植入这段信息，\n但是我们并不清楚这段信息会出现在你梦境的哪里。\n我们真心希望你可以看到。\n\n请.快.醒.来."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 660,
+          "like_count": 90510,
+          "listed_count": 5,
+          "tweet_count": 19658
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-11T13:21:00.000Z",
+        "description": "♂️Lifelong Learner;\n❤️Furry & Coding;\n🌐CHN⭕|ENG⭕|Others❎;\n🐻Sincerity is the ultimate weapon;\n🐘Mastodon: @ShellWen@meow.social;\n👨‍💻GitHub: @ShellWen.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 138,
+                "username": "ShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shellwen.com",
+                "end": 23,
+                "expanded_url": "https://shellwen.com",
+                "start": 0,
+                "url": "https://t.co/fNwbTL2RLO"
+              }
+            ]
+          }
+        },
+        "id": "1204752745481170944",
+        "location": "我是傻逼",
+        "name": "@shellwen@meow.social ⚝",
+        "pinned_tweet_id": "1759914028741345534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738389535766261760/qonUW7vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 2008,
+          "like_count": 49561,
+          "listed_count": 15,
+          "tweet_count": 18021
+        },
+        "url": "https://t.co/fNwbTL2RLO",
+        "username": "realShellWen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798365319733690368"
+      ],
+      "media_source_tweet_id": [
+        "1798365353120354811"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1798679751084916818",
+    "created_at": "2024-06-06T11:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T12:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798679751084916818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438033663761924100",
+          "start": 3,
+          "username": "kuma_zxy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pcEwrAtmZ2",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kuma_zxy/status/1798365353120354811/photo/1",
+          "media_key": "3_1798365319733690368",
+          "start": 14,
+          "url": "https://t.co/pcEwrAtmZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798679751084916818",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798365353120354811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuma_zxy: https://t.co/pcEwrAtmZ2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1798679751084916818].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1798679751084916818",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1798679751084916818"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1798365319733690368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPUTuusbwAAAWUy.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798365319733690368"
+          ]
+        },
+        "author_id": "1438033663761924100",
+        "conversation_id": "1798365353120354811",
+        "created_at": "2024-06-05T14:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T15:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798365353120354811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pcEwrAtmZ2",
+              "end": 23,
+              "expanded_url": "https://twitter.com/kuma_zxy/status/1798365353120354811/photo/1",
+              "media_key": "3_1798365319733690368",
+              "start": 0,
+              "url": "https://t.co/pcEwrAtmZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798365353120354811",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4276,
+          "like_count": 365,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pcEwrAtmZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 618,
+          "like_count": 83779,
+          "listed_count": 5,
+          "tweet_count": 17863
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T06:55:30.000Z",
+        "description": "中文/EN/日本語 | Gaia | GPOSERS | Miqo'te enthusiast | NSFW ⚠️| DM mutuals only",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15068808",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/15068808",
+                "start": 0,
+                "url": "https://t.co/7H2dwkWuRS"
+              }
+            ]
+          }
+        },
+        "id": "1438033663761924100",
+        "location": "Beijing, China",
+        "name": "Kuma",
+        "pinned_tweet_id": "1793317517823541359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797189946937344000/zXDfuYq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12524,
+          "following_count": 268,
+          "like_count": 7195,
+          "listed_count": 76,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/7H2dwkWuRS",
+        "username": "kuma_zxy",
+        "verified": false
+      }
+    ]
+  }
+}

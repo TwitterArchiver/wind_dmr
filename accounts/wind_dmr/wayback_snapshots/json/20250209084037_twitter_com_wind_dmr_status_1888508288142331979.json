@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1888508288142331979",
+    "created_at": "2025-02-09T08:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T09:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888508288142331979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weirddalle/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/weirddalle/status/1888384821229219901",
+          "start": 2,
+          "url": "https://t.co/NtQpXQxKom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888508288142331979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888384821229219901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/NtQpXQxKom"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1888508288142331979",
+        "created_at": "2025-02-09T08:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T09:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888508288142331979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weirddalle/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/weirddalle/status/1888384821229219901",
+              "start": 2,
+              "url": "https://t.co/NtQpXQxKom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888508288142331979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888384821229219901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/NtQpXQxKom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888381093440573440"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1888384821229219901",
+        "created_at": "2025-02-09T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888384821229219901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsIOJhYTAe",
+              "end": 23,
+              "expanded_url": "https://x.com/weirddalle/status/1888384821229219901/photo/1",
+              "media_key": "3_1888381093440573440",
+              "start": 0,
+              "url": "https://t.co/vsIOJhYTAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888384821229219901",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2086,
+          "impression_count": 553883,
+          "like_count": 52870,
+          "quote_count": 57,
+          "reply_count": 53,
+          "retweet_count": 1798
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vsIOJhYTAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 703,
+          "like_count": 108971,
+          "listed_count": 8,
+          "media_count": 2633,
+          "tweet_count": 22455
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "memes and shitposts | dm for promo | https://t.co/GyouBrDs9d | follow @weirddalleslop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 70,
+                "username": "weirddalleslop"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "boxd.it/537D7",
+                "end": 60,
+                "expanded_url": "https://boxd.it/537D7",
+                "start": 37,
+                "url": "https://t.co/GyouBrDs9d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nocont…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/nocontextmeme.bsky.social/post/3l6rs3hdule2q",
+                "start": 0,
+                "url": "https://t.co/hgwLA9jLvm"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1888227046150582570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013682,
+          "following_count": 514,
+          "like_count": 18194,
+          "listed_count": 3381,
+          "media_count": 15841,
+          "tweet_count": 17475
+        },
+        "url": "https://t.co/hgwLA9jLvm",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1877896466515296724",
+    "created_at": "2025-01-11T01:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T02:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877896466515296724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaNpc/status/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/AkaNpc/status/1877600259884417227",
+          "start": 34,
+          "url": "https://t.co/FTeXOYYfhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877896466515296724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877600259884417227",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会我会修马桶修手机修水管修空调修强电弱电修程序bug请不要删掉我 https://t.co/FTeXOYYfhV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1877896466515296724",
+        "created_at": "2025-01-11T01:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T02:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877896466515296724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaNpc/status/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/AkaNpc/status/1877600259884417227",
+              "start": 34,
+              "url": "https://t.co/FTeXOYYfhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877896466515296724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877600259884417227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会我会修马桶修手机修水管修空调修强电弱电修程序bug请不要删掉我 https://t.co/FTeXOYYfhV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1877600259884417227",
+        "created_at": "2025-01-10T06:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T07:15:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877600201621295418",
+          "1877600259884417227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877600259884417227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2995,
+          "like_count": 74,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你删好友的时候\n会删那种搞过暖味的，爱得死去活来的\n但是你不会删那些修马桶、修水管、修手机、修空调的\n\n提供情绪价值的 \n最终还是败给了实用价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 691,
+          "like_count": 103393,
+          "listed_count": 7,
+          "media_count": 2590,
+          "tweet_count": 21736
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真你是唯一的猫我想过养 ｜ 04",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "詩歌舞街",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 31,
+          "like_count": 3313,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

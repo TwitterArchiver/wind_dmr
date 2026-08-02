@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040087064579072000",
+        "3_2040088041294106624"
+      ],
+      "media_source_tweet_id": [
+        "2040092318284632276",
+        "2040092318284632276"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "2040120533841510431",
+    "created_at": "2026-04-03T17:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040120533841510431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1323920856897105920",
+          "start": 3,
+          "username": "SegerYU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3UMcGHl6g",
+          "end": 132,
+          "expanded_url": "https://x.com/SegerYU/status/2040092318284632276/photo/1",
+          "media_key": "3_2040087064579072000",
+          "start": 109,
+          "url": "https://t.co/L3UMcGHl6g"
+        },
+        {
+          "display_url": "pic.x.com/L3UMcGHl6g",
+          "end": 132,
+          "expanded_url": "https://x.com/SegerYU/status/2040092318284632276/photo/1",
+          "media_key": "3_2040088041294106624",
+          "start": 109,
+          "url": "https://t.co/L3UMcGHl6g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040120533841510431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040092318284632276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SegerYU: 可能是第一张真彩色的微光地球全圆盘图。\n不过从 EXIF 看，不是相机直出，经过了 Adobe LR 的一些后期调整。\n目前各家 GEO 气象卫星成像仪的可见光通道灵敏度是不够拍出这种图的。 https://t.co/L3UMcGHl6g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_2040087064579072000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_YYFsa4AAA45K.png",
+        "width": 480
+      },
+      {
+        "height": 1747,
+        "media_key": "3_2040088041294106624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_ZQ8PbkAAleFq.jpg",
+        "width": 2621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040087064579072000",
+            "3_2040088041294106624"
+          ],
+          "media_source_tweet_id": [
+            "2040092318284632276",
+            "2040092318284632276"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2040120533841510431",
+        "created_at": "2026-04-03T17:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040120533841510431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1323920856897105920",
+              "start": 3,
+              "username": "SegerYU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3UMcGHl6g",
+              "end": 132,
+              "expanded_url": "https://x.com/SegerYU/status/2040092318284632276/photo/1",
+              "media_key": "3_2040087064579072000",
+              "start": 109,
+              "url": "https://t.co/L3UMcGHl6g"
+            },
+            {
+              "display_url": "pic.x.com/L3UMcGHl6g",
+              "end": 132,
+              "expanded_url": "https://x.com/SegerYU/status/2040092318284632276/photo/1",
+              "media_key": "3_2040088041294106624",
+              "start": 109,
+              "url": "https://t.co/L3UMcGHl6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040120533841510431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040092318284632276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SegerYU: 可能是第一张真彩色的微光地球全圆盘图。\n不过从 EXIF 看，不是相机直出，经过了 Adobe LR 的一些后期调整。\n目前各家 GEO 气象卫星成像仪的可见光通道灵敏度是不够拍出这种图的。 https://t.co/L3UMcGHl6g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040087064579072000",
+            "3_2040088041294106624"
+          ]
+        },
+        "author_id": "1323920856897105920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "2040092318284632276",
+        "created_at": "2026-04-03T15:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040092318284632276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3UMcGHl6g",
+              "end": 119,
+              "expanded_url": "https://x.com/SegerYU/status/2040092318284632276/photo/1",
+              "media_key": "3_2040087064579072000",
+              "start": 96,
+              "url": "https://t.co/L3UMcGHl6g"
+            },
+            {
+              "display_url": "pic.x.com/L3UMcGHl6g",
+              "end": 119,
+              "expanded_url": "https://x.com/SegerYU/status/2040092318284632276/photo/1",
+              "media_key": "3_2040088041294106624",
+              "start": 96,
+              "url": "https://t.co/L3UMcGHl6g"
+            },
+            {
+              "display_url": "x.com/NASAEarth/stat…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/NASAEarth/status/2040063993188929837",
+              "start": 120,
+              "url": "https://t.co/QCIt7sRSUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040092318284632276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8821,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040063993188929837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能是第一张真彩色的微光地球全圆盘图。\n不过从 EXIF 看，不是相机直出，经过了 Adobe LR 的一些后期调整。\n目前各家 GEO 气象卫星成像仪的可见光通道灵敏度是不够拍出这种图的。 https://t.co/L3UMcGHl6g https://t.co/QCIt7sRSUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "𝖘𝖍𝖎𝖒𝖔𝖐𝖆𝖟𝖊|しもかぜ | ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 849,
+          "like_count": 126748,
+          "listed_count": 8,
+          "media_count": 2933,
+          "tweet_count": 24513
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T09:31:53.000Z",
+        "description": "",
+        "id": "1323920856897105920",
+        "location": "Moon",
+        "name": "SegerYU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326104289622700035/Da5nfRnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7774,
+          "following_count": 2548,
+          "like_count": 52898,
+          "listed_count": 129,
+          "media_count": 5301,
+          "tweet_count": 9863
+        },
+        "username": "SegerYU",
+        "verified": false
+      }
+    ]
+  }
+}

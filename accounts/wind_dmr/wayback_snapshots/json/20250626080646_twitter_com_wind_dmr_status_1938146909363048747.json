@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1938146909363048747",
+    "created_at": "2025-06-26T08:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T09:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938146909363048747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "878794367103676416",
+          "start": 3,
+          "username": "_NekoKage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938146909363048747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938006225230434788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_NekoKage: 一只成年trans🐈\n👩‍❤️‍👩事女同 可爱的trans或者真娘快来玩\n🛏日常摆烂 啥都不会\n🐱高P/涩图定期不更新\n🦿假肢girl\n🍰ed\n🎞胶片苦手 刚刚玩到ecn2冲洗\n🎸练琴在摆烂（\n🎧Hu-Fi退烧养老\n🛵哈雷入手中\n⌚️入门修表工\n📷…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938146909363048747].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938146909363048747",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938146909363048747"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938006212089614336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUuYcQaEAAkRvI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938006212085485569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUuYcPbEAE8F9f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1938006212035153921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUuYcDbEAE_hjY.jpg",
+        "width": 1920
+      },
+      {
+        "height": 330,
+        "media_key": "3_1938006212047749120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUuYcGbQAAniJP.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938006212089614336",
+            "3_1938006212085485569",
+            "3_1938006212035153921",
+            "3_1938006212047749120"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1938006225230434788",
+        "created_at": "2025-06-25T22:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T23:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938006225230434788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzstMEmsQV",
+              "end": 194,
+              "expanded_url": "https://x.com/_NekoKage/status/1938006225230434788/photo/1",
+              "media_key": "3_1938006212089614336",
+              "start": 171,
+              "url": "https://t.co/BzstMEmsQV"
+            },
+            {
+              "display_url": "pic.x.com/BzstMEmsQV",
+              "end": 194,
+              "expanded_url": "https://x.com/_NekoKage/status/1938006225230434788/photo/1",
+              "media_key": "3_1938006212085485569",
+              "start": 171,
+              "url": "https://t.co/BzstMEmsQV"
+            },
+            {
+              "display_url": "pic.x.com/BzstMEmsQV",
+              "end": 194,
+              "expanded_url": "https://x.com/_NekoKage/status/1938006225230434788/photo/1",
+              "media_key": "3_1938006212035153921",
+              "start": 171,
+              "url": "https://t.co/BzstMEmsQV"
+            },
+            {
+              "display_url": "pic.x.com/BzstMEmsQV",
+              "end": 194,
+              "expanded_url": "https://x.com/_NekoKage/status/1938006225230434788/photo/1",
+              "media_key": "3_1938006212047749120",
+              "start": 171,
+              "url": "https://t.co/BzstMEmsQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938006225230434788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3269,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一只成年trans🐈\n👩‍❤️‍👩事女同 可爱的trans或者真娘快来玩\n🛏日常摆烂 啥都不会\n🐱高P/涩图定期不更新\n🦿假肢girl\n🍰ed\n🎞胶片苦手 刚刚玩到ecn2冲洗\n🎸练琴在摆烂（\n🎧Hu-Fi退烧养老\n🛵哈雷入手中\n⌚️入门修表工\n📷相机维修服务持续接单中！！\n   （有什么可以嫖的相机给我玩x\n🍫喜欢吃巧克力啊\n🥺持续想似 https://t.co/BzstMEmsQV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 712,
+          "like_count": 116238,
+          "listed_count": 8,
+          "media_count": 2839,
+          "tweet_count": 23468
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🐈#RainWorld⚠️里推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 107,
+                "tag": "RainWorld"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "_kagenone"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "🏳️‍⚧️影猫NekoKage🍥𝕏",
+        "pinned_tweet_id": "1938006225230434788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7654,
+          "following_count": 4727,
+          "like_count": 12815,
+          "listed_count": 20,
+          "media_count": 2266,
+          "tweet_count": 16090
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      }
+    ]
+  }
+}

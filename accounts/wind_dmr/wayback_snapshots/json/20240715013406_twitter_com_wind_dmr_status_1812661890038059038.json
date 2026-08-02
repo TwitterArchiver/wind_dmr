@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1812661890038059038",
+    "created_at": "2024-07-15T01:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T02:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812661890038059038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Meer19002/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Meer19002/status/1812631509544644644",
+          "start": 12,
+          "url": "https://t.co/57h9nTHWXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812661890038059038",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812631509544644644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没意思，什么都没意思。 https://t.co/57h9nTHWXj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1812661890038059038",
+        "created_at": "2024-07-15T01:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T02:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812661890038059038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meer19002/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Meer19002/status/1812631509544644644",
+              "start": 12,
+              "url": "https://t.co/57h9nTHWXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812661890038059038",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812631509544644644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没意思，什么都没意思。 https://t.co/57h9nTHWXj"
+      },
+      {
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1812631509544644644",
+        "created_at": "2024-07-14T23:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T00:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812631509544644644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linsolyy/statu…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/linsolyy/status/1812028401441735062",
+              "start": 45,
+              "url": "https://t.co/EPqW3rvnqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812631509544644644",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812028401441735062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群里有过一个美貌的伪娘，真的很漂亮，而且伪声很完美，结果还是死了。没意思，什么都没意思。 https://t.co/EPqW3rvnqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 638,
+          "like_count": 88513,
+          "listed_count": 5,
+          "tweet_count": 19356
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "想死但坚持活着，ftx泛性恋，精神分裂，焦虑抑郁neet。阿斯伯格。废话日常推一个。💊右佐依赖，漫长戒断。正在开网店，不知道能不能活下去。理想是写网文和做唱见。xp是二三四爱。",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1798672796392083564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801188880898813952/Ck5ti7p9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 645,
+          "like_count": 8363,
+          "listed_count": 2,
+          "tweet_count": 8530
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

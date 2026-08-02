@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051231826505814016"
+      ],
+      "media_source_tweet_id": [
+        "2051231847770952078"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2051563332579315823",
+    "created_at": "2026-05-05T07:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T08:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051563332579315823"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837135218450518020",
+          "start": 3,
+          "username": "yurihaji_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usPI0bnWXz",
+          "end": 46,
+          "expanded_url": "https://x.com/yurihaji_info/status/2051231847770952078/photo/1",
+          "media_key": "3_2051231826505814016",
+          "start": 23,
+          "url": "https://t.co/usPI0bnWXz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051563332579315823",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 496
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051231847770952078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yurihaji_info: #百合 https://t.co/usPI0bnWXz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2051231826505814016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdwenLa0AAds7M.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051231826505814016"
+          ],
+          "media_source_tweet_id": [
+            "2051231847770952078"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2051563332579315823",
+        "created_at": "2026-05-05T07:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051563332579315823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837135218450518020",
+              "start": 3,
+              "username": "yurihaji_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usPI0bnWXz",
+              "end": 46,
+              "expanded_url": "https://x.com/yurihaji_info/status/2051231847770952078/photo/1",
+              "media_key": "3_2051231826505814016",
+              "start": 23,
+              "url": "https://t.co/usPI0bnWXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051563332579315823",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051231847770952078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yurihaji_info: #百合 https://t.co/usPI0bnWXz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051231826505814016"
+          ]
+        },
+        "author_id": "1837135218450518020",
+        "conversation_id": "2051231847770952078",
+        "created_at": "2026-05-04T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051231847770952078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usPI0bnWXz",
+              "end": 27,
+              "expanded_url": "https://x.com/yurihaji_info/status/2051231847770952078/photo/1",
+              "media_key": "3_2051231826505814016",
+              "start": 4,
+              "url": "https://t.co/usPI0bnWXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051231847770952078",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1632,
+          "impression_count": 130064,
+          "like_count": 11654,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 496
+        },
+        "reply_settings": "everyone",
+        "text": "#百合 https://t.co/usPI0bnWXz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 871,
+          "like_count": 127247,
+          "listed_count": 10,
+          "media_count": 2963,
+          "tweet_count": 24741
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T14:22:34.000Z",
+        "description": "原作：デス山ハナ子（@Dsym875） 漫画：みもと（@mimoto225）｜ カドコミにて連載中！｜#百合はじ｜お便りはこちらへ💌〒102-8177 東京都千代田区九段北1-13-12 カドコミ編集部 デス山ハナ子先生 みもと先生宛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "百合はじ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "Dsym875"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "mimoto225"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "comic-walker.com/detail/KC_0056…",
+                "end": 23,
+                "expanded_url": "https://comic-walker.com/detail/KC_005678_S?episodeType=first",
+                "start": 0,
+                "url": "https://t.co/QV8OqCF1cG"
+              }
+            ]
+          }
+        },
+        "id": "1837135218450518020",
+        "location": "KADOKAWA　カドコミ",
+        "name": "百合のはじまりは奴隷から公式◇コミックス第2巻発売中◇",
+        "pinned_tweet_id": "1975483574515343839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837394948964175872/hurZTsfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25311,
+          "following_count": 3,
+          "like_count": 585,
+          "listed_count": 72,
+          "media_count": 516,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/QV8OqCF1cG",
+        "username": "yurihaji_info",
+        "verified": false
+      }
+    ]
+  }
+}

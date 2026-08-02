@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919744110510145539"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "1919551786857165158",
+    "created_at": "2025-05-06T13:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T14:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919744113840447671"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "WeChat",
+          "probability": 0.5642,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1306564925972652033",
+          "start": 0,
+          "username": "onelessx"
+        },
+        {
+          "end": 19,
+          "id": "1027764083565711360",
+          "start": 10,
+          "username": "__Inty__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9HbgviEE5I",
+          "end": 54,
+          "expanded_url": "https://x.com/wind_dmr/status/1919744113840447671/photo/1",
+          "media_key": "3_1919744110510145539",
+          "start": 31,
+          "url": "https://t.co/9HbgviEE5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919744113840447671",
+    "in_reply_to_user_id": "1306564925972652033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919630248099881187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onelessx @__Inty__ WeChat Out https://t.co/9HbgviEE5I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2964,
+        "media_key": "3_1919744110510145539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRNGOabAAM8WEN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919744110510145539"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "1919551786857165158",
+        "created_at": "2025-05-06T13:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919744113840447671"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "WeChat",
+              "probability": 0.5642,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1306564925972652033",
+              "start": 0,
+              "username": "onelessx"
+            },
+            {
+              "end": 19,
+              "id": "1027764083565711360",
+              "start": 10,
+              "username": "__Inty__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HbgviEE5I",
+              "end": 54,
+              "expanded_url": "https://x.com/wind_dmr/status/1919744113840447671/photo/1",
+              "media_key": "3_1919744110510145539",
+              "start": 31,
+              "url": "https://t.co/9HbgviEE5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919744113840447671",
+        "in_reply_to_user_id": "1306564925972652033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919630248099881187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onelessx @__Inty__ WeChat Out https://t.co/9HbgviEE5I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306564925972652033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027295991",
+              "name": "Skype"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1919551786857165158",
+        "created_at": "2025-05-06T05:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919630248099881187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919630248099881187",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2829,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919551786857165158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ 有什麼可以替代Skype的虛擬網路電話嗎？\n* 可以跨國撥打呼叫\n* 可以直接撥打固定電話\n* 撥打手機行動電話時無需對方有同樣的虛擬網路電話帳號\n* 花費和Skype差不多，充值即可使用，無需每個月都必須有最低花費的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 705,
+          "like_count": 114602,
+          "listed_count": 8,
+          "media_count": 2793,
+          "tweet_count": 23348
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-17T12:09:19.000Z",
+        "description": "Medical doctor + pharm R&D 🇹🇼 🇺🇦 🇮🇱 習慣性對醫學虛假信息闢謠 對整體中國人是堅定的支黑，但具體的中國人取決於你的表現。",
+        "id": "1306564925972652033",
+        "name": "X filer",
+        "pinned_tweet_id": "1746435359120982459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1306569110692610049/byNPyhIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 4200,
+          "like_count": 36362,
+          "listed_count": 14,
+          "media_count": 1204,
+          "tweet_count": 17661
+        },
+        "username": "onelessx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "用中文为你分享世界热点新闻 电报主页 https://t.co/evscxyg2xG YouTube主页 https://t.co/QWKpvf4NCB 电报聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/intynews",
+                "end": 42,
+                "expanded_url": "http://t.me/intynews",
+                "start": 19,
+                "url": "https://t.co/evscxyg2xG"
+              },
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 76,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 53,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 106,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 83,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "头条热点",
+        "pinned_tweet_id": "1909424048288784389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699502,
+          "following_count": 0,
+          "like_count": 1413,
+          "listed_count": 2043,
+          "media_count": 30562,
+          "tweet_count": 88172
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

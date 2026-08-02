@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1962064048750821582",
+    "created_at": "2025-08-31T09:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T10:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962088755076247873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554005819649568768",
+          "start": 0,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962088755076247873",
+    "in_reply_to_user_id": "1554005819649568768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962064048750821582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingattackqwq 偷偷听虽然已经毕业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1962064048750821582",
+        "created_at": "2025-08-31T09:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962088755076247873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962088755076247873",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962064048750821582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 偷偷听虽然已经毕业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554005819649568768",
+        "conversation_id": "1962064048750821582",
+        "created_at": "2025-08-31T08:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T09:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962064048750821582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wingattackqwq/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/wingattackqwq/status/1962063235345154138",
+              "start": 56,
+              "url": "https://t.co/2LJKULVpgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962064048750821582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962063235345154138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "里面涉及到一些大学的底层逻辑\n其实非跨女听我这个也能得到一份牛逼简历\n其实我不太愿意讲，因为怕大家都成邪修了😇 https://t.co/2LJKULVpgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 756,
+          "like_count": 119092,
+          "listed_count": 9,
+          "media_count": 2850,
+          "tweet_count": 23604
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "我很美，你爱怎样怎样👀未术（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/cureflora",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/cureflora",
+                "start": 0,
+                "url": "https://t.co/QVGwL1EQKt"
+              }
+            ]
+          }
+        },
+        "id": "1554005819649568768",
+        "location": "枕阳",
+        "name": "小兔姬没有小肚叽🎀（唯一推特账号）",
+        "pinned_tweet_id": "1848149300095955322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566996868976640/69DYcj6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10456,
+          "following_count": 3649,
+          "like_count": 3204,
+          "listed_count": 12,
+          "media_count": 88,
+          "tweet_count": 2777
+        },
+        "url": "https://t.co/QVGwL1EQKt",
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

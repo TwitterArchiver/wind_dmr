@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1817395545922764848",
+    "created_at": "2024-07-28T03:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T04:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817398141752401964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1087611517590106112",
+          "start": 0,
+          "username": "Ango8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817398141752401964",
+    "in_reply_to_user_id": "1087611517590106112",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817395545922764848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ango8964 马斯克的蓝标等于其他平台的广告诈骗标"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1817395545922764848].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1817395545922764848",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1817395545922764848"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1817395545922764848",
+        "created_at": "2024-07-28T03:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T04:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817398141752401964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1087611517590106112",
+              "start": 0,
+              "username": "Ango8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817398141752401964",
+        "in_reply_to_user_id": "1087611517590106112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817395545922764848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ango8964 马斯克的蓝标等于其他平台的广告诈骗标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 663,
+          "like_count": 91467,
+          "listed_count": 5,
+          "tweet_count": 19794
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T07:22:47.000Z",
+        "description": "“ //互/ /联/ /网/ /恐/ /怖/ /幽/ /灵/ /实/ /录/// .avi”",
+        "id": "1087611517590106112",
+        "name": "Angō Hiroshi🏳️‍🌈🏳️‍⚧️🐱",
+        "pinned_tweet_id": "1812141916735058354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506594347277766662/bi2EEGUA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 262,
+          "like_count": 9856,
+          "listed_count": 5,
+          "tweet_count": 6495
+        },
+        "username": "Ango8964",
+        "verified": false
+      }
+    ]
+  }
+}

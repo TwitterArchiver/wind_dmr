@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2050251145684083003",
+    "created_at": "2026-05-01T23:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050362758865264854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983368046686416901",
+          "start": 0,
+          "username": "LuanjiaoBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050362758865264854",
+    "in_reply_to_user_id": "1983368046686416901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050251145684083003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuanjiaoBot 贴的纹的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050251141703757824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHP0jPmXcAAFdi1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2050251145684083003",
+        "created_at": "2026-05-01T23:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050362758865264854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983368046686416901",
+              "start": 0,
+              "username": "LuanjiaoBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050362758865264854",
+        "in_reply_to_user_id": "1983368046686416901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050251145684083003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuanjiaoBot 贴的纹的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050251141703757824"
+          ]
+        },
+        "author_id": "1983368046686416901",
+        "conversation_id": "2050251145684083003",
+        "created_at": "2026-05-01T16:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050251145684083003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgC70CTArh",
+              "end": 25,
+              "expanded_url": "https://x.com/LuanjiaoBot/status/2050251145684083003/photo/1",
+              "media_key": "3_2050251141703757824",
+              "start": 2,
+              "url": "https://t.co/IgC70CTArh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050251145684083003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶 https://t.co/IgC70CTArh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 846,
+          "like_count": 127040,
+          "listed_count": 8,
+          "media_count": 2949,
+          "tweet_count": 24631
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:59:36.000Z",
+        "description": "给我能量",
+        "id": "1983368046686416901",
+        "location": "Columbus, OH",
+        "name": "开心小花？？？",
+        "pinned_tweet_id": "2008733131541787074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042837030795673600/6xxRVn6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 289,
+          "like_count": 17386,
+          "listed_count": 5,
+          "media_count": 213,
+          "tweet_count": 1141
+        },
+        "username": "LuanjiaoBot",
+        "verified": false
+      }
+    ]
+  }
+}

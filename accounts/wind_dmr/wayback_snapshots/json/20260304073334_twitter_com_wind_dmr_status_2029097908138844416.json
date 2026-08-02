@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2029085567020044618",
+    "created_at": "2026-03-04T07:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029097908138844416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029097908138844416",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029085567020044618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 没看出男 很pass……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3546,
+        "media_key": "3_2029085262412906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjCS60aAAAUYQ1.jpg",
+        "width": 2660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2029085567020044618",
+        "created_at": "2026-03-04T07:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029097908138844416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029097908138844416",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029085567020044618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 没看出男 很pass……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029085262412906496"
+          ]
+        },
+        "author_id": "1618909954156679168",
+        "conversation_id": "2029085567020044618",
+        "created_at": "2026-03-04T06:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029085567020044618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iF49NqQqfT",
+              "end": 79,
+              "expanded_url": "https://x.com/afdtb/status/2029085567020044618/photo/1",
+              "media_key": "3_2029085262412906496",
+              "start": 56,
+              "url": "https://t.co/iF49NqQqfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029085567020044618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 407,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然穿得很男，但我顶着这张脸用250hz声音说话衣服上还喷了女香，服务员还对我一口一个先生，喊得我肠应激犯了💩 https://t.co/iF49NqQqfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 842,
+          "like_count": 125502,
+          "listed_count": 8,
+          "media_count": 2915,
+          "tweet_count": 24279
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "MtF/INTP/退役OIer/舞萌W2/m/健全逼/日子人/颈椎疼/四肢末端冰凉/心肺能力差/慢性鼻炎/胃胀气\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 941,
+          "like_count": 12504,
+          "listed_count": 14,
+          "media_count": 1507,
+          "tweet_count": 8066
+        },
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

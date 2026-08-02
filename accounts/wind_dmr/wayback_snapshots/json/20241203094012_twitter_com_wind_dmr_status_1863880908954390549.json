@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1863880908954390549",
+    "created_at": "2024-12-03T09:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T10:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863880908954390549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1385991185689284608",
+          "start": 3,
+          "username": "Joshua78261443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863880908954390549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863798643440103780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joshua78261443: 大家尽量还是不要旷课吧，上次我室友就是早上起不来旷了一节早八，然后点名被导员发现了，当天下午省里领导武警特种兵全部来了，晚上就枪毙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1863880908954390549",
+        "created_at": "2024-12-03T09:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T10:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863880908954390549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1385991185689284608",
+              "start": 3,
+              "username": "Joshua78261443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863880908954390549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863798643440103780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joshua78261443: 大家尽量还是不要旷课吧，上次我室友就是早上起不来旷了一节早八，然后点名被导员发现了，当天下午省里领导武警特种兵全部来了，晚上就枪毙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385991185689284608",
+        "conversation_id": "1863798643440103780",
+        "created_at": "2024-12-03T04:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T05:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863798643440103780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863798643440103780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4326,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大家尽量还是不要旷课吧，上次我室友就是早上起不来旷了一节早八，然后点名被导员发现了，当天下午省里领导武警特种兵全部来了，晚上就枪毙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 675,
+          "like_count": 99718,
+          "listed_count": 6,
+          "media_count": 2526,
+          "tweet_count": 21038
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:17:18.000Z",
+        "description": "",
+        "id": "1385991185689284608",
+        "name": "Joshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846379746789384192/5pPPLKJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 975,
+          "like_count": 34294,
+          "listed_count": 24,
+          "media_count": 2555,
+          "tweet_count": 16798
+        },
+        "username": "Joshua78261443",
+        "verified": false
+      }
+    ]
+  }
+}

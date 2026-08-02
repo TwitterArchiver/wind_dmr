@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1890054142355546396",
+    "created_at": "2025-02-13T15:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T16:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890062342291132842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836952163706359808",
+          "start": 0,
+          "username": "ying_rumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890062342291132842",
+    "in_reply_to_user_id": "1836952163706359808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890054142355546396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ying_rumu 不背单词就咬你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1890054142355546396",
+        "created_at": "2025-02-13T15:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890062342291132842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836952163706359808",
+              "start": 0,
+              "username": "ying_rumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890062342291132842",
+        "in_reply_to_user_id": "1836952163706359808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890054142355546396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ying_rumu 不背单词就咬你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836952163706359808",
+        "conversation_id": "1890054142355546396",
+        "created_at": "2025-02-13T15:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890054142355546396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890054142355546396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最难的事情就是迈出第一步\n有没有人能拿着枪指着我的脑袋威胁我再不背单词就杀了我\n不能真杀\n我已经下决心背单词下了一个星期了\n现在还躺在床上玩手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 704,
+          "like_count": 109659,
+          "listed_count": 8,
+          "media_count": 2649,
+          "tweet_count": 22535
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T02:15:10.000Z",
+        "description": "每周都要种树的人，名为周树人",
+        "id": "1836952163706359808",
+        "location": "布基纳法索",
+        "name": "ginkgo-biloba",
+        "pinned_tweet_id": "1882030270595178958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836954337320521729/4ot6_FNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 110,
+          "like_count": 5532,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2896
+        },
+        "username": "ying_rumu",
+        "verified": false
+      }
+    ]
+  }
+}

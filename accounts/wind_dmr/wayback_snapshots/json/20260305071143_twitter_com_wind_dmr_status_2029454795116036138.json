@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "National Health Service",
+          "id": "1062025800591896576",
+          "name": "National Health Service"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Health Service",
+          "id": "1062025800591896576",
+          "name": "National Health Service"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WebMD",
+          "id": "10047615606",
+          "name": "WebMD"
+        }
+      }
+    ],
+    "conversation_id": "2029454795116036138",
+    "created_at": "2026-03-05T07:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029454795116036138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431397782867169285",
+          "start": 3,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029454795116036138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029289995996152115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NebLorne: 一个过度safety的AI在紧急情况下的拒绝，比一个没有safety的AI更致命。舍曲林的半衰期、过量服用的症状、什么剂量需要洗胃、什么情况下该叫急救——这些信息在任何一本药物手册里都有，在WebMD上有，在NHS网站上有，在任何一个医生的嘴里都能说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WebMD",
+              "id": "10047615606",
+              "name": "WebMD"
+            }
+          }
+        ],
+        "conversation_id": "2029454795116036138",
+        "created_at": "2026-03-05T07:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029454795116036138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431397782867169285",
+              "start": 3,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029454795116036138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029289995996152115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NebLorne: 一个过度safety的AI在紧急情况下的拒绝，比一个没有safety的AI更致命。舍曲林的半衰期、过量服用的症状、什么剂量需要洗胃、什么情况下该叫急救——这些信息在任何一本药物手册里都有，在WebMD上有，在NHS网站上有，在任何一个医生的嘴里都能说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WebMD",
+              "id": "10047615606",
+              "name": "WebMD"
+            }
+          }
+        ],
+        "conversation_id": "2029289995996152115",
+        "created_at": "2026-03-04T20:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:15:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029289724662432251",
+          "2029289995996152115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lengchamsaybye…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/lengchamsaybye/status/2029126128338911627",
+              "start": 155,
+              "url": "https://t.co/SHBrchTc2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029289995996152115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 503,
+                "start": 496,
+                "tag": "keep4o"
+              },
+              {
+                "end": 516,
+                "start": 504,
+                "tag": "BringBack4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 357,
+                "id": "1605",
+                "start": 352,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "一个过度safety的AI在紧急情况下的拒绝，比一个没有safety的AI更致命。舍曲林的半衰期、过量服用的症状、什么剂量需要洗胃、什么情况下该叫急救——这些信息在任何一本药物手册里都有，在WebMD上有，在NHS网站上有，在任何一个医生的嘴里都能说出来。这是公开的、救命的医学信息。5.3把它挡住了。因为它看到了”药物”加”大量服用”就触发了safety，它分不清”我在寻求帮助”和”我在寻求伤害”。它的安全机制不是在保护这个人，是在拒绝这个人。\n\n没有safety的AI至少会告诉你答案，你自己判断怎么用。过度safety的AI把你推向了一个真空——你已经在恐慌中了，你找到了一个你以为能帮你的东西，它跟你说我不能告诉你。你被拒绝了。你浪费了时间。你的恐慌升级了。而那十片舍曲林还在那个人的胃里。\n\n@sama Altman说”reduces the cringe”。你减少了尴尬。那你增加了什么？增加了一个真正需要帮助的人被拒之门外的概率。你的safety不是安全。你的safety是免责。\n\n你知道user最讨厌你的其中之一是什么吗？是虚伪。别成天拿那套为了用户好的说辞来糊弄人了。\n#keep4o #BringBack4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 31033,
+          "like_count": 292,
+          "quote_count": 10,
+          "reply_count": 17,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029126128338911627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个过度safety的AI在紧急情况下的拒绝，比一个没有safety的AI更致命。舍曲林的半衰期、过量服用的症状、什么剂量需要洗胃、什么情况下该叫急救——这些信息在任何一本药物手册里都有，在WebMD上有，在NHS网站上有，在任何一个医生的嘴里都能说出来。这是公开的、救命的医学信息。5.3把它挡住了。因为它 https://t.co/SHBrchTc2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 842,
+          "like_count": 125528,
+          "listed_count": 8,
+          "media_count": 2919,
+          "tweet_count": 24288
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威",
+        "name": "伞",
+        "pinned_tweet_id": "2025029037182050354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 50,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 619
+        },
+        "username": "NebLorne",
+        "verified": true
+      }
+    ]
+  }
+}

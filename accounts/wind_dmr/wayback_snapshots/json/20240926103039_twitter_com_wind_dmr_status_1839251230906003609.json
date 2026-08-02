@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1839231950806262186",
+    "created_at": "2024-09-26T10:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T11:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839251230906003609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1471310582070464512",
+          "start": 0,
+          "username": "LyleGpt"
+        },
+        {
+          "end": 20,
+          "id": "1583502450710937600",
+          "start": 9,
+          "username": "Allenqqqqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839251230906003609",
+    "in_reply_to_user_id": "1471310582070464512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839250097814773809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyleGpt @Allenqqqqc 是时候发明一个ai代码编译器了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839250097814773809].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839250097814773809",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839250097814773809"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1839231950806262186",
+        "created_at": "2024-09-26T10:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T11:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839251230906003609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1471310582070464512",
+              "start": 0,
+              "username": "LyleGpt"
+            },
+            {
+              "end": 20,
+              "id": "1583502450710937600",
+              "start": 9,
+              "username": "Allenqqqqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839251230906003609",
+        "in_reply_to_user_id": "1471310582070464512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839250097814773809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyleGpt @Allenqqqqc 是时候发明一个ai代码编译器了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 670,
+          "like_count": 95806,
+          "listed_count": 5,
+          "tweet_count": 20425
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T02:46:07.000Z",
+        "description": "e/acc",
+        "id": "1471310582070464512",
+        "name": "ℓуℓє",
+        "pinned_tweet_id": "1803793375713505742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798957356149248000/M4JacVRr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6392,
+          "following_count": 246,
+          "like_count": 19016,
+          "listed_count": 33,
+          "tweet_count": 7167
+        },
+        "username": "LyleGpt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:56:35.000Z",
+        "description": "ftx🏳️‍⚧️/INTP-A/碎碎碎碎念                                                           ⚠️⚠️⚠️【❌该账号已被『雨』@Rician0911827控制，请注意辨别】⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "Rician0911827"
+              }
+            ]
+          }
+        },
+        "id": "1583502450710937600",
+        "name": "K̸̸r̸̸a̸̸w̸̸a̸̸l̸̸l̸🎶",
+        "pinned_tweet_id": "1822970673431805974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832721274587734016/sr_PremZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 689,
+          "like_count": 60822,
+          "listed_count": 9,
+          "tweet_count": 16809
+        },
+        "username": "Allenqqqqc",
+        "verified": false
+      }
+    ]
+  }
+}

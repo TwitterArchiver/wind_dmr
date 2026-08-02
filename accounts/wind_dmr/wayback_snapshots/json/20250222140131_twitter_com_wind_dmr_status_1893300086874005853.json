@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1893297245774086629",
+    "created_at": "2025-02-22T14:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T15:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893300086874005853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "852583758716743680",
+          "start": 0,
+          "username": "Xinlongzhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893300086874005853",
+    "in_reply_to_user_id": "852583758716743680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893299460836319477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinlongzhai 感觉好脏 甚至不如直接水冲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1893297245774086629",
+        "created_at": "2025-02-22T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893300086874005853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "852583758716743680",
+              "start": 0,
+              "username": "Xinlongzhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893300086874005853",
+        "in_reply_to_user_id": "852583758716743680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893299460836319477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinlongzhai 感觉好脏 甚至不如直接水冲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852583758716743680",
+        "conversation_id": "1893297245774086629",
+        "created_at": "2025-02-22T13:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893299460836319477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893299460836319477",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893297777565655128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 他爹的意思是应该先把洗洁精跟水混合成水溶液，然后把碗筷放在这个水溶液里洗，而不是直接把洗洁精涂抹在碗上。据他爹说这样洗可以节省洗洁精"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 705,
+          "like_count": 110737,
+          "listed_count": 8,
+          "media_count": 2676,
+          "tweet_count": 22712
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-13T18:06:23.000Z",
+        "description": "",
+        "id": "852583758716743680",
+        "name": "XinlongZhai",
+        "pinned_tweet_id": "1698014567249629195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1358612885996412934/-dPuI8ct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 302,
+          "like_count": 4845,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 11688
+        },
+        "username": "Xinlongzhai",
+        "verified": false
+      }
+    ]
+  }
+}

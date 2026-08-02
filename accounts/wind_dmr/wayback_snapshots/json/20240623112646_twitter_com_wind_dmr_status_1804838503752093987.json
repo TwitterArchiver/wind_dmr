@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1804837695417421890",
+    "created_at": "2024-06-23T11:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T12:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804838503752093987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "Goldogburger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804838503752093987",
+    "in_reply_to_user_id": "4736358500",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804838386550878712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldogburger 哦对不起 我现在没钱那没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1804837695417421890",
+        "created_at": "2024-06-23T11:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804838503752093987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "Goldogburger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804838503752093987",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804838386550878712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldogburger 哦对不起 我现在没钱那没事了"
+      },
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1804837695417421890",
+        "created_at": "2024-06-23T11:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804838386550878712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "Goldogburger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804838386550878712",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804837695417421890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldogburger 那不就是现在的我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 619,
+          "like_count": 84840,
+          "listed_count": 5,
+          "tweet_count": 18452
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "INFP-T｜100%浓缩金毛小狗汁🐶｜06丑肥残｜严重体重身材自卑｜SRS Preparing ｜梦想是自力更生有个小家(｡ì _ í｡)｜sub 渴望有个爱自己的主人",
+        "id": "1717903248764317696",
+        "location": "✨",
+        "name": "金狗豪门堡🍔🐶",
+        "pinned_tweet_id": "1776317554774122638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802265427550371841/1xrDYNZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 262,
+          "like_count": 1396,
+          "listed_count": 0,
+          "tweet_count": 934
+        },
+        "username": "Goldogburger",
+        "verified": false
+      }
+    ]
+  }
+}

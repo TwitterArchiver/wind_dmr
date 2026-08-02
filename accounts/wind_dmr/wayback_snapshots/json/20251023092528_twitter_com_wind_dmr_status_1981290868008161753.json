@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980889563825311744",
+        "3_1980889563598831616",
+        "3_1980889563015806976",
+        "3_1980889563426934784"
+      ],
+      "media_source_tweet_id": [
+        "1980889567579500708",
+        "1980889567579500708",
+        "1980889567579500708",
+        "1980889567579500708"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1981290868008161753",
+    "created_at": "2025-10-23T09:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981290868008161753"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "捆绑"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "紧缚"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "绳艺"
+        },
+        {
+          "end": 61,
+          "start": 56,
+          "tag": "伊洛玛丽"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "cos"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "蔚蓝档案"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816826701198032896",
+          "start": 3,
+          "username": "Feng6570"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ughxymiAYm",
+          "end": 97,
+          "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+          "media_key": "3_1980889563825311744",
+          "start": 74,
+          "url": "https://t.co/ughxymiAYm"
+        },
+        {
+          "display_url": "pic.x.com/ughxymiAYm",
+          "end": 97,
+          "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+          "media_key": "3_1980889563598831616",
+          "start": 74,
+          "url": "https://t.co/ughxymiAYm"
+        },
+        {
+          "display_url": "pic.x.com/ughxymiAYm",
+          "end": 97,
+          "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+          "media_key": "3_1980889563015806976",
+          "start": 74,
+          "url": "https://t.co/ughxymiAYm"
+        },
+        {
+          "display_url": "pic.x.com/ughxymiAYm",
+          "end": 97,
+          "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+          "media_key": "3_1980889563426934784",
+          "start": 74,
+          "url": "https://t.co/ughxymiAYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981290868008161753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980889567579500708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Feng6570: 为您祈祷！！！www绑起来干嘛?什么方便老师祷那好吧qwq\n#捆绑 #紧缚 #绳艺 #伊洛玛丽 \n#cos #蔚蓝档案 https://t.co/ughxymiAYm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981290868008161753].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981290868008161753",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981290868008161753"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980889563825311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32IkCcWEAAFnq0.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980889563598831616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32IkBmWQAAbPhf.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980889563015806976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32Ij_bWAAAAD_p.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980889563426934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32IkA9XUAAjAOr.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980889563825311744",
+            "3_1980889563598831616",
+            "3_1980889563015806976",
+            "3_1980889563426934784"
+          ]
+        },
+        "author_id": "1816826701198032896",
+        "conversation_id": "1980889567579500708",
+        "created_at": "2025-10-22T06:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980889567579500708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "捆绑"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "紧缚"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "绳艺"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "伊洛玛丽"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "cos"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "蔚蓝档案"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ughxymiAYm",
+              "end": 83,
+              "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+              "media_key": "3_1980889563825311744",
+              "start": 60,
+              "url": "https://t.co/ughxymiAYm"
+            },
+            {
+              "display_url": "pic.x.com/ughxymiAYm",
+              "end": 83,
+              "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+              "media_key": "3_1980889563598831616",
+              "start": 60,
+              "url": "https://t.co/ughxymiAYm"
+            },
+            {
+              "display_url": "pic.x.com/ughxymiAYm",
+              "end": 83,
+              "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+              "media_key": "3_1980889563015806976",
+              "start": 60,
+              "url": "https://t.co/ughxymiAYm"
+            },
+            {
+              "display_url": "pic.x.com/ughxymiAYm",
+              "end": 83,
+              "expanded_url": "https://x.com/Feng6570/status/1980889567579500708/photo/1",
+              "media_key": "3_1980889563426934784",
+              "start": 60,
+              "url": "https://t.co/ughxymiAYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980889567579500708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1833,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "为您祈祷！！！www绑起来干嘛?什么方便老师祷那好吧qwq\n#捆绑 #紧缚 #绳艺 #伊洛玛丽 \n#cos #蔚蓝档案 https://t.co/ughxymiAYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 813,
+          "like_count": 121327,
+          "listed_count": 9,
+          "media_count": 2875,
+          "tweet_count": 23888
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T13:23:57.000Z",
+        "description": "低脂男cos，要是喜欢可以关注一下嘛，喜欢玩绳子",
+        "id": "1816826701198032896",
+        "name": "ヒナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918207367625285632/UMXD3F5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 99,
+          "like_count": 1184,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 92
+        },
+        "username": "Feng6570",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997154052912959488"
+      ],
+      "media_source_tweet_id": [
+        "1997154302633328689"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "1997534315257979372",
+    "created_at": "2025-12-07T05:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T06:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997534315257979372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "115673472",
+          "start": 3,
+          "username": "pronama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTOjtjb5TJ",
+          "end": 53,
+          "expanded_url": "https://x.com/pronama/status/1997154302633328689/photo/1",
+          "media_key": "3_1997154052912959488",
+          "start": 30,
+          "url": "https://t.co/yTOjtjb5TJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997534315257979372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997154302633328689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pronama: みんなのCPUグリスの塗り方は？ https://t.co/yTOjtjb5TJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1997154052912959488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dRB52b0AAPTsR.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997154052912959488"
+          ],
+          "media_source_tweet_id": [
+            "1997154302633328689"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1997534315257979372",
+        "created_at": "2025-12-07T05:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997534315257979372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "115673472",
+              "start": 3,
+              "username": "pronama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTOjtjb5TJ",
+              "end": 53,
+              "expanded_url": "https://x.com/pronama/status/1997154302633328689/photo/1",
+              "media_key": "3_1997154052912959488",
+              "start": 30,
+              "url": "https://t.co/yTOjtjb5TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997534315257979372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997154302633328689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pronama: みんなのCPUグリスの塗り方は？ https://t.co/yTOjtjb5TJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997154052912959488"
+          ]
+        },
+        "author_id": "115673472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1997154302633328689",
+        "created_at": "2025-12-06T04:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997154302633328689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTOjtjb5TJ",
+              "end": 40,
+              "expanded_url": "https://x.com/pronama/status/1997154302633328689/photo/1",
+              "media_key": "3_1997154052912959488",
+              "start": 17,
+              "url": "https://t.co/yTOjtjb5TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997154302633328689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 68055,
+          "like_count": 1857,
+          "quote_count": 20,
+          "reply_count": 30,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "みんなのCPUグリスの塗り方は？ https://t.co/yTOjtjb5TJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 824,
+          "like_count": 123173,
+          "listed_count": 9,
+          "media_count": 2896,
+          "tweet_count": 24049
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-19T14:15:54.000Z",
+        "description": "ITコミュニティ「プログラミング生放送」のキャラクターとして活動中！ アプリなどの作品に使えるデータを公開してるから使ってみてね ／CV #上坂すみれ／#キャラサミ／Discord https://t.co/UQbjGUb8oT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "上坂すみれ"
+              },
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "キャラサミ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/EwmqfwUh7G",
+                "end": 114,
+                "expanded_url": "https://discord.gg/EwmqfwUh7G",
+                "start": 91,
+                "url": "https://t.co/UQbjGUb8oT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kei.pronama.jp",
+                "end": 23,
+                "expanded_url": "https://kei.pronama.jp",
+                "start": 0,
+                "url": "https://t.co/FQJZnhgQFb"
+              }
+            ]
+          }
+        },
+        "id": "115673472",
+        "location": "都内",
+        "name": "プロ生ちゃん（暮井 慧）🍍",
+        "pinned_tweet_id": "1906725785232421124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565537013096361985/vbLftVBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16030,
+          "following_count": 13777,
+          "like_count": 125440,
+          "listed_count": 318,
+          "media_count": 3582,
+          "tweet_count": 137053
+        },
+        "url": "https://t.co/FQJZnhgQFb",
+        "username": "pronama",
+        "verified": false
+      }
+    ]
+  }
+}

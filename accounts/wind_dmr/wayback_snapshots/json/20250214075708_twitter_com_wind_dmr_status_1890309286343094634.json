@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1890024041119191526",
+    "created_at": "2025-02-14T07:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T08:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890309286343094634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468416451208179712",
+          "start": 0,
+          "username": "kokowamakotsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890309286343094634",
+    "in_reply_to_user_id": "1468416451208179712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890024041119191526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokowamakotsu 幽灵线：东京"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1890024041119191526",
+        "created_at": "2025-02-14T07:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890309286343094634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468416451208179712",
+              "start": 0,
+              "username": "kokowamakotsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890309286343094634",
+        "in_reply_to_user_id": "1468416451208179712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890024041119191526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokowamakotsu 幽灵线：东京"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890024037889540096"
+          ]
+        },
+        "author_id": "1468416451208179712",
+        "conversation_id": "1890024041119191526",
+        "created_at": "2025-02-13T13:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T14:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890024041119191526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqRVrYnLth",
+              "end": 39,
+              "expanded_url": "https://x.com/kokowamakotsu/status/1890024041119191526/photo/1",
+              "media_key": "3_1890024037889540096",
+              "start": 16,
+              "url": "https://t.co/CqRVrYnLth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890024041119191526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2871,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是在广州吗，这给我干哪来了 https://t.co/CqRVrYnLth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 705,
+          "like_count": 109747,
+          "listed_count": 8,
+          "media_count": 2652,
+          "tweet_count": 22548
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//Oliva青果系骰娘骰主//路过的骑士厨//学生\n长毛象：https://t.co/P1XBuGxmUg\n糖果贩售商店表https://t.co/d7W8od0z7F\n已逝爱人 @ANQNKNy\n微信公众号 makotsu-transer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 103,
+                "username": "ANQNKNy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 66,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 43,
+                "url": "https://t.co/P1XBuGxmUg"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 97,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 74,
+                "url": "https://t.co/d7W8od0z7F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuSbLU2"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 678,
+          "like_count": 5032,
+          "listed_count": 24,
+          "media_count": 674,
+          "tweet_count": 20278
+        },
+        "url": "https://t.co/FWQxuSbLU2",
+        "username": "kokowamakotsu",
+        "verified": false
+      }
+    ]
+  }
+}

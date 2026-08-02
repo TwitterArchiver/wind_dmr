@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2020504439183052951",
+    "created_at": "2026-02-09T02:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020684390167400639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020684390167400639",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020504439183052951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress abc甩尾bc只在国内除了厦航的航班有效 国际别用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2020504426566529024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApGEiSaMAAAtEs.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2020504426457292800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApGEh4XYAAreFA.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020504426625282048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApGEigasAAP0gu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2020504439183052951",
+        "created_at": "2026-02-09T02:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020684390167400639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020684390167400639",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020504439183052951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress abc甩尾bc只在国内除了厦航的航班有效 国际别用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020504426566529024",
+            "3_2020504426457292800",
+            "3_2020504426625282048"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2020504439183052951",
+        "created_at": "2026-02-08T14:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020504439183052951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8Xdy9pccT",
+              "end": 177,
+              "expanded_url": "https://x.com/NagiExpress/status/2020504439183052951/photo/1",
+              "media_key": "3_2020504426566529024",
+              "start": 154,
+              "url": "https://t.co/A8Xdy9pccT"
+            },
+            {
+              "display_url": "pic.x.com/A8Xdy9pccT",
+              "end": 177,
+              "expanded_url": "https://x.com/NagiExpress/status/2020504439183052951/photo/1",
+              "media_key": "3_2020504426457292800",
+              "start": 154,
+              "url": "https://t.co/A8Xdy9pccT"
+            },
+            {
+              "display_url": "pic.x.com/A8Xdy9pccT",
+              "end": 177,
+              "expanded_url": "https://x.com/NagiExpress/status/2020504439183052951/photo/1",
+              "media_key": "3_2020504426625282048",
+              "start": 154,
+              "url": "https://t.co/A8Xdy9pccT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020504439183052951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5342,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享一个反向薅航司羊毛的思路\n有一说一高峰期能搞到两千出头的单程直飞，这辈子有了\n（p3是某朋友的中转票，花了一万五，还要转机）\n\n如果想从A飞到B\n可以搜索A➡️C的航班，在B中转，然后你会获得A➡️B➡️C的机票，这张票通常会比原本的直飞更便宜\n当你在B甩尾以后，可以把税费退回来，基本可以省40%以上 https://t.co/A8Xdy9pccT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 833,
+          "like_count": 125071,
+          "listed_count": 8,
+          "media_count": 2912,
+          "tweet_count": 24231
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "这个Nagi是不是富蛆啊全球到处飞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2020615555456127052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4939,
+          "following_count": 2165,
+          "like_count": 21955,
+          "listed_count": 7,
+          "media_count": 1907,
+          "tweet_count": 18695
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1873651956272750886",
+    "created_at": "2024-12-30T08:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T09:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873651956272750886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuma_zxy/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kuma_zxy/status/1873344731545223238",
+          "start": 4,
+          "url": "https://t.co/JIKZeTgTNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873651956272750886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873344731545223238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猫娘。 https://t.co/JIKZeTgTNz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1873651956272750886",
+        "created_at": "2024-12-30T08:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T09:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873651956272750886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuma_zxy/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kuma_zxy/status/1873344731545223238",
+              "start": 4,
+              "url": "https://t.co/JIKZeTgTNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873651956272750886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873344731545223238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫娘。 https://t.co/JIKZeTgTNz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873344698531958784",
+            "3_1873344698527698944"
+          ]
+        },
+        "author_id": "1438033663761924100",
+        "conversation_id": "1873344731545223238",
+        "created_at": "2024-12-29T12:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T13:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873344731545223238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wooBbRCyxt",
+              "end": 23,
+              "expanded_url": "https://x.com/kuma_zxy/status/1873344731545223238/photo/1",
+              "media_key": "3_1873344698531958784",
+              "start": 0,
+              "url": "https://t.co/wooBbRCyxt"
+            },
+            {
+              "display_url": "pic.x.com/wooBbRCyxt",
+              "end": 23,
+              "expanded_url": "https://x.com/kuma_zxy/status/1873344731545223238/photo/1",
+              "media_key": "3_1873344698527698944",
+              "start": 0,
+              "url": "https://t.co/wooBbRCyxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873344731545223238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3279,
+          "like_count": 285,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wooBbRCyxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 680,
+          "like_count": 102436,
+          "listed_count": 7,
+          "media_count": 2557,
+          "tweet_count": 21346
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T06:55:30.000Z",
+        "description": "中文/EN/日本語 | Gaia | GPOSERS | Miqo'te enthusiast | NSFW ⚠️| https://t.co/BgICbAnICl | https://t.co/M5uCFTDLNZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kumazxy.bsky.social",
+                "end": 82,
+                "expanded_url": "http://kumazxy.bsky.social",
+                "start": 59,
+                "url": "https://t.co/BgICbAnICl"
+              },
+              {
+                "display_url": "ko-fi.com/Y8Y1HALQT",
+                "end": 108,
+                "expanded_url": "https://ko-fi.com/Y8Y1HALQT",
+                "start": 85,
+                "url": "https://t.co/M5uCFTDLNZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15068808",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/15068808",
+                "start": 0,
+                "url": "https://t.co/7H2dwkWuRS"
+              }
+            ]
+          }
+        },
+        "id": "1438033663761924100",
+        "location": "Bahamut, GAIA",
+        "name": "Kuma",
+        "pinned_tweet_id": "1869776186056089740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872558382533754881/wOYQ8HKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14538,
+          "following_count": 430,
+          "like_count": 8980,
+          "listed_count": 97,
+          "media_count": 1339,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/7H2dwkWuRS",
+        "username": "kuma_zxy",
+        "verified": true
+      }
+    ]
+  }
+}

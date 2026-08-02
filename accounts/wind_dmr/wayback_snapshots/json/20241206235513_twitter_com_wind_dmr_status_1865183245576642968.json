@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1865183245576642968",
+    "created_at": "2024-12-06T23:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T00:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865183245576642968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangtao233333/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/yangtao233333/status/1865093411860267492",
+          "start": 19,
+          "url": "https://t.co/RsytrCzbym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865183245576642968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865093411860267492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "启蒙思想真的是比科技革命更重要的一环 https://t.co/RsytrCzbym"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1865183245576642968",
+        "created_at": "2024-12-06T23:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T00:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865183245576642968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangtao233333/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yangtao233333/status/1865093411860267492",
+              "start": 19,
+              "url": "https://t.co/RsytrCzbym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865183245576642968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865093411860267492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "启蒙思想真的是比科技革命更重要的一环 https://t.co/RsytrCzbym"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251890382499049472",
+        "conversation_id": "1865074175871713674",
+        "created_at": "2024-12-06T17:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T18:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865093411860267492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            },
+            {
+              "end": 27,
+              "id": "1220290277056897025",
+              "start": 17,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865093411860267492",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865076968015675688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss @pangyusio 几百年的文艺复兴 ，启蒙思想，宗教改革，国内完全没经历过，我感觉国内思想这块和欧洲的中世纪也差不多性压抑和儒教崇拜，父权崇拜，要求所有人都一个样子打压不同打压挑战权威者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 672,
+          "like_count": 100057,
+          "listed_count": 6,
+          "media_count": 2528,
+          "tweet_count": 21085
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T15:08:34.000Z",
+        "description": "♀   游戏宅女   我要吃掉姐姐@BiAnBiAnY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "BiAnBiAnY"
+              }
+            ]
+          }
+        },
+        "id": "1251890382499049472",
+        "name": "杨桃非常酸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343611404033527809/NTI7dc1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1012,
+          "like_count": 6482,
+          "listed_count": 31,
+          "media_count": 58,
+          "tweet_count": 1607
+        },
+        "username": "yangtao233333",
+        "verified": false
+      }
+    ]
+  }
+}

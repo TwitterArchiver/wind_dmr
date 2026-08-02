@@ -1,0 +1,243 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1806540352951877789",
+    "created_at": "2024-06-28T04:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T05:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806542362069651730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1015788561088630791",
+          "start": 0,
+          "username": "neko_ruyue"
+        },
+        {
+          "end": 23,
+          "id": "1757616332240224256",
+          "start": 12,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806542362069651730",
+    "in_reply_to_user_id": "1015788561088630791",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806540545818529993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_ruyue @B_cat38324 有钱我也这么玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1806540352951877789",
+        "created_at": "2024-06-28T04:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T05:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806542362069651730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            },
+            {
+              "end": 23,
+              "id": "1757616332240224256",
+              "start": 12,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806542362069651730",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806540545818529993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue @B_cat38324 有钱我也这么玩"
+      },
+      {
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1806540352951877789",
+        "created_at": "2024-06-28T04:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T05:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806540545818529993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806540545818529993",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806540352951877789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 我就有朋友周五放假去日本周日晚上回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 622,
+          "like_count": 85783,
+          "listed_count": 5,
+          "tweet_count": 18710
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "location": "碧蓝港",
+        "name": "小猫如月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804782817282506752/R5ZrgVm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31247,
+          "following_count": 4082,
+          "like_count": 123134,
+          "listed_count": 86,
+          "tweet_count": 26290
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6684,
+          "following_count": 113,
+          "like_count": 92,
+          "listed_count": 22,
+          "tweet_count": 3617
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

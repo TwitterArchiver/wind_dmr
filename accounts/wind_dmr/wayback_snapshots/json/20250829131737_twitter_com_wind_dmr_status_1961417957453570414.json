@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1961405425225789643",
+    "created_at": "2025-08-29T13:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T14:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961417957453570414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1627413864756424704",
+          "start": 0,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961417957453570414",
+    "in_reply_to_user_id": "1627413864756424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961405425225789643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aphrodite_mis 如果住院花很多钱也只是续命的话比如癌症那种 我选择开止痛药然后体验最后时光啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1961405425225789643",
+        "created_at": "2025-08-29T13:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961417957453570414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1627413864756424704",
+              "start": 0,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961417957453570414",
+        "in_reply_to_user_id": "1627413864756424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961405425225789643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aphrodite_mis 如果住院花很多钱也只是续命的话比如癌症那种 我选择开止痛药然后体验最后时光啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "conversation_id": "1961405425225789643",
+        "created_at": "2025-08-29T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961405425225789643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961405425225789643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么生一场病遇到一个需要住院花很多钱的问题就表现的很有压力 甚至超出了不舒服的地方本身该有的痛苦 因为按照现状我就是那种出意外快死了会说 不治了 然后默默等死的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 750,
+          "like_count": 118806,
+          "listed_count": 8,
+          "media_count": 2847,
+          "tweet_count": 23562
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "一个绝望的寡妇 大号@Artemis_moon_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Artemis_moon_12"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1920720031005950316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961414183649742848/T9FZ9g0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19658,
+          "following_count": 584,
+          "like_count": 201637,
+          "listed_count": 40,
+          "media_count": 2864,
+          "tweet_count": 49348
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

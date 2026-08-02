@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1992328499068109264",
+    "created_at": "2025-11-22T23:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T00:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992379191481000261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992379191481000261",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992328499068109264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene 原来是她的视频 在b站刷到过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_1992328015934541825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YrxlHWUAEiUxU.jpg",
+        "width": 1280
+      },
+      {
+        "height": 784,
+        "media_key": "3_1992328016530165761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YrxnVW0AEBh-G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1992328499068109264",
+        "created_at": "2025-11-22T23:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T00:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992379191481000261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992379191481000261",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992328499068109264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene 原来是她的视频 在b站刷到过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992328015934541825",
+            "3_1992328016530165761"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1992328499068109264",
+        "created_at": "2025-11-22T20:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:23:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992328026038661566",
+          "1992328499068109264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4De6zEwLG",
+              "end": 134,
+              "expanded_url": "https://x.com/xixi_epicene/status/1992328499068109264/photo/1",
+              "media_key": "3_1992328015934541825",
+              "start": 111,
+              "url": "https://t.co/t4De6zEwLG"
+            },
+            {
+              "display_url": "pic.x.com/t4De6zEwLG",
+              "end": 134,
+              "expanded_url": "https://x.com/xixi_epicene/status/1992328499068109264/photo/1",
+              "media_key": "3_1992328016530165761",
+              "start": 111,
+              "url": "https://t.co/t4De6zEwLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992328499068109264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2678,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁能想到我老婆在自家后院给cosplay用的木头道具喷漆\n\n结果被邻居偷窥到就报警说我们持有杀伤性武器疑似要对其图谋不轨然后报警\n\n结果还真有四个持枪警察闯进来\n\n反正先把SAR和投诉这些全做了，后面再一点点算报假警的账 https://t.co/t4De6zEwLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 822,
+          "like_count": 122806,
+          "listed_count": 9,
+          "media_count": 2891,
+          "tweet_count": 24021
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "已婚宅男 ♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 58,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 35,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 102,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 79,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "1989339273582309662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987610738303631360/WKqQSdZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38254,
+          "following_count": 1985,
+          "like_count": 18584,
+          "listed_count": 124,
+          "media_count": 1442,
+          "tweet_count": 7484
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

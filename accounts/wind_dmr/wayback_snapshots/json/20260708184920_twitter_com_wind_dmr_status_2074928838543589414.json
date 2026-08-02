@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2074906005310484909",
+    "created_at": "2026-07-08T18:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074928838543589414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1256377778192084992",
+          "start": 0,
+          "username": "LuvLetter_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074928838543589414",
+    "in_reply_to_user_id": "1256377778192084992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074906005310484909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvLetter_moe 便宜led灯是全桥甚至半桥整流+阻容降压"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2074903468033363968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuJtfta0AAYOyt.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2074906005310484909",
+        "created_at": "2026-07-08T18:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074928838543589414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1256377778192084992",
+              "start": 0,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074928838543589414",
+        "in_reply_to_user_id": "1256377778192084992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074906005310484909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvLetter_moe 便宜led灯是全桥甚至半桥整流+阻容降压"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074903468033363968"
+          ]
+        },
+        "author_id": "1256377778192084992",
+        "conversation_id": "2074906005310484909",
+        "created_at": "2026-07-08T17:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074906005310484909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IV6VgWvxDQ",
+              "end": 68,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2074906005310484909/photo/1",
+              "media_key": "3_2074903468033363968",
+              "start": 45,
+              "url": "https://t.co/IV6VgWvxDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074906005310484909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 999,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奶昔这人果然没上过大学, 这年头开关电源DC驱动的灯碰到电压有问题, 电源要么爆要么保护 https://t.co/IV6VgWvxDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 874,
+          "like_count": 128281,
+          "listed_count": 8,
+          "media_count": 2993,
+          "tweet_count": 24968
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T00:21:09.000Z",
+        "description": "Life can be much broader.   TG: https://t.co/IZs416pyTF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rainbow8loop",
+                "end": 55,
+                "expanded_url": "http://t.me/rainbow8loop",
+                "start": 32,
+                "url": "https://t.co/IZs416pyTF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LuvLetterShelf",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@LuvLetterShelf",
+                "start": 0,
+                "url": "https://t.co/i8aMhUz9FO"
+              }
+            ]
+          }
+        },
+        "id": "1256377778192084992",
+        "location": "Shanghai",
+        "name": "Luv Letter",
+        "pinned_tweet_id": "2007839857415225574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256379106431651841/phJ9TAHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10616,
+          "following_count": 1241,
+          "like_count": 27608,
+          "listed_count": 67,
+          "media_count": 3807,
+          "tweet_count": 11751
+        },
+        "url": "https://t.co/i8aMhUz9FO",
+        "username": "LuvLetter_moe",
+        "verified": true
+      }
+    ]
+  }
+}

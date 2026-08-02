@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1977762013498556490",
+    "created_at": "2025-10-13T16:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T17:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977771491174633823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1452928191044091909",
+          "start": 0,
+          "username": "RollingCat0100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977771491174633823",
+    "in_reply_to_user_id": "1452928191044091909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977762013498556490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RollingCat0100 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1977762013498556490",
+        "created_at": "2025-10-13T16:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977771491174633823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1452928191044091909",
+              "start": 0,
+              "username": "RollingCat0100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977771491174633823",
+        "in_reply_to_user_id": "1452928191044091909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977762013498556490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RollingCat0100 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452928191044091909",
+        "conversation_id": "1977762013498556490",
+        "created_at": "2025-10-13T15:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977762013498556490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigo_wakatake…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/maigo_wakatake/status/1977757964044845140",
+              "start": 2,
+              "url": "https://t.co/h0KZVWN3Cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977762013498556490",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977757964044845140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤯 https://t.co/h0KZVWN3Cg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 804,
+          "like_count": 121136,
+          "listed_count": 9,
+          "media_count": 2868,
+          "tweet_count": 23830
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T09:21:05.000Z",
+        "description": "全职家庭主妇/ENFP/不是s（狗结局：我变成狗了）/已婚但poly/恰好跑到我家院子里的小白猫：@pizyj/身上各种锁的钥匙都在主人@HzShibari86手里😡/ We must accept finite disappointment, but we must never lose infinite hope",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 49,
+                "username": "pizyj"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "HzShibari86"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rollingcat01001",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rollingcat01001",
+                "start": 0,
+                "url": "https://t.co/MaIgXr5oN6"
+              }
+            ]
+          }
+        },
+        "id": "1452928191044091909",
+        "location": "距离您0.12公里",
+        "name": "煎饼果子夹毛肚丝",
+        "pinned_tweet_id": "1869389313609531439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871610826429534208/KG5Vf5qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 478,
+          "like_count": 4142,
+          "listed_count": 8,
+          "media_count": 181,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/MaIgXr5oN6",
+        "username": "RollingCat0100",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1860540049877594183",
+    "created_at": "2024-11-25T04:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T05:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860899982251094322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "406080012",
+          "start": 0,
+          "username": "ytiihyslqlabpow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860899982251094322",
+    "in_reply_to_user_id": "406080012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860540049877594183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytiihyslqlabpow 光伏玻璃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1860540049877594183",
+        "created_at": "2024-11-25T04:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T05:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860899982251094322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "406080012",
+              "start": 0,
+              "username": "ytiihyslqlabpow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860899982251094322",
+        "in_reply_to_user_id": "406080012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860540049877594183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytiihyslqlabpow 光伏玻璃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "406080012",
+        "conversation_id": "1860540049877594183",
+        "created_at": "2024-11-24T04:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T05:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860540049877594183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860540049877594183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9245,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼠标垫有什么平替吗？不想买鼠标垫，感觉会脏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 670,
+          "like_count": 98824,
+          "listed_count": 6,
+          "tweet_count": 20938
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-06T06:44:29.000Z",
+        "description": "女的// Trader Joe's 爱好者 // 🚪GRE 330+（两年内有效）// #推友的性别是推友 \n⬛⬛⬛⬛⬛⬛ \n🌫️🌫️🌫️🌫️🌫️🌫️ \n⬜⬜⬜⬜⬜⬜ \n🟪🟪🟪🟪🟪🟪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 44,
+                "tag": "推友的性别是推友"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misstaco.bsky.social",
+                "end": 23,
+                "expanded_url": "https://misstaco.bsky.social/",
+                "start": 0,
+                "url": "https://t.co/nxt1zHSlka"
+              }
+            ]
+          }
+        },
+        "id": "406080012",
+        "location": "Wonderland",
+        "name": "蛋挞也是 Taco🎄",
+        "pinned_tweet_id": "1717588345973612909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707630937343774720/vhBzp-4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4862,
+          "following_count": 1158,
+          "like_count": 12791,
+          "listed_count": 25,
+          "tweet_count": 15910
+        },
+        "url": "https://t.co/nxt1zHSlka",
+        "username": "ytiihyslqlabpow",
+        "verified": false
+      }
+    ]
+  }
+}

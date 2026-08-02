@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1862262569651818909",
+    "created_at": "2024-11-28T22:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T23:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862262569651818909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PoloCoconut/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/PoloCoconut/status/1861618433861030277",
+          "start": 3,
+          "url": "https://t.co/UhRFskEc4I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862262569651818909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861618433861030277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下一 https://t.co/UhRFskEc4I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1862262569651818909",
+        "created_at": "2024-11-28T22:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T23:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862262569651818909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PoloCoconut/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/PoloCoconut/status/1861618433861030277",
+              "start": 3,
+              "url": "https://t.co/UhRFskEc4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862262569651818909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861618433861030277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下一 https://t.co/UhRFskEc4I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861618422968393728"
+          ]
+        },
+        "author_id": "1695977358342475777",
+        "conversation_id": "1861618433861030277",
+        "created_at": "2024-11-27T03:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861618433861030277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSc6Cc6axe",
+              "end": 30,
+              "expanded_url": "https://x.com/PoloCoconut/status/1861618433861030277/photo/1",
+              "media_key": "3_1861618422968393728",
+              "start": 7,
+              "url": "https://t.co/CSc6Cc6axe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861618433861030277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20654,
+          "like_count": 377,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "这明明是推特 https://t.co/CSc6Cc6axe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 674,
+          "like_count": 99205,
+          "listed_count": 6,
+          "media_count": 2522,
+          "tweet_count": 20970
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:51:56.000Z",
+        "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/你的避风港/♡@Ivy250104♡/逃生舱@PoloCoconut2\nhttps://t.co/FCrc0tsgb7\n横幅作者：Pixiv@Mesilmen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Ivy250104"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "PoloCoconut2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "polococonut.bsky.social",
+                "end": 96,
+                "expanded_url": "http://polococonut.bsky.social",
+                "start": 73,
+                "url": "https://t.co/FCrc0tsgb7"
+              }
+            ]
+          }
+        },
+        "id": "1695977358342475777",
+        "name": "Polo Coconut🥥",
+        "pinned_tweet_id": "1853978003665244285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746333496216555521/zPnCFjtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1978,
+          "like_count": 16158,
+          "listed_count": 10,
+          "media_count": 715,
+          "tweet_count": 9487
+        },
+        "username": "PoloCoconut",
+        "verified": false
+      }
+    ]
+  }
+}

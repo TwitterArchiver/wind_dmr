@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890018622887882752"
+      ],
+      "media_source_tweet_id": [
+        "1890018686075121982"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1890291760452218944",
+    "created_at": "2025-02-14T06:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T07:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890291760452218944"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 43,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 61,
+          "start": 54,
+          "tag": "sakiko"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1584905788195508224",
+          "start": 3,
+          "username": "Yo_kitsune"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8z1NK75paP",
+          "end": 85,
+          "expanded_url": "https://x.com/Yo_kitsune/status/1890018686075121982/photo/1",
+          "media_key": "3_1890018622887882752",
+          "start": 62,
+          "url": "https://t.co/8z1NK75paP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890291760452218944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890018686075121982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yo_kitsune: 💰\n一个不可能的目标，如果转发过1k就把钞票图层去掉 #AveMujica #sakiko https://t.co/8z1NK75paP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1890018622887882752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjqx7Hwa8AARn2g.jpg",
+        "width": 2280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890018622887882752"
+          ],
+          "media_source_tweet_id": [
+            "1890018686075121982"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1890291760452218944",
+        "created_at": "2025-02-14T06:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T07:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890291760452218944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "sakiko"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1584905788195508224",
+              "start": 3,
+              "username": "Yo_kitsune"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8z1NK75paP",
+              "end": 85,
+              "expanded_url": "https://x.com/Yo_kitsune/status/1890018686075121982/photo/1",
+              "media_key": "3_1890018622887882752",
+              "start": 62,
+              "url": "https://t.co/8z1NK75paP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890291760452218944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890018686075121982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yo_kitsune: 💰\n一个不可能的目标，如果转发过1k就把钞票图层去掉 #AveMujica #sakiko https://t.co/8z1NK75paP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890018622887882752"
+          ]
+        },
+        "author_id": "1584905788195508224",
+        "conversation_id": "1890018686075121982",
+        "created_at": "2025-02-13T12:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T13:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890018686075121982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "sakiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8z1NK75paP",
+              "end": 69,
+              "expanded_url": "https://x.com/Yo_kitsune/status/1890018686075121982/photo/1",
+              "media_key": "3_1890018622887882752",
+              "start": 46,
+              "url": "https://t.co/8z1NK75paP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890018686075121982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 17823,
+          "like_count": 1202,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "💰\n一个不可能的目标，如果转发过1k就把钞票图层去掉 #AveMujica #sakiko https://t.co/8z1NK75paP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 704,
+          "like_count": 109712,
+          "listed_count": 8,
+          "media_count": 2652,
+          "tweet_count": 22547
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T13:53:10.000Z",
+        "description": "只會一些兒童塗鴉 ‖ 觀測者 ‖ 偶爾畫畫情緒 ‖ 對不起，我是陰暗B\n❌AI学习使用素材禁止❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/57773879",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/57773879",
+                "start": 0,
+                "url": "https://t.co/yRktQK2zUR"
+              }
+            ]
+          }
+        },
+        "id": "1584905788195508224",
+        "location": "神椿市",
+        "name": "狐狸没钱花了",
+        "pinned_tweet_id": "1877461801744715902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708903568198258688/pvMARqcN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 181,
+          "like_count": 1540,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/yRktQK2zUR",
+        "username": "Yo_kitsune",
+        "verified": false
+      }
+    ]
+  }
+}

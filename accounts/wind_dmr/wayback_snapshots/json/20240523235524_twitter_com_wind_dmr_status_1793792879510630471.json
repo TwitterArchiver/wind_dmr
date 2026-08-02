@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1793119768347840722",
+    "created_at": "2024-05-23T23:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T00:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793792879510630471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "347266192",
+          "start": 0,
+          "username": "chengjinrexxx"
+        },
+        {
+          "end": 30,
+          "id": "44186175",
+          "start": 15,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793792879510630471",
+    "in_reply_to_user_id": "347266192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793265785068200428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengjinrexxx @xiaojingcanxue 我们的工科课本还在讲1990年代最新的计算机技术，你说呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1793119768347840722",
+        "created_at": "2024-05-23T23:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T00:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793792879510630471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "347266192",
+              "start": 0,
+              "username": "chengjinrexxx"
+            },
+            {
+              "end": 30,
+              "id": "44186175",
+              "start": 15,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793792879510630471",
+        "in_reply_to_user_id": "347266192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793265785068200428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengjinrexxx @xiaojingcanxue 我们的工科课本还在讲1990年代最新的计算机技术，你说呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "347266192",
+        "conversation_id": "1793119768347840722",
+        "created_at": "2024-05-22T13:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T14:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793265785068200428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793265785068200428",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 964,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793119768347840722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 只要课本够好，照本宣科挺好的，可以有效降低工作量。学校会给老师们布置很多与课堂教学没有直接关系的任务。如果备课方面俭省一点的话，老师至少略微轻松一些。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 620,
+          "like_count": 83487,
+          "listed_count": 5,
+          "tweet_count": 17788
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-02T14:45:22.000Z",
+        "description": "",
+        "id": "347266192",
+        "location": "People's Republic of China",
+        "name": "Rex Wang",
+        "pinned_tweet_id": "747168152178593793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/764830653087047681/ECFdIcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 578,
+          "like_count": 1493,
+          "listed_count": 1,
+          "tweet_count": 380
+        },
+        "username": "chengjinrexxx",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181833,
+          "following_count": 1844,
+          "like_count": 179,
+          "listed_count": 1001,
+          "tweet_count": 20915
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

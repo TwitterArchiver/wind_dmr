@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1897675347644354616",
+    "created_at": "2025-03-06T16:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T17:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897682789237219553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1669725959178551296",
+          "start": 0,
+          "username": "CanonLailah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897682789237219553",
+    "in_reply_to_user_id": "1669725959178551296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897675347644354616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanonLailah 你咋回事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897675347644354616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897675347644354616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897675347644354616"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1897675347644354616",
+        "created_at": "2025-03-06T16:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897682789237219553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1669725959178551296",
+              "start": 0,
+              "username": "CanonLailah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897682789237219553",
+        "in_reply_to_user_id": "1669725959178551296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897675347644354616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanonLailah 你咋回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 704,
+          "like_count": 111846,
+          "listed_count": 8,
+          "media_count": 2698,
+          "tweet_count": 22955
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T15:19:32.000Z",
+        "description": "😿",
+        "id": "1669725959178551296",
+        "location": "豬排咖哩蓋飯有限公司",
+        "name": "lailah⋯？",
+        "pinned_tweet_id": "1782631793700827270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896627386336026624/-xM_ERm__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 368,
+          "like_count": 9408,
+          "listed_count": 0,
+          "media_count": 1107,
+          "tweet_count": 6722
+        },
+        "username": "CanonLailah",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1878251774735228928"
+      ],
+      "media_source_tweet_id": [
+        "1878252041702707336"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1878537633695203623",
+    "created_at": "2025-01-12T20:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T21:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878537633695203623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868316804436897793",
+          "start": 3,
+          "username": "pusheen_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pzja88ufrF",
+          "end": 39,
+          "expanded_url": "https://x.com/pusheen_jp/status/1878252041702707336/photo/1",
+          "media_key": "16_1878251774735228928",
+          "start": 16,
+          "url": "https://t.co/Pzja88ufrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878537633695203623",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2355
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878252041702707336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pusheen_jp: https://t.co/Pzja88ufrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "16_1878251774735228928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GhDkCafXIAAPqVq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GhDkCafXIAAPqVq.mp4"
+          }
+        ],
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1878251774735228928"
+          ],
+          "media_source_tweet_id": [
+            "1878252041702707336"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1878537633695203623",
+        "created_at": "2025-01-12T20:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T21:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878537633695203623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868316804436897793",
+              "start": 3,
+              "username": "pusheen_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pzja88ufrF",
+              "end": 39,
+              "expanded_url": "https://x.com/pusheen_jp/status/1878252041702707336/photo/1",
+              "media_key": "16_1878251774735228928",
+              "start": 16,
+              "url": "https://t.co/Pzja88ufrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878537633695203623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2355
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878252041702707336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pusheen_jp: https://t.co/Pzja88ufrF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1878251774735228928"
+          ]
+        },
+        "author_id": "1868316804436897793",
+        "conversation_id": "1878252041702707336",
+        "created_at": "2025-01-12T01:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T02:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878252041702707336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pzja88ufrF",
+              "end": 23,
+              "expanded_url": "https://x.com/pusheen_jp/status/1878252041702707336/photo/1",
+              "media_key": "16_1878251774735228928",
+              "start": 0,
+              "url": "https://t.co/Pzja88ufrF"
+            },
+            {
+              "display_url": "x.com/artstitle/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/artstitle/status/1876720464069853383",
+              "start": 24,
+              "url": "https://t.co/NZ7k05FjGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878252041702707336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 717,
+          "impression_count": 222722,
+          "like_count": 12079,
+          "quote_count": 33,
+          "reply_count": 13,
+          "retweet_count": 2355
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876720464069853383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pzja88ufrF https://t.co/NZ7k05FjGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 692,
+          "like_count": 103624,
+          "listed_count": 7,
+          "media_count": 2593,
+          "tweet_count": 21807
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T15:27:39.000Z",
+        "description": "ねこのプシーンです 🐈  \n日本語公式アカウント\nEnglish: @pusheen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "pusheen"
+              }
+            ]
+          }
+        },
+        "id": "1868316804436897793",
+        "name": "Pusheen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870488036267450368/TWb0dIWi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 24,
+          "like_count": 72,
+          "listed_count": 19,
+          "media_count": 12,
+          "tweet_count": 15
+        },
+        "username": "pusheen_jp",
+        "verified": true
+      }
+    ]
+  }
+}

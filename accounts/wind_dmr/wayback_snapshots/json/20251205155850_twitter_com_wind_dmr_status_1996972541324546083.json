@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1996626998278738146",
+    "created_at": "2025-12-05T15:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T16:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996972541324546083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1396429621113999364",
+          "start": 0,
+          "username": "yuuki_ans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996972541324546083",
+    "in_reply_to_user_id": "1396429621113999364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996626998278738146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_ans 所以用志强MAX甚至不用插内存（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_1996626986773762055",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Vxqneb0AcReIC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 200,
+        "media_key": "3_1996626986777956352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Vxqnfb0AA1w_X.jpg",
+        "width": 400
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1996626986866032641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Vxqn0bwAENZAi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1292,
+        "media_key": "3_1996626986865950720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Vxqn0agAAL6Gf.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1996626998278738146",
+        "created_at": "2025-12-05T15:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996972541324546083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1396429621113999364",
+              "start": 0,
+              "username": "yuuki_ans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996972541324546083",
+        "in_reply_to_user_id": "1396429621113999364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996626998278738146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_ans 所以用志强MAX甚至不用插内存（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996626986773762055",
+            "3_1996626986777956352",
+            "3_1996626986866032641",
+            "3_1996626986865950720"
+          ]
+        },
+        "author_id": "1396429621113999364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Intel - AI",
+              "id": "10050907856",
+              "name": "Intel - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026332285",
+              "name": "Intel"
+            }
+          }
+        ],
+        "conversation_id": "1996626998278738146",
+        "created_at": "2025-12-04T17:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996626998278738146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tl76lnYr3D",
+              "end": 266,
+              "expanded_url": "https://x.com/yuuki_ans/status/1996626998278738146/photo/1",
+              "media_key": "3_1996626986773762055",
+              "start": 243,
+              "url": "https://t.co/Tl76lnYr3D"
+            },
+            {
+              "display_url": "pic.x.com/Tl76lnYr3D",
+              "end": 266,
+              "expanded_url": "https://x.com/yuuki_ans/status/1996626998278738146/photo/1",
+              "media_key": "3_1996626986777956352",
+              "start": 243,
+              "url": "https://t.co/Tl76lnYr3D"
+            },
+            {
+              "display_url": "pic.x.com/Tl76lnYr3D",
+              "end": 266,
+              "expanded_url": "https://x.com/yuuki_ans/status/1996626998278738146/photo/1",
+              "media_key": "3_1996626986866032641",
+              "start": 243,
+              "url": "https://t.co/Tl76lnYr3D"
+            },
+            {
+              "display_url": "pic.x.com/Tl76lnYr3D",
+              "end": 266,
+              "expanded_url": "https://x.com/yuuki_ans/status/1996626998278738146/photo/1",
+              "media_key": "3_1996626986865950720",
+              "start": 243,
+              "url": "https://t.co/Tl76lnYr3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996626998278738146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "出售\nintel ArcherCity FAB4 2U 服务器\nintel ArcherCity FAB6 4U 服务器\n（ LGA4677-1 双路 C741 ）\n-\n并且现已支持购买服务器选装CPU\n可选\nintel Xeon Silver 4514Y ES2 - Q2Y6\n16核 30MB 全核2.5G 最大3.5G\n-\nintel Xeon Platinum 8562Y+ ES2 - Q2Y7\n32核 60MB 全核3.7G 最大4.1G\n-\nintel Xeon Max 9470C - 正式版\n52核 105MB 全核3.5G 最大2.4G\n内嵌64GB HBM2e 支持双模式可做内存"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1167,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "出售\nintel ArcherCity FAB4 2U 服务器\nintel ArcherCity FAB6 4U 服务器\n（ LGA4677-1 双路 C741 ）\n-\n并且现已支持购买服务器选装CPU\n可选\nintel Xeon Silver 4514Y ES2 - Q2Y6\n16核 30MB 全核2.5G 最大3.5G\n-\nintel Xeon Platinum 8562Y+ ES2 - Q2Y7\n32核 60MB 全核3.7G 最大4.1G\n-\nintel Xeon Max https://t.co/Tl76lnYr3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 825,
+          "like_count": 123169,
+          "listed_count": 9,
+          "media_count": 2896,
+          "tweet_count": 24047
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T11:35:53.000Z",
+        "description": "Maybe one day in the future, you will see another me ...",
+        "id": "1396429621113999364",
+        "location": "Polaris",
+        "name": "结城安穗-YuuKi_AnS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736811338348011520/Jyv2iFg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3901,
+          "following_count": 627,
+          "like_count": 160846,
+          "listed_count": 31,
+          "media_count": 1380,
+          "tweet_count": 7277
+        },
+        "username": "yuuki_ans",
+        "verified": true
+      }
+    ]
+  }
+}

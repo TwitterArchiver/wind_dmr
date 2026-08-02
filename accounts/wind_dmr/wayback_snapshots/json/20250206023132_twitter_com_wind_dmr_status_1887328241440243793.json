@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1788807289887199233"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1887328241440243793",
+    "created_at": "2025-02-06T02:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T03:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887328241440243793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667200838140575744",
+          "start": 3,
+          "username": "rincouple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887328241440243793",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 577
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789098095931977907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rincouple: in the kitchen 💦\n@loliburinn @SassyJirin https://t.co/J9YBU4vn5S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887328241440243793].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887328241440243793",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887328241440243793"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9543,
+        "height": 1440,
+        "media_key": "13_1788807289887199233",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1788807289887199233/img/5hJwajXxLNGnTpHH.jpg",
+        "public_metrics": {
+          "view_count": 147086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1788807289887199233/vid/avc1/1080x1440/RjSbI0juYrmfhXSZ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1788807289887199233/vid/avc1/720x960/Cgt9O-3gu008y8MS.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1788807289887199233/vid/avc1/320x426/U33NH8vN6bh_uwWU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1788807289887199233/vid/avc1/480x640/Gew98Q3Wd0AeM21L.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1788807289887199233/pl/MlaUz5bqMefmv4J4.m3u8?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1788807289887199233"
+          ]
+        },
+        "author_id": "1667200838140575744",
+        "conversation_id": "1789098095931977907",
+        "created_at": "2024-05-11T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789098095931977907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "803621272034811905",
+              "start": 29,
+              "username": "SassyJirin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9YBU4vn5S",
+              "end": 64,
+              "expanded_url": "https://x.com/rincouple/status/1789098095931977907/video/1",
+              "media_key": "13_1788807289887199233",
+              "start": 41,
+              "url": "https://t.co/J9YBU4vn5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789098095931977907",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1520,
+          "impression_count": 445037,
+          "like_count": 3969,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 577
+        },
+        "reply_settings": "everyone",
+        "text": "in the kitchen 💦\n@loliburinn @SassyJirin https://t.co/J9YBU4vn5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 704,
+          "like_count": 108485,
+          "listed_count": 8,
+          "media_count": 2628,
+          "tweet_count": 22429
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T16:04:15.000Z",
+        "description": "Lesbian couple, one petite and one with a big d!ck. Our links:\nhttps://t.co/S2QT1DoLG6 | https://t.co/8BOKFWdZRh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fans.ly/rincouple",
+                "end": 86,
+                "expanded_url": "http://fans.ly/rincouple",
+                "start": 63,
+                "url": "https://t.co/S2QT1DoLG6"
+              },
+              {
+                "display_url": "rincouple.manyvids.com",
+                "end": 112,
+                "expanded_url": "https://rincouple.manyvids.com/",
+                "start": 89,
+                "url": "https://t.co/8BOKFWdZRh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.bio/rincouple",
+                "end": 23,
+                "expanded_url": "http://my.bio/rincouple",
+                "start": 0,
+                "url": "https://t.co/GEm5G6tnqp"
+              }
+            ]
+          }
+        },
+        "id": "1667200838140575744",
+        "name": "Rin couple",
+        "pinned_tweet_id": "1745125089035891064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705234709574565888/Fz04nTZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48062,
+          "following_count": 17,
+          "like_count": 239,
+          "listed_count": 187,
+          "media_count": 28,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/GEm5G6tnqp",
+        "username": "rincouple",
+        "verified": false
+      }
+    ]
+  }
+}

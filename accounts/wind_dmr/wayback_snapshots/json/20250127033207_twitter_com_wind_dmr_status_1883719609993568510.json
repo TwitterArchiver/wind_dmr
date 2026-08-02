@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883555315209416705"
+      ],
+      "media_source_tweet_id": [
+        "1883555323736416442"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1883719609993568510",
+    "created_at": "2025-01-27T03:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T04:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883719609993568510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1706009585059057664",
+          "start": 3,
+          "username": "KnightRsin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dj5fki52NM",
+          "end": 45,
+          "expanded_url": "https://x.com/KnightRsin/status/1883555323736416442/photo/1",
+          "media_key": "3_1883555315209416705",
+          "start": 22,
+          "url": "https://t.co/dj5fki52NM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883719609993568510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883555323736416442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KnightRsin: 我的价格： https://t.co/dj5fki52NM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883719609993568510].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883719609993568510",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883719609993568510"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_1883555315209416705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiO7lGXbMAEHtij.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883555315209416705"
+          ]
+        },
+        "author_id": "1706009585059057664",
+        "conversation_id": "1883555323736416442",
+        "created_at": "2025-01-26T16:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T17:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883555323736416442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dj5fki52NM",
+              "end": 29,
+              "expanded_url": "https://x.com/KnightRsin/status/1883555323736416442/photo/1",
+              "media_key": "3_1883555315209416705",
+              "start": 6,
+              "url": "https://t.co/dj5fki52NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883555323736416442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2953,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我的价格： https://t.co/dj5fki52NM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 698,
+          "like_count": 106781,
+          "listed_count": 8,
+          "media_count": 2615,
+          "tweet_count": 22280
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T18:16:06.000Z",
+        "description": "生活日誌&Fursuit 含有少量NSFW內容及轉發                   裹@CheeseRsin 仅限互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "CheeseRsin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "otto.com",
+                "end": 23,
+                "expanded_url": "http://otto.com",
+                "start": 0,
+                "url": "https://t.co/nPDJ9Xi0Ce"
+              }
+            ]
+          }
+        },
+        "id": "1706009585059057664",
+        "location": "龙之区域",
+        "name": "骑士Kgt",
+        "pinned_tweet_id": "1859455125309493428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848274930485387264/SqiNVvW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10687,
+          "following_count": 1033,
+          "like_count": 639,
+          "listed_count": 13,
+          "media_count": 462,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/nPDJ9Xi0Ce",
+        "username": "KnightRsin",
+        "verified": true
+      }
+    ]
+  }
+}

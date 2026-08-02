@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1879533996612493345",
+    "created_at": "2025-01-16T00:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T01:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879695040081240438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491521168091672578",
+          "start": 0,
+          "username": "onedayikite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879695040081240438",
+    "in_reply_to_user_id": "1491521168091672578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879533996612493345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onedayikite 努力半年花掉十个五千块"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1879533996612493345].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1879533996612493345",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1879533996612493345"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1879533996612493345",
+        "created_at": "2025-01-16T00:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T01:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879695040081240438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491521168091672578",
+              "start": 0,
+              "username": "onedayikite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879695040081240438",
+        "in_reply_to_user_id": "1491521168091672578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879533996612493345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onedayikite 努力半年花掉十个五千块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 691,
+          "like_count": 103839,
+          "listed_count": 7,
+          "media_count": 2596,
+          "tweet_count": 21870
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T21:15:48.000Z",
+        "description": "骂天骂地骂空气骂公狗骂婊子，私人垃圾桶，想到什么说什么，我就是爱骂人，不喜取关滚，单取死妈，别来恶心我",
+        "id": "1491521168091672578",
+        "location": "你爹死了",
+        "name": "巴盟最猛贩猪人（恶毒版）",
+        "pinned_tweet_id": "1855346067933643026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876280811781296128/pix3a5-Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 896,
+          "like_count": 44770,
+          "listed_count": 1,
+          "media_count": 1136,
+          "tweet_count": 12049
+        },
+        "username": "onedayikite",
+        "verified": false
+      }
+    ]
+  }
+}

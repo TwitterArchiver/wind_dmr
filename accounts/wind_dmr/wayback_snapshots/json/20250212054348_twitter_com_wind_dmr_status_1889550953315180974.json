@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1889502762888732986",
+    "created_at": "2025-02-12T05:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T06:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889550953315180974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889550953315180974",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889502762888732986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 这哪里激进了 一般路过性别平权罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1889502762888732986",
+        "created_at": "2025-02-12T05:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T06:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889550953315180974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889550953315180974",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889502762888732986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 这哪里激进了 一般路过性别平权罢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889501775906189312",
+            "3_1889501894265151488",
+            "3_1889502484231794688",
+            "3_1889502524631351296"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "conversation_id": "1889502762888732986",
+        "created_at": "2025-02-12T02:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T03:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889502762888732986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I24NkED98Y",
+              "end": 57,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1889502762888732986/photo/1",
+              "media_key": "3_1889501775906189312",
+              "start": 34,
+              "url": "https://t.co/I24NkED98Y"
+            },
+            {
+              "display_url": "pic.x.com/I24NkED98Y",
+              "end": 57,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1889502762888732986/photo/1",
+              "media_key": "3_1889501894265151488",
+              "start": 34,
+              "url": "https://t.co/I24NkED98Y"
+            },
+            {
+              "display_url": "pic.x.com/I24NkED98Y",
+              "end": 57,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1889502762888732986/photo/1",
+              "media_key": "3_1889502484231794688",
+              "start": 34,
+              "url": "https://t.co/I24NkED98Y"
+            },
+            {
+              "display_url": "pic.x.com/I24NkED98Y",
+              "end": 57,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1889502762888732986/photo/1",
+              "media_key": "3_1889502524631351296",
+              "start": 34,
+              "url": "https://t.co/I24NkED98Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889502762888732986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要求ai跟我宣传激进女权，然后提了两个问题，在这里share一下 https://t.co/I24NkED98Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 704,
+          "like_count": 109417,
+          "listed_count": 8,
+          "media_count": 2646,
+          "tweet_count": 22516
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 926,
+          "like_count": 10942,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 5029
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

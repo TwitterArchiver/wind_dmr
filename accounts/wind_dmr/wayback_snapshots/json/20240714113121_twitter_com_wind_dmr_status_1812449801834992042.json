@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1812188184484384873",
+    "created_at": "2024-07-14T11:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T12:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812449801834992042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1668956312057815040",
+          "start": 0,
+          "username": "chuanzh64753474"
+        },
+        {
+          "end": 27,
+          "id": "1597257668313260033",
+          "start": 17,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812449801834992042",
+    "in_reply_to_user_id": "1668956312057815040",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812315518864687294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanzh64753474 @Minokakay 阿斯伯格综合征是一种神经非典型发育障碍。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1812188184484384873",
+        "created_at": "2024-07-14T11:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T12:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812449801834992042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1668956312057815040",
+              "start": 0,
+              "username": "chuanzh64753474"
+            },
+            {
+              "end": 27,
+              "id": "1597257668313260033",
+              "start": 17,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812449801834992042",
+        "in_reply_to_user_id": "1668956312057815040",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812315518864687294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanzh64753474 @Minokakay 阿斯伯格综合征是一种神经非典型发育障碍。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1668956312057815040",
+        "conversation_id": "1812188184484384873",
+        "created_at": "2024-07-14T02:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T03:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812315518864687294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812315518864687294",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812188184484384873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 只要不是神经病，但凡愿意给同学抄抄作业和考试，根本不可能被孤立。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 639,
+          "like_count": 88402,
+          "listed_count": 5,
+          "tweet_count": 19328
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T12:19:44.000Z",
+        "description": "",
+        "id": "1668956312057815040",
+        "name": "chuan zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668956386246684673/l2YGi5ZS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 50,
+          "like_count": 2,
+          "listed_count": 1,
+          "tweet_count": 3685
+        },
+        "username": "chuanzh64753474",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 754,
+          "like_count": 2469,
+          "listed_count": 1,
+          "tweet_count": 1208
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2028063014889619548",
+    "created_at": "2026-03-01T11:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T12:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028063014889619548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wind_dmr/statu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/wind_dmr/status/2028062512764371231",
+          "start": 68,
+          "url": "https://t.co/EEDWCip4cw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028063014889619548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028062512764371231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么活着你妈的这么难  连本子剧情我看着现在都觉得是好事操 去他妈的世界\n------\n本条消息及48小时之内不是且不需要自杀干预。 https://t.co/EEDWCip4cw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2028063014889619548",
+        "created_at": "2026-03-01T11:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028063014889619548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wind_dmr/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/wind_dmr/status/2028062512764371231",
+              "start": 68,
+              "url": "https://t.co/EEDWCip4cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028063014889619548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028062512764371231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么活着你妈的这么难  连本子剧情我看着现在都觉得是好事操 去他妈的世界\n------\n本条消息及48小时之内不是且不需要自杀干预。 https://t.co/EEDWCip4cw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2028062512764371231",
+        "created_at": "2026-03-01T10:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028062512764371231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028062512764371231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以在我自己反思然后把自己骂了一通把自己整到犯病的情况下\n在犯病的情况下退行 退行只是想找点依靠\n于是想找的依靠一个个地再说教我两顿？\nok好的我肉烂我不配我走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 840,
+          "like_count": 125460,
+          "listed_count": 8,
+          "media_count": 2913,
+          "tweet_count": 24269
+        },
+        "username": "wind_dmr",
+        "verified": false
+      }
+    ]
+  }
+}

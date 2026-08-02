@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049430785351163904"
+      ],
+      "media_source_tweet_id": [
+        "2049433636710084736"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2049933993387368666",
+    "created_at": "2026-04-30T19:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T20:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049933993387368666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1684866817091944448",
+          "start": 3,
+          "username": "anime_nanashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWHLjfyvmC",
+          "end": 51,
+          "expanded_url": "https://x.com/anime_nanashi/status/2049433636710084736/photo/1",
+          "media_key": "3_2049430785351163904",
+          "start": 28,
+          "url": "https://t.co/MWHLjfyvmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049933993387368666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2818
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049433636710084736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_nanashi: この演出、泣いた https://t.co/MWHLjfyvmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2049430785351163904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEKcOCbIAAo1Kg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049430785351163904"
+          ],
+          "media_source_tweet_id": [
+            "2049433636710084736"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2049933993387368666",
+        "created_at": "2026-04-30T19:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049933993387368666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1684866817091944448",
+              "start": 3,
+              "username": "anime_nanashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWHLjfyvmC",
+              "end": 51,
+              "expanded_url": "https://x.com/anime_nanashi/status/2049433636710084736/photo/1",
+              "media_key": "3_2049430785351163904",
+              "start": 28,
+              "url": "https://t.co/MWHLjfyvmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049933993387368666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2818
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049433636710084736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_nanashi: この演出、泣いた https://t.co/MWHLjfyvmC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049430785351163904"
+          ]
+        },
+        "author_id": "1684866817091944448",
+        "conversation_id": "2049433636710084736",
+        "created_at": "2026-04-29T10:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049433636710084736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWHLjfyvmC",
+              "end": 32,
+              "expanded_url": "https://x.com/anime_nanashi/status/2049433636710084736/photo/1",
+              "media_key": "3_2049430785351163904",
+              "start": 9,
+              "url": "https://t.co/MWHLjfyvmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049433636710084736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4825,
+          "impression_count": 2013158,
+          "like_count": 74845,
+          "quote_count": 67,
+          "reply_count": 93,
+          "retweet_count": 2818
+        },
+        "reply_settings": "everyone",
+        "text": "この演出、泣いた https://t.co/MWHLjfyvmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 849,
+          "like_count": 127024,
+          "listed_count": 8,
+          "media_count": 2948,
+          "tweet_count": 24623
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T10:02:16.000Z",
+        "description": "毎日アニメ観てる大学生です！！春アニメは20作品以上視聴してます！気軽に絡んで下さいI want to spread anime all over the world",
+        "id": "1684866817091944448",
+        "name": "ななし",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897070645344919558/7XK8nzoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21790,
+          "following_count": 4892,
+          "like_count": 9701,
+          "listed_count": 40,
+          "media_count": 409,
+          "tweet_count": 25236
+        },
+        "username": "anime_nanashi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016114972276015104"
+      ],
+      "media_source_tweet_id": [
+        "2016114978731008145"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016304276767965409",
+    "created_at": "2026-01-28T00:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T01:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016304276767965409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DIRdoVNoZs",
+          "end": 94,
+          "expanded_url": "https://x.com/maigo_wakatake/status/2016114978731008145/photo/1",
+          "media_key": "3_2016114972276015104",
+          "start": 71,
+          "url": "https://t.co/DIRdoVNoZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016304276767965409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016114978731008145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: 霜风：你通过云移获得任意多个护卫晶角兽的话，是不是说明我能挡下你那个TREE(3)大小的自行弩炮了？ https://t.co/DIRdoVNoZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2016114972276015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qt4qzbwAAWShz.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016114972276015104"
+          ],
+          "media_source_tweet_id": [
+            "2016114978731008145"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016304276767965409",
+        "created_at": "2026-01-28T00:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T01:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016304276767965409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIRdoVNoZs",
+              "end": 94,
+              "expanded_url": "https://x.com/maigo_wakatake/status/2016114978731008145/photo/1",
+              "media_key": "3_2016114972276015104",
+              "start": 71,
+              "url": "https://t.co/DIRdoVNoZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016304276767965409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016114978731008145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: 霜风：你通过云移获得任意多个护卫晶角兽的话，是不是说明我能挡下你那个TREE(3)大小的自行弩炮了？ https://t.co/DIRdoVNoZs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016114972276015104"
+          ]
+        },
+        "author_id": "1315706812935487489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016114978731008145",
+        "created_at": "2026-01-27T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016114978731008145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIRdoVNoZs",
+              "end": 74,
+              "expanded_url": "https://x.com/maigo_wakatake/status/2016114978731008145/photo/1",
+              "media_key": "3_2016114972276015104",
+              "start": 51,
+              "url": "https://t.co/DIRdoVNoZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016114978731008145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "霜风：你通过云移获得任意多个护卫晶角兽的话，是不是说明我能挡下你那个TREE(3)大小的自行弩炮了？ https://t.co/DIRdoVNoZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 832,
+          "like_count": 124991,
+          "listed_count": 8,
+          "media_count": 2908,
+          "tweet_count": 24215
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "多意识体-桔梗系统。北雁ふみんです。被剪掉垂耳的传染性兔（部分时候不是）。持久而长久的睡眠障碍者。🚪128，是的、我们需要钱。she/her/they/them, if it matters",
+        "id": "1315706812935487489",
+        "location": "Ará Orún",
+        "name": "3-Methylthiofentanyl",
+        "pinned_tweet_id": "2006417391631442157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 208,
+          "like_count": 3007,
+          "listed_count": 10,
+          "media_count": 2337,
+          "tweet_count": 20875
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

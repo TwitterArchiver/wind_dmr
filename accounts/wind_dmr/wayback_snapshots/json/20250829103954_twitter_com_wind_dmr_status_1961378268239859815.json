@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961350993368809472"
+      ],
+      "media_source_tweet_id": [
+        "1961351150982361473"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "1961378268239859815",
+    "created_at": "2025-08-29T10:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T11:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961378268239859815"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538097824826806273",
+          "start": 3,
+          "username": "benevolels"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j41qRScASW",
+          "end": 58,
+          "expanded_url": "https://x.com/benevolels/status/1961351150982361473/photo/1",
+          "media_key": "3_1961350993368809472",
+          "start": 35,
+          "url": "https://t.co/j41qRScASW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961378268239859815",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961351150982361473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benevolels: 点数秒だけキスするご褒美 #創作百合 https://t.co/j41qRScASW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1961350993368809472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgeVjebgAAcjsz.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961350993368809472"
+          ],
+          "media_source_tweet_id": [
+            "1961351150982361473"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1961378268239859815",
+        "created_at": "2025-08-29T10:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T11:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961378268239859815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538097824826806273",
+              "start": 3,
+              "username": "benevolels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j41qRScASW",
+              "end": 58,
+              "expanded_url": "https://x.com/benevolels/status/1961351150982361473/photo/1",
+              "media_key": "3_1961350993368809472",
+              "start": 35,
+              "url": "https://t.co/j41qRScASW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961378268239859815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961351150982361473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benevolels: 点数秒だけキスするご褒美 #創作百合 https://t.co/j41qRScASW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961350993368809472"
+          ]
+        },
+        "author_id": "1538097824826806273",
+        "conversation_id": "1961351150982361473",
+        "created_at": "2025-08-29T08:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961351150982361473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j41qRScASW",
+              "end": 42,
+              "expanded_url": "https://x.com/benevolels/status/1961351150982361473/photo/1",
+              "media_key": "3_1961350993368809472",
+              "start": 19,
+              "url": "https://t.co/j41qRScASW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961351150982361473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 34273,
+          "like_count": 3687,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "点数秒だけキスするご褒美 #創作百合 https://t.co/j41qRScASW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 750,
+          "like_count": 118802,
+          "listed_count": 8,
+          "media_count": 2847,
+          "tweet_count": 23561
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T09:54:37.000Z",
+        "description": "イラストを描いています。百合とか神秘的な絵が好き。| FANBOX: https://t.co/MMIK8XXbLI | Skeb: https://t.co/Iii4d837O3 | お仕事: benebolepwd@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "benevolepwd.fanbox.cc",
+                "end": 58,
+                "expanded_url": "http://benevolepwd.fanbox.cc",
+                "start": 35,
+                "url": "https://t.co/MMIK8XXbLI"
+              },
+              {
+                "display_url": "skeb.jp/@benevolepwd",
+                "end": 90,
+                "expanded_url": "http://skeb.jp/@benevolepwd",
+                "start": 67,
+                "url": "https://t.co/Iii4d837O3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10232687",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/10232687",
+                "start": 0,
+                "url": "https://t.co/BhfORodtkq"
+              }
+            ]
+          }
+        },
+        "id": "1538097824826806273",
+        "location": "日本",
+        "name": "べねぼれ",
+        "pinned_tweet_id": "1953027212975980769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538098063499489280/CeR6CObC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214860,
+          "following_count": 90,
+          "like_count": 700,
+          "listed_count": 1222,
+          "media_count": 180,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/BhfORodtkq",
+        "username": "benevolels",
+        "verified": true
+      }
+    ]
+  }
+}

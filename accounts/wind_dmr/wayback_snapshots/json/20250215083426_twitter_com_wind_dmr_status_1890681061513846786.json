@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890681050772512768"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1890679774080577932",
+    "created_at": "2025-02-15T08:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T09:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890681061513846786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qIXkngR3L",
+          "end": 39,
+          "expanded_url": "https://x.com/wind_dmr/status/1890681061513846786/photo/1",
+          "media_key": "3_1890681050772512768",
+          "start": 16,
+          "url": "https://t.co/4qIXkngR3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890681061513846786",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890679774080577932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake https://t.co/4qIXkngR3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1890681050772512768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0MZf7boAA4mE1.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890681050772512768"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1890679774080577932",
+        "created_at": "2025-02-15T08:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890681061513846786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qIXkngR3L",
+              "end": 39,
+              "expanded_url": "https://x.com/wind_dmr/status/1890681061513846786/photo/1",
+              "media_key": "3_1890681050772512768",
+              "start": 16,
+              "url": "https://t.co/4qIXkngR3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890681061513846786",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890679774080577932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake https://t.co/4qIXkngR3L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890679766879191040"
+          ]
+        },
+        "author_id": "1315706812935487489",
+        "conversation_id": "1890679774080577932",
+        "created_at": "2025-02-15T08:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890679774080577932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIjU3w6plv",
+              "end": 23,
+              "expanded_url": "https://x.com/maigo_wakatake/status/1890679774080577932/photo/1",
+              "media_key": "3_1890679766879191040",
+              "start": 0,
+              "url": "https://t.co/AIjU3w6plv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890679774080577932",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AIjU3w6plv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 703,
+          "like_count": 109942,
+          "listed_count": 8,
+          "media_count": 2653,
+          "tweet_count": 22562
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "北雁ふみんです。被剪掉垂耳的兔。顺直男🚪128。",
+        "id": "1315706812935487489",
+        "location": "私にも見えるはず",
+        "name": "笋。",
+        "pinned_tweet_id": "1890383401653256240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 204,
+          "like_count": 2877,
+          "listed_count": 6,
+          "media_count": 1942,
+          "tweet_count": 17268
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

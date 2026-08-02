@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1881594898312503509",
+    "created_at": "2025-01-21T07:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T08:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881604798824505515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832969632309022720",
+          "start": 0,
+          "username": "AuroraLillia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881604798824505515",
+    "in_reply_to_user_id": "1832969632309022720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881594898312503509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraLillia 哪个时区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1881594898312503509",
+        "created_at": "2025-01-21T07:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881604798824505515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832969632309022720",
+              "start": 0,
+              "username": "AuroraLillia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881604798824505515",
+        "in_reply_to_user_id": "1832969632309022720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881594898312503509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraLillia 哪个时区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832969632309022720",
+        "conversation_id": "1881594898312503509",
+        "created_at": "2025-01-21T06:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881594898312503509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auroralillia/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/auroralillia/status/1876845703659397474",
+              "start": 10,
+              "url": "https://t.co/HamRpSYLkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881594898312503509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876845703659397474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有24-48小时 https://t.co/HamRpSYLkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 701,
+          "like_count": 104591,
+          "listed_count": 7,
+          "media_count": 2604,
+          "tweet_count": 22031
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T02:30:06.000Z",
+        "description": "星の旅人スターゲイザーリリィ。 繁花の詩「@Fleur_indefinie」、星の追跡「@moemoeta17316」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Fleur_indefinie"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "moemoeta17316"
+              }
+            ]
+          }
+        },
+        "id": "1832969632309022720",
+        "location": "💜🩷🤍💛🧡",
+        "name": "La étoilée chantante✨",
+        "pinned_tweet_id": "1878084462514430408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873574489386266624/fabrEPbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 398,
+          "like_count": 13412,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 3835
+        },
+        "username": "AuroraLillia",
+        "verified": false
+      }
+    ]
+  }
+}

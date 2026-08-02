@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1847434770390597652",
+    "created_at": "2024-10-19T01:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T02:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847442647600026025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745741310819196928",
+          "start": 0,
+          "username": "Mphforlove"
+        },
+        {
+          "end": 22,
+          "id": "1761821960978460672",
+          "start": 12,
+          "username": "oct424242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847442647600026025",
+    "in_reply_to_user_id": "1745741310819196928",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847442044849180952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mphforlove @oct424242 确实，但我没有更好的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1847442044849180952].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1847442044849180952",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1847442044849180952"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1847434770390597652",
+        "created_at": "2024-10-19T01:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T02:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847442647600026025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745741310819196928",
+              "start": 0,
+              "username": "Mphforlove"
+            },
+            {
+              "end": 22,
+              "id": "1761821960978460672",
+              "start": 12,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847442647600026025",
+        "in_reply_to_user_id": "1745741310819196928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847442044849180952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mphforlove @oct424242 确实，但我没有更好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 669,
+          "like_count": 96464,
+          "listed_count": 5,
+          "tweet_count": 20615
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T09:35:47.000Z",
+        "description": "ok so …",
+        "id": "1745741310819196928",
+        "location": "今天祈祷上帝下三天mph的雨",
+        "name": "Quixotic",
+        "pinned_tweet_id": "1829906927570338188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811714917231394818/WUcPaeuU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 58,
+          "like_count": 5307,
+          "listed_count": 0,
+          "tweet_count": 3445
+        },
+        "username": "Mphforlove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "=陆生章鱼|they/them🏳️‍🌈🏳️‍⚧️伪装成跨男娘的agender|泛浪漫无性恋，恋爱中❤|神经多样性(asd/adhd/抑郁/焦虑/疑似双相混合Ⅱ型？)|物理系cosmology|中文/eng|oc人|哥特|医疗系|欢迎互fo和小窗",
+        "id": "1761821960978460672",
+        "location": "常驻北美",
+        "name": "陸生章魚🐙🎭💉🕸️📚🌌",
+        "pinned_tweet_id": "1817697798558458190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 82,
+          "like_count": 326,
+          "listed_count": 0,
+          "tweet_count": 285
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

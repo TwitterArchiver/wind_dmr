@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975516135610257408"
+      ],
+      "media_source_tweet_id": [
+        "1975516144590307600"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1975821437798916271",
+    "created_at": "2025-10-08T07:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T08:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975821437798916271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1385991185689284608",
+          "start": 3,
+          "username": "Joshua78261443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gKd4Y7Qwlx",
+          "end": 43,
+          "expanded_url": "https://x.com/Joshua78261443/status/1975516144590307600/photo/1",
+          "media_key": "3_1975516135610257408",
+          "start": 20,
+          "url": "https://t.co/gKd4Y7Qwlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975821437798916271",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975516144590307600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joshua78261443: https://t.co/gKd4Y7Qwlx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1975516135610257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pxdWcaEAAgJiv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975516135610257408"
+          ],
+          "media_source_tweet_id": [
+            "1975516144590307600"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1975821437798916271",
+        "created_at": "2025-10-08T07:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975821437798916271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1385991185689284608",
+              "start": 3,
+              "username": "Joshua78261443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKd4Y7Qwlx",
+              "end": 43,
+              "expanded_url": "https://x.com/Joshua78261443/status/1975516144590307600/photo/1",
+              "media_key": "3_1975516135610257408",
+              "start": 20,
+              "url": "https://t.co/gKd4Y7Qwlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975821437798916271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975516144590307600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joshua78261443: https://t.co/gKd4Y7Qwlx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975516135610257408"
+          ]
+        },
+        "author_id": "1385991185689284608",
+        "conversation_id": "1975516144590307600",
+        "created_at": "2025-10-07T10:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975516144590307600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKd4Y7Qwlx",
+              "end": 23,
+              "expanded_url": "https://x.com/Joshua78261443/status/1975516144590307600/photo/1",
+              "media_key": "3_1975516135610257408",
+              "start": 0,
+              "url": "https://t.co/gKd4Y7Qwlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975516144590307600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 77640,
+          "like_count": 1018,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gKd4Y7Qwlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 799,
+          "like_count": 120693,
+          "listed_count": 9,
+          "media_count": 2866,
+          "tweet_count": 23793
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:17:18.000Z",
+        "description": "",
+        "id": "1385991185689284608",
+        "name": "Joshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894772626612224000/kOuH4Xcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3985,
+          "following_count": 988,
+          "like_count": 38104,
+          "listed_count": 25,
+          "media_count": 2686,
+          "tweet_count": 18016
+        },
+        "username": "Joshua78261443",
+        "verified": false
+      }
+    ]
+  }
+}

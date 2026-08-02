@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1981446377680097496",
+    "created_at": "2025-10-23T19:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T20:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981446377680097496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1745437001334308864",
+          "start": 3,
+          "username": "olive_trees234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981446377680097496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981300033673974248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @olive_trees234: 特大好消息\n支付宝搜索麦当劳\n上面的活动烂进去可以领取鸡腿\n重新进又可以领取\n最多十次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1981446377680097496",
+        "created_at": "2025-10-23T19:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T20:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981446377680097496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1745437001334308864",
+              "start": 3,
+              "username": "olive_trees234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981446377680097496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981300033673974248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @olive_trees234: 特大好消息\n支付宝搜索麦当劳\n上面的活动烂进去可以领取鸡腿\n重新进又可以领取\n最多十次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745437001334308864",
+        "conversation_id": "1981300033673974248",
+        "created_at": "2025-10-23T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981300033673974248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981300033673974248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9542,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "特大好消息\n支付宝搜索麦当劳\n上面的活动烂进去可以领取鸡腿\n重新进又可以领取\n最多十次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 812,
+          "like_count": 121367,
+          "listed_count": 9,
+          "media_count": 2875,
+          "tweet_count": 23894
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T13:27:20.000Z",
+        "description": "🚫Politics🚫 友链@kingeorge94",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "kingeorge94"
+              }
+            ]
+          }
+        },
+        "id": "1745437001334308864",
+        "location": "0.1km",
+        "name": "olive trees",
+        "pinned_tweet_id": "1980914356272672881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979424031297204225/MsywTiNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5925,
+          "following_count": 2782,
+          "like_count": 45411,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 11262
+        },
+        "username": "olive_trees234",
+        "verified": false
+      }
+    ]
+  }
+}

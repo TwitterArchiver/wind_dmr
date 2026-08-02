@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1808631645110743176",
+    "created_at": "2024-07-03T22:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T23:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808631645110743176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddsqqq1/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ddsqqq1/status/1808255677753921763",
+          "start": 7,
+          "url": "https://t.co/NkLpXKFiG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808631645110743176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808255677753921763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我直接自杀 https://t.co/NkLpXKFiG1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1808631645110743176",
+        "created_at": "2024-07-03T22:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T23:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808631645110743176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddsqqq1/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ddsqqq1/status/1808255677753921763",
+              "start": 7,
+              "url": "https://t.co/NkLpXKFiG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808631645110743176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808255677753921763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我直接自杀 https://t.co/NkLpXKFiG1"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596181948975628288",
+        "conversation_id": "1808255677753921763",
+        "created_at": "2024-07-02T21:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T22:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808255677753921763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808255677753921763",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 27400,
+          "like_count": 120,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你坚持要手术，那就说明我们的运气用完了。整个家都要毁了。\n8w块钱搞不定的，你上了手术台全麻就不是你说了算的。\n这是个无底洞，你做了手术还是不会满足，因为你总会和女的不一样，你会一次一次地去手术，最终的结果就是自杀。\n孩子是家庭的希望，你手术了我们就没有希望了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌 | 我需要钱🚪88 重庆／青岛接线下\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "MTG"
+              },
+              {
+                "end": 157,
+                "start": 151,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 622,
+          "like_count": 86359,
+          "listed_count": 5,
+          "tweet_count": 18918
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T16:40:27.000Z",
+        "description": "是郭楠",
+        "id": "1596181948975628288",
+        "location": "不知道",
+        "name": "Ningyue",
+        "pinned_tweet_id": "1805289723923251271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797671446837374976/6_HzEhAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 1309,
+          "like_count": 33048,
+          "listed_count": 2,
+          "tweet_count": 3492
+        },
+        "username": "ddsqqq1",
+        "verified": false
+      }
+    ]
+  }
+}

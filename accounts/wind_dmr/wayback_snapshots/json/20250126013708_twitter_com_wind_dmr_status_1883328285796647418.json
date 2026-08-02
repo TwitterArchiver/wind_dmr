@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1883328285796647418",
+    "created_at": "2025-01-26T01:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T02:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883328285796647418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChisakaKanako/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ChisakaKanako/status/1883327252978696196",
+          "start": 6,
+          "url": "https://t.co/gXGp2qZII9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883328285796647418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883327252978696196",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁和我换头 https://t.co/gXGp2qZII9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1883328285796647418",
+        "created_at": "2025-01-26T01:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T02:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883328285796647418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChisakaKanako/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ChisakaKanako/status/1883327252978696196",
+              "start": 6,
+              "url": "https://t.co/gXGp2qZII9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883328285796647418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883327252978696196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我换头 https://t.co/gXGp2qZII9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "1883327252978696196",
+        "created_at": "2025-01-26T01:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T02:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883327252978696196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883327252978696196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好的解决办法根本不是手术也不是改证\n就算手术了改证了\n失去的身体不会还给你\n失去的人生不会还给你\n失去的生活\n失去的全部东西都不会还给你\n什么都没有\n最好的解决办法从来就只有两个\n一个是重新投胎\n一个是和顺女换头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 698,
+          "like_count": 106397,
+          "listed_count": 8,
+          "media_count": 2615,
+          "tweet_count": 22240
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "❤️‍🩹 @Tszcoco 非二元毁了我的女同梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "Tszcoco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa",
+                "start": 0,
+                "url": "https://t.co/mN1iKmXb31"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "🏳️‍⚧️",
+        "name": "千坂神奈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873171658141569024/dImoFBPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 1495,
+          "like_count": 39653,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/mN1iKmXb31",
+        "username": "ChisakaKanako",
+        "verified": false
+      }
+    ]
+  }
+}

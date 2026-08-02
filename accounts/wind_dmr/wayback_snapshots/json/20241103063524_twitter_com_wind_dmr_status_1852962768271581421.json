@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852962764609949696"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1852956103522533632",
+    "created_at": "2024-11-03T06:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T07:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852962768271581421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533301064358735872",
+          "start": 0,
+          "username": "shiroko_sukida"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ChgWTZF0FP",
+          "end": 60,
+          "expanded_url": "https://x.com/wind_dmr/status/1852962768271581421/photo/1",
+          "media_key": "3_1852962764609949696",
+          "start": 37,
+          "url": "https://t.co/ChgWTZF0FP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852962768271581421",
+    "in_reply_to_user_id": "1533301064358735872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852956103522533632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko_sukida 太舒服了太巴适了，无法形容的美妙放松感觉 https://t.co/ChgWTZF0FP"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852956103522533632].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852956103522533632",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852956103522533632"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1852962764609949696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbcL0SaaEAAlz4J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852962764609949696"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1852956103522533632",
+        "created_at": "2024-11-03T06:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T07:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852962768271581421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533301064358735872",
+              "start": 0,
+              "username": "shiroko_sukida"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChgWTZF0FP",
+              "end": 60,
+              "expanded_url": "https://x.com/wind_dmr/status/1852962768271581421/photo/1",
+              "media_key": "3_1852962764609949696",
+              "start": 37,
+              "url": "https://t.co/ChgWTZF0FP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852962768271581421",
+        "in_reply_to_user_id": "1533301064358735872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852956103522533632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko_sukida 太舒服了太巴适了，无法形容的美妙放松感觉 https://t.co/ChgWTZF0FP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 676,
+          "like_count": 97403,
+          "listed_count": 6,
+          "tweet_count": 20798
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-05T04:14:22.000Z",
+        "description": "不要翻以前的推",
+        "id": "1533301064358735872",
+        "location": "disco at 太陽系",
+        "name": "寧々ちゃん",
+        "pinned_tweet_id": "1836798400274309218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822984882156621824/l-tLmVoT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 412,
+          "like_count": 5822,
+          "listed_count": 0,
+          "tweet_count": 1059
+        },
+        "username": "shiroko_sukida",
+        "verified": false
+      }
+    ]
+  }
+}

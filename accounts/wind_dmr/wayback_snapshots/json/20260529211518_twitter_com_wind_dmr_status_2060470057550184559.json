@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2060340821615055207",
+    "created_at": "2026-05-29T21:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060470057550184559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997292379385307136",
+          "start": 0,
+          "username": "baeghui_1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060470057550184559",
+    "in_reply_to_user_id": "1997292379385307136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060340821615055207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baeghui_1206 因为害怕死后的世界会更差。因为还有想要得到的知识。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2060340821615055207",
+        "created_at": "2026-05-29T21:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060470057550184559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997292379385307136",
+              "start": 0,
+              "username": "baeghui_1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060470057550184559",
+        "in_reply_to_user_id": "1997292379385307136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060340821615055207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baeghui_1206 因为害怕死后的世界会更差。因为还有想要得到的知识。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997292379385307136",
+        "conversation_id": "2060340821615055207",
+        "created_at": "2026-05-29T12:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060340821615055207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060340821615055207",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6836,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 112,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "다들 뭐땜에 살아갈까"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 873,
+          "like_count": 127948,
+          "listed_count": 8,
+          "media_count": 2984,
+          "tweet_count": 24941
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T13:10:00.000Z",
+        "description": "낭랑십육세",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1070405205/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1070405205/",
+                "start": 0,
+                "url": "https://t.co/PwK9YagpLP"
+              }
+            ]
+          }
+        },
+        "id": "1997292379385307136",
+        "location": "정신병바이",
+        "name": "백희",
+        "pinned_tweet_id": "2058854182241853770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997293102290329600/QX4bkJ_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 347,
+          "like_count": 2151,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 9535
+        },
+        "url": "https://t.co/PwK9YagpLP",
+        "username": "baeghui_1206",
+        "verified": false
+      }
+    ]
+  }
+}

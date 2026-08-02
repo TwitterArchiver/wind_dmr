@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1888646385437638888",
+    "created_at": "2025-02-09T21:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T22:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888708065631121708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "823739846229303296",
+          "start": 0,
+          "username": "wholock1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888708065631121708",
+    "in_reply_to_user_id": "823739846229303296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888646385437638888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wholock1011 这不是很正常吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1888646385437638888",
+        "created_at": "2025-02-09T21:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T22:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888708065631121708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "823739846229303296",
+              "start": 0,
+              "username": "wholock1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888708065631121708",
+        "in_reply_to_user_id": "823739846229303296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888646385437638888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wholock1011 这不是很正常吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823739846229303296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1888646385437638888",
+        "created_at": "2025-02-09T17:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T18:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888646385437638888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/targaryenliu/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/targaryenliu/status/1888161683321110948",
+              "start": 33,
+              "url": "https://t.co/q5BEXoqkPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888646385437638888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888161683321110948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不明白为啥笑？\n我觉得这xp挺正常的 也算cosplay的一种吧 https://t.co/q5BEXoqkPe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 703,
+          "like_count": 109095,
+          "listed_count": 8,
+          "media_count": 2636,
+          "tweet_count": 22461
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T03:50:58.000Z",
+        "description": "Hi, I'm Rusty.🇨🇦 INTJ/Capricorn摩羯座/Pansexual泛性恋FTX/BPD/FemDom/ Switch可s可m/点赞转推狂魔 可以去media媒体看我/ ntr重度爱好者/找绿奴对象中/RPN student/185cm 120kg/🚪30加币 可约可聊天~",
+        "id": "823739846229303296",
+        "location": "CAMH",
+        "name": "Rusty. V 🇨🇦🏳️‍⚧️",
+        "pinned_tweet_id": "1880114715311092040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344676520447496194/CA9B_Q7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 1947,
+          "like_count": 38540,
+          "listed_count": 8,
+          "media_count": 728,
+          "tweet_count": 19740
+        },
+        "username": "wholock1011",
+        "verified": true
+      }
+    ]
+  }
+}

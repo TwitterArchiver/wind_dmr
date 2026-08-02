@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1809040497979314554",
+    "created_at": "2024-07-05T01:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T02:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809040497979314554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knowledgefxg/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/knowledgefxg/status/1808720849504981294",
+          "start": 2,
+          "url": "https://t.co/Z7R6SZe2Ed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809040497979314554",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808720849504981294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "c https://t.co/Z7R6SZe2Ed"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1809040497979314554",
+        "created_at": "2024-07-05T01:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T02:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809040497979314554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knowledgefxg/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/knowledgefxg/status/1808720849504981294",
+              "start": 2,
+              "url": "https://t.co/Z7R6SZe2Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809040497979314554",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808720849504981294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "c https://t.co/Z7R6SZe2Ed"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808720790038196224"
+          ]
+        },
+        "author_id": "1478042617958912005",
+        "conversation_id": "1808720849504981294",
+        "created_at": "2024-07-04T04:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T05:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808720849504981294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VvOknbkta8",
+              "end": 44,
+              "expanded_url": "https://twitter.com/knowledgefxg/status/1808720849504981294/photo/1",
+              "media_key": "3_1808720790038196224",
+              "start": 21,
+              "url": "https://t.co/VvOknbkta8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808720849504981294",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 246574,
+          "like_count": 858,
+          "quote_count": 108,
+          "reply_count": 584,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "你的第一次hello world给了谁？ https://t.co/VvOknbkta8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌 | 我需要钱🚪88 重庆／青岛接线下\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "MTG"
+              },
+              {
+                "end": 157,
+                "start": 151,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 624,
+          "like_count": 86516,
+          "listed_count": 5,
+          "tweet_count": 18948
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 本人一直在用的高速稳定机场推荐：https://t.co/naPr2Oreoj 可解锁奈飞等流媒体",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ss.cn88.net/#/register?cod…",
+                "end": 93,
+                "expanded_url": "https://ss.cn88.net/#/register?code=D6joFq0e",
+                "start": 70,
+                "url": "https://t.co/naPr2Oreoj"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1808720849504981294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106385,
+          "following_count": 1027,
+          "like_count": 14988,
+          "listed_count": 664,
+          "tweet_count": 4654
+        },
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1887109628577673507",
+    "created_at": "2025-02-05T12:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T13:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887109628577673507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LocalBateman/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/LocalBateman/status/1886761631759126708",
+          "start": 4,
+          "url": "https://t.co/Atjq1PUTqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887109628577673507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886761631759126708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我同意 https://t.co/Atjq1PUTqw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1887109628577673507",
+        "created_at": "2025-02-05T12:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887109628577673507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LocalBateman/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/LocalBateman/status/1886761631759126708",
+              "start": 4,
+              "url": "https://t.co/Atjq1PUTqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887109628577673507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886761631759126708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我同意 https://t.co/Atjq1PUTqw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886543621387640832"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "conversation_id": "1886761631759126708",
+        "created_at": "2025-02-04T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886761631759126708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5tvPgr1qt",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/1886761631759126708/photo/1",
+              "media_key": "3_1886543621387640832",
+              "start": 0,
+              "url": "https://t.co/C5tvPgr1qt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886761631759126708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 126499,
+          "like_count": 9368,
+          "quote_count": 40,
+          "reply_count": 23,
+          "retweet_count": 777
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C5tvPgr1qt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 704,
+          "like_count": 108412,
+          "listed_count": 8,
+          "media_count": 2628,
+          "tweet_count": 22428
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722640,
+          "following_count": 190,
+          "like_count": 69755,
+          "listed_count": 1389,
+          "media_count": 17106,
+          "tweet_count": 20427
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

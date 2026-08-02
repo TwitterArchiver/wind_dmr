@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2005577967393739015",
+    "created_at": "2025-12-29T10:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T11:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005589458251653523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        },
+        {
+          "end": 24,
+          "id": "1983368046686416901",
+          "start": 12,
+          "username": "LuanjiaoBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005589458251653523",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005585668509233237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot @LuanjiaoBot 这是我妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2005577967393739015",
+        "created_at": "2025-12-29T10:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005589458251653523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            },
+            {
+              "end": 24,
+              "id": "1983368046686416901",
+              "start": 12,
+              "username": "LuanjiaoBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005589458251653523",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005585668509233237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot @LuanjiaoBot 这是我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "2005577967393739015",
+        "created_at": "2025-12-29T10:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005585668509233237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983368046686416901",
+              "start": 0,
+              "username": "LuanjiaoBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005585668509233237",
+        "in_reply_to_user_id": "1983368046686416901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005577967393739015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuanjiaoBot 这是我妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 830,
+          "like_count": 124305,
+          "listed_count": 8,
+          "media_count": 2906,
+          "tweet_count": 24143
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "郭楠｜内含猎奇恶俗发言请谨慎关注",
+        "id": "1657055349982244865",
+        "location": "嘎巢",
+        "name": "嘎咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988971482501033984/3RyMzGth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 1062,
+          "like_count": 74751,
+          "listed_count": 6,
+          "media_count": 2113,
+          "tweet_count": 25332
+        },
+        "username": "Glagagapot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T02:59:36.000Z",
+        "description": "中二节奏，lo cos kig，virtual novel爱好者，pre-dpt，有猫",
+        "id": "1983368046686416901",
+        "location": "Columbus, OH",
+        "name": "乱叫bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994270662098026496/PUUdrzSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 148,
+          "like_count": 3635,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 303
+        },
+        "username": "LuanjiaoBot",
+        "verified": false
+      }
+    ]
+  }
+}

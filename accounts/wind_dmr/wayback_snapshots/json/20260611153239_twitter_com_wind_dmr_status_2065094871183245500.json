@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2065091447905497184",
+    "created_at": "2026-06-11T15:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065094871183245500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983368046686416901",
+          "start": 0,
+          "username": "LuanjiaoBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065094871183245500",
+    "in_reply_to_user_id": "1983368046686416901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065091447905497184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuanjiaoBot 黑猫？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065091429345751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKittrLbcAAYNp5.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2065091447905497184",
+        "created_at": "2026-06-11T15:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065094871183245500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983368046686416901",
+              "start": 0,
+              "username": "LuanjiaoBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065094871183245500",
+        "in_reply_to_user_id": "1983368046686416901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065091447905497184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuanjiaoBot 黑猫？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065091429345751040"
+          ]
+        },
+        "author_id": "1983368046686416901",
+        "conversation_id": "2065091447905497184",
+        "created_at": "2026-06-11T15:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065091447905497184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ap8YVQkDHV",
+              "end": 28,
+              "expanded_url": "https://x.com/LuanjiaoBot/status/2065091447905497184/photo/1",
+              "media_key": "3_2065091429345751040",
+              "start": 5,
+              "url": "https://t.co/Ap8YVQkDHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065091447905497184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白毛！？ https://t.co/Ap8YVQkDHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 873,
+          "like_count": 128142,
+          "listed_count": 8,
+          "media_count": 2987,
+          "tweet_count": 24955
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:59:36.000Z",
+        "description": "给我能量",
+        "id": "1983368046686416901",
+        "location": "Columbus, OH",
+        "name": "开心小花？？？",
+        "pinned_tweet_id": "2008733131541787074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042837030795673600/6xxRVn6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 291,
+          "like_count": 20855,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1310
+        },
+        "username": "LuanjiaoBot",
+        "verified": false
+      }
+    ]
+  }
+}

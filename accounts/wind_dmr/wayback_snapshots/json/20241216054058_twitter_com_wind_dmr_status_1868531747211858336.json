@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1868391735333958032",
+    "created_at": "2024-12-16T05:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T06:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868531747211858336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881002090637557760",
+          "start": 0,
+          "username": "SharuruHolmes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868531747211858336",
+    "in_reply_to_user_id": "881002090637557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868391735333958032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharuruHolmes 是真的难听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1868391735333958032",
+        "created_at": "2024-12-16T05:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T06:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868531747211858336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881002090637557760",
+              "start": 0,
+              "username": "SharuruHolmes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868531747211858336",
+        "in_reply_to_user_id": "881002090637557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868391735333958032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharuruHolmes 是真的难听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881002090637557760",
+        "conversation_id": "1868391735333958032",
+        "created_at": "2024-12-15T20:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T21:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868391735333958032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JINPINGhateU/s…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/JINPINGhateU/status/1868181706785841478",
+              "start": 60,
+              "url": "https://t.co/kkffpK69Ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868391735333958032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868181706785841478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇多难听，我去听了一下，我男朋友在我隔壁，淡淡的评论了一句：变着花样玩恋童癖罢了\n🤣🤣🤣🤣\n笑死了\n确实很难听啊 https://t.co/kkffpK69Ve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 675,
+          "like_count": 100760,
+          "listed_count": 6,
+          "media_count": 2539,
+          "tweet_count": 21148
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T04:10:41.000Z",
+        "description": "179 54双鱼男高 正在学习如何善良 #智商超高 #拉爆你男友 #大孝子 #欺骗女人的事我做不到 #魅上照毁了我的卡密梦 #基拉 #沉淀 #清纯小白花 #恋爱脑 #40秒憋笑挑战 #35秒后就宣布胜利吧 #感谢L #死神感谢我 #局长是我爸 #其他人能做到吗 #你的冥字 #隔着屏薄纱杀你 #那场大雨毁了我的成神梦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "智商超高"
+              },
+              {
+                "end": 32,
+                "start": 26,
+                "tag": "拉爆你男友"
+              },
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "大孝子"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "欺骗女人的事我做不到"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "tag": "魅上照毁了我的卡密梦"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "基拉"
+              },
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "沉淀"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "清纯小白花"
+              },
+              {
+                "end": 81,
+                "start": 77,
+                "tag": "恋爱脑"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "40秒憋笑挑战"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "tag": "35秒后就宣布胜利吧"
+              },
+              {
+                "end": 107,
+                "start": 103,
+                "tag": "感谢L"
+              },
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "死神感谢我"
+              },
+              {
+                "end": 121,
+                "start": 115,
+                "tag": "局长是我爸"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "tag": "其他人能做到吗"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "你的冥字"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "隔着屏薄纱杀你"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "tag": "那场大雨毁了我的成神梦"
+              }
+            ]
+          }
+        },
+        "id": "881002090637557760",
+        "location": "不在天堂亦不在地狱",
+        "name": "夜神月",
+        "pinned_tweet_id": "1695649764392546797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866298613069905921/V4-XCB0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1041,
+          "like_count": 34140,
+          "listed_count": 3,
+          "media_count": 2501,
+          "tweet_count": 17757
+        },
+        "username": "SharuruHolmes",
+        "verified": false
+      }
+    ]
+  }
+}

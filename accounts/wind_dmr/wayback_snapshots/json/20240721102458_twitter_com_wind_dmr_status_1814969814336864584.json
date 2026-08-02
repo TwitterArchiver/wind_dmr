@@ -1,0 +1,515 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043701977",
+          "name": "Microsoft Azure"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "1814548804907245976",
+    "created_at": "2024-07-21T10:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-21T11:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814969814336864584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18861097",
+          "start": 0,
+          "username": "BreeStealth"
+        },
+        {
+          "end": 28,
+          "id": "40689665",
+          "start": 13,
+          "username": "_GoingOutSide_"
+        },
+        {
+          "end": 40,
+          "id": "28964807",
+          "start": 29,
+          "username": "middlefeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814969814336864584",
+    "in_reply_to_user_id": "18861097",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814866859570688411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BreeStealth @_GoingOutSide_ @middlefeng 没看到相关信息，根据多数媒体信息似乎也只是因为提到了falcon导致了各种问题，搜索可能是“微软企业全家桶”的Microsoft enterprise 365 和 Microsoft azure相关关键词也未找到任何有效信息，只有一条《印度快报》的文章明确说明了和微软无关，只是因为crowdstrike向大企业提供服务较多所以个人报告较少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701977",
+              "name": "Microsoft Azure"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "1814548804907245976",
+        "created_at": "2024-07-21T10:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T11:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814969814336864584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18861097",
+              "start": 0,
+              "username": "BreeStealth"
+            },
+            {
+              "end": 28,
+              "id": "40689665",
+              "start": 13,
+              "username": "_GoingOutSide_"
+            },
+            {
+              "end": 40,
+              "id": "28964807",
+              "start": 29,
+              "username": "middlefeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814969814336864584",
+        "in_reply_to_user_id": "18861097",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814866859570688411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BreeStealth @_GoingOutSide_ @middlefeng 没看到相关信息，根据多数媒体信息似乎也只是因为提到了falcon导致了各种问题，搜索可能是“微软企业全家桶”的Microsoft enterprise 365 和 Microsoft azure相关关键词也未找到任何有效信息，只有一条《印度快报》的文章明确说明了和微软无关，只是因为crowdstrike向大企业提供服务较多所以个人报告较少"
+      },
+      {
+        "attachments": {},
+        "author_id": "18861097",
+        "conversation_id": "1814548804907245976",
+        "created_at": "2024-07-21T03:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T04:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814866859570688411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "40689665",
+              "start": 0,
+              "username": "_GoingOutSide_"
+            },
+            {
+              "end": 27,
+              "id": "28964807",
+              "start": 16,
+              "username": "middlefeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814866859570688411",
+        "in_reply_to_user_id": "40689665",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814834266167255467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_GoingOutSide_ @middlefeng 求信息来源，尤其是“强制三平台安装”。搜了一圈没有看到相关信息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 648,
+          "like_count": 90034,
+          "listed_count": 5,
+          "tweet_count": 19569
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-11T08:13:16.000Z",
+        "description": "一个做敏捷咨询的手艺人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/breestealth",
+                "end": 23,
+                "expanded_url": "http://about.me/breestealth",
+                "start": 0,
+                "url": "https://t.co/7eqhqPvosk"
+              }
+            ]
+          }
+        },
+        "id": "18861097",
+        "location": "Nanjing, The Republic of China",
+        "name": "腾风无踪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608798798243037187/G8ccRKFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 288,
+          "like_count": 84,
+          "listed_count": 30,
+          "tweet_count": 17301
+        },
+        "url": "https://t.co/7eqhqPvosk",
+        "username": "BreeStealth",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-17T16:43:56.000Z",
+        "description": "I read, I learn and I know.",
+        "id": "40689665",
+        "location": "深水埗, 香港",
+        "name": "GOS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355847626306949122/LeQcHLI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 844,
+          "like_count": 58019,
+          "listed_count": 5,
+          "tweet_count": 15224
+        },
+        "username": "_GoingOutSide_",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T09:21:32.000Z",
+        "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sipoint.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://sipoint.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/dqrvA7lEm3"
+              }
+            ]
+          }
+        },
+        "id": "28964807",
+        "location": "San Jose, CA",
+        "name": "FENG DONG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 718,
+          "like_count": 589,
+          "listed_count": 73,
+          "tweet_count": 25043
+        },
+        "url": "https://t.co/dqrvA7lEm3",
+        "username": "middlefeng",
+        "verified": false
+      }
+    ]
+  }
+}

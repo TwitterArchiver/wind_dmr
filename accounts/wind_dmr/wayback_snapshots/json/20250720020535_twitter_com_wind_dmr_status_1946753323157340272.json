@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1946753323157340272",
+    "created_at": "2025-07-20T02:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946753323157340272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755860009878253569",
+          "start": 3,
+          "username": "AnG1e_oiio15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946753323157340272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946601374462136718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnG1e_oiio15: 宝宝我知道你，嘴上说着想谈恋爱，真谈上了就开始内耗还嫌麻烦，天天眼红别人开张，真有人要约又不想去，装作除了钱什么都不爱的样子说要猛猛圈，真有人转个大的又不好意思收"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1946753323157340272",
+        "created_at": "2025-07-20T02:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946753323157340272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755860009878253569",
+              "start": 3,
+              "username": "AnG1e_oiio15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946753323157340272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946601374462136718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnG1e_oiio15: 宝宝我知道你，嘴上说着想谈恋爱，真谈上了就开始内耗还嫌麻烦，天天眼红别人开张，真有人要约又不想去，装作除了钱什么都不爱的样子说要猛猛圈，真有人转个大的又不好意思收"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755860009878253569",
+        "conversation_id": "1946601374462136718",
+        "created_at": "2025-07-19T16:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946601374462136718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946601374462136718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 21863,
+          "like_count": 379,
+          "quote_count": 19,
+          "reply_count": 56,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝我知道你，嘴上说着想谈恋爱，真谈上了就开始内耗还嫌麻烦，天天眼红别人开张，真有人要约又不想去，装作除了钱什么都不爱的样子说要猛猛圈，真有人转个大的又不好意思收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 711,
+          "like_count": 116922,
+          "listed_count": 8,
+          "media_count": 2841,
+          "tweet_count": 23497
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T07:43:52.000Z",
+        "description": "泛 | switch | intp | 不约不卡泡没门槛 | 要互关可以私信 会查成分 | 我的匿名提问箱：https://t.co/n7gls4tz6r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkpepper1",
+                "end": 77,
+                "expanded_url": "https://ngl.link/pinkpepper1",
+                "start": 54,
+                "url": "https://t.co/n7gls4tz6r"
+              }
+            ]
+          }
+        },
+        "id": "1755860009878253569",
+        "name": "粉红胡椒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917361595056795648/ttSuLt_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 194,
+          "like_count": 11818,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 3520
+        },
+        "username": "AnG1e_oiio15",
+        "verified": true
+      }
+    ]
+  }
+}

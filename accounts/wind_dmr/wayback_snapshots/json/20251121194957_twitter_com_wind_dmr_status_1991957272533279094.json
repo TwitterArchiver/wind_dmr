@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Internet of Things",
+          "id": "898657691010191360",
+          "name": "Internet of things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Internet of Things",
+          "id": "898657691010191360",
+          "name": "Internet of things"
+        }
+      }
+    ],
+    "conversation_id": "1991957272533279094",
+    "created_at": "2025-11-21T19:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T20:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991957272533279094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Megabits_mzq/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Megabits_mzq/status/1991823173189579014",
+          "start": 13,
+          "url": "https://t.co/KOBr2R8Fmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991957272533279094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991823173189579014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意还有开源替代牛逼的 https://t.co/KOBr2R8Fmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1991823168143769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RgnkiaQAAf91t.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          }
+        ],
+        "conversation_id": "1991957272533279094",
+        "created_at": "2025-11-21T19:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T20:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991957272533279094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Megabits_mzq/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Megabits_mzq/status/1991823173189579014",
+              "start": 13,
+              "url": "https://t.co/KOBr2R8Fmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991957272533279094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991823173189579014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意还有开源替代牛逼的 https://t.co/KOBr2R8Fmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991823168143769600"
+          ]
+        },
+        "author_id": "1079519718",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Internet of Things",
+              "id": "898657691010191360",
+              "name": "Internet of things"
+            }
+          }
+        ],
+        "conversation_id": "1991823173189579014",
+        "created_at": "2025-11-21T10:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991823173189579014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Connect and control all your sex toys from a single app. Control your toys with touch, speech, gamepads, timers, smartphone keys, webpage triggers, and more.",
+              "display_url": "xToys.app",
+              "end": 107,
+              "expanded_url": "http://xToys.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1991821338018029568/EzmQTW_-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991821338018029568/EzmQTW_-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "XToys.app",
+              "unwound_url": "https://xtoys.app/",
+              "url": "https://t.co/0pAUmOCQl9"
+            },
+            {
+              "display_url": "pic.x.com/ZcAmW7hvVA",
+              "end": 148,
+              "expanded_url": "https://x.com/Megabits_mzq/status/1991823173189579014/photo/1",
+              "media_key": "3_1991823168143769600",
+              "start": 125,
+              "url": "https://t.co/ZcAmW7hvVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991823173189579014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 5373,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "刚刷到有个女生淘宝买的玩具，每次搬家了客服都去骚扰她，后来才发现客户端会一直记录定位。\n\n不要相信任何本不需要联网或装 App 但非要你装的 IoT 设备。必要时使用 https://t.co/0pAUmOCQl9 替代官方 App。保护自己隐私。 https://t.co/ZcAmW7hvVA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 821,
+          "like_count": 122757,
+          "listed_count": 9,
+          "media_count": 2889,
+          "tweet_count": 24013
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-11T12:34:38.000Z",
+        "description": "English: @Megabits_Studio / 日本語: @Megabits_mzq_jp 金鱼一条 / 想做艺术，但只会写代码 / SLIT_STUDIO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Megabits_Studio"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Megabits_mzq_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "megabits.xyz",
+                "end": 23,
+                "expanded_url": "http://megabits.xyz",
+                "start": 0,
+                "url": "https://t.co/Y0tbaG5xdF"
+              }
+            ]
+          }
+        },
+        "id": "1079519718",
+        "location": "東京·鱼缸",
+        "name": "Megabits 🍪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729733422757892096/WEmf0gS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9772,
+          "following_count": 1403,
+          "like_count": 25370,
+          "listed_count": 108,
+          "media_count": 2021,
+          "tweet_count": 9471
+        },
+        "url": "https://t.co/Y0tbaG5xdF",
+        "username": "Megabits_mzq",
+        "verified": false
+      }
+    ]
+  }
+}

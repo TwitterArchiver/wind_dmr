@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077975556801642496"
+      ],
+      "media_source_tweet_id": [
+        "2077975561725755705"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2078084658110296428",
+    "created_at": "2026-07-17T11:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078084658110296428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535194265285931008",
+          "start": 3,
+          "username": "shotocake015"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgTxekoX7C",
+          "end": 64,
+          "expanded_url": "https://x.com/shotocake015/status/2077975561725755705/photo/1",
+          "media_key": "3_2077975556801642496",
+          "start": 41,
+          "url": "https://t.co/pgTxekoX7C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078084658110296428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1414
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077975561725755705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shotocake015: 今までで見た1番デカイOBSの画面、俺はこれ https://t.co/pgTxekoX7C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077975556801642496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZzwmMbQAAqfin.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077975556801642496"
+          ]
+        },
+        "author_id": "1535194265285931008",
+        "conversation_id": "2077975561725755705",
+        "created_at": "2026-07-17T04:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077975561725755705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgTxekoX7C",
+              "end": 46,
+              "expanded_url": "https://x.com/shotocake015/status/2077975561725755705/photo/1",
+              "media_key": "3_2077975556801642496",
+              "start": 23,
+              "url": "https://t.co/pgTxekoX7C"
+            },
+            {
+              "display_url": "x.com/reijaku__/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/reijaku__/status/2077690854622556468",
+              "start": 47,
+              "url": "https://t.co/pMOjVpIUUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077975561725755705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1103,
+          "impression_count": 1413564,
+          "like_count": 17122,
+          "quote_count": 61,
+          "reply_count": 42,
+          "retweet_count": 1414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077690854622556468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今までで見た1番デカイOBSの画面、俺はこれ https://t.co/pgTxekoX7C https://t.co/pMOjVpIUUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077975556801642496"
+          ],
+          "media_source_tweet_id": [
+            "2077975561725755705"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2078084658110296428",
+        "created_at": "2026-07-17T11:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078084658110296428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535194265285931008",
+              "start": 3,
+              "username": "shotocake015"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgTxekoX7C",
+              "end": 64,
+              "expanded_url": "https://x.com/shotocake015/status/2077975561725755705/photo/1",
+              "media_key": "3_2077975556801642496",
+              "start": 41,
+              "url": "https://t.co/pgTxekoX7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078084658110296428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077975561725755705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shotocake015: 今までで見た1番デカイOBSの画面、俺はこれ https://t.co/pgTxekoX7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 874,
+          "like_count": 128425,
+          "listed_count": 8,
+          "media_count": 2994,
+          "tweet_count": 24976
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T09:36:59.000Z",
+        "description": "🍰 // EGS(@EastGeekSmash) // 篝火(@KAGARIBI_smash) // andmore(@andmore_sb) //",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "EastGeekSmash"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "KAGARIBI_smash"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "andmore_sb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shotocake015",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/shotocake015",
+                "start": 0,
+                "url": "https://t.co/Bt7O9bSCza"
+              }
+            ]
+          }
+        },
+        "id": "1535194265285931008",
+        "location": "第13都市",
+        "name": "shotocake",
+        "pinned_tweet_id": "2051683291913506826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052093553447415808/Dyiig3RJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1293,
+          "like_count": 7962,
+          "listed_count": 10,
+          "media_count": 370,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/Bt7O9bSCza",
+        "username": "shotocake015",
+        "verified": false
+      }
+    ]
+  }
+}

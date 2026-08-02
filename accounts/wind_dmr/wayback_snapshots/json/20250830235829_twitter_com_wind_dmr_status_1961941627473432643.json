@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1961266765604024583",
+    "created_at": "2025-08-30T23:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T00:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961941627473432643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508447794537070595",
+          "start": 0,
+          "username": "sakura2333owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961941627473432643",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961266765604024583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura2333owo 这也太好看了……！假毛还是染的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8973,
+        "height": 1280,
+        "media_key": "13_1961266684897234948",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961266684897234948/img/wzgx8cfQ4vZN_Q8k.jpg",
+        "public_metrics": {
+          "view_count": 2387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961266684897234948/vid/avc1/320x568/2nXdhUIS5eRve8Uc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961266684897234948/vid/avc1/480x852/1_hE5yP7vd90Y0iU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961266684897234948/vid/avc1/720x1280/dcC7XDjY9FafAdhF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961266684897234948/pl/y4LGYJczENtKPsZa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1961266765604024583",
+        "created_at": "2025-08-30T23:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T00:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961941627473432643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961941627473432643",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961266765604024583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 这也太好看了……！假毛还是染的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961266684897234948"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1961266765604024583",
+        "created_at": "2025-08-29T03:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961266765604024583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geedIb3TAy",
+              "end": 39,
+              "expanded_url": "https://x.com/sakura2333owo/status/1961266765604024583/video/1",
+              "media_key": "13_1961266684897234948",
+              "start": 16,
+              "url": "https://t.co/geedIb3TAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961266765604024583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 8136,
+          "like_count": 513,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "新星空蝴蝶发色🦋(★＞U＜★) https://t.co/geedIb3TAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 755,
+          "like_count": 119059,
+          "listed_count": 9,
+          "media_count": 2849,
+          "tweet_count": 23594
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "☆自撮り/雑垢/絵/東方project/les ★鼠类预警⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "幻想乡-猫猫国",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1890660573580255607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34685,
+          "following_count": 280,
+          "like_count": 7317,
+          "listed_count": 63,
+          "media_count": 1115,
+          "tweet_count": 5058
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

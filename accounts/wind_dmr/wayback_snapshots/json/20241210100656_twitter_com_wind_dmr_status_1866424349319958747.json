@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1866347164491977075",
+    "created_at": "2024-12-10T10:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T11:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866424349319958747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1485324428934270983",
+          "start": 0,
+          "username": "bellukin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866424349319958747",
+    "in_reply_to_user_id": "1485324428934270983",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866347969697477059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bellukin 我也要吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866347969697477059].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866347969697477059",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866347969697477059"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1866347164491977075",
+        "created_at": "2024-12-10T10:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T11:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866424349319958747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1485324428934270983",
+              "start": 0,
+              "username": "bellukin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866424349319958747",
+        "in_reply_to_user_id": "1485324428934270983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866347969697477059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bellukin 我也要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 674,
+          "like_count": 100395,
+          "listed_count": 6,
+          "media_count": 2531,
+          "tweet_count": 21119
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T18:52:03.000Z",
+        "description": "Né dans la vallée profonde, le cœur tourné vers la colline élevée.",
+        "id": "1485324428934270983",
+        "location": "生于深谷",
+        "name": "Bellukin de la colline",
+        "pinned_tweet_id": "1788818906498384266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716726138494717952/rdzKexs8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 146,
+          "like_count": 21824,
+          "listed_count": 0,
+          "media_count": 1549,
+          "tweet_count": 12009
+        },
+        "username": "bellukin",
+        "verified": false
+      }
+    ]
+  }
+}

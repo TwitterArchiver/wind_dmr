@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1801573351426769071",
+    "created_at": "2024-06-14T11:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T12:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801573351426769071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1490675894238986251",
+          "start": 3,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801573351426769071",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801529314619572280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SyndicalismCat: 快被慢性病和精神病爱死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1801573351426769071",
+        "created_at": "2024-06-14T11:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T12:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801573351426769071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1490675894238986251",
+              "start": 3,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801573351426769071",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801529314619572280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SyndicalismCat: 快被慢性病和精神病爱死了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "1801529314619572280",
+        "created_at": "2024-06-14T08:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T09:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801529314619572280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801529314619572280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "快被慢性病和精神病爱死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 617,
+          "like_count": 83636,
+          "listed_count": 5,
+          "tweet_count": 17950
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "🏳️‍⚧️爱人/姐姐❤️@szc055555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "szc055555"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻拉面团子猫🎹",
+        "pinned_tweet_id": "1796127484162793523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780182712978112512/NXAs6cnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1197,
+          "like_count": 110699,
+          "listed_count": 11,
+          "tweet_count": 15030
+        },
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

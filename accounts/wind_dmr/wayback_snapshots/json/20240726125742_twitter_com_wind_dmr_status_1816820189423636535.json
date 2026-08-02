@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1816554831282340211",
+    "created_at": "2024-07-26T12:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T13:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816820189423636535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1173515096720474112",
+          "start": 0,
+          "username": "Fomalhaut_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816820189423636535",
+    "in_reply_to_user_id": "1173515096720474112",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816554831282340211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhaut_77 古怪舍好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1816554831282340211",
+        "created_at": "2024-07-26T12:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T13:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816820189423636535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1173515096720474112",
+              "start": 0,
+              "username": "Fomalhaut_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816820189423636535",
+        "in_reply_to_user_id": "1173515096720474112",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816554831282340211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhaut_77 古怪舍好耶"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816554827725627392"
+          ]
+        },
+        "author_id": "1173515096720474112",
+        "conversation_id": "1816554831282340211",
+        "created_at": "2024-07-25T19:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T20:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816554831282340211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jeUWsCTa0R",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Fomalhaut_77/status/1816554831282340211/photo/1",
+              "media_key": "3_1816554827725627392",
+              "start": 10,
+              "url": "https://t.co/jeUWsCTa0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816554831282340211",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜的日常大买特买 https://t.co/jeUWsCTa0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 661,
+          "like_count": 91043,
+          "listed_count": 5,
+          "tweet_count": 19713
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-16T08:33:05.000Z",
+        "description": "我是蒙著煙塵的火光，迎著一場盛大而不可回避的衰亡/\nmt（？）\n沉迷神秘学/宗教学/民俗学，被迫迁徙到海南\nINTP-INFP?\n2019.5.5-至今\n拒绝键政。",
+        "id": "1173515096720474112",
+        "location": "Nagoya-shi Nakamura, Aichi",
+        "name": "Fomalhaut✡️",
+        "pinned_tweet_id": "1816164571427795333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798937323566145536/_Cu-HJBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 173,
+          "like_count": 55,
+          "listed_count": 0,
+          "tweet_count": 563
+        },
+        "username": "Fomalhaut_77",
+        "verified": false
+      }
+    ]
+  }
+}

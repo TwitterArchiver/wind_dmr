@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079518368818970624"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2079518382903504908",
+    "created_at": "2026-07-21T10:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079518382903504908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YxbczK0lg3",
+          "end": 104,
+          "expanded_url": "https://x.com/wind_dmr/status/2079518382903504908/photo/1",
+          "media_key": "3_2079518368818970624",
+          "start": 81,
+          "url": "https://t.co/YxbczK0lg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079518382903504908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正常患者去开个普瑞，本来拼多多买药拍个医院病历的事还便宜，现在从精神科跑到疼痛科摇了两个医生一个药师，好不容易给我捣鼓出一个超说明书用药……抖音精神小伙害人不浅 https://t.co/YxbczK0lg3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2079518368818970624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvu8E1awAA73N8.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079518368818970624"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2079518382903504908",
+        "created_at": "2026-07-21T10:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079518382903504908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxbczK0lg3",
+              "end": 104,
+              "expanded_url": "https://x.com/wind_dmr/status/2079518382903504908/photo/1",
+              "media_key": "3_2079518368818970624",
+              "start": 81,
+              "url": "https://t.co/YxbczK0lg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079518382903504908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正常患者去开个普瑞，本来拼多多买药拍个医院病历的事还便宜，现在从精神科跑到疼痛科摇了两个医生一个药师，好不容易给我捣鼓出一个超说明书用药……抖音精神小伙害人不浅 https://t.co/YxbczK0lg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 874,
+          "like_count": 128376,
+          "listed_count": 8,
+          "media_count": 2995,
+          "tweet_count": 24975
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      }
+    ]
+  }
+}

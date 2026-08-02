@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1789310707819016541",
+    "created_at": "2024-05-11T15:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T16:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789313110802915645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659605492346372099",
+          "start": 0,
+          "username": "hoshinoharu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789313110802915645",
+    "in_reply_to_user_id": "1659605492346372099",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789310707819016541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoharu1 你在哪个区来着\n（话说为啥bio的网站链接是空的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1789310707819016541].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1789310707819016541",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1789310707819016541"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1789310707819016541",
+        "created_at": "2024-05-11T15:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789313110802915645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659605492346372099",
+              "start": 0,
+              "username": "hoshinoharu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789313110802915645",
+        "in_reply_to_user_id": "1659605492346372099",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789310707819016541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoharu1 你在哪个区来着\n（话说为啥bio的网站链接是空的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | $HTWT OD | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 42,
+                "start": 37,
+                "tag": "HTWT"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 78,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 130,
+                "start": 126,
+                "tag": "MTG"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 620,
+          "like_count": 83355,
+          "listed_count": 5,
+          "tweet_count": 17727
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T17:02:38.000Z",
+        "description": "🪼。别叫了，你们好吵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ndsl.com",
+                "end": 23,
+                "expanded_url": "http://ndsl.com",
+                "start": 0,
+                "url": "https://t.co/eUKbe19PPM"
+              }
+            ]
+          }
+        },
+        "id": "1659605492346372099",
+        "location": "太平洋",
+        "name": "晴（雨）",
+        "pinned_tweet_id": "1784487795257675777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785177958312980480/dNTVCoxY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6728,
+          "following_count": 496,
+          "like_count": 4,
+          "listed_count": 18,
+          "tweet_count": 11047
+        },
+        "url": "https://t.co/eUKbe19PPM",
+        "username": "hoshinoharu1",
+        "verified": false
+      }
+    ]
+  }
+}

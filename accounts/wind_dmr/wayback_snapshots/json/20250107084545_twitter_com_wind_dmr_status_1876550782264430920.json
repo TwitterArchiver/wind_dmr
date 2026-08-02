@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1876547199909433667",
+    "created_at": "2025-01-07T08:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T09:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876550782264430920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1261344091075260416",
+          "start": 0,
+          "username": "buwuwu11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876550782264430920",
+    "in_reply_to_user_id": "1261344091075260416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876547199909433667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwuwu11 好吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1876547199909433667].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876547199909433667",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1876547199909433667"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1876547199909433667",
+        "created_at": "2025-01-07T08:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T09:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876550782264430920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1261344091075260416",
+              "start": 0,
+              "username": "buwuwu11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876550782264430920",
+        "in_reply_to_user_id": "1261344091075260416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876547199909433667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwuwu11 好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 692,
+          "like_count": 103038,
+          "listed_count": 7,
+          "media_count": 2574,
+          "tweet_count": 21575
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-15T17:14:15.000Z",
+        "description": "黄色暴力扭曲账号；",
+        "id": "1261344091075260416",
+        "name": "蠢猪（备孕中）",
+        "pinned_tweet_id": "1838041392289103907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861506419876601859/TD_ja2-i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 673,
+          "like_count": 23281,
+          "listed_count": 0,
+          "media_count": 1472,
+          "tweet_count": 13704
+        },
+        "username": "buwuwu11",
+        "verified": false
+      }
+    ]
+  }
+}

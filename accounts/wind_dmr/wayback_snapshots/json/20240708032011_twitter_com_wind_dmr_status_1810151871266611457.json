@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1810122926206943272",
+    "created_at": "2024-07-08T03:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T04:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810151871266611457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1471310582070464512",
+          "start": 0,
+          "username": "LyleGpt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810151871266611457",
+    "in_reply_to_user_id": "1471310582070464512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810151542311563699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyleGpt 余额四十多块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1810122926206943272",
+        "created_at": "2024-07-08T03:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T04:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810151871266611457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1471310582070464512",
+              "start": 0,
+              "username": "LyleGpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810151871266611457",
+        "in_reply_to_user_id": "1471310582070464512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810151542311563699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyleGpt 余额四十多块"
+      },
+      {
+        "attachments": {},
+        "author_id": "1471310582070464512",
+        "conversation_id": "1810122926206943272",
+        "created_at": "2024-07-08T03:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T04:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810151542311563699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810151542311563699",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810146796444033510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 632,
+          "like_count": 87256,
+          "listed_count": 5,
+          "tweet_count": 19057
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T02:46:07.000Z",
+        "description": "e/acc",
+        "id": "1471310582070464512",
+        "name": "ℓуℓє",
+        "pinned_tweet_id": "1803793375713505742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798957356149248000/M4JacVRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6056,
+          "following_count": 225,
+          "like_count": 18473,
+          "listed_count": 29,
+          "tweet_count": 6602
+        },
+        "username": "LyleGpt",
+        "verified": false
+      }
+    ]
+  }
+}

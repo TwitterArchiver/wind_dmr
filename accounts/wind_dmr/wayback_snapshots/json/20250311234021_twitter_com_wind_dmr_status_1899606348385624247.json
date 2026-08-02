@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1899606348385624247",
+    "created_at": "2025-03-11T23:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T00:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899606348385624247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/visualscat/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/visualscat/status/1899606089651327092",
+          "start": 2,
+          "url": "https://t.co/9EZQ4dd3d7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899606348385624247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899606089651327092",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "埋 https://t.co/9EZQ4dd3d7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12746,
+        "height": 576,
+        "media_key": "13_1899606037004435456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1899606037004435456/img/I109h3zxvRY877re.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899606037004435456/vid/avc1/404x270/_mZ2K8lTvrbS-9fW.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899606037004435456/vid/avc1/540x360/TdDhZ6er0pGNQMMV.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899606037004435456/vid/avc1/864x576/2bruRRs_nV03J6tl.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1899606037004435456/pl/kUrNusgOm3A55J92.m3u8?tag=16"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1899606348385624247",
+        "created_at": "2025-03-11T23:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T00:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899606348385624247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/visualscat/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/visualscat/status/1899606089651327092",
+              "start": 2,
+              "url": "https://t.co/9EZQ4dd3d7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899606348385624247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899606089651327092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "埋 https://t.co/9EZQ4dd3d7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1899606037004435456"
+          ]
+        },
+        "author_id": "1546639149872168960",
+        "conversation_id": "1899606089651327092",
+        "created_at": "2025-03-11T23:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T00:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899606089651327092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNw1IlBs5W",
+              "end": 23,
+              "expanded_url": "https://x.com/visualscat/status/1899606089651327092/video/1",
+              "media_key": "13_1899606037004435456",
+              "start": 0,
+              "url": "https://t.co/hNw1IlBs5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899606089651327092",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 74,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hNw1IlBs5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 704,
+          "like_count": 112471,
+          "listed_count": 8,
+          "media_count": 2705,
+          "tweet_count": 23038
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T23:34:53.000Z",
+        "description": "Black Cats are not bad luck. They are elegant loving and delightful companions 🐈‍⬛❤️",
+        "id": "1546639149872168960",
+        "name": "Black cats are not bad luck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789834661281079296/EbSdsCSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238369,
+          "following_count": 27,
+          "like_count": 369,
+          "listed_count": 542,
+          "media_count": 5260,
+          "tweet_count": 5300
+        },
+        "username": "visualscat",
+        "verified": true
+      }
+    ]
+  }
+}

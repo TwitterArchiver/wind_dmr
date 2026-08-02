@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1890315036104503648",
+    "created_at": "2025-02-14T08:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890315036104503648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1115069049409425409",
+          "start": 3,
+          "username": "molidakeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890315036104503648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890010088133534105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molidakeai: 你不仅命比右美苦，还没右美受欢迎，愈美也没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1890315036104503648",
+        "created_at": "2025-02-14T08:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890315036104503648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1115069049409425409",
+              "start": 3,
+              "username": "molidakeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890315036104503648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890010088133534105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @molidakeai: 你不仅命比右美苦，还没右美受欢迎，愈美也没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115069049409425409",
+        "conversation_id": "1890010088133534105",
+        "created_at": "2025-02-13T12:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T13:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890010088133534105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890010088133534105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1262,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你不仅命比右美苦，还没右美受欢迎，愈美也没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 705,
+          "like_count": 109759,
+          "listed_count": 8,
+          "media_count": 2652,
+          "tweet_count": 22550
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T01:49:13.000Z",
+        "description": "🤡/失败男娘/不改刀花/双亲已祭/老公是无糖可口可乐",
+        "id": "1115069049409425409",
+        "location": "上海",
+        "name": "黑茉莉",
+        "pinned_tweet_id": "1874416823858524265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847164861312389127/1n6EEZyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12828,
+          "following_count": 264,
+          "like_count": 8231,
+          "listed_count": 57,
+          "media_count": 1365,
+          "tweet_count": 4417
+        },
+        "username": "molidakeai",
+        "verified": false
+      }
+    ]
+  }
+}

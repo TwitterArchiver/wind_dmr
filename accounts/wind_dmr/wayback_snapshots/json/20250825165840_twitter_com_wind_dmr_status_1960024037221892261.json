@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1960024037221892261",
+    "created_at": "2025-08-25T16:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T17:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960024037221892261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775851282710122496",
+          "start": 3,
+          "username": "Vincy1230"
+        },
+        {
+          "end": 42,
+          "id": "1130781616274468864",
+          "start": 28,
+          "username": "_SHIGURERERE_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960024037221892261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959840836524667177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vincy1230: 俗话说：人是铁、饭是钢；\n@_SHIGURERERE_ 说：床是磁铁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1960024037221892261",
+        "created_at": "2025-08-25T16:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960024037221892261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775851282710122496",
+              "start": 3,
+              "username": "Vincy1230"
+            },
+            {
+              "end": 42,
+              "id": "1130781616274468864",
+              "start": 28,
+              "username": "_SHIGURERERE_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960024037221892261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959840836524667177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vincy1230: 俗话说：人是铁、饭是钢；\n@_SHIGURERERE_ 说：床是磁铁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775851282710122496",
+        "conversation_id": "1959840836524667177",
+        "created_at": "2025-08-25T04:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T05:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959840836524667177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1130781616274468864",
+              "start": 13,
+              "username": "_SHIGURERERE_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959840836524667177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 580,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俗话说：人是铁、饭是钢；\n@_SHIGURERERE_ 说：床是磁铁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 747,
+          "like_count": 118590,
+          "listed_count": 8,
+          "media_count": 2843,
+          "tweet_count": 23546
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "HzShibari86"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1775864235471536147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902751291916611584/iUFDX75D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 203,
+          "like_count": 966,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 3464
+        },
+        "username": "Vincy1230",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "停滞圣权 神秘观察者 🫀@███",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+XgR11PBoaTdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+XgR11PBoaTdmZGM1",
+                "start": 0,
+                "url": "https://t.co/cbYwxUxMqv"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "失落帝国",
+        "name": "雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930248403268841473/WgJJUqUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62097,
+          "following_count": 2108,
+          "like_count": 50389,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/cbYwxUxMqv",
+        "username": "_SHIGURERERE_",
+        "verified": true
+      }
+    ]
+  }
+}

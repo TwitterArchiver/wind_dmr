@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862337870796587008"
+      ],
+      "media_source_tweet_id": [
+        "1862337883857956937"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1862388004155007317",
+    "created_at": "2024-11-29T06:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T07:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862388004155007317"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "踊り子アウラちゃん",
+          "probability": 0.3899,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "FF14イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1180092848261058560",
+          "start": 3,
+          "username": "lenafenrir1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9mFNSzCOD4",
+          "end": 64,
+          "expanded_url": "https://x.com/lenafenrir1/status/1862337883857956937/photo/1",
+          "media_key": "3_1862337870796587008",
+          "start": 41,
+          "url": "https://t.co/9mFNSzCOD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862388004155007317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862337883857956937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lenafenrir1: 踊り子アウラちゃん✮*｡ﾟ\n#FF14イラスト https://t.co/9mFNSzCOD4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_1862337870796587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdhabSiWgAABkdB.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862337870796587008"
+          ],
+          "media_source_tweet_id": [
+            "1862337883857956937"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862388004155007317",
+        "created_at": "2024-11-29T06:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862388004155007317"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "踊り子アウラちゃん",
+              "probability": 0.3899,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "FF14イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1180092848261058560",
+              "start": 3,
+              "username": "lenafenrir1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mFNSzCOD4",
+              "end": 64,
+              "expanded_url": "https://x.com/lenafenrir1/status/1862337883857956937/photo/1",
+              "media_key": "3_1862337870796587008",
+              "start": 41,
+              "url": "https://t.co/9mFNSzCOD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862388004155007317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862337883857956937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lenafenrir1: 踊り子アウラちゃん✮*｡ﾟ\n#FF14イラスト https://t.co/9mFNSzCOD4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862337870796587008"
+          ]
+        },
+        "author_id": "1180092848261058560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862337883857956937",
+        "created_at": "2024-11-29T03:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T04:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862337883857956937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "踊り子アウラちゃん",
+              "probability": 0.4553,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "FF14イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mFNSzCOD4",
+              "end": 47,
+              "expanded_url": "https://x.com/lenafenrir1/status/1862337883857956937/photo/1",
+              "media_key": "3_1862337870796587008",
+              "start": 24,
+              "url": "https://t.co/9mFNSzCOD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862337883857956937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 9617,
+          "like_count": 732,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "踊り子アウラちゃん✮*｡ﾟ\n#FF14イラスト https://t.co/9mFNSzCOD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 676,
+          "like_count": 99280,
+          "listed_count": 6,
+          "media_count": 2523,
+          "tweet_count": 20982
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T12:10:49.000Z",
+        "description": "猫ちゃんのペロはかわいい ✿ご依頼はこちら《https://t.co/CZfFAdpjb3》",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@lenasagyou",
+                "end": 45,
+                "expanded_url": "https://skeb.jp/@lenasagyou",
+                "start": 22,
+                "url": "https://t.co/CZfFAdpjb3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@lenafenrir1",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@lenafenrir1",
+                "start": 0,
+                "url": "https://t.co/lNbJlY50Hf"
+              }
+            ]
+          }
+        },
+        "id": "1180092848261058560",
+        "name": "𝕃𝕖𝕟𝕒✲",
+        "pinned_tweet_id": "1829131251208577360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785642598830649344/7gv9EE8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8567,
+          "following_count": 626,
+          "like_count": 16650,
+          "listed_count": 81,
+          "media_count": 1261,
+          "tweet_count": 20678
+        },
+        "url": "https://t.co/lNbJlY50Hf",
+        "username": "lenafenrir1",
+        "verified": false
+      }
+    ]
+  }
+}

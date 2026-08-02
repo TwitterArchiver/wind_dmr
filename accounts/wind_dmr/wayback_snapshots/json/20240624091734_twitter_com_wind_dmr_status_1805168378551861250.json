@@ -1,0 +1,484 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1716733891791527936"
+      ],
+      "media_source_tweet_id": [
+        "1716733950146793721"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1805168378551861250",
+    "created_at": "2024-06-24T09:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T10:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805168378551861250"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 23,
+          "tag": "ff14cosplay"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "ヤシュトラ"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 62,
+          "start": 49,
+          "tag": "Moepicosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1264878718314360832",
+          "start": 3,
+          "username": "pipimoepi0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/nwiaVv0xCt",
+          "end": 86,
+          "expanded_url": "https://twitter.com/pipimoepi0w0/status/1716733950146793721/video/1",
+          "media_key": "13_1716733891791527936",
+          "start": 63,
+          "url": "https://t.co/nwiaVv0xCt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805168378551861250",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1632
+    },
+    "referenced_tweets": [
+      {
+        "id": "1716733950146793721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pipimoepi0w0: 😉💕\n\n #ff14cosplay #ヤシュトラ　#コスプレ　#Moepicosplay https://t.co/nwiaVv0xCt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4654,
+        "height": 1440,
+        "media_key": "13_1716733891791527936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1716733891791527936/img/T7n87SWIlDnaVsl3.jpg",
+        "public_metrics": {
+          "view_count": 87399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1716733891791527936/vid/avc1/320x426/g2CA_CvjazHU1INS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1716733891791527936/vid/avc1/480x640/-JiMoADTtIsSEb_j.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1716733891791527936/vid/avc1/720x960/5DyVZxGw4LzNA0Lt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1716733891791527936/pl/dDQezOfCR9w5onLV.m3u8?tag=14&v=d52"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1716733891791527936"
+          ],
+          "media_source_tweet_id": [
+            "1716733950146793721"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1805168378551861250",
+        "created_at": "2024-06-24T09:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T10:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805168378551861250"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "ff14cosplay"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "ヤシュトラ"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "Moepicosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1264878718314360832",
+              "start": 3,
+              "username": "pipimoepi0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nwiaVv0xCt",
+              "end": 86,
+              "expanded_url": "https://twitter.com/pipimoepi0w0/status/1716733950146793721/video/1",
+              "media_key": "13_1716733891791527936",
+              "start": 63,
+              "url": "https://t.co/nwiaVv0xCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805168378551861250",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1632
+        },
+        "referenced_tweets": [
+          {
+            "id": "1716733950146793721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pipimoepi0w0: 😉💕\n\n #ff14cosplay #ヤシュトラ　#コスプレ　#Moepicosplay https://t.co/nwiaVv0xCt"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1716733891791527936"
+          ]
+        },
+        "author_id": "1264878718314360832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1716733950146793721",
+        "created_at": "2023-10-24T08:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-24T09:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1716733950146793721"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 5,
+              "tag": "ff14cosplay"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "ヤシュトラ"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 44,
+              "start": 31,
+              "tag": "Moepicosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nwiaVv0xCt",
+              "end": 68,
+              "expanded_url": "https://twitter.com/pipimoepi0w0/status/1716733950146793721/video/1",
+              "media_key": "13_1716733891791527936",
+              "start": 45,
+              "url": "https://t.co/nwiaVv0xCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1716733950146793721",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 468,
+          "impression_count": 401184,
+          "like_count": 8439,
+          "quote_count": 84,
+          "reply_count": 70,
+          "retweet_count": 1632
+        },
+        "reply_settings": "everyone",
+        "text": "😉💕\n\n #ff14cosplay #ヤシュトラ　#コスプレ　#Moepicosplay https://t.co/nwiaVv0xCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 621,
+          "like_count": 84999,
+          "listed_count": 5,
+          "tweet_count": 18509
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T11:19:31.000Z",
+        "description": "Cosplayer / Vocalist / DVCmember /CAMARO / Disney / FF / KH / NeiR / MH /💍 / コスプレタグ #Moepicosplay /重加工 / 旅行タグ #Moetravellog",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 84,
+                "tag": "Moepicosplay"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "tag": "Moetravellog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2UB04IFQDLCV6?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/mVUIQnROnF"
+              }
+            ]
+          }
+        },
+        "id": "1264878718314360832",
+        "location": "✉️piimoe0w0@gmail.com",
+        "name": "もえぴ🐕年内撮影予定×",
+        "pinned_tweet_id": "1716733950146793721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773744276666802176/mZCpaeGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13708,
+          "following_count": 413,
+          "like_count": 90397,
+          "listed_count": 101,
+          "tweet_count": 48869
+        },
+        "url": "https://t.co/mVUIQnROnF",
+        "username": "pipimoepi0w0",
+        "verified": true
+      }
+    ]
+  }
+}

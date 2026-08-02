@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1892917107723231504",
+    "created_at": "2025-02-22T14:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T15:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893312847947444368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826819505726660608",
+          "start": 0,
+          "username": "Lord_Internity1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893312847947444368",
+    "in_reply_to_user_id": "1826819505726660608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893228561848295661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lord_Internity1 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1892917107723231504",
+        "created_at": "2025-02-22T14:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893312847947444368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826819505726660608",
+              "start": 0,
+              "username": "Lord_Internity1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893312847947444368",
+        "in_reply_to_user_id": "1826819505726660608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893228561848295661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lord_Internity1 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826819505726660608",
+        "conversation_id": "1892917107723231504",
+        "created_at": "2025-02-22T09:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T10:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893228561848295661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893228561848295661",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892917107723231504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 愿虐待自己骨肉的人渣和开地图炮的人渣都不得好死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 705,
+          "like_count": 110742,
+          "listed_count": 8,
+          "media_count": 2676,
+          "tweet_count": 22715
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T03:11:42.000Z",
+        "description": "Never stop ，Never settle",
+        "id": "1826819505726660608",
+        "name": "Internityloop1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930727507664896/n7-UrCKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 51,
+          "like_count": 1683,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 3665
+        },
+        "username": "Lord_Internity1",
+        "verified": false
+      }
+    ]
+  }
+}

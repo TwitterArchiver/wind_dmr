@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1909108081486868804",
+    "created_at": "2025-04-07T05:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909111527984218504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425554931860209666",
+          "start": 0,
+          "username": "Artemis_moon_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909111527984218504",
+    "in_reply_to_user_id": "1425554931860209666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909108081486868804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis_moon_12 舔舔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25601,
+        "height": 720,
+        "media_key": "13_1909107211022008320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909107211022008320/img/gjc_HFDLB7CjJPjS.jpg",
+        "public_metrics": {
+          "view_count": 194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107211022008320/vid/avc1/480x270/8stSZb-zztuswobt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107211022008320/vid/avc1/640x360/z-cN0U_q88EHomLH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107211022008320/vid/avc1/1280x720/3EWkqG9NVUi9nbVo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909107211022008320/pl/wov2xJi-oBdxyK69.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 37768,
+        "height": 720,
+        "media_key": "13_1909107210061533184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909107210061533184/img/YYSu05s8jMGbPHKE.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107210061533184/vid/avc1/480x270/1ZqNe8_J2TKHDj4C.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107210061533184/vid/avc1/640x360/K_s2CIstGOQ7fVDd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107210061533184/vid/avc1/1280x720/KDXUOUXYEgyaDgdq.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909107210061533184/pl/LCKgF6qWe5rdaYgh.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 57003,
+        "height": 720,
+        "media_key": "13_1909107210057392128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909107210057392128/img/6zIUQg1y0rqL3pmA.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107210057392128/vid/avc1/480x270/jijnOn_tPZGQ2FBi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107210057392128/vid/avc1/640x360/S_0jgMUXVgZmKFk0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107210057392128/vid/avc1/1280x720/WH9nKYrM0dwsK9mN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909107210057392128/pl/vn9lWyuwUiEhKcyu.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 109505,
+        "height": 720,
+        "media_key": "13_1909107209990266880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909107209990266880/img/rrWNlA0bltqAt4BQ.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107209990266880/vid/avc1/480x270/t5D63LUpbXHn6RGv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107209990266880/vid/avc1/640x360/PldsaOKyQ1CRqZFF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909107209990266880/vid/avc1/1280x720/9HueCjZDXvOlzOcN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909107209990266880/pl/jLCqzBgbWtUiV3UQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1909108081486868804",
+        "created_at": "2025-04-07T05:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909111527984218504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425554931860209666",
+              "start": 0,
+              "username": "Artemis_moon_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909111527984218504",
+        "in_reply_to_user_id": "1425554931860209666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909108081486868804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis_moon_12 舔舔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1909107211022008320",
+            "13_1909107210061533184",
+            "13_1909107210057392128",
+            "13_1909107209990266880"
+          ]
+        },
+        "author_id": "1425554931860209666",
+        "conversation_id": "1909108081486868804",
+        "created_at": "2025-04-07T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909108081486868804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVwp9LWIX9",
+              "end": 23,
+              "expanded_url": "https://x.com/Artemis_moon_12/status/1909108081486868804/video/1",
+              "media_key": "13_1909107211022008320",
+              "start": 0,
+              "url": "https://t.co/yVwp9LWIX9"
+            },
+            {
+              "display_url": "pic.x.com/yVwp9LWIX9",
+              "end": 23,
+              "expanded_url": "https://x.com/Artemis_moon_12/status/1909108081486868804/video/1",
+              "media_key": "13_1909107210061533184",
+              "start": 0,
+              "url": "https://t.co/yVwp9LWIX9"
+            },
+            {
+              "display_url": "pic.x.com/yVwp9LWIX9",
+              "end": 23,
+              "expanded_url": "https://x.com/Artemis_moon_12/status/1909108081486868804/video/1",
+              "media_key": "13_1909107210057392128",
+              "start": 0,
+              "url": "https://t.co/yVwp9LWIX9"
+            },
+            {
+              "display_url": "pic.x.com/yVwp9LWIX9",
+              "end": 23,
+              "expanded_url": "https://x.com/Artemis_moon_12/status/1909108081486868804/video/1",
+              "media_key": "13_1909107209990266880",
+              "start": 0,
+              "url": "https://t.co/yVwp9LWIX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909108081486868804",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 455,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yVwp9LWIX9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 705,
+          "like_count": 114552,
+          "listed_count": 8,
+          "media_count": 2757,
+          "tweet_count": 23257
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T20:29:28.000Z",
+        "description": "脆皮软心糖 🚪520/1314 接纯绿线下 爱发电投喂地址⬇️ 付费tg个人频道🚪88（持续更新一些擦边）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/aphrodite24",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/aphrodite24",
+                "start": 0,
+                "url": "https://t.co/1Iodi2kFsy"
+              }
+            ]
+          }
+        },
+        "id": "1425554931860209666",
+        "name": "阿芙洛狄忒（已切子宫）",
+        "pinned_tweet_id": "1899872926364819925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902191848732684305/oZ7V31ws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58740,
+          "following_count": 215,
+          "like_count": 24378,
+          "listed_count": 165,
+          "media_count": 365,
+          "tweet_count": 8618
+        },
+        "url": "https://t.co/1Iodi2kFsy",
+        "username": "Artemis_moon_12",
+        "verified": false
+      }
+    ]
+  }
+}

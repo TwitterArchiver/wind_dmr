@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1882873119230321014",
+    "created_at": "2025-01-25T08:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T09:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883070628984729996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "EcstasyRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883070628984729996",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882873119230321014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EcstasyRC 姐我看你推文每天看得破大防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1882873119230321014",
+        "created_at": "2025-01-25T08:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T09:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883070628984729996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "EcstasyRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883070628984729996",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882873119230321014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EcstasyRC 姐我看你推文每天看得破大防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1882873119230321014",
+        "created_at": "2025-01-24T19:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T20:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882873119230321014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882873119230321014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1518,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我渴望真正和我灵魂相契的人，但从今往后它只能是奢望了。\nRC是永远不会被好好爱着的。\n唯一会爱我的人只有我自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 711,
+          "like_count": 106020,
+          "listed_count": 7,
+          "media_count": 2611,
+          "tweet_count": 22169
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "les/双相/有🚪88不线下/脾气暴躁\nff在鸟区",
+        "id": "1109080684419670017",
+        "location": "Living Memory",
+        "name": "甜心杀人蜂",
+        "pinned_tweet_id": "1873811389032390685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882758060130889728/oYZq7EUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17240,
+          "following_count": 1677,
+          "like_count": 25385,
+          "listed_count": 40,
+          "media_count": 2227,
+          "tweet_count": 18500
+        },
+        "username": "EcstasyRC",
+        "verified": false
+      }
+    ]
+  }
+}

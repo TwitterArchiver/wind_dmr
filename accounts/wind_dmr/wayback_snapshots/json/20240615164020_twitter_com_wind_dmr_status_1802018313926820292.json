@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1802018313926820292",
+    "created_at": "2024-06-15T16:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T17:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802018313926820292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1801991304588734935",
+          "start": 16,
+          "url": "https://t.co/RdjnoEerOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802018313926820292",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801991304588734935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个故事告诉我们不要在郁期刷推 https://t.co/RdjnoEerOZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1802018313926820292",
+        "created_at": "2024-06-15T16:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T17:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802018313926820292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1801991304588734935",
+              "start": 16,
+              "url": "https://t.co/RdjnoEerOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802018313926820292",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801991304588734935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个故事告诉我们不要在郁期刷推 https://t.co/RdjnoEerOZ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1801991304588734935",
+        "created_at": "2024-06-15T14:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T15:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801991304588734935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801991304588734935",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1263,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很久之前认识一个做社工的男孩子，后来很久没见，直到前几年在一个群里看到他的照片，或者可以叫她。我是从照片里认出了一丝熟悉感，于是问她，你是 xx 吗？她已读不回了两天，然后说，\"是。\"我又追着问了她几个问题，她没再理我。只是回了一句，一次五百，过夜八百，不私聊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 619,
+          "like_count": 83708,
+          "listed_count": 5,
+          "tweet_count": 18008
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4088,
+          "following_count": 95,
+          "like_count": 66,
+          "listed_count": 10,
+          "tweet_count": 2832
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

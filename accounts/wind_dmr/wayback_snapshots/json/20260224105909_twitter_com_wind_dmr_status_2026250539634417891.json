@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2025890694414639601",
+    "created_at": "2026-02-24T10:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026250539634417891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651558575913975809",
+          "start": 0,
+          "username": "nuclearhechu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026250539634417891",
+    "in_reply_to_user_id": "1651558575913975809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025890694414639601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuclearhechu 但他没有银行logo啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2025890623941959680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1oyfHa4AAOVgt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2025890694414639601",
+        "created_at": "2026-02-24T10:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026250539634417891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651558575913975809",
+              "start": 0,
+              "username": "nuclearhechu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026250539634417891",
+        "in_reply_to_user_id": "1651558575913975809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025890694414639601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuclearhechu 但他没有银行logo啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025890623941959680"
+          ]
+        },
+        "author_id": "1651558575913975809",
+        "conversation_id": "2025890694414639601",
+        "created_at": "2026-02-23T11:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025890694414639601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2gLlw1Odh",
+              "end": 38,
+              "expanded_url": "https://x.com/nuclearhechu/status/2025890694414639601/photo/1",
+              "media_key": "3_2025890623941959680",
+              "start": 15,
+              "url": "https://t.co/T2gLlw1Odh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025890694414639601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18525,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在校园联名卡里也算的是丑的。 https://t.co/T2gLlw1Odh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 835,
+          "like_count": 125260,
+          "listed_count": 8,
+          "media_count": 2913,
+          "tweet_count": 24256
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T12:07:09.000Z",
+        "description": "为人多平方，少圆。",
+        "id": "1651558575913975809",
+        "name": "MoRAlhAzArD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958033019182391296/1_fNpzqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 94,
+          "like_count": 809,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 439
+        },
+        "username": "nuclearhechu",
+        "verified": false
+      }
+    ]
+  }
+}

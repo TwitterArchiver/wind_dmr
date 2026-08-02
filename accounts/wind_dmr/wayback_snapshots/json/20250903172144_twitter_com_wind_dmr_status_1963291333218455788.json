@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1963217910672871854",
+    "created_at": "2025-09-03T17:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T18:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963291333218455788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963291333218455788",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963217910672871854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 看看g奶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1963217910672871854",
+        "created_at": "2025-09-03T17:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963291333218455788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963291333218455788",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963217910672871854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 看看g奶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1963217910672871854",
+        "created_at": "2025-09-03T12:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T13:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963217910672871854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pocky38968202/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/pocky38968202/status/1962889466424778872",
+              "start": 37,
+              "url": "https://t.co/QsQd4xMlq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963217910672871854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962889466424778872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相对于藏糖这种东西我很好奇你们奶子都怎么藏的。\n我现在已经g奶了(不是) https://t.co/QsQd4xMlq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 788,
+          "like_count": 119492,
+          "listed_count": 9,
+          "media_count": 2853,
+          "tweet_count": 23676
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "普通路过小妹儿/170/73kg/Enby/bi/ISFJ/混乱邪恶/辽东/🚪52/188",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla🎈",
+        "pinned_tweet_id": "1962824930405564742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961009243521449984/ecixiSG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3970,
+          "following_count": 3408,
+          "like_count": 28318,
+          "listed_count": 8,
+          "media_count": 2109,
+          "tweet_count": 28309
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

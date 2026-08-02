@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1891032944598303118",
+    "created_at": "2025-02-16T07:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T08:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891033918758883578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507723638249713664",
+          "start": 0,
+          "username": "yuebanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891033918758883578",
+    "in_reply_to_user_id": "1507723638249713664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891032944598303118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuebanzhu 逆天，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1891032944598303118",
+        "created_at": "2025-02-16T07:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T08:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891033918758883578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507723638249713664",
+              "start": 0,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891033918758883578",
+        "in_reply_to_user_id": "1507723638249713664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891032944598303118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuebanzhu 逆天，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507723638249713664",
+        "conversation_id": "1891032944598303118",
+        "created_at": "2025-02-16T07:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T08:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891032944598303118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LongLiveSalotS…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/LongLiveSalotSa/status/1890958783595049245",
+              "start": 82,
+              "url": "https://t.co/GYlGUpbTDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891032944598303118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890958783595049245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这可不是什么傻逼东西，\n也不是也出现了。\n这东西至少10年前就已经开始在jr车站里面卖了。\n卖这个的初衷是因为瓶盖掉到铁轨里的时候，\n会有真的傻逼东西喊站员去捡。 https://t.co/GYlGUpbTDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2455,
+          "following_count": 704,
+          "like_count": 110017,
+          "listed_count": 8,
+          "media_count": 2656,
+          "tweet_count": 22586
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。似乎是一名法律工作者。右翼，非典型自由主义。政治面貌境外势力汉奸叛徒反革命分子。荒川商学院🥱创始人。https://t.co/zwDurJQwha宫司🥳私信回复较慢（一般周三周六晚上回复）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "runjinja.jp",
+                "end": 79,
+                "expanded_url": "http://runjinja.jp",
+                "start": 56,
+                "url": "https://t.co/zwDurJQwha"
+              }
+            ]
+          }
+        },
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半",
+        "pinned_tweet_id": "1759587368640667866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12895,
+          "following_count": 4368,
+          "like_count": 226965,
+          "listed_count": 78,
+          "media_count": 3118,
+          "tweet_count": 39738
+        },
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1803270439248207974",
+    "created_at": "2024-06-19T03:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T04:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803270439248207974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767161673566359552",
+          "start": 3,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803270439248207974",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802936657261502574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willa_citrus: 她只是想穿轻飘飘的连衣裙\n她只是想实现六岁时候的梦想\n她有什么错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1803270439248207974",
+        "created_at": "2024-06-19T03:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T04:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803270439248207974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767161673566359552",
+              "start": 3,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803270439248207974",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802936657261502574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @willa_citrus: 她只是想穿轻飘飘的连衣裙\n她只是想实现六岁时候的梦想\n她有什么错"
+      },
+      {
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "1802936657261502574",
+        "created_at": "2024-06-18T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802936657261502574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802936657261502574",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3879,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "她只是想穿轻飘飘的连衣裙\n她只是想实现六岁时候的梦想\n她有什么错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 619,
+          "like_count": 83923,
+          "listed_count": 5,
+          "tweet_count": 18154
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "MtF, Under RLE & HRT / 想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎以及魂系玩家 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居四周年 @yaki_qaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yaki_qaq"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767162715133575168/PneN-5N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 102,
+          "like_count": 451,
+          "listed_count": 14,
+          "tweet_count": 368
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

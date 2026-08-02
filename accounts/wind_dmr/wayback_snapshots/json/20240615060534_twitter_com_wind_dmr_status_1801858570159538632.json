@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1801858570159538632",
+    "created_at": "2024-06-15T06:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T07:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801858570159538632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jng34799044697…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/jng347990446972/status/1801604397295878422",
+          "start": 17,
+          "url": "https://t.co/SQwMIeziHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801858570159538632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801604397295878422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "：至少我比其他十五个人格好一点。 https://t.co/SQwMIeziHo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1801858570159538632",
+        "created_at": "2024-06-15T06:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T07:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801858570159538632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jng34799044697…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/jng347990446972/status/1801604397295878422",
+              "start": 17,
+              "url": "https://t.co/SQwMIeziHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801858570159538632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801604397295878422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "：至少我比其他十五个人格好一点。 https://t.co/SQwMIeziHo"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "1801604397295878422",
+        "created_at": "2024-06-14T13:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T14:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801604397295878422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801604397295878422",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19944,
+          "like_count": 643,
+          "quote_count": 16,
+          "reply_count": 60,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "总结了十六型人格的每个小特征，快来看看哪些戳中了你吧！\ninfj：贱\nestp：贱\nentp：贱\ninfp：好贱\nintp：贱\nenfj：贱\nestj：贱\nenfp：贱\nistp：贱\nesfp：贱\nintj：贱\nistj：贱\nentj：贱\nesfj：贱\nisfj：贱\nisfp：贱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 618,
+          "like_count": 83694,
+          "listed_count": 5,
+          "tweet_count": 17982
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了🚪20块钱 过门私信",
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1794419065123184824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 78,
+          "like_count": 5413,
+          "listed_count": 0,
+          "tweet_count": 1714
+        },
+        "username": "jng347990446972",
+        "verified": false
+      }
+    ]
+  }
+}

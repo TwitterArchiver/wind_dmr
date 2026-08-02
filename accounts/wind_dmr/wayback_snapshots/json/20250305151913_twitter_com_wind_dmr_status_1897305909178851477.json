@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1897305909178851477",
+    "created_at": "2025-03-05T15:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T16:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897305909178851477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1896258500109750273",
+          "start": 3,
+          "username": "Earth_online_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897305909178851477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896606760833789958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Earth_online_CN: 新的一天正在加载中，请诸位玩家早点休息。\n躺在床上即可暂时离开游戏一会儿。\n另外，我们最近在对一些地区的气候数值做调整，请玩家们注意当地的天气数据，装备保暖系数足够的衣物以将体温维持在正常值。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1897305909178851477",
+        "created_at": "2025-03-05T15:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T16:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897305909178851477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1896258500109750273",
+              "start": 3,
+              "username": "Earth_online_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897305909178851477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896606760833789958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Earth_online_CN: 新的一天正在加载中，请诸位玩家早点休息。\n躺在床上即可暂时离开游戏一会儿。\n另外，我们最近在对一些地区的气候数值做调整，请玩家们注意当地的天气数据，装备保暖系数足够的衣物以将体温维持在正常值。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896258500109750273",
+        "conversation_id": "1896606760833789958",
+        "created_at": "2025-03-03T17:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T18:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896606760833789958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896606760833789958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新的一天正在加载中，请诸位玩家早点休息。\n躺在床上即可暂时离开游戏一会儿。\n另外，我们最近在对一些地区的气候数值做调整，请玩家们注意当地的天气数据，装备保暖系数足够的衣物以将体温维持在正常值。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 703,
+          "like_count": 111793,
+          "listed_count": 8,
+          "media_count": 2698,
+          "tweet_count": 22932
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T17:57:27.000Z",
+        "description": "这里是地球online中文社区，该账号用于向玩家们推送公告、游戏技巧和攻略。\n友好交流，文明游戏！",
+        "id": "1896258500109750273",
+        "location": "Universe",
+        "name": "地球online中文社区",
+        "pinned_tweet_id": "1896265567042204017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896258626714787840/FTinjV9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "Earth_online_CN",
+        "verified": false
+      }
+    ]
+  }
+}

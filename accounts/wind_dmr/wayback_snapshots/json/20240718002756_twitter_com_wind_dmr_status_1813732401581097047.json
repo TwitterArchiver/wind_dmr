@@ -1,0 +1,704 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10044802020",
+          "name": "Final Fantasy XIV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10046538468",
+          "name": "Final Fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10044802020",
+          "name": "Final Fantasy XIV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10046538468",
+          "name": "Final Fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      }
+    ],
+    "conversation_id": "1813732401581097047",
+    "created_at": "2024-07-18T00:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T01:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1813732401581097047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FF_XIV_EN/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/FF_XIV_EN/status/1813632231266754966",
+          "start": 30,
+          "url": "https://t.co/uIBNL4FXKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813732401581097047",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813632231266754966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tf 贡茶和ff14国际服联动\n所以外国一共有多少家贡茶啊 https://t.co/uIBNL4FXKb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10044802020",
+              "name": "Final Fantasy XIV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044802020",
+              "name": "Final Fantasy XIV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1813732401581097047",
+        "created_at": "2024-07-18T00:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T01:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813732401581097047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FF_XIV_EN/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/FF_XIV_EN/status/1813632231266754966",
+              "start": 30,
+              "url": "https://t.co/uIBNL4FXKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813732401581097047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813632231266754966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tf 贡茶和ff14国际服联动\n所以外国一共有多少家贡茶啊 https://t.co/uIBNL4FXKb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813632226623647744"
+          ]
+        },
+        "author_id": "161223163",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10044802020",
+              "name": "Final Fantasy XIV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044802020",
+              "name": "Final Fantasy XIV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538468",
+              "name": "Final Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          }
+        ],
+        "conversation_id": "1813632231266754966",
+        "created_at": "2024-07-17T17:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T18:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813632231266754966"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Warriors of Light",
+              "probability": 0.8855,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 119,
+              "normalized_text": "FFXIV",
+              "probability": 0.8894,
+              "start": 115,
+              "type": "Other"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Gong cha",
+              "probability": 0.6476,
+              "start": 123,
+              "type": "Other"
+            },
+            {
+              "end": 181,
+              "normalized_text": "Porxie King",
+              "probability": 0.721,
+              "start": 171,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "FFXIV"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Gong cha x FINAL FANTASY XIV Collaboration Campaign Starts on July 17!",
+              "display_url": "sqex.to/1v5UH",
+              "end": 226,
+              "expanded_url": "https://sqex.to/1v5UH",
+              "start": 203,
+              "status": 200,
+              "title": "Gong cha x FINAL FANTASY XIV Collaboration Campaign Starts on July 17! | FINAL FANTASY XIV, The Lodestone",
+              "unwound_url": "https://na.finalfantasyxiv.com/lodestone/topics/detail/e20327bc17f64798392a9fe9786dd58829c271c1",
+              "url": "https://t.co/TrHSgy3ZXC"
+            },
+            {
+              "description": "1.a The promotion is available to all customers who make a purchase from a Participating Store in a Participating Country during the period: (i) in all territories save for Australia and New Zealand, from 17 July 2024 to 28 August 2024; and (ii) in Australia and New Zealand, from 18 July 2024 to 28 August 2024, (the “Promotion Period”) which satisfies the Eligibility Criteria. 1.b To be eligible for the promotion, participants must during the relevant Promotion Period: (i) in all territories except",
+              "display_url": "sqex.to/5jD0M",
+              "end": 280,
+              "expanded_url": "https://sqex.to/5jD0M",
+              "start": 257,
+              "status": 200,
+              "title": "Gong cha Global - Terms and Conditions",
+              "unwound_url": "https://www.gong-cha.info/",
+              "url": "https://t.co/PRrLueRewt"
+            },
+            {
+              "display_url": "pic.twitter.com/qYbq6YMQMy",
+              "end": 304,
+              "expanded_url": "https://twitter.com/FF_XIV_EN/status/1813632231266754966/photo/1",
+              "media_key": "3_1813632226623647744",
+              "start": 281,
+              "url": "https://t.co/qYbq6YMQMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813632231266754966",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 642,
+          "impression_count": 265763,
+          "like_count": 4935,
+          "quote_count": 530,
+          "reply_count": 239,
+          "retweet_count": 963
+        },
+        "reply_settings": "everyone",
+        "text": "Warriors of Light, get ready to embark on a refreshing new adventure!\n\nFrom now until Aug. 28, participate in the #FFXIV x Gong cha collaboration campaign and redeem your Porxie King mount! 🐷\n\nDetails 👑 https://t.co/TrHSgy3ZXC\nFull terms &amp; conditions 🧋 https://t.co/PRrLueRewt https://t.co/qYbq6YMQMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 643,
+          "like_count": 89159,
+          "listed_count": 5,
+          "tweet_count": 19438
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-30T08:41:19.000Z",
+        "description": "The critically acclaimed MMORPG with a Free Trial up to level 70!\n#Dawntrail available now 🏝️ https://t.co/OSMaWxZahI\nService updates: @FFXIV_NEWS_EN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 66,
+                "tag": "Dawntrail"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "FFXIV_NEWS_EN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sqex.to/ffxiv_dawntrail",
+                "end": 117,
+                "expanded_url": "http://sqex.to/ffxiv_dawntrail",
+                "start": 94,
+                "url": "https://t.co/OSMaWxZahI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freetrial.finalfantasyxiv.com",
+                "end": 23,
+                "expanded_url": "https://freetrial.finalfantasyxiv.com/",
+                "start": 0,
+                "url": "https://t.co/pKujbT1tpi"
+              }
+            ]
+          }
+        },
+        "id": "161223163",
+        "location": "Hydaelyn",
+        "name": "FINAL FANTASY XIV",
+        "pinned_tweet_id": "1808040420968223024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633044936219041792/A1vVyhst_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661797,
+          "following_count": 7,
+          "like_count": 2156,
+          "listed_count": 2321,
+          "tweet_count": 11836
+        },
+        "url": "https://t.co/pKujbT1tpi",
+        "username": "FF_XIV_EN",
+        "verified": true
+      }
+    ]
+  }
+}

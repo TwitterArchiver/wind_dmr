@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882313480226889728"
+      ],
+      "media_source_tweet_id": [
+        "1882313502620279022"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "1882328892587057598",
+    "created_at": "2025-01-23T07:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T08:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882328892587057598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "創作百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538097824826806273",
+          "start": 3,
+          "username": "benevolels"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCpNbBRHIu",
+          "end": 56,
+          "expanded_url": "https://x.com/benevolels/status/1882313502620279022/photo/1",
+          "media_key": "3_1882313480226889728",
+          "start": 33,
+          "url": "https://t.co/zCpNbBRHIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882328892587057598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882313502620279022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benevolels: ...抵抗しないでね #創作百合 https://t.co/zCpNbBRHIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1882313480226889728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh9SIyjaYAAN6zs.jpg",
+        "width": 2714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882313480226889728"
+          ],
+          "media_source_tweet_id": [
+            "1882313502620279022"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1882328892587057598",
+        "created_at": "2025-01-23T07:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T08:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882328892587057598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "創作百合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538097824826806273",
+              "start": 3,
+              "username": "benevolels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCpNbBRHIu",
+              "end": 56,
+              "expanded_url": "https://x.com/benevolels/status/1882313502620279022/photo/1",
+              "media_key": "3_1882313480226889728",
+              "start": 33,
+              "url": "https://t.co/zCpNbBRHIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882328892587057598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882313502620279022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benevolels: ...抵抗しないでね #創作百合 https://t.co/zCpNbBRHIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882313480226889728"
+          ]
+        },
+        "author_id": "1538097824826806273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882313502620279022",
+        "created_at": "2025-01-23T06:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882313502620279022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "創作百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCpNbBRHIu",
+              "end": 40,
+              "expanded_url": "https://x.com/benevolels/status/1882313502620279022/photo/1",
+              "media_key": "3_1882313480226889728",
+              "start": 17,
+              "url": "https://t.co/zCpNbBRHIu"
+            },
+            {
+              "display_url": "x.com/benevolels/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/benevolels/status/1847449499884556793",
+              "start": 41,
+              "url": "https://t.co/59EGwR1io6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882313502620279022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 30548,
+          "like_count": 2461,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847449499884556793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "...抵抗しないでね #創作百合 https://t.co/zCpNbBRHIu https://t.co/59EGwR1io6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 707,
+          "like_count": 105209,
+          "listed_count": 7,
+          "media_count": 2608,
+          "tweet_count": 22112
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T09:54:37.000Z",
+        "description": "イラストを描いています。百合とか神秘的な絵が好き。| FANBOX: https://t.co/MMIK8XXbLI | Skeb: https://t.co/Iii4d837O3 | お仕事: benebolepwd@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "benevolepwd.fanbox.cc",
+                "end": 58,
+                "expanded_url": "http://benevolepwd.fanbox.cc",
+                "start": 35,
+                "url": "https://t.co/MMIK8XXbLI"
+              },
+              {
+                "display_url": "skeb.jp/@benevolepwd",
+                "end": 90,
+                "expanded_url": "http://skeb.jp/@benevolepwd",
+                "start": 67,
+                "url": "https://t.co/Iii4d837O3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10232687",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/10232687",
+                "start": 0,
+                "url": "https://t.co/BhfORodtkq"
+              }
+            ]
+          }
+        },
+        "id": "1538097824826806273",
+        "location": "日本",
+        "name": "べねぼれ",
+        "pinned_tweet_id": "1868018703662821490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538098063499489280/CeR6CObC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192374,
+          "following_count": 86,
+          "like_count": 627,
+          "listed_count": 1148,
+          "media_count": 137,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/BhfORodtkq",
+        "username": "benevolels",
+        "verified": true
+      }
+    ]
+  }
+}

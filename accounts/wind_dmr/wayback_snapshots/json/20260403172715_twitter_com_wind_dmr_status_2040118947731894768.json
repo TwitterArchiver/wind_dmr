@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2039843692068958683",
+    "created_at": "2026-04-03T17:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040118947731894768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039720325152206848",
+          "start": 0,
+          "username": "tataqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040118947731894768",
+    "in_reply_to_user_id": "2039720325152206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039843692068958683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tataqwq 总之先把被盗的取关了新号关注了，但我想，尝试联系客服会有办法……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2039843675216191488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE77A9qWoAAmOBD.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2039843692068958683",
+        "created_at": "2026-04-03T17:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040118947731894768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039720325152206848",
+              "start": 0,
+              "username": "tataqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040118947731894768",
+        "in_reply_to_user_id": "2039720325152206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039843692068958683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tataqwq 总之先把被盗的取关了新号关注了，但我想，尝试联系客服会有办法……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039843675216191488"
+          ]
+        },
+        "author_id": "2039720325152206848",
+        "conversation_id": "2039843692068958683",
+        "created_at": "2026-04-02T23:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039843692068958683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpREMS72mY",
+              "end": 57,
+              "expanded_url": "https://x.com/tataqwq/status/2039843692068958683/photo/1",
+              "media_key": "3_2039843675216191488",
+              "start": 34,
+              "url": "https://t.co/MpREMS72mY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039843692068958683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2553,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "塔塔大号被盗了，如果找不回来至少能把喜欢我的人各位朋友找回来吗😭🤍 https://t.co/MpREMS72mY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "𝖘𝖍𝖎𝖒𝖔𝖐𝖆𝖟𝖊|しもかぜ | ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 849,
+          "like_count": 126738,
+          "listed_count": 8,
+          "media_count": 2933,
+          "tweet_count": 24511
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T15:03:16.000Z",
+        "description": "",
+        "id": "2039720325152206848",
+        "name": "塔塔账号被盗看我推文",
+        "pinned_tweet_id": "2039727925591712080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039723640543965184/PwDHQPoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 66,
+          "like_count": 12,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 21
+        },
+        "username": "tataqwq",
+        "verified": false
+      }
+    ]
+  }
+}

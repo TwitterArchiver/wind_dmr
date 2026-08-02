@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1808826803982905537",
+    "created_at": "2024-07-04T11:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T12:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808828239638577168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745741310819196928",
+          "start": 0,
+          "username": "Mphforlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808828239638577168",
+    "in_reply_to_user_id": "1745741310819196928",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808826803982905537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mphforlove 带状疱疹。。。普瑞巴林。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1808826803982905537].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1808826803982905537",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1808826803982905537"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1808826803982905537",
+        "created_at": "2024-07-04T11:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T12:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808828239638577168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745741310819196928",
+              "start": 0,
+              "username": "Mphforlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808828239638577168",
+        "in_reply_to_user_id": "1745741310819196928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808826803982905537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mphforlove 带状疱疹。。。普瑞巴林。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌 | 我需要钱🚪88 重庆／青岛接线下\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "MTG"
+              },
+              {
+                "end": 157,
+                "start": 151,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 624,
+          "like_count": 86461,
+          "listed_count": 5,
+          "tweet_count": 18926
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T09:35:47.000Z",
+        "description": "只不过是一只柴犬",
+        "id": "1745741310819196928",
+        "location": "今天祈祷上帝下三天mph的雨",
+        "name": "Quixotic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798136524799975424/k1HPIah1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 68,
+          "like_count": 4479,
+          "listed_count": 0,
+          "tweet_count": 2836
+        },
+        "username": "Mphforlove",
+        "verified": false
+      }
+    ]
+  }
+}

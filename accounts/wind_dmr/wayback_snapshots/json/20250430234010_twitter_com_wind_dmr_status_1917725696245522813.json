@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917725436307783680"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1917725696245522813",
+    "created_at": "2025-04-30T23:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T00:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917725696245522813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8lLOxrUlWm",
+          "end": 80,
+          "expanded_url": "https://x.com/wind_dmr/status/1917725696245522813/photo/1",
+          "media_key": "3_1917725436307783680",
+          "start": 57,
+          "url": "https://t.co/8lLOxrUlWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917725696245522813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "微软牛逼，，下载速度居然能突破200MB/s，几乎相当于跑满我家2000m宽带了，比steam和百度网盘都快…… https://t.co/8lLOxrUlWm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 171,
+        "media_key": "3_1917725436307783680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp0hH6_bQAA4y_y.png",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917725436307783680"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1917725696245522813",
+        "created_at": "2025-04-30T23:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T00:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917725696245522813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lLOxrUlWm",
+              "end": 80,
+              "expanded_url": "https://x.com/wind_dmr/status/1917725696245522813/photo/1",
+              "media_key": "3_1917725436307783680",
+              "start": 57,
+              "url": "https://t.co/8lLOxrUlWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917725696245522813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微软牛逼，，下载速度居然能突破200MB/s，几乎相当于跑满我家2000m宽带了，比steam和百度网盘都快…… https://t.co/8lLOxrUlWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 703,
+          "like_count": 114435,
+          "listed_count": 8,
+          "media_count": 2784,
+          "tweet_count": 23315
+        },
+        "username": "wind_dmr",
+        "verified": false
+      }
+    ]
+  }
+}

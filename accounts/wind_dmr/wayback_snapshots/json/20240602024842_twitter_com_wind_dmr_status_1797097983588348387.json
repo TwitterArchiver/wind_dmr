@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797097980321034241"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1797049206521385067",
+    "created_at": "2024-06-02T02:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T03:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797097983588348387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Z480KDOl1f",
+          "end": 38,
+          "expanded_url": "https://twitter.com/wind_dmr/status/1797097983588348387/photo/1",
+          "media_key": "3_1797097980321034241",
+          "start": 15,
+          "url": "https://t.co/Z480KDOl1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797097983588348387",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797049206521385067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 🥰🥰 https://t.co/Z480KDOl1f"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1797049206521385067].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1797049206521385067",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1797049206521385067"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1797097980321034241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPCTF3ebcAEIm4Q.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797097980321034241"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1797049206521385067",
+        "created_at": "2024-06-02T02:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T03:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797097983588348387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Z480KDOl1f",
+              "end": 38,
+              "expanded_url": "https://twitter.com/wind_dmr/status/1797097983588348387/photo/1",
+              "media_key": "3_1797097980321034241",
+              "start": 15,
+              "url": "https://t.co/Z480KDOl1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797097983588348387",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797049206521385067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 🥰🥰 https://t.co/Z480KDOl1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 619,
+          "like_count": 83689,
+          "listed_count": 5,
+          "tweet_count": 17839
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜关注点赞不代表立场｜可以是一个随心所欲的朋友圈",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "魔法香嘎",
+        "pinned_tweet_id": "1777051573228863856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797030932131483650/EGcrkmS0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 852,
+          "like_count": 24339,
+          "listed_count": 2,
+          "tweet_count": 8596
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

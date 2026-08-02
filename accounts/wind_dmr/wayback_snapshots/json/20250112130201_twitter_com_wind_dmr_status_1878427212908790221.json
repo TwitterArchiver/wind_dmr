@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878374765251239936"
+      ],
+      "media_source_tweet_id": [
+        "1878374774289944609"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Needlework",
+          "id": "847869593674698752",
+          "name": "Needlework"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1878427212908790221",
+    "created_at": "2025-01-12T13:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T14:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878427212908790221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1400272367180402689",
+          "start": 3,
+          "username": "hana_amagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4RobMTVc8X",
+          "end": 69,
+          "expanded_url": "https://x.com/hana_amagi/status/1878374774289944609/photo/1",
+          "media_key": "3_1878374765251239936",
+          "start": 46,
+          "url": "https://t.co/4RobMTVc8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878427212908790221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878374774289944609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hana_amagi: こちらの記事でチョコミントミクちゃんをご紹介頂きました💚🍫 https://t.co/4RobMTVc8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1878374765251239936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhFT5Z3boAAXdF5.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878374765251239936"
+          ],
+          "media_source_tweet_id": [
+            "1878374774289944609"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1878427212908790221",
+        "created_at": "2025-01-12T13:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T14:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878427212908790221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1400272367180402689",
+              "start": 3,
+              "username": "hana_amagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RobMTVc8X",
+              "end": 69,
+              "expanded_url": "https://x.com/hana_amagi/status/1878374774289944609/photo/1",
+              "media_key": "3_1878374765251239936",
+              "start": 46,
+              "url": "https://t.co/4RobMTVc8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878427212908790221",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878374774289944609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hana_amagi: こちらの記事でチョコミントミクちゃんをご紹介頂きました💚🍫 https://t.co/4RobMTVc8X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878374765251239936"
+          ]
+        },
+        "author_id": "1400272367180402689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1878374774289944609",
+        "created_at": "2025-01-12T09:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T10:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878374774289944609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4RobMTVc8X",
+              "end": 53,
+              "expanded_url": "https://x.com/hana_amagi/status/1878374774289944609/photo/1",
+              "media_key": "3_1878374765251239936",
+              "start": 30,
+              "url": "https://t.co/4RobMTVc8X"
+            },
+            {
+              "display_url": "x.com/pixivision/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/pixivision/status/1878352464874815501",
+              "start": 54,
+              "url": "https://t.co/dc3DQkUQ3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878374774289944609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 13857,
+          "like_count": 738,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878352464874815501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こちらの記事でチョコミントミクちゃんをご紹介頂きました💚🍫 https://t.co/4RobMTVc8X https://t.co/dc3DQkUQ3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 692,
+          "like_count": 103542,
+          "listed_count": 7,
+          "media_count": 2593,
+          "tweet_count": 21781
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-03T02:06:00.000Z",
+        "description": "あったかくてやわらかい可愛さとドーナツが好きです。 Please do not use my artwork for AI, your SNS and other websites.◼︎ご依頼はメールにてお願い致します(プロフ欄からHPご一読ください！)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/hana-amagi",
+                "end": 23,
+                "expanded_url": "https://potofu.me/hana-amagi",
+                "start": 0,
+                "url": "https://t.co/GBiacWp6uz"
+              }
+            ]
+          }
+        },
+        "id": "1400272367180402689",
+        "name": "甘木花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725198683736850432/fHskAqc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27052,
+          "following_count": 163,
+          "like_count": 4380,
+          "listed_count": 277,
+          "media_count": 264,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/GBiacWp6uz",
+        "username": "hana_amagi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983740364621299712"
+      ],
+      "media_source_tweet_id": [
+        "1983740366697459957"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1984021407563706644",
+    "created_at": "2025-10-30T22:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T23:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984021407563706644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "238586204",
+          "start": 3,
+          "username": "riddle_ling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3M7uYZMpfl",
+          "end": 54,
+          "expanded_url": "https://x.com/riddle_ling/status/1983740366697459957/photo/1",
+          "media_key": "3_1983740364621299712",
+          "start": 31,
+          "url": "https://t.co/3M7uYZMpfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984021407563706644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983740366697459957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riddle_ling: 好...好有才，我被說服了 https://t.co/3M7uYZMpfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 578,
+        "media_key": "3_1983740364621299712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4epWe_bQAApXZ_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983740364621299712"
+          ],
+          "media_source_tweet_id": [
+            "1983740366697459957"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1984021407563706644",
+        "created_at": "2025-10-30T22:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T23:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984021407563706644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "238586204",
+              "start": 3,
+              "username": "riddle_ling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3M7uYZMpfl",
+              "end": 54,
+              "expanded_url": "https://x.com/riddle_ling/status/1983740366697459957/photo/1",
+              "media_key": "3_1983740364621299712",
+              "start": 31,
+              "url": "https://t.co/3M7uYZMpfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984021407563706644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983740366697459957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riddle_ling: 好...好有才，我被說服了 https://t.co/3M7uYZMpfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983740364621299712"
+          ]
+        },
+        "author_id": "238586204",
+        "conversation_id": "1983740366697459957",
+        "created_at": "2025-10-30T03:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983740366697459957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3M7uYZMpfl",
+              "end": 37,
+              "expanded_url": "https://x.com/riddle_ling/status/1983740366697459957/photo/1",
+              "media_key": "3_1983740364621299712",
+              "start": 14,
+              "url": "https://t.co/3M7uYZMpfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983740366697459957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 64339,
+          "like_count": 917,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "好...好有才，我被說服了 https://t.co/3M7uYZMpfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 814,
+          "like_count": 121509,
+          "listed_count": 9,
+          "media_count": 2878,
+          "tweet_count": 23930
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-15T14:37:51.000Z",
+        "description": "《台北城垃圾桶地圖 》App 開發者｜Rust 程式語言愛好者｜Windows、macOS 雙平台使用者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/riddleling",
+                "end": 23,
+                "expanded_url": "https://github.com/riddleling",
+                "start": 0,
+                "url": "https://t.co/PYvFEWOHrF"
+              }
+            ]
+          }
+        },
+        "id": "238586204",
+        "name": "胖豹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905254014109073408/R6CB4sYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 344,
+          "like_count": 25888,
+          "listed_count": 13,
+          "media_count": 1181,
+          "tweet_count": 11044
+        },
+        "url": "https://t.co/PYvFEWOHrF",
+        "username": "riddle_ling",
+        "verified": false
+      }
+    ]
+  }
+}

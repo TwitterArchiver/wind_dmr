@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1826934814106386652",
+    "created_at": "2024-08-24T01:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T02:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827161254852792545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "782536704",
+          "start": 0,
+          "username": "KagurazakaDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827161254852792545",
+    "in_reply_to_user_id": "782536704",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826934814106386652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaDV 膜c佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1826934814106386652",
+        "created_at": "2024-08-24T01:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T02:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827161254852792545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "782536704",
+              "start": 0,
+              "username": "KagurazakaDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827161254852792545",
+        "in_reply_to_user_id": "782536704",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826934814106386652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaDV 膜c佬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826934807437406208"
+          ]
+        },
+        "author_id": "782536704",
+        "conversation_id": "1826934814106386652",
+        "created_at": "2024-08-23T10:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T11:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826934814106386652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n50bv7nepd",
+              "end": 42,
+              "expanded_url": "https://twitter.com/KagurazakaDV/status/1826934814106386652/photo/1",
+              "media_key": "3_1826934807437406208",
+              "start": 19,
+              "url": "https://t.co/N50bV7NEPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826934814106386652",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3147,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，是时候1KW功率在空中相见了 https://t.co/N50bV7NEPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 668,
+          "like_count": 93660,
+          "listed_count": 5,
+          "tweet_count": 20131
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-26T14:25:48.000Z",
+        "description": "BG6VSK/KI5EAP. Aviation fan. Couple with @PatchouliTDF. Discord DVDVD#2293",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "PatchouliTDF"
+              }
+            ]
+          }
+        },
+        "id": "782536704",
+        "location": "SHA",
+        "name": "DV_Boeing_377🔰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619309745114079233/8G3x_SWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 585,
+          "like_count": 2802,
+          "listed_count": 6,
+          "tweet_count": 1392
+        },
+        "username": "KagurazakaDV",
+        "verified": false
+      }
+    ]
+  }
+}

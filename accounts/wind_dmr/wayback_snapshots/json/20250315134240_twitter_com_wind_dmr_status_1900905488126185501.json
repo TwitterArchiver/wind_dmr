@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1900905488126185501",
+    "created_at": "2025-03-15T13:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T14:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900905488126185501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "965583779380129792",
+          "start": 3,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900905488126185501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900501630354661475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mario_2333: 给中学生一点点建议:\n\n上不上学或者上什么学并没有那么重要，这和能学到知识或者以后过上想要的生活没有多大关系。重要的是建立几个强大的精神支柱，并且别放在有生命的东西上，无论以后生活发生什么都能坚持下去直到走出来。不然就算考上大学也一样会痛苦。成绩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1900905488126185501",
+        "created_at": "2025-03-15T13:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900905488126185501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "965583779380129792",
+              "start": 3,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900905488126185501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900501630354661475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mario_2333: 给中学生一点点建议:\n\n上不上学或者上什么学并没有那么重要，这和能学到知识或者以后过上想要的生活没有多大关系。重要的是建立几个强大的精神支柱，并且别放在有生命的东西上，无论以后生活发生什么都能坚持下去直到走出来。不然就算考上大学也一样会痛苦。成绩…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965583779380129792",
+        "conversation_id": "1900501630354661475",
+        "created_at": "2025-03-14T10:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T11:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900501630354661475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900501630354661475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 6780,
+          "like_count": 148,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "给中学生一点点建议:\n\n上不上学或者上什么学并没有那么重要，这和能学到知识或者以后过上想要的生活没有多大关系。重要的是建立几个强大的精神支柱，并且别放在有生命的东西上，无论以后生活发生什么都能坚持下去直到走出来。不然就算考上大学也一样会痛苦。成绩排名什么的是你人生中最不重要的事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 705,
+          "like_count": 112898,
+          "listed_count": 8,
+          "media_count": 2710,
+          "tweet_count": 23075
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "诶…谢谢你来看我🥳 | 一个超级社恐的小透明👻 | 普通的EE大学生🎓 | 日常推，不建政🚫 | 包容每一种立场💕 | 希望和大家成为好朋友🥺 | 温暖对待每个友善的人，欢迎贴贴🤗 | 想要给世界带来更多可爱🥰 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | ❤@LittleKittyya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 136,
+                "username": "LittleKittyya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mario_2333",
+                "end": 23,
+                "expanded_url": "https://t.me/mario_2333",
+                "start": 0,
+                "url": "https://t.co/x111iwCtjL"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889060683582443520/YZ_ZihaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 245,
+          "like_count": 16063,
+          "listed_count": 9,
+          "media_count": 350,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/x111iwCtjL",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

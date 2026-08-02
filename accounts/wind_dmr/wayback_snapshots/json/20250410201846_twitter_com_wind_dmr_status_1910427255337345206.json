@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1910213762377768960"
+      ],
+      "media_source_tweet_id": [
+        "1910214425966968857"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1910427255337345206",
+    "created_at": "2025-04-10T20:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T21:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910427255337345206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1230195105417629697",
+          "start": 3,
+          "username": "ZenithVal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bh9iqo5Omi",
+          "end": 38,
+          "expanded_url": "https://x.com/ZenithVal/status/1910214425966968857/video/1",
+          "media_key": "13_1910213762377768960",
+          "start": 15,
+          "url": "https://t.co/bh9iqo5Omi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910427255337345206",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910214425966968857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZenithVal: https://t.co/bh9iqo5Omi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118833,
+        "height": 1072,
+        "media_key": "13_1910213762377768960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910213762377768960/img/a-3KMhk_9w6cdpim.jpg",
+        "public_metrics": {
+          "view_count": 390151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910213762377768960/vid/avc1/482x270/G7gZ-p_EY3FCjB0G.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910213762377768960/vid/avc1/644x360/W0kjLBtL0IvNHjyw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910213762377768960/vid/avc1/1288x720/ueFMho-god2hcmTi.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910213762377768960/pl/_U6exiUQhbtEvKTg.m3u8?tag=14&v=96c"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910213762377768960"
+          ],
+          "media_source_tweet_id": [
+            "1910214425966968857"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1910427255337345206",
+        "created_at": "2025-04-10T20:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T21:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910427255337345206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1230195105417629697",
+              "start": 3,
+              "username": "ZenithVal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bh9iqo5Omi",
+              "end": 38,
+              "expanded_url": "https://x.com/ZenithVal/status/1910214425966968857/video/1",
+              "media_key": "13_1910213762377768960",
+              "start": 15,
+              "url": "https://t.co/bh9iqo5Omi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910427255337345206",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910214425966968857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZenithVal: https://t.co/bh9iqo5Omi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910213762377768960"
+          ]
+        },
+        "author_id": "1230195105417629697",
+        "conversation_id": "1910214425966968857",
+        "created_at": "2025-04-10T06:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T07:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910214425966968857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bh9iqo5Omi",
+              "end": 23,
+              "expanded_url": "https://x.com/ZenithVal/status/1910214425966968857/video/1",
+              "media_key": "13_1910213762377768960",
+              "start": 0,
+              "url": "https://t.co/bh9iqo5Omi"
+            },
+            {
+              "display_url": "x.com/rustyytoaster/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/rustyytoaster/status/1909974940880601593",
+              "start": 24,
+              "url": "https://t.co/5FqELnHWmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910214425966968857",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5893,
+          "impression_count": 1342143,
+          "like_count": 50671,
+          "quote_count": 231,
+          "reply_count": 116,
+          "retweet_count": 7287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909974940880601593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/bh9iqo5Omi https://t.co/5FqELnHWmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 701,
+          "like_count": 114900,
+          "listed_count": 7,
+          "media_count": 2766,
+          "tweet_count": 23286
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-19T18:19:30.000Z",
+        "description": "Smol VRChat technical artist.\nIntrovert? Sleeper. Shiny Enjoyer\nDiscord; zenithval\n\nMy Modeling Hell ~ https://t.co/QDmjnDx1xs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trello.com/b/pUzEF0SZ",
+                "end": 126,
+                "expanded_url": "http://trello.com/b/pUzEF0SZ",
+                "start": 103,
+                "url": "https://t.co/QDmjnDx1xs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenithval.carrd.co",
+                "end": 23,
+                "expanded_url": "https://zenithval.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/nYLSm9Q4qH"
+              }
+            ]
+          }
+        },
+        "id": "1230195105417629697",
+        "location": "Space?",
+        "name": "ZenithVal",
+        "pinned_tweet_id": "1510721273348997120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506341061551136770/TQqDdblU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 297,
+          "like_count": 9934,
+          "listed_count": 10,
+          "media_count": 174,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/nYLSm9Q4qH",
+        "username": "ZenithVal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2008859889406537895",
+    "created_at": "2026-01-08T05:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T06:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009133040975691810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567925783288774656",
+          "start": 0,
+          "username": "Retijk_Miqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009133040975691810",
+    "in_reply_to_user_id": "1567925783288774656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008859889406537895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retijk_Miqo 美食博主"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72557,
+        "height": 720,
+        "media_key": "7_2008859641426690048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008859641426690048/pu/img/yNG2plY-qMBRHkzp.jpg",
+        "public_metrics": {
+          "view_count": 1130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008859641426690048/pu/vid/avc1/480x270/05bnznT8uMcux-ep.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008859641426690048/pu/vid/avc1/640x360/6Mirb3qq1T0mIoaK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008859641426690048/pu/vid/avc1/1280x720/QUlrqd1c8jr6nMgc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008859641426690048/pu/pl/4ALgoeyApwnsgv3p.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008846542686535682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-DbSYkaQAIdM5S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2008859889406537895",
+        "created_at": "2026-01-08T05:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009133040975691810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567925783288774656",
+              "start": 0,
+              "username": "Retijk_Miqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009133040975691810",
+        "in_reply_to_user_id": "1567925783288774656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008859889406537895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retijk_Miqo 美食博主"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008859641426690048",
+            "3_2008846542686535682"
+          ]
+        },
+        "author_id": "1567925783288774656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008859889406537895",
+        "created_at": "2026-01-07T11:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008859889406537895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/79E8CGhZQB",
+              "end": 23,
+              "expanded_url": "https://x.com/Retijk_Miqo/status/2008859889406537895/video/1",
+              "media_key": "7_2008859641426690048",
+              "start": 0,
+              "url": "https://t.co/79E8CGhZQB"
+            },
+            {
+              "display_url": "pic.x.com/79E8CGhZQB",
+              "end": 23,
+              "expanded_url": "https://x.com/Retijk_Miqo/status/2008859889406537895/video/1",
+              "media_key": "3_2008846542686535682",
+              "start": 0,
+              "url": "https://t.co/79E8CGhZQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008859889406537895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3797,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/79E8CGhZQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 836,
+          "like_count": 124747,
+          "listed_count": 8,
+          "media_count": 2907,
+          "tweet_count": 24181
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T17:20:20.000Z",
+        "description": "无🚪，涩图都是好朋友拍的，可以私聊刷好感度，....欢迎私戳...看到都会回的喵 最可爱的依依 @Rinni_Candy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Rinni_Candy"
+              }
+            ]
+          }
+        },
+        "id": "1567925783288774656",
+        "name": "I hate you all",
+        "pinned_tweet_id": "1950073490389749997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691148294125436929/QlpPAk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 498,
+          "like_count": 5604,
+          "listed_count": 17,
+          "media_count": 202,
+          "tweet_count": 554
+        },
+        "username": "Retijk_Miqo",
+        "verified": false
+      }
+    ]
+  }
+}

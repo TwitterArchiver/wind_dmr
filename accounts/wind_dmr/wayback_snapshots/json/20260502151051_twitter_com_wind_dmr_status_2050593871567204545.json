@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049881729096101888"
+      ],
+      "media_source_tweet_id": [
+        "2049881733298782614"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2050593871567204545",
+    "created_at": "2026-05-02T15:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050593871567204545"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889032009835560960",
+          "start": 3,
+          "username": "jirai_keii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/02XxLxEXRy",
+          "end": 50,
+          "expanded_url": "https://x.com/jirai_keii/status/2049881733298782614/photo/1",
+          "media_key": "3_2049881729096101888",
+          "start": 27,
+          "url": "https://t.co/02XxLxEXRy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050593871567204545",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 502
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049881733298782614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jirai_keii: #NEEDY_pic https://t.co/02XxLxEXRy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2049881729096101888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKkkmZWMAA7oL_.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049881729096101888"
+          ],
+          "media_source_tweet_id": [
+            "2049881733298782614"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2050593871567204545",
+        "created_at": "2026-05-02T15:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050593871567204545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889032009835560960",
+              "start": 3,
+              "username": "jirai_keii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/02XxLxEXRy",
+              "end": 50,
+              "expanded_url": "https://x.com/jirai_keii/status/2049881733298782614/photo/1",
+              "media_key": "3_2049881729096101888",
+              "start": 27,
+              "url": "https://t.co/02XxLxEXRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050593871567204545",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 502
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049881733298782614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jirai_keii: #NEEDY_pic https://t.co/02XxLxEXRy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049881729096101888"
+          ]
+        },
+        "author_id": "1889032009835560960",
+        "conversation_id": "2049881733298782614",
+        "created_at": "2026-04-30T16:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049881733298782614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/02XxLxEXRy",
+              "end": 34,
+              "expanded_url": "https://x.com/jirai_keii/status/2049881733298782614/photo/1",
+              "media_key": "3_2049881729096101888",
+              "start": 11,
+              "url": "https://t.co/02XxLxEXRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049881733298782614",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 24548,
+          "like_count": 3038,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 502
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_pic https://t.co/02XxLxEXRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 849,
+          "like_count": 127074,
+          "listed_count": 8,
+          "media_count": 2949,
+          "tweet_count": 24642
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T19:21:49.000Z",
+        "description": "Lonely internet girl\nig : satellagoddess\n૮ ྀི◞ ⸝⸝ ◟ ྀིა",
+        "id": "1889032009835560960",
+        "name": "ཐི ❤︎ ཋྀ",
+        "pinned_tweet_id": "2049716057774989506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050448417453674496/GKH3tx8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 24,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 49
+        },
+        "username": "jirai_keii",
+        "verified": false
+      }
+    ]
+  }
+}

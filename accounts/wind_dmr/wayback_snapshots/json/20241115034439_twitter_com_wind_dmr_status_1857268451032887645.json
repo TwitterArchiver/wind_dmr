@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857268448348561408"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026646794",
+          "name": "Lenovo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026646794",
+          "name": "Lenovo"
+        }
+      }
+    ],
+    "conversation_id": "1841122064805294492",
+    "created_at": "2024-11-15T03:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T04:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857268451032887645"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "LenovoSweepStakes",
+          "probability": 0.8092,
+          "start": 9,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 8,
+          "tag": "LenovoSweepStakes"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "17307429",
+          "start": 0,
+          "username": "Lenovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FnCbOkumYh",
+          "end": 58,
+          "expanded_url": "https://x.com/wind_dmr/status/1857268451032887645/photo/1",
+          "media_key": "3_1857268448348561408",
+          "start": 35,
+          "url": "https://t.co/FnCbOkumYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857268451032887645",
+    "in_reply_to_user_id": "17307429",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841122064805294492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lenovo #LenovoSweepStakes Got it! https://t.co/FnCbOkumYh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857268448348561408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcZX0ERbYAA5-Fr.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857268448348561408"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026646794",
+              "name": "Lenovo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026646794",
+              "name": "Lenovo"
+            }
+          }
+        ],
+        "conversation_id": "1841122064805294492",
+        "created_at": "2024-11-15T03:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T04:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857268451032887645"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "LenovoSweepStakes",
+              "probability": 0.8092,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 8,
+              "tag": "LenovoSweepStakes"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "17307429",
+              "start": 0,
+              "username": "Lenovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnCbOkumYh",
+              "end": 58,
+              "expanded_url": "https://x.com/wind_dmr/status/1857268451032887645/photo/1",
+              "media_key": "3_1857268448348561408",
+              "start": 35,
+              "url": "https://t.co/FnCbOkumYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857268451032887645",
+        "in_reply_to_user_id": "17307429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841122064805294492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lenovo #LenovoSweepStakes Got it! https://t.co/FnCbOkumYh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1841122024279646210"
+          ]
+        },
+        "author_id": "17307429",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026646794",
+              "name": "Lenovo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026646794",
+              "name": "Lenovo"
+            }
+          }
+        ],
+        "conversation_id": "1841122064805294492",
+        "created_at": "2024-10-01T14:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T15:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841122064805294492"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "TrackPoint",
+              "probability": 0.841,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "LenovoSweepStakes",
+              "probability": 0.7191,
+              "start": 113,
+              "type": "Other"
+            },
+            {
+              "end": 158,
+              "normalized_text": "Lenovo",
+              "probability": 0.6815,
+              "start": 153,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 112,
+              "tag": "LenovoSweepStakes"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Lenovo's official site for press materials and original stories about the vision and passion behind the technology.",
+              "display_url": "lnv.gy/47Qn5ga",
+              "end": 255,
+              "expanded_url": "https://lnv.gy/47Qn5ga",
+              "images": [
+                {
+                  "height": 1365,
+                  "url": "https://pbs.twimg.com/news_img/1841122073760149504/V2lZq_gl?format=jpg&name=orig",
+                  "width": 2048
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1841122073760149504/V2lZq_gl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 232,
+              "status": 200,
+              "title": "Lenovo ThinkPad X1 Carbon Sweepstake: Official Rules - Lenovo StoryHub",
+              "unwound_url": "https://news.lenovo.com/thinkpad-x1-carbon-sweepstake-official-rules/?linkId=607799925",
+              "url": "https://t.co/5nKEQZc2hv"
+            },
+            {
+              "display_url": "pic.x.com/0C9QfXmVV9",
+              "end": 280,
+              "expanded_url": "https://x.com/Lenovo/status/1841122064805294492/video/1",
+              "media_key": "13_1841122024279646210",
+              "start": 257,
+              "url": "https://t.co/0C9QfXmVV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841122064805294492",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 2496771,
+          "like_count": 982,
+          "quote_count": 24,
+          "reply_count": 968,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "Got screenshot skills? Prove it. 💻🔴\n \nScreenshot the TrackPoint in the circle and share it in the comments with #LenovoSweepStakes for a chance to win a Lenovo ThinkPad X1 Carbon!\n \nFor official terms &amp; conditions, please go to https://t.co/5nKEQZc2hv. https://t.co/0C9QfXmVV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 670,
+          "like_count": 98261,
+          "listed_count": 6,
+          "tweet_count": 20887
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T10:30:46.000Z",
+        "description": "Providing #smarter technology for all. Need Help? Contact @LenovoSupport",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 10,
+                "tag": "smarter"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "LenovoSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lenovo.com",
+                "end": 23,
+                "expanded_url": "http://www.lenovo.com",
+                "start": 0,
+                "url": "https://t.co/L8G03DxINr"
+              }
+            ]
+          }
+        },
+        "id": "17307429",
+        "location": "Worldwide",
+        "name": "Lenovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603781097535545350/9lnJ1aLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736572,
+          "following_count": 1580,
+          "like_count": 17205,
+          "listed_count": 3280,
+          "tweet_count": 99199
+        },
+        "url": "https://t.co/L8G03DxINr",
+        "username": "Lenovo",
+        "verified": true
+      }
+    ]
+  }
+}

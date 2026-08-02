@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1816484465537155484",
+    "created_at": "2024-07-25T16:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T17:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816516079231111283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594915360456646656",
+          "start": 0,
+          "username": "MMEZorro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816516079231111283",
+    "in_reply_to_user_id": "1594915360456646656",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816484465537155484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMEZorro 这裙子我有粉色款的耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1816484465537155484",
+        "created_at": "2024-07-25T16:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T17:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816516079231111283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594915360456646656",
+              "start": 0,
+              "username": "MMEZorro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816516079231111283",
+        "in_reply_to_user_id": "1594915360456646656",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816484465537155484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMEZorro 这裙子我有粉色款的耶"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816484450882170880"
+          ]
+        },
+        "author_id": "1594915360456646656",
+        "conversation_id": "1816484465537155484",
+        "created_at": "2024-07-25T14:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T15:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816484465537155484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/g7TQPMt72v",
+              "end": 42,
+              "expanded_url": "https://twitter.com/MMEZorro/status/1816484465537155484/photo/1",
+              "media_key": "3_1816484450882170880",
+              "start": 19,
+              "url": "https://t.co/g7TQPMt72v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816484465537155484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的奇怪让你费解的话那就算了吧... https://t.co/g7TQPMt72v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 661,
+          "like_count": 90921,
+          "listed_count": 5,
+          "tweet_count": 19704
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T04:47:16.000Z",
+        "description": "高中在读学生./重度抑郁症患者/🚪52（朋友费）/\n暑假ing！入门私信我就可以了！\n🚪福利→\n 墙内照片/永久的陪聊/自己做的小礼物/谢谢你入🚪我的朋友！\n.\n我是電氣綿羊祝你天天开心！",
+        "id": "1594915360456646656",
+        "location": "神户",
+        "name": "電氣綿羊.",
+        "pinned_tweet_id": "1796918787524190419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814320926928039936/liqEP6Hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7329,
+          "following_count": 154,
+          "like_count": 1615,
+          "listed_count": 17,
+          "tweet_count": 731
+        },
+        "username": "MMEZorro",
+        "verified": false
+      }
+    ]
+  }
+}

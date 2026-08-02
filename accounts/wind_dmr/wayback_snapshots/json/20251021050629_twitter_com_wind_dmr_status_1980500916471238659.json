@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1889248956930044340",
+    "created_at": "2025-10-21T05:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T06:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980500916471238659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1701502997220798464",
+          "start": 0,
+          "username": "WhiteBlue0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980500916471238659",
+    "in_reply_to_user_id": "1701502997220798464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889248956930044340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhiteBlue0721 催更"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13801,
+        "height": 1280,
+        "media_key": "7_1889248903767494656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1889248903767494656/pu/img/0uFEOztX5y2hxFI3.jpg",
+        "public_metrics": {
+          "view_count": 4071
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889248903767494656/pu/vid/avc1/320x568/ynYU2-gu4uAT_nQR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889248903767494656/pu/vid/avc1/480x852/-ASulcfOaLuOyNPn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889248903767494656/pu/vid/avc1/720x1280/TsIWu74_JLC0fpOt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1889248903767494656/pu/pl/AUrOD8HSOORnPFC5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1889248956930044340",
+        "created_at": "2025-10-21T05:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980500916471238659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701502997220798464",
+              "start": 0,
+              "username": "WhiteBlue0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980500916471238659",
+        "in_reply_to_user_id": "1701502997220798464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889248956930044340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteBlue0721 催更"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1889248903767494656"
+          ]
+        },
+        "author_id": "1701502997220798464",
+        "conversation_id": "1889248956930044340",
+        "created_at": "2025-02-11T09:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889248956930044340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScDujRm2iH",
+              "end": 30,
+              "expanded_url": "https://x.com/WhiteBlue023/status/1889248956930044340/video/1",
+              "media_key": "7_1889248903767494656",
+              "start": 7,
+              "url": "https://t.co/ScDujRm2iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889248956930044340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9604,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "😖没来得及拍 https://t.co/ScDujRm2iH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 813,
+          "like_count": 121189,
+          "listed_count": 9,
+          "media_count": 2874,
+          "tweet_count": 23873
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T07:48:32.000Z",
+        "description": "",
+        "id": "1701502997220798464",
+        "name": "我真不知道取什么名！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811812436183289856/meHBmKr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 14
+        },
+        "username": "WhiteBlue0721",
+        "verified": false
+      }
+    ]
+  }
+}

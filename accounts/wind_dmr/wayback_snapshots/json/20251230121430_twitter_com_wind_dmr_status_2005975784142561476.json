@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005507759643709440"
+      ],
+      "media_source_tweet_id": [
+        "2005507764890800574"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005975784142561476",
+    "created_at": "2025-12-30T12:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T13:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005975784142561476"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "港鐵獅子王",
+          "probability": 0.1956,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1312784539450634240",
+          "start": 3,
+          "username": "DoctorLit1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Wsp95PxRx",
+          "end": 45,
+          "expanded_url": "https://x.com/DoctorLit1/status/2005507764890800574/photo/1",
+          "media_key": "3_2005507759643709440",
+          "start": 22,
+          "url": "https://t.co/7Wsp95PxRx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005975784142561476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005507764890800574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DoctorLit1: 港鐵獅子王 https://t.co/7Wsp95PxRx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2005507759643709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9T-rofaUAA9cyz.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005507759643709440"
+          ],
+          "media_source_tweet_id": [
+            "2005507764890800574"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005975784142561476",
+        "created_at": "2025-12-30T12:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005975784142561476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "港鐵獅子王",
+              "probability": 0.1956,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1312784539450634240",
+              "start": 3,
+              "username": "DoctorLit1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Wsp95PxRx",
+              "end": 45,
+              "expanded_url": "https://x.com/DoctorLit1/status/2005507764890800574/photo/1",
+              "media_key": "3_2005507759643709440",
+              "start": 22,
+              "url": "https://t.co/7Wsp95PxRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005975784142561476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005507764890800574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DoctorLit1: 港鐵獅子王 https://t.co/7Wsp95PxRx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005507759643709440"
+          ]
+        },
+        "author_id": "1312784539450634240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005507764890800574",
+        "created_at": "2025-12-29T05:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T06:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005507764890800574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "港鐵獅子王",
+              "probability": 0.223,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Wsp95PxRx",
+              "end": 29,
+              "expanded_url": "https://x.com/DoctorLit1/status/2005507764890800574/photo/1",
+              "media_key": "3_2005507759643709440",
+              "start": 6,
+              "url": "https://t.co/7Wsp95PxRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005507764890800574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4036,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "港鐵獅子王 https://t.co/7Wsp95PxRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 830,
+          "like_count": 124355,
+          "listed_count": 8,
+          "media_count": 2906,
+          "tweet_count": 24148
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T16:00:09.000Z",
+        "description": "香港人加油 ✋🏼☝🏼Stand with Hong Kong💪🏼 烈大夫 🎗香港人嘅中醫 🟡Tradition Doctor from Hong Kong 🇭🇰",
+        "id": "1312784539450634240",
+        "location": "Hong Kong",
+        "name": "烈大夫 Doctor Lit @青木堂",
+        "pinned_tweet_id": "1880252608033747451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1312789381535604736/AcE-qqcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7159,
+          "following_count": 575,
+          "like_count": 3495,
+          "listed_count": 18,
+          "media_count": 2430,
+          "tweet_count": 2791
+        },
+        "username": "DoctorLit1",
+        "verified": false
+      }
+    ]
+  }
+}

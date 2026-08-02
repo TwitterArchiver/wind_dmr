@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917891987820388352",
+        "3_1917891987858161664"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1917610472674844777",
+    "created_at": "2025-05-01T10:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T11:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917891991226188035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQ8jfXb52v",
+          "end": 55,
+          "expanded_url": "https://x.com/wind_dmr/status/1917891991226188035/photo/1",
+          "media_key": "3_1917891987820388352",
+          "start": 32,
+          "url": "https://t.co/XQ8jfXb52v"
+        },
+        {
+          "display_url": "pic.x.com/XQ8jfXb52v",
+          "end": 55,
+          "expanded_url": "https://x.com/wind_dmr/status/1917891991226188035/photo/1",
+          "media_key": "3_1917891987858161664",
+          "start": 32,
+          "url": "https://t.co/XQ8jfXb52v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917891991226188035",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917610472674844777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba 什么时候让我也回归Apple https://t.co/XQ8jfXb52v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_1917891987820388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp24mfuaIAA4EE5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1389,
+        "media_key": "3_1917891987858161664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp24mf3agAATmnx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917891987820388352",
+            "3_1917891987858161664"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1917610472674844777",
+        "created_at": "2025-05-01T10:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T11:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917891991226188035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQ8jfXb52v",
+              "end": 55,
+              "expanded_url": "https://x.com/wind_dmr/status/1917891991226188035/photo/1",
+              "media_key": "3_1917891987820388352",
+              "start": 32,
+              "url": "https://t.co/XQ8jfXb52v"
+            },
+            {
+              "display_url": "pic.x.com/XQ8jfXb52v",
+              "end": 55,
+              "expanded_url": "https://x.com/wind_dmr/status/1917891991226188035/photo/1",
+              "media_key": "3_1917891987858161664",
+              "start": 32,
+              "url": "https://t.co/XQ8jfXb52v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917891991226188035",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917610472674844777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba 什么时候让我也回归Apple https://t.co/XQ8jfXb52v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1917610472674844777",
+        "created_at": "2025-04-30T16:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T17:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917610472674844777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917610472674844777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3198,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Apple Store静安店员：你选择16e的理由是什么？\n我：续航真的很棒，我很需要长续航，然后也喜欢简洁的外观，和iPhone4一样。\n店员：您是从什么设备换过来的？\n我：安卓，虽然现在还是安卓+iOS。我的上一台iPhone还是iPhone4，小学时候用的（展示Find My里的白色iPhone4\n店员：震惊）那恭喜你回到Apple"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 703,
+          "like_count": 114414,
+          "listed_count": 8,
+          "media_count": 2786,
+          "tweet_count": 23319
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "请与我交往•盼来盼去盼不尽天涯何处是归处•为了没有眼泪的明天•希望大家都可以幸福•取向是可爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com.cn",
+                "end": 23,
+                "expanded_url": "https://apple.com.cn",
+                "start": 0,
+                "url": "https://t.co/hLF8aWcrJJ"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "来自夏莱的老师",
+        "name": "💮西行寺　千羽🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 5202,
+          "like_count": 96606,
+          "listed_count": 10,
+          "media_count": 2026,
+          "tweet_count": 25816
+        },
+        "url": "https://t.co/hLF8aWcrJJ",
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

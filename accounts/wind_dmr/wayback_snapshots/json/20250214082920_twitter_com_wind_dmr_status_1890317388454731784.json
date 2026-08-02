@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1890317388454731784",
+    "created_at": "2025-02-14T08:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890317388454731784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "763441082394902528",
+          "start": 3,
+          "username": "hlovo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890317388454731784",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24027
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889970580314816561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hlovo_: Getting a job straight out of university"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1890317388454731784",
+        "created_at": "2025-02-14T08:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890317388454731784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "763441082394902528",
+              "start": 3,
+              "username": "hlovo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890317388454731784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24027
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889970580314816561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hlovo_: Getting a job straight out of university"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763441082394902528",
+        "conversation_id": "1889970580314816561",
+        "created_at": "2025-02-13T09:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T10:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889970580314816561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/illygrene/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/illygrene/status/1889518440274338176",
+              "start": 41,
+              "url": "https://t.co/Hbo9Zu0vmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889970580314816561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7126,
+          "impression_count": 8857277,
+          "like_count": 291042,
+          "quote_count": 890,
+          "reply_count": 417,
+          "retweet_count": 24027
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889518440274338176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Getting a job straight out of university https://t.co/Hbo9Zu0vmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 705,
+          "like_count": 109761,
+          "listed_count": 8,
+          "media_count": 2652,
+          "tweet_count": 22552
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T18:25:13.000Z",
+        "description": "polka dot freak. that/nigga",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hlovo__",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/hlovo__",
+                "start": 0,
+                "url": "https://t.co/B1ZLgJHF0v"
+              }
+            ]
+          }
+        },
+        "id": "763441082394902528",
+        "location": "where you want me to be.",
+        "name": "Hlovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872446531481092097/PbicW-kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20424,
+          "following_count": 3349,
+          "like_count": 212305,
+          "listed_count": 39,
+          "media_count": 8541,
+          "tweet_count": 326853
+        },
+        "url": "https://t.co/B1ZLgJHF0v",
+        "username": "hlovo_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1875739972558569939",
+    "created_at": "2025-01-05T03:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T04:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875739972558569939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nemiya_3/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Nemiya_3/status/1875563910881014123",
+          "start": 39,
+          "url": "https://t.co/m8kz9ZWzST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875739972558569939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875563910881014123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说没有焦虑是假的，现在就正在焦虑\n不知道欲望什么也是假的，正在欲望着欲望本身 https://t.co/m8kz9ZWzST"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1875739972558569939",
+        "created_at": "2025-01-05T03:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T04:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875739972558569939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nemiya_3/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Nemiya_3/status/1875563910881014123",
+              "start": 39,
+              "url": "https://t.co/m8kz9ZWzST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875739972558569939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875563910881014123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说没有焦虑是假的，现在就正在焦虑\n不知道欲望什么也是假的，正在欲望着欲望本身 https://t.co/m8kz9ZWzST"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643063473969168386",
+        "conversation_id": "1875558320460984528",
+        "created_at": "2025-01-04T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875563910881014123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875563910881014123",
+        "in_reply_to_user_id": "1643063473969168386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875558320460984528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说没有焦虑是假的，现在就正在焦虑\n不知道欲望什么也是假的，正在欲望着欲望本身\n精神分析理论有很多有意思的东西，可是我看不太懂\n思维跳跃的好快，我费了不少劲才整合出这么一段文字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 690,
+          "like_count": 102851,
+          "listed_count": 7,
+          "media_count": 2571,
+          "tweet_count": 21520
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-04T01:30:54.000Z",
+        "description": "社会化指数归零，没有钱没有行动力，还有点弱智\n希望能做乐观友善的人",
+        "id": "1643063473969168386",
+        "name": "铃铃空澄🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862208689228197888/bQuzX1R5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 235,
+          "like_count": 11628,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1107
+        },
+        "username": "Nemiya_3",
+        "verified": false
+      }
+    ]
+  }
+}

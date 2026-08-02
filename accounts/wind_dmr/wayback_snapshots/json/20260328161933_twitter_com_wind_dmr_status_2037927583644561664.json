@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2037927583644561664",
+    "created_at": "2026-03-28T16:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037927583644561664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1194641568478593024",
+          "start": 3,
+          "username": "sukie234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037927583644561664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037737205930803673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukie234: 保持手机有电是很重要的，刚刚手机没有电用uber打车价格是$66，充上电之后再打车价格就变成$43。\n我觉得ai无法替代人类，ai想不出来这种缺德的算法打劫方法。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2037927583644561664",
+        "created_at": "2026-03-28T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037927583644561664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194641568478593024",
+              "start": 3,
+              "username": "sukie234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037927583644561664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037737205930803673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sukie234: 保持手机有电是很重要的，刚刚手机没有电用uber打车价格是$66，充上电之后再打车价格就变成$43。\n我觉得ai无法替代人类，ai想不出来这种缺德的算法打劫方法。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194641568478593024",
+        "conversation_id": "2037737205930803673",
+        "created_at": "2026-03-28T03:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037737205930803673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037737205930803673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 146369,
+          "like_count": 888,
+          "quote_count": 10,
+          "reply_count": 54,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "保持手机有电是很重要的，刚刚手机没有电用uber打车价格是$66，充上电之后再打车价格就变成$43。\n我觉得ai无法替代人类，ai想不出来这种缺德的算法打劫方法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 846,
+          "like_count": 126247,
+          "listed_count": 8,
+          "media_count": 2922,
+          "tweet_count": 24357
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T15:42:11.000Z",
+        "description": "",
+        "id": "1194641568478593024",
+        "location": "San Jose, CA",
+        "name": "sukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655829356835659777/zYMkeYhw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32536,
+          "following_count": 7065,
+          "like_count": 15067,
+          "listed_count": 486,
+          "media_count": 284,
+          "tweet_count": 4253
+        },
+        "username": "sukie234",
+        "verified": true
+      }
+    ]
+  }
+}

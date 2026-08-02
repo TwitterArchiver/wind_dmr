@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "US Military",
+          "id": "1088509400464031744",
+          "name": "US Military"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "US Military",
+          "id": "1088509400464031744",
+          "name": "US Military"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Military",
+          "id": "1088509400464031744",
+          "name": "US Military"
+        }
+      }
+    ],
+    "conversation_id": "1860472174446092790",
+    "created_at": "2024-11-23T23:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T00:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860472174446092790"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "Portland",
+          "probability": 0.9833,
+          "start": 43,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7603032",
+          "start": 3,
+          "username": "gak_pdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860472174446092790",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860448570446610562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gak_pdx: Fun fact;\nIn the outskirts of Portland is a nice little shop in an anonymous industrial park. You walk in to a little foyer wi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          }
+        ],
+        "conversation_id": "1860472174446092790",
+        "created_at": "2024-11-23T23:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T00:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860472174446092790"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Portland",
+              "probability": 0.9833,
+              "start": 43,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7603032",
+              "start": 3,
+              "username": "gak_pdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860472174446092790",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860448570446610562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gak_pdx: Fun fact;\nIn the outskirts of Portland is a nice little shop in an anonymous industrial park. You walk in to a little foyer wi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7603032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          }
+        ],
+        "conversation_id": "1860448570446610562",
+        "created_at": "2024-11-23T22:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T23:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860448570446610562"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Portland",
+              "probability": 0.981,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 181,
+              "normalized_text": "Mylar",
+              "probability": 0.4216,
+              "start": 177,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HarrisonKrank/…",
+              "end": 297,
+              "expanded_url": "https://twitter.com/HarrisonKrank/status/1860017153703051422",
+              "start": 274,
+              "url": "https://t.co/CvRfES53eN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860448570446610562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Fun fact;\nIn the outskirts of Portland is a nice little shop in an anonymous industrial park. You walk in to a little foyer with a folding card table and 9 thick, vacuum sealed Mylar bags, each about 1' long and 4\" in diameter. They are sitting on top of about 70 pages of paperwork. This is the entirely daily production of this facility.\nInside are a bunch of old Mori Seiki NLX lathes - the old ones, before Mitsui bank let Dr. Mori train wreck the company with the DMG merger. Aside from a little wear on the interior paint, the 7 lathes look like they just came out of the showroom. In fact, the whole place looks like a machine tool showroom - spotlessly clean, with a thick, perfectly level urethane floor that a product photographer could use as a mirror white background plane in an Apple ad.\nThere are a few big things in our lives that are literally held together with a couple of fasteners. One example; every Boeing and Airbus engine is held onto the wing by only 2 bolts, and this is the shop that makes them. Boeing and Airbus both require multiple suppliers for critical components, so this is not the only shop that makes these bolts, but the nearest competitor is in Seattle (close to Boeing, but far enough away that the Cascadia Subduction Zone quake won't take both out).\nThe shop bay next door is equally clean, but contains a vacuum furnace and the most through inspection lab I've ever seen. X-ray and magnetic particle inspection, CMM, optical comparators. In the corner is a cherry red custom painted Lista cabinet where raw blanks are stored. An identical Lista cabinet in Green is at the opposite side of the shop. Raw material comes in, gets inspected, heat treated, inspected again, and moves from the Red to Green cabinet, collecting about half the paperwork along the way.\nThe blanks take about 3 days to go from a cylinder of Sandvik or Thyssen-Krupp steel into a bolt. One machine, the oldest, is used to rough the blank into a pair of concentric cylinders, the second oldest machine roughs the hex head, before the bolt is stress relieved and allowed to rest for 36 hours. Another machine finishes the hex and applies chamfers, these are final surfaces. \nThe final step is the threads, where things get interesting. They are cut in 3 steps; roughed, semi-finished, and finished. The secret sauce here is that a new insert is always used as the semi-finisher, and the semi-finished state is very very carefully measured to compensate that exact insert. The final finishing pass is taken in one (surprisingly healthy) hit using the data from the semi-finishing pass to be on-dimension within about 2µm. The key insight they had is that you get a better surface finish off of a tool that has already taken a couple of cuts. The threads look like you wrapped a mirror around a spiral staircase; their process is so dialed-in that their work competes with thread-grinders for dimensional and surface quality. Even so, just before inspecting with old-school thread wires at the machine - the guy running the lathe spins it at about 500rpm and reaches in with a Bright Boy stick and touches them up, runs his fingers over them, and gives them the most important QC they'll receive. This guy has been on this machine for 15 years; nearly every aircraft passenger aircraft in the sky is held together by at least one bolt that has passed his touch inspection.\nOf course, the engineers in Renton or Toulouse won't just accept that Mitch in Gresham touched this bolt so it is good... so whole reams of paperwork are geared by regularly calibrated Zeiss metrology gear that does a complete dimensional inspection, another magnetic particle inspection (3 in total), and an X-ray. Having said that, Mitch rejects more than Zeiss does (about 2-3%).\nYou want to pay more than $45 for each of these bolts."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4064,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860017153703051422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Fun fact;\nIn the outskirts of Portland is a nice little shop in an anonymous industrial park. You walk in to a little foyer with a folding card table and 9 thick, vacuum sealed Mylar bags, each about 1' long and 4\" in diameter. They are sitting on top of about 70 pages of… https://t.co/CvRfES53eN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 670,
+          "like_count": 98807,
+          "listed_count": 6,
+          "tweet_count": 20931
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2007-07-20T06:54:14.000Z",
+        "description": "Follow me on Twitter!\nYou'll go where I go, defile what I defile, eat who I eat.\nHe/Supreme Allied Machine Commander",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "luma-labs.com",
+                "end": 23,
+                "expanded_url": "http://luma-labs.com",
+                "start": 0,
+                "url": "https://t.co/SnwKUkNhta"
+              }
+            ]
+          }
+        },
+        "id": "7603032",
+        "location": "G90 G53 Z0",
+        "name": "Greg Koenig",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618391097994276864/HYtwqAcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 1069,
+          "like_count": 12248,
+          "listed_count": 184,
+          "tweet_count": 42317
+        },
+        "url": "https://t.co/SnwKUkNhta",
+        "username": "gak_pdx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1805659491226337477",
+    "created_at": "2024-06-25T17:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T18:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805659744902037605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583101098423771139",
+          "start": 0,
+          "username": "HagaMeLien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805659744902037605",
+    "in_reply_to_user_id": "1583101098423771139",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805659491226337477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HagaMeLien 要好好生活喔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1805659491226337477].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1805659491226337477",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1805659491226337477"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1805659491226337477",
+        "created_at": "2024-06-25T17:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T18:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805659744902037605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583101098423771139",
+              "start": 0,
+              "username": "HagaMeLien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805659744902037605",
+        "in_reply_to_user_id": "1583101098423771139",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805659491226337477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HagaMeLien 要好好生活喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 622,
+          "like_count": 85231,
+          "listed_count": 5,
+          "tweet_count": 18611
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T14:21:37.000Z",
+        "description": "❄️  我是咩咩 / 清水推 / 接推广 / 🚪188 /288纯绿陪聊无福利无区别 / 喜欢我的话可以给我投喂一点让我吃顿好的～咩咩感谢你 ❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=bhj5NKqf",
+                "start": 0,
+                "url": "https://t.co/V3Qcln8oSy"
+              }
+            ]
+          }
+        },
+        "id": "1583101098423771139",
+        "location": "↓自用梯子      推广自辨",
+        "name": "MeLien",
+        "pinned_tweet_id": "1804788537822433519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791353739418484736/UEVn_JFR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12742,
+          "following_count": 481,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 7487
+        },
+        "url": "https://t.co/V3Qcln8oSy",
+        "username": "HagaMeLien",
+        "verified": false
+      }
+    ]
+  }
+}

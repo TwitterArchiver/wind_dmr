@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999112986842308608"
+      ],
+      "media_source_tweet_id": [
+        "1999112994371088808"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1999314932417069486",
+    "created_at": "2025-12-12T03:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T04:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999314932417069486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1420609694402433028",
+          "start": 3,
+          "username": "AdrianDittmann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0AeG5z1YVc",
+          "end": 43,
+          "expanded_url": "https://x.com/AdrianDittmann/status/1999112994371088808/photo/1",
+          "media_key": "3_1999112986842308608",
+          "start": 20,
+          "url": "https://t.co/0AeG5z1YVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999314932417069486",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 479
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999112994371088808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdrianDittmann: https://t.co/0AeG5z1YVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_1999112986842308608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75Gq3abIAAkmhk.jpg",
+        "width": 469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999112986842308608"
+          ],
+          "media_source_tweet_id": [
+            "1999112994371088808"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1999314932417069486",
+        "created_at": "2025-12-12T03:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999314932417069486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1420609694402433028",
+              "start": 3,
+              "username": "AdrianDittmann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AeG5z1YVc",
+              "end": 43,
+              "expanded_url": "https://x.com/AdrianDittmann/status/1999112994371088808/photo/1",
+              "media_key": "3_1999112986842308608",
+              "start": 20,
+              "url": "https://t.co/0AeG5z1YVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999314932417069486",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 479
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999112994371088808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdrianDittmann: https://t.co/0AeG5z1YVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999112986842308608"
+          ]
+        },
+        "author_id": "1420609694402433028",
+        "conversation_id": "1999112994371088808",
+        "created_at": "2025-12-11T13:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999112994371088808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AeG5z1YVc",
+              "end": 23,
+              "expanded_url": "https://x.com/AdrianDittmann/status/1999112994371088808/photo/1",
+              "media_key": "3_1999112986842308608",
+              "start": 0,
+              "url": "https://t.co/0AeG5z1YVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999112994371088808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 51526,
+          "like_count": 7141,
+          "quote_count": 23,
+          "reply_count": 77,
+          "retweet_count": 479
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0AeG5z1YVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 819,
+          "like_count": 123451,
+          "listed_count": 8,
+          "media_count": 2898,
+          "tweet_count": 24063
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T04:59:34.000Z",
+        "description": "Life is too short to worry about stupid things. Have fun. Fall in love. Regret nothing, and don't let people bring you down. Study, think, create, and grow.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "streamlabs.com/adriandittmann…",
+                "end": 23,
+                "expanded_url": "https://streamlabs.com/adriandittmann/tip",
+                "start": 0,
+                "url": "https://t.co/Mwi5P0NyTF"
+              }
+            ]
+          }
+        },
+        "id": "1420609694402433028",
+        "location": "On-chain",
+        "name": "Adrian Dittmann",
+        "pinned_tweet_id": "1963783337623081351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715183897297002496/67FPPcja_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262057,
+          "following_count": 1159,
+          "like_count": 67931,
+          "listed_count": 1005,
+          "media_count": 4243,
+          "tweet_count": 19381
+        },
+        "url": "https://t.co/Mwi5P0NyTF",
+        "username": "AdrianDittmann",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1808599553643315200"
+      ],
+      "media_source_tweet_id": [
+        "1808685158536528152"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1808886940915413400",
+    "created_at": "2024-07-04T15:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T16:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808886940915413400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1705905707369844736",
+          "start": 3,
+          "username": "A_Fluffy_buddy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/aEry2W4OAD",
+          "end": 49,
+          "expanded_url": "https://twitter.com/A_Fluffy_buddy/status/1808685158536528152/video/1",
+          "media_key": "7_1808599553643315200",
+          "start": 26,
+          "url": "https://t.co/aEry2W4OAD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808886940915413400",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808685158536528152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A_Fluffy_buddy: Yum 😈 https://t.co/aEry2W4OAD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5366,
+        "height": 838,
+        "media_key": "7_1808599553643315200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808599553643315200/pu/img/bvAQ-VM9q-w20aep.jpg",
+        "public_metrics": {
+          "view_count": 469
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808599553643315200/pu/vid/avc1/320x356/mPvmgOF0fpR_iqgD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808599553643315200/pu/vid/avc1/480x534/zV62nPS1L45vYBbD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808599553643315200/pu/vid/avc1/720x802/CfDsVPQ2MpAeKoX0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808599553643315200/pu/pl/jOJ0KLCycAB8j_aT.m3u8?tag=12"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808599553643315200"
+          ],
+          "media_source_tweet_id": [
+            "1808685158536528152"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1808886940915413400",
+        "created_at": "2024-07-04T15:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T16:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808886940915413400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1705905707369844736",
+              "start": 3,
+              "username": "A_Fluffy_buddy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aEry2W4OAD",
+              "end": 49,
+              "expanded_url": "https://twitter.com/A_Fluffy_buddy/status/1808685158536528152/video/1",
+              "media_key": "7_1808599553643315200",
+              "start": 26,
+              "url": "https://t.co/aEry2W4OAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808886940915413400",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808685158536528152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A_Fluffy_buddy: Yum 😈 https://t.co/aEry2W4OAD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808599553643315200"
+          ]
+        },
+        "author_id": "1705905707369844736",
+        "conversation_id": "1808685158536528152",
+        "created_at": "2024-07-04T02:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T03:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808685158536528152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aEry2W4OAD",
+              "end": 29,
+              "expanded_url": "https://twitter.com/A_Fluffy_buddy/status/1808685158536528152/video/1",
+              "media_key": "7_1808599553643315200",
+              "start": 6,
+              "url": "https://t.co/aEry2W4OAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808685158536528152",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1478,
+          "like_count": 149,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Yum 😈 https://t.co/aEry2W4OAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌 | 我需要钱🚪88 重庆／青岛接线下\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "MTG"
+              },
+              {
+                "end": 157,
+                "start": 151,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 624,
+          "like_count": 86496,
+          "listed_count": 5,
+          "tweet_count": 18938
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T11:23:32.000Z",
+        "description": "🌟 Follow for daily cuteness overload! 🐾❤️",
+        "id": "1705905707369844736",
+        "location": "DM for credits/ removal",
+        "name": "FluffyBuddy",
+        "pinned_tweet_id": "1800041159923740757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713588140542173184/hYYG6cOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12323,
+          "following_count": 9748,
+          "like_count": 19638,
+          "listed_count": 54,
+          "tweet_count": 2812
+        },
+        "username": "A_Fluffy_buddy",
+        "verified": true
+      }
+    ]
+  }
+}

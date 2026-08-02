@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1962175852772516193",
+    "created_at": "2025-08-31T15:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T16:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962175852772516193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/justin40533262…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/justin405332629/status/1961982000820318681",
+          "start": 7,
+          "url": "https://t.co/ZsGWLhY6LQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962175852772516193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961982000820318681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想谈恋爱 https://t.co/ZsGWLhY6LQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1962175852772516193",
+        "created_at": "2025-08-31T15:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962175852772516193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/justin40533262…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/justin405332629/status/1961982000820318681",
+              "start": 7,
+              "url": "https://t.co/ZsGWLhY6LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962175852772516193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961982000820318681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想谈恋爱 https://t.co/ZsGWLhY6LQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1961982000820318681",
+        "created_at": "2025-08-31T02:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961982000820318681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cjyqy10/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/cjyqy10/status/1961980234389172425",
+              "start": 7,
+              "url": "https://t.co/JzfBFeWGXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961982000820318681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3990,
+          "like_count": 38,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961980234389172425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想谈恋爱 https://t.co/JzfBFeWGXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 764,
+          "like_count": 119199,
+          "listed_count": 9,
+          "media_count": 2852,
+          "tweet_count": 23634
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜长发男短发男时不时切换｜清水｜1i｜双子座♊｜可以叫我小玉｜链接是提问箱｜回关喜欢，因为想把这里当成朋友圈刷，会先看看内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdMk4e"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": "关注全是互关（除11个）",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1941131523874509040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950632626752200704/-M7ipJKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 773,
+          "like_count": 22281,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 8129
+        },
+        "url": "https://t.co/AEMLOdMk4e",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

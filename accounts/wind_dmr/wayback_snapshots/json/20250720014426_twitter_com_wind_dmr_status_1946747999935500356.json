@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1946747999935500356",
+    "created_at": "2025-07-20T01:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946747999935500356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirakira4th/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kirakira4th/status/1946640273523851309",
+          "start": 14,
+          "url": "https://t.co/ZYJyRciydQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946747999935500356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946640273523851309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好，我是卖的，谢谢大家 https://t.co/ZYJyRciydQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1946747999935500356",
+        "created_at": "2025-07-20T01:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T02:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946747999935500356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirakira4th/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kirakira4th/status/1946640273523851309",
+              "start": 14,
+              "url": "https://t.co/ZYJyRciydQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946747999935500356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946640273523851309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好，我是卖的，谢谢大家 https://t.co/ZYJyRciydQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1946640273523851309",
+        "created_at": "2025-07-19T18:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946640273523851309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyuounot/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/whyuounot/status/1946632048116179078",
+              "start": 14,
+              "url": "https://t.co/Iu54HU0VcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946640273523851309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3924,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946632048116179078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好，我是卖的，谢谢大家 https://t.co/Iu54HU0VcQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 711,
+          "like_count": 116887,
+          "listed_count": 8,
+          "media_count": 2841,
+          "tweet_count": 23495
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "",
+        "id": "1666599054917218305",
+        "name": "Kira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946087458736627712/L9mVPwHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16794,
+          "following_count": 2786,
+          "like_count": 52524,
+          "listed_count": 25,
+          "media_count": 357,
+          "tweet_count": 16667
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

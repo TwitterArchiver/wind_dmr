@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1876944885086818674",
+    "created_at": "2025-01-08T10:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T11:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876944885086818674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/visualscat/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/visualscat/status/1876925832838418675",
+          "start": 4,
+          "url": "https://t.co/SqcbXu6o3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876944885086818674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876925832838418675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梳毛喵 https://t.co/SqcbXu6o3O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1876944885086818674",
+        "created_at": "2025-01-08T10:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876944885086818674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/visualscat/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/visualscat/status/1876925832838418675",
+              "start": 4,
+              "url": "https://t.co/SqcbXu6o3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876944885086818674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876925832838418675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梳毛喵 https://t.co/SqcbXu6o3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876925816061206528"
+          ]
+        },
+        "author_id": "1546639149872168960",
+        "conversation_id": "1876925832838418675",
+        "created_at": "2025-01-08T09:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876925832838418675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ikV1K19ax",
+              "end": 23,
+              "expanded_url": "https://x.com/visualscat/status/1876925832838418675/video/1",
+              "media_key": "7_1876925816061206528",
+              "start": 0,
+              "url": "https://t.co/1ikV1K19ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876925832838418675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 11574,
+          "like_count": 575,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1ikV1K19ax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 690,
+          "like_count": 103103,
+          "listed_count": 7,
+          "media_count": 2577,
+          "tweet_count": 21610
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T23:34:53.000Z",
+        "description": "Black Cats are not bad luck. They are elegant loving and delightful companions 🐈‍⬛❤️",
+        "id": "1546639149872168960",
+        "name": "Black cats are not bad luck",
+        "pinned_tweet_id": "1876673926950002723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789834661281079296/EbSdsCSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166924,
+          "following_count": 27,
+          "like_count": 100,
+          "listed_count": 427,
+          "media_count": 4007,
+          "tweet_count": 4021
+        },
+        "username": "visualscat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803487002559488000"
+      ],
+      "media_source_tweet_id": [
+        "1803487007861059782"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1808664726387446236",
+    "created_at": "2024-07-04T00:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T01:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808664726387446236"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Ame Chan",
+          "probability": 0.6913,
+          "start": 31,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703860573685846016",
+          "start": 3,
+          "username": "rinsshtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4n0MPLHduQ",
+          "end": 67,
+          "expanded_url": "https://twitter.com/rinsshtwt/status/1803487007861059782/photo/1",
+          "media_key": "3_1803487002559488000",
+          "start": 44,
+          "url": "https://t.co/4n0MPLHduQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808664726387446236",
+    "lang": "en",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803487007861059782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinsshtwt: Do yall like my Ame Chan art https://t.co/4n0MPLHduQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1808664726387446236].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1808664726387446236",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1808664726387446236"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1803487002559488000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQdF36CXoAADCea.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803487002559488000"
+          ]
+        },
+        "author_id": "1703860573685846016",
+        "conversation_id": "1803487007861059782",
+        "created_at": "2024-06-19T17:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T18:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803487007861059782"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Ame Chan",
+              "probability": 0.7107,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4n0MPLHduQ",
+              "end": 52,
+              "expanded_url": "https://twitter.com/rinsshtwt/status/1803487007861059782/photo/1",
+              "media_key": "3_1803487002559488000",
+              "start": 29,
+              "url": "https://t.co/4n0MPLHduQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803487007861059782",
+        "lang": "en",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5833,
+          "like_count": 130,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Do yall like my Ame Chan art https://t.co/4n0MPLHduQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌 | 我需要钱🚪88 重庆／青岛接线下\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "MTG"
+              },
+              {
+                "end": 157,
+                "start": 151,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 624,
+          "like_count": 86434,
+          "listed_count": 5,
+          "tweet_count": 18922
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T19:56:53.000Z",
+        "description": "Rin they/he minor Block if i make you uncomfy!!! i am trying to recover!!! matching with my brother. Mika is my world",
+        "id": "1703860573685846016",
+        "location": "Bmi 21",
+        "name": "Rin 𖤐shedtwt𖤐",
+        "pinned_tweet_id": "1804417358695395574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802299425978548226/xxdxEfOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 74,
+          "like_count": 1623,
+          "listed_count": 3,
+          "tweet_count": 564
+        },
+        "username": "rinsshtwt",
+        "verified": false
+      }
+    ]
+  }
+}

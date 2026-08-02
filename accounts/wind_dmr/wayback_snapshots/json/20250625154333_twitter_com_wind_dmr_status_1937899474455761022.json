@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937899420542210049"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1937899474455761022",
+    "created_at": "2025-06-25T15:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T16:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937899474455761022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5XmJV7a1h",
+          "end": 140,
+          "expanded_url": "https://x.com/wind_dmr/status/1937899474455761022/photo/1",
+          "media_key": "3_1937899420542210049",
+          "start": 117,
+          "url": "https://t.co/E5XmJV7a1h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937899474455761022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操。以前不觉得有什么，现在发现你们这些跑PCDN的好他妈贱啊真的，因为运营商限制上传下载比例，你们就拿我们这些小网站主的图片资源刷下载量是吗，一个月还没结束干掉我15块钱CDN流量费了，我经不住了，我把CDN停了，我真操死你们妈了 https://t.co/E5XmJV7a1h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_1937899420542210049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTNQWvakAEmlQE.jpg",
+        "width": 2076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937899420542210049"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1937899474455761022",
+        "created_at": "2025-06-25T15:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937899474455761022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5XmJV7a1h",
+              "end": 140,
+              "expanded_url": "https://x.com/wind_dmr/status/1937899474455761022/photo/1",
+              "media_key": "3_1937899420542210049",
+              "start": 117,
+              "url": "https://t.co/E5XmJV7a1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937899474455761022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操。以前不觉得有什么，现在发现你们这些跑PCDN的好他妈贱啊真的，因为运营商限制上传下载比例，你们就拿我们这些小网站主的图片资源刷下载量是吗，一个月还没结束干掉我15块钱CDN流量费了，我经不住了，我把CDN停了，我真操死你们妈了 https://t.co/E5XmJV7a1h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 711,
+          "like_count": 116221,
+          "listed_count": 8,
+          "media_count": 2839,
+          "tweet_count": 23465
+        },
+        "username": "wind_dmr",
+        "verified": false
+      }
+    ]
+  }
+}

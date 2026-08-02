@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1829690913100349815",
+    "created_at": "2024-08-31T01:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T02:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829690913100349815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "971959140590370817",
+          "start": 3,
+          "username": "_SophieXIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829690913100349815",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829634048127377843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_SophieXIV: ♡ 5K Followers Raffle ♡\n\nPrize:\n• One photo featuring your character\n• Custom pose and fully edited\n• NSFW or SFW\n\nRules:\n•…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829690913100349815].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829690913100349815",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829690913100349815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829631458610126849"
+          ]
+        },
+        "author_id": "971959140590370817",
+        "conversation_id": "1829634048127377843",
+        "created_at": "2024-08-30T21:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T22:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829634048127377843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 160,
+              "id": "971959140590370817",
+              "start": 149,
+              "username": "_SophieXIV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0szcq4s3tu",
+              "end": 270,
+              "expanded_url": "https://twitter.com/_SophieXIV/status/1829634048127377843/photo/1",
+              "media_key": "3_1829631458610126849",
+              "start": 247,
+              "url": "https://t.co/0SZCQ4S3TU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829634048127377843",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2462,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "♡ 5K Followers Raffle ♡\n\nPrize:\n• One photo featuring your character\n• Custom pose and fully edited\n• NSFW or SFW\n\nRules:\n• You must be following me @_SophieXIV \n• You must like and RT this tweet\n\n♡ Raffle ends on September 13th at 11:59 PM EST ♡ https://t.co/0SZCQ4S3TU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 666,
+          "like_count": 94120,
+          "listed_count": 5,
+          "tweet_count": 20195
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-09T04:01:32.000Z",
+        "description": "FFXIV SS | INTJ-T | SFW & NSFW | Commissions: 0/1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/jengy",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/jengy",
+                "start": 0,
+                "url": "https://t.co/er7Ev0THub"
+              }
+            ]
+          }
+        },
+        "id": "971959140590370817",
+        "location": "Primal",
+        "name": "sophie | raffle in pinned tweet!",
+        "pinned_tweet_id": "1829634048127377843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828584311806717953/6XoXWNTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5196,
+          "following_count": 632,
+          "like_count": 22894,
+          "listed_count": 27,
+          "tweet_count": 6404
+        },
+        "url": "https://t.co/er7Ev0THub",
+        "username": "_SophieXIV",
+        "verified": false
+      }
+    ]
+  }
+}

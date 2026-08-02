@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2052604064475800023",
+    "created_at": "2026-05-08T10:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052692595751686632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824324977379905537",
+          "start": 0,
+          "username": "siyu060910"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A 有，如果你不听话，教官会专门把不听话的学生组成一个“特训营”，然后体罚、殴打或者长跑之类的。 A 在我来的前一天就有，我听说他被绑到一个“发泄室”，教官还让学员去打他。 A 没有，但有有过盗窃行为的，他们叫“扒车门”，是福建过来的。 第七天和家长通了电话，第二十天受了很严重的伤，手部，第二十八天进了电子厂，过了三天去纽特（7.2） 说要求当事人配合调查，跟我们走。“某某某是不是你朋友”，当事人说是。没有说是哪里警察，也没有说去哪里。当时是16、17岁，现在19岁。湖北当地人。然后开到了荣泉／新洲小区。过程中发现不太像警察，知道不对劲，但是在车上反抗也没用，就没做什么。 殴打。有衣架、木棍子、用手脚，以及很多别的道具。会留下伤吗？基本都是钝伤。用绳索或者其他工具绑起来。在他进的当天就有，但没亲见。听说是在一个“发泄室”，把一个新生绑起来，让老学员去打他。待得久，和教官混得熟，可以当助教。这类基本上都是混社会的那种，其他原因进去的一般不会。 宣传：能够改善青少年不良行为，改变家庭氛围。实际上资质：“教育咨询服务，不含社区教育服务，……”公司没有线下办学、开展教育培训、心理咨询的资质。超牌经营。",
+          "display_url": "docs.google.com/document/d/e/2…",
+          "end": 35,
+          "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vQF2iofU1_ZQL66zGnyywrj1aWO40WYU1RfrK0AXcsRX1NVTVQgiAK9u4rGJ1QyAA/pub",
+          "start": 12,
+          "status": 200,
+          "title": "采访记录20260505.docx",
+          "unwound_url": "https://docs.google.com/document/d/e/2PACX-1vQF2iofU1_ZQL66zGnyywrj1aWO40WYU1RfrK0AXcsRX1NVTVQgiAK9u4rGJ1QyAA/pub",
+          "url": "https://t.co/gi4Y8FOS9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052692595751686632",
+    "in_reply_to_user_id": "1824324977379905537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052604064475800023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyu060910 https://t.co/gi4Y8FOS9G\n已通过Google文档备份并发布。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2052604064475800023",
+        "created_at": "2026-05-08T10:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052692595751686632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824324977379905537",
+              "start": 0,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A 有，如果你不听话，教官会专门把不听话的学生组成一个“特训营”，然后体罚、殴打或者长跑之类的。 A 在我来的前一天就有，我听说他被绑到一个“发泄室”，教官还让学员去打他。 A 没有，但有有过盗窃行为的，他们叫“扒车门”，是福建过来的。 第七天和家长通了电话，第二十天受了很严重的伤，手部，第二十八天进了电子厂，过了三天去纽特（7.2） 说要求当事人配合调查，跟我们走。“某某某是不是你朋友”，当事人说是。没有说是哪里警察，也没有说去哪里。当时是16、17岁，现在19岁。湖北当地人。然后开到了荣泉／新洲小区。过程中发现不太像警察，知道不对劲，但是在车上反抗也没用，就没做什么。 殴打。有衣架、木棍子、用手脚，以及很多别的道具。会留下伤吗？基本都是钝伤。用绳索或者其他工具绑起来。在他进的当天就有，但没亲见。听说是在一个“发泄室”，把一个新生绑起来，让老学员去打他。待得久，和教官混得熟，可以当助教。这类基本上都是混社会的那种，其他原因进去的一般不会。 宣传：能够改善青少年不良行为，改变家庭氛围。实际上资质：“教育咨询服务，不含社区教育服务，……”公司没有线下办学、开展教育培训、心理咨询的资质。超牌经营。",
+              "display_url": "docs.google.com/document/d/e/2…",
+              "end": 35,
+              "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vQF2iofU1_ZQL66zGnyywrj1aWO40WYU1RfrK0AXcsRX1NVTVQgiAK9u4rGJ1QyAA/pub",
+              "start": 12,
+              "status": 200,
+              "title": "采访记录20260505.docx",
+              "unwound_url": "https://docs.google.com/document/d/e/2PACX-1vQF2iofU1_ZQL66zGnyywrj1aWO40WYU1RfrK0AXcsRX1NVTVQgiAK9u4rGJ1QyAA/pub",
+              "url": "https://t.co/gi4Y8FOS9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052692595751686632",
+        "in_reply_to_user_id": "1824324977379905537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052604064475800023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyu060910 https://t.co/gi4Y8FOS9G\n已通过Google文档备份并发布。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "conversation_id": "2052604064475800023",
+        "created_at": "2026-05-08T04:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052604064475800023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "kdocs.cn/l/ct4Gq7Gtn9g9",
+              "end": 76,
+              "expanded_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+              "start": 53,
+              "unwound_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+              "url": "https://t.co/ndME5Ucl9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052604064475800023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1105,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "近期做的一份采访的文字记录，希望可以帮大家认识到矫正机构、扭转机构内的真实情况\n采访记录20260505\nhttps://t.co/ndME5Ucl9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 877,
+          "like_count": 127375,
+          "listed_count": 10,
+          "media_count": 2971,
+          "tweet_count": 24846
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2049167214830559716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7505,
+          "following_count": 82,
+          "like_count": 519,
+          "listed_count": 11,
+          "media_count": 276,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

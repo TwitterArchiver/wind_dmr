@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2015524442168774757",
+    "created_at": "2026-01-26T12:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015765532189028684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983368046686416901",
+          "start": 0,
+          "username": "LuanjiaoBot"
+        },
+        {
+          "end": 21,
+          "id": "909909858949922818",
+          "start": 13,
+          "username": "rnpgpsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015765532189028684",
+    "in_reply_to_user_id": "1983368046686416901",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015755840683184139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuanjiaoBot @rnpgpsl ！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2015524442168774757",
+        "created_at": "2026-01-26T12:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015765532189028684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983368046686416901",
+              "start": 0,
+              "username": "LuanjiaoBot"
+            },
+            {
+              "end": 21,
+              "id": "909909858949922818",
+              "start": 13,
+              "username": "rnpgpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015765532189028684",
+        "in_reply_to_user_id": "1983368046686416901",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015755840683184139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuanjiaoBot @rnpgpsl ！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983368046686416901",
+        "conversation_id": "2015524442168774757",
+        "created_at": "2026-01-26T11:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015755840683184139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl"
+            },
+            {
+              "end": 18,
+              "id": "4736358500",
+              "start": 9,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015755840683184139",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015749533276200997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl @wind_dmr 了！？！？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 832,
+          "like_count": 124983,
+          "listed_count": 8,
+          "media_count": 2908,
+          "tweet_count": 24210
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:59:36.000Z",
+        "description": "中二节奏，lo cos kig，virtual novel爱好者，pre-dpt，有猫",
+        "id": "1983368046686416901",
+        "location": "Columbus, OH",
+        "name": "乱叫bot",
+        "pinned_tweet_id": "2008733131541787074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994270662098026496/PUUdrzSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 206,
+          "like_count": 6181,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 551
+        },
+        "username": "LuanjiaoBot",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "什么都干区主包|精神红脖子|我觉得我不是男娘| 48州可飞墨西哥劳动力｜有加急需求请用 discord/tg/手机号找我 |\n进群🚪/熟人\nqq爆毙别用qq找我（）\n来看一眼我的fb marketplace吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "鴇鵬機工 | Tokiho Engineering",
+        "pinned_tweet_id": "2015541416525541660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10858,
+          "following_count": 6441,
+          "like_count": 153104,
+          "listed_count": 27,
+          "media_count": 6366,
+          "tweet_count": 84471
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      }
+    ]
+  }
+}

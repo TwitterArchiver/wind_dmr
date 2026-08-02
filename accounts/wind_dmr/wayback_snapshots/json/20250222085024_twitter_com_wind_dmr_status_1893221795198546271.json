@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1892917107723231504",
+    "created_at": "2025-02-22T08:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T09:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893221795198546271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1732434053163335693",
+          "start": 0,
+          "username": "ChenTengCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893221795198546271",
+    "in_reply_to_user_id": "1732434053163335693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893221376963584240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenTengCT 热知识：山东方言有冀鲁官话，中原官话（包括河南话），胶辽官话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1892917107723231504",
+        "created_at": "2025-02-22T08:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T09:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893221795198546271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1732434053163335693",
+              "start": 0,
+              "username": "ChenTengCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893221795198546271",
+        "in_reply_to_user_id": "1732434053163335693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893221376963584240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenTengCT 热知识：山东方言有冀鲁官话，中原官话（包括河南话），胶辽官话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732434053163335693",
+        "conversation_id": "1892917107723231504",
+        "created_at": "2025-02-22T08:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T09:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893221376963584240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893221376963584240",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892917107723231504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 恁不是河南话？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 705,
+          "like_count": 110724,
+          "listed_count": 8,
+          "media_count": 2675,
+          "tweet_count": 22700
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T16:17:32.000Z",
+        "description": "",
+        "id": "1732434053163335693",
+        "name": "Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889229980586184704/EtjIlkrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 153,
+          "like_count": 4266,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1395
+        },
+        "username": "ChenTengCT",
+        "verified": false
+      }
+    ]
+  }
+}

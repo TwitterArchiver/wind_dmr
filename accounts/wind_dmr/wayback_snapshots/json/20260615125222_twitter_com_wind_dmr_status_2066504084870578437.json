@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066504074435170304"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066457721457787141",
+    "created_at": "2026-06-15T12:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066504084870578437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1837057158674010112",
+          "start": 0,
+          "username": "InfiCheesy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZStP94uKZ",
+          "end": 51,
+          "expanded_url": "https://x.com/wind_dmr/status/2066504084870578437/photo/1",
+          "media_key": "3_2066504074435170304",
+          "start": 28,
+          "url": "https://t.co/gZStP94uKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066504084870578437",
+    "in_reply_to_user_id": "1837057158674010112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066457721457787141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiCheesy 当我掏出wwan+热点共享呢（ https://t.co/gZStP94uKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_2066504074435170304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2ygcObEAAvb10.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066504074435170304"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066457721457787141",
+        "created_at": "2026-06-15T12:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066504084870578437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1837057158674010112",
+              "start": 0,
+              "username": "InfiCheesy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZStP94uKZ",
+              "end": 51,
+              "expanded_url": "https://x.com/wind_dmr/status/2066504084870578437/photo/1",
+              "media_key": "3_2066504074435170304",
+              "start": 28,
+              "url": "https://t.co/gZStP94uKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066504084870578437",
+        "in_reply_to_user_id": "1837057158674010112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066457721457787141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiCheesy 当我掏出wwan+热点共享呢（ https://t.co/gZStP94uKZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837057158674010112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2066457721457787141",
+        "created_at": "2026-06-15T09:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066457721457787141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/InfiCheesy/sta…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/InfiCheesy/status/2066457101044416683",
+              "start": 165,
+              "url": "https://t.co/NM7ljONE9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066457721457787141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "顺带我发现，Windows热点共享功能，其实就是微软自带的一种「网关共享代理」（透明代理功能）\n\n它会自动创建一个热点WLAN网关，192.168.137.1\n\n如果没有BUG会非常好用，可惜，在Win11的控制面板里，根本找不到WLAN网关，也无法给Clash的Meta网卡或者V2rayN的Sin-box网卡共享这个热点网卡\n\n导致Win11无法实现透明代理的功能"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4695,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066457101044416683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺带我发现，Windows热点共享功能，其实就是微软自带的一种「网关共享代理」（透明代理功能）\n\n它会自动创建一个热点WLAN网关，192.168.137.1\n\n如果没有BUG会非常好用，可惜，在Win11的控制面板里，根本找不到WLAN网关，也无法给Clash的Meta网卡或者V2rayN的Sin-box网卡共享这个热点网卡 https://t.co/NM7ljONE9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 871,
+          "like_count": 128265,
+          "listed_count": 8,
+          "media_count": 2990,
+          "tweet_count": 24958
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T09:12:23.000Z",
+        "description": "这里是无限芝士，一个致力于提升您上网体验的信息分享频道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/inficheesy",
+                "end": 23,
+                "expanded_url": "https://t.me/inficheesy",
+                "start": 0,
+                "url": "https://t.co/CVXeusXIlM"
+              }
+            ]
+          }
+        },
+        "id": "1837057158674010112",
+        "location": "HongKong",
+        "name": "InfiCheesy無限芝士",
+        "pinned_tweet_id": "2056594033263407611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837057377402761216/g2oIddXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7913,
+          "following_count": 168,
+          "like_count": 144,
+          "listed_count": 29,
+          "media_count": 722,
+          "tweet_count": 1790
+        },
+        "url": "https://t.co/CVXeusXIlM",
+        "username": "InfiCheesy",
+        "verified": true
+      }
+    ]
+  }
+}

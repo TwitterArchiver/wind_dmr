@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1878531800517247157",
+    "created_at": "2025-01-12T19:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T20:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878531800517247157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fomalhautawa/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Fomalhautawa/status/1877010477621882952",
+          "start": 3,
+          "url": "https://t.co/Z9uExdennL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878531800517247157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877010477621882952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我玩 https://t.co/Z9uExdennL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1878531800517247157",
+        "created_at": "2025-01-12T19:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T20:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878531800517247157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fomalhautawa/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Fomalhautawa/status/1877010477621882952",
+              "start": 3,
+              "url": "https://t.co/Z9uExdennL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878531800517247157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877010477621882952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我玩 https://t.co/Z9uExdennL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877010457133035520"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "conversation_id": "1877010477621882952",
+        "created_at": "2025-01-08T15:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T16:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877010477621882952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwMB99eaDY",
+              "end": 27,
+              "expanded_url": "https://x.com/Fomalhautawa/status/1877010477621882952/photo/1",
+              "media_key": "3_1877010457133035520",
+              "start": 4,
+              "url": "https://t.co/IwMB99eaDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877010477621882952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5669,
+          "like_count": 33,
+          "quote_count": 13,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "（点头 https://t.co/IwMB99eaDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 692,
+          "like_count": 103618,
+          "listed_count": 7,
+          "media_count": 2593,
+          "tweet_count": 21804
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "涩话主播，会骂人，很不温柔。\n夜间出没的吸血鬼捏。\n随缘互fo。\n是很中性的性冷淡誒。\n所以背景图片是开玩笑的哦（笑",
+        "id": "1248637653001494529",
+        "location": "有需要置顶提问箱请尽管问，当天会看，🈲政治",
+        "name": "𝔖𝔥𝔦𝔰𝔴",
+        "pinned_tweet_id": "1878008883756806574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878026616057827328/8UCuynMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 115,
+          "like_count": 18475,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 4642
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

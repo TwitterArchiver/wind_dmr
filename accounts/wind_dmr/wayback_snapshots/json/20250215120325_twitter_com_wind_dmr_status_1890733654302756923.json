@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1856763547159826432"
+      ],
+      "media_source_tweet_id": [
+        "1857174167080046655"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1890733654302756923",
+    "created_at": "2025-02-15T12:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T13:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890733654302756923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1064317162028822528",
+          "start": 3,
+          "username": "tyomateee2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TyDj70k2KO",
+          "end": 52,
+          "expanded_url": "https://x.com/Catshealdeprsn/status/1857174167080046655/video/1",
+          "media_key": "7_1856763547159826432",
+          "start": 29,
+          "url": "https://t.co/TyDj70k2KO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890733654302756923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4882
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890379536514048304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyomateee2: やっぱり液体だったのか… https://t.co/TyDj70k2KO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16266,
+        "height": 1024,
+        "media_key": "7_1856763547159826432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1856763547159826432/pu/img/i_TZXs32KGDl152T.jpg",
+        "public_metrics": {
+          "view_count": 6936925
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856763547159826432/pu/vid/avc1/320x568/WMznlvZJVqMeQaKn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856763547159826432/pu/vid/avc1/480x852/WWmjgxTJc36brahE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1856763547159826432/pu/vid/avc1/576x1024/GH1dv9UHXV-JEAcp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1856763547159826432/pu/pl/A6dW1P8tl3yYzmmi.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856763547159826432"
+          ],
+          "media_source_tweet_id": [
+            "1857174167080046655"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1890733654302756923",
+        "created_at": "2025-02-15T12:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T13:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890733654302756923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1064317162028822528",
+              "start": 3,
+              "username": "tyomateee2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyDj70k2KO",
+              "end": 52,
+              "expanded_url": "https://x.com/Catshealdeprsn/status/1857174167080046655/video/1",
+              "media_key": "7_1856763547159826432",
+              "start": 29,
+              "url": "https://t.co/TyDj70k2KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890733654302756923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4882
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890379536514048304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyomateee2: やっぱり液体だったのか… https://t.co/TyDj70k2KO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1856763547159826432"
+          ],
+          "media_source_tweet_id": [
+            "1857174167080046655"
+          ]
+        },
+        "author_id": "1064317162028822528",
+        "conversation_id": "1890379536514048304",
+        "created_at": "2025-02-14T12:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T13:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890379536514048304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyDj70k2KO",
+              "end": 36,
+              "expanded_url": "https://x.com/Catshealdeprsn/status/1857174167080046655/video/1",
+              "media_key": "7_1856763547159826432",
+              "start": 13,
+              "url": "https://t.co/TyDj70k2KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890379536514048304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3363,
+          "impression_count": 5483643,
+          "like_count": 39583,
+          "quote_count": 259,
+          "reply_count": 113,
+          "retweet_count": 4882
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱり液体だったのか… https://t.co/TyDj70k2KO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 703,
+          "like_count": 109962,
+          "listed_count": 8,
+          "media_count": 2654,
+          "tweet_count": 22569
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-19T00:39:20.000Z",
+        "description": "【利用規約に従い、スパムツイートは一切しません。また動画のツイートはX社が規定する引用元を明記したツイートをしています。】当人が運営しているアカウントは最多情報局 もふもふ動画です。他 癒し垢等の運営とは一切関係ありません。 削除や依頼はDMまたはメールまでお願い致します",
+        "id": "1064317162028822528",
+        "location": "aokun4321@gmail.com",
+        "name": "もふもふ動画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161172534789906432/xKRolaCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323804,
+          "following_count": 909,
+          "like_count": 11398,
+          "listed_count": 4581,
+          "media_count": 10355,
+          "tweet_count": 28761
+        },
+        "username": "tyomateee2",
+        "verified": true
+      }
+    ]
+  }
+}

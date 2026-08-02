@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2049055160975098340",
+    "created_at": "2026-04-28T09:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049055160975098340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049055160975098340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048724560116379900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: 唐欣丽案目前情况简报\n救救这个15岁被家暴！被送入戒网瘾学校的女孩！\n一名十五岁的女孩“唐欣丽”在其家人的默许下，被“湘潭市岳塘区专门教育学校”（以下简称“湘育学校”）抓走了，她的朋友代她向我们和公众各界人士求助。\n\n她的朋友（以下简称求助人）向…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049055160975098340].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049055160975098340",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049055160975098340"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2048721474173931520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6FU3_aEAAXPFq.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1749,
+        "media_key": "3_2048721474178215936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6FU4AbcAA1vRU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1478,
+        "media_key": "3_2048724549718749185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6IH5SbsAEDtTt.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2048721474148868096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6FU35boAA0LVD.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048721474173931520",
+            "3_2048721474178215936",
+            "3_2048724549718749185",
+            "3_2048721474148868096"
+          ]
+        },
+        "author_id": "1824324977379905537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048724560116379900",
+        "created_at": "2026-04-27T11:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:10:42.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048721493853675930",
+          "2048723675835404495",
+          "2048724560116379900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a23KL5dDcB",
+              "end": 152,
+              "expanded_url": "https://x.com/siyu060910/status/2048724560116379900/photo/1",
+              "media_key": "3_2048721474173931520",
+              "start": 129,
+              "url": "https://t.co/a23KL5dDcB"
+            },
+            {
+              "display_url": "pic.x.com/a23KL5dDcB",
+              "end": 152,
+              "expanded_url": "https://x.com/siyu060910/status/2048724560116379900/photo/1",
+              "media_key": "3_2048721474178215936",
+              "start": 129,
+              "url": "https://t.co/a23KL5dDcB"
+            },
+            {
+              "display_url": "pic.x.com/a23KL5dDcB",
+              "end": 152,
+              "expanded_url": "https://x.com/siyu060910/status/2048724560116379900/photo/1",
+              "media_key": "3_2048724549718749185",
+              "start": 129,
+              "url": "https://t.co/a23KL5dDcB"
+            },
+            {
+              "display_url": "pic.x.com/a23KL5dDcB",
+              "end": 152,
+              "expanded_url": "https://x.com/siyu060910/status/2048724560116379900/photo/1",
+              "media_key": "3_2048721474148868096",
+              "start": 129,
+              "url": "https://t.co/a23KL5dDcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048724560116379900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唐欣丽案目前情况简报\n救救这个15岁被家暴！被送入戒网瘾学校的女孩！\n一名十五岁的女孩“唐欣丽”在其家人的默许下，被“湘潭市岳塘区专门教育学校”（以下简称“湘育学校”）抓走了，她的朋友代她向我们和公众各界人士求助。\n\n她的朋友（以下简称求助人）向我们提到：\n“女孩曾说她的父母十分重男轻女，以40万的价格卖掉了她的姐姐，她（唐欣丽）只要20万。”\n她家人告诉她会在3.9日带她去广东，但不久后，该女生就与求助人失联，出现在了“湘育学校”中，显然她已经在家人的蒙骗下，被强行带走了。\n求助人十分坚定的希望我们能够帮帮这个女孩，虽然我们很难相信这是会在2026年发生的事情，但它就是发生了。\n\n“湘育学校”的法人“李科”和哥哥“李铮”开设戒网瘾学校数十余年，关联机构上百家，违法犯罪证据及相关新闻报道众多（“圣博”、“英高特”、“湘阴六中”等）。\n2024年，该校的管理层们于“圣博学校”犯下了一起恶劣的强奸案“亚明/张恩旭案”，该案的受害者“张恩旭”已经是一位成年人，却还是被强行抓到了该校。\n李科、李铮们至今逍遥法外，依旧在持续祸“张恩旭”、15岁的“唐欣丽”这般的中国的孩子们。\n\n近日，我们的志愿者们深入24年被关停的“圣博学校”和仍在开设的“湘育学校”，并取得了一定证据。\n在“圣博学校”中我们发现了大量未开封使用的“hcg检测试剂”（验孕棒）；在“湘育学校”，我们的志愿者也拍到了该校糟糕的环境。\n志愿者表示：\n“整个学校环境很差，为了防止学生自杀，卫生间都没有隔板，学校食堂充斥着臭味。”\n随后，志愿者主动向“湘育学校”寻求谈判，对方态度嚣张，表示坚决不可能释放“唐欣丽”同学，后报案。\n\n湘潭市岳塘区当地派出所和校方一致表示：\n“网上的新闻和你们都是在造谣，学校是正规学校，环境很好。”\n\n“有时候我真希望我们是真的在造谣，如果那样能让我们的孩子好过一点，能让他们不再遭受迫害的话。”（笔者的话）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6296,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "唐欣丽案目前情况简报\n救救这个15岁被家暴！被送入戒网瘾学校的女孩！\n一名十五岁的女孩“唐欣丽”在其家人的默许下，被“湘潭市岳塘区专门教育学校”（以下简称“湘育学校”）抓走了，她的朋友代她向我们和公众各界人士求助。\n\n她的朋友（以下简称求助人）向我们提到： https://t.co/a23KL5dDcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 844,
+          "like_count": 126969,
+          "listed_count": 8,
+          "media_count": 2947,
+          "tweet_count": 24607
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "Freedom is not free🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 52,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 29,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 89,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 66,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2046657826555301893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7476,
+          "following_count": 82,
+          "like_count": 524,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

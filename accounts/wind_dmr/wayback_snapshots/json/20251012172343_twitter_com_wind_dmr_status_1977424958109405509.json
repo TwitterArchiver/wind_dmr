@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977231783851966465"
+      ],
+      "media_source_tweet_id": [
+        "1977231789954638168"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1977424958109405509",
+    "created_at": "2025-10-12T17:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977424958109405509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3230302405",
+          "start": 3,
+          "username": "TetramethylS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U5RFqTa05A",
+          "end": 60,
+          "expanded_url": "https://x.com/TetramethylS/status/1977231789954638168/photo/1",
+          "media_key": "3_1977231783851966465",
+          "start": 37,
+          "url": "https://t.co/U5RFqTa05A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977424958109405509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977231789954638168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TetramethylS: あんよとおちりが可愛いですね〜〜😍💕 https://t.co/U5RFqTa05A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1977231783851966465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CJ1OMbwAEeP-i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977231783851966465"
+          ],
+          "media_source_tweet_id": [
+            "1977231789954638168"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1977424958109405509",
+        "created_at": "2025-10-12T17:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977424958109405509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3230302405",
+              "start": 3,
+              "username": "TetramethylS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5RFqTa05A",
+              "end": 60,
+              "expanded_url": "https://x.com/TetramethylS/status/1977231789954638168/photo/1",
+              "media_key": "3_1977231783851966465",
+              "start": 37,
+              "url": "https://t.co/U5RFqTa05A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977424958109405509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977231789954638168",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TetramethylS: あんよとおちりが可愛いですね〜〜😍💕 https://t.co/U5RFqTa05A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977231783851966465"
+          ]
+        },
+        "author_id": "3230302405",
+        "conversation_id": "1977231789954638168",
+        "created_at": "2025-10-12T04:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977231789954638168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5RFqTa05A",
+              "end": 42,
+              "expanded_url": "https://x.com/TetramethylS/status/1977231789954638168/photo/1",
+              "media_key": "3_1977231783851966465",
+              "start": 19,
+              "url": "https://t.co/U5RFqTa05A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977231789954638168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8765,
+          "like_count": 1161,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "あんよとおちりが可愛いですね〜〜😍💕 https://t.co/U5RFqTa05A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 803,
+          "like_count": 121061,
+          "listed_count": 9,
+          "media_count": 2866,
+          "tweet_count": 23821
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-30T02:28:03.000Z",
+        "description": "保護猫生まれの元猫カフェ営業部長/2025年4月で5歳♂/人間に撮影技術がないので寝てる姿ばかりです/無言フォローしますが怪しい猫ではありません/かわいいジジさんを見せつけたい/タイムラインは動物まみれにしたい/DMはしません",
+        "id": "3230302405",
+        "location": "九州",
+        "name": "黒猫ジジさん",
+        "pinned_tweet_id": "1628388536373346312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948387559450824704/Suy-FxDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 1419,
+          "like_count": 136558,
+          "listed_count": 81,
+          "media_count": 2136,
+          "tweet_count": 7507
+        },
+        "username": "TetramethylS",
+        "verified": false
+      }
+    ]
+  }
+}

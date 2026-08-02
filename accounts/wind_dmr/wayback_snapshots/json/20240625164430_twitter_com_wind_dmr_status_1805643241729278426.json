@@ -1,0 +1,284 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1805232189950574592"
+      ],
+      "media_source_tweet_id": [
+        "1805232195524829420"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1805643241729278426",
+    "created_at": "2024-06-25T16:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T17:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805643241729278426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681985409247756289",
+          "start": 3,
+          "username": "kgt_siAxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/tWEnq7bT53",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kgt_siAxx/status/1805232195524829420/photo/1",
+          "media_key": "3_1805232189950574592",
+          "start": 30,
+          "url": "https://t.co/tWEnq7bT53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805643241729278426",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805232195524829420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kgt_siAxx: いつまでも死遭わせに＿＿＿. https://t.co/tWEnq7bT53"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ぼくの生まれてきた意味になってくれてありがとう",
+        "height": 1355,
+        "media_key": "3_1805232189950574592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ15HLsawAAb7J9.jpg",
+        "width": 1824
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805232189950574592"
+          ],
+          "media_source_tweet_id": [
+            "1805232195524829420"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1805643241729278426",
+        "created_at": "2024-06-25T16:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T17:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805643241729278426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1681985409247756289",
+              "start": 3,
+              "username": "kgt_siAxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tWEnq7bT53",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kgt_siAxx/status/1805232195524829420/photo/1",
+              "media_key": "3_1805232189950574592",
+              "start": 30,
+              "url": "https://t.co/tWEnq7bT53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805643241729278426",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805232195524829420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kgt_siAxx: いつまでも死遭わせに＿＿＿. https://t.co/tWEnq7bT53"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805232189950574592"
+          ]
+        },
+        "author_id": "1681985409247756289",
+        "conversation_id": "1805232195524829420",
+        "created_at": "2024-06-24T13:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T14:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805232195524829420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tWEnq7bT53",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kgt_siAxx/status/1805232195524829420/photo/1",
+              "media_key": "3_1805232189950574592",
+              "start": 15,
+              "url": "https://t.co/tWEnq7bT53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805232195524829420",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17294,
+          "like_count": 497,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "いつまでも死遭わせに＿＿＿. https://t.co/tWEnq7bT53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 622,
+          "like_count": 85227,
+          "listed_count": 5,
+          "tweet_count": 18610
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T11:12:38.000Z",
+        "description": "♱꧁ @Galatia_osaka ︎꧂♱ 白色担当 傀儡(くぐつ)シアです. 📷【 #シアの屍 】🔎【 #シアと死遭わせ 】⛓🦴さぶ：@pore_o00",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "シアの屍"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "シアと死遭わせ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Galatia_osaka"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "pore_o00"
+              }
+            ]
+          }
+        },
+        "id": "1681985409247756289",
+        "location": "DM事務所管理 ✉️",
+        "name": "傀儡シア【ガラチア】",
+        "pinned_tweet_id": "1791467524326125725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791467765167243264/EZGclTPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3185,
+          "following_count": 95,
+          "like_count": 8338,
+          "listed_count": 34,
+          "tweet_count": 536
+        },
+        "username": "kgt_siAxx",
+        "verified": false
+      }
+    ]
+  }
+}

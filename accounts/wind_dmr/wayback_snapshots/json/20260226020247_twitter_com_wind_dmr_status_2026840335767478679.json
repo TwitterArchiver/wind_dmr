@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2026840335767478679",
+    "created_at": "2026-02-26T02:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026840335767478679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1466141467274010633",
+          "start": 3,
+          "username": "cyanvtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026840335767478679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026472191089627237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyanvtb: 关于我不小心和一个VTuber订婚的故事\n\n- 作为一个普通的后端开发，偷偷在网上扮演黑客美少女\n\n- 粉丝私信”什么时候小盐也能黑苹果GPU”，发现了真正的黑客美少女林小姐\n\n- 完全理解不了林小姐在干什么，实力过于悬殊，思考我要不毕业算了…\n\n-…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2026840335767478679",
+        "created_at": "2026-02-26T02:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026840335767478679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1466141467274010633",
+              "start": 3,
+              "username": "cyanvtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026840335767478679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026472191089627237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyanvtb: 关于我不小心和一个VTuber订婚的故事\n\n- 作为一个普通的后端开发，偷偷在网上扮演黑客美少女\n\n- 粉丝私信”什么时候小盐也能黑苹果GPU”，发现了真正的黑客美少女林小姐\n\n- 完全理解不了林小姐在干什么，实力过于悬殊，思考我要不毕业算了…\n\n-…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466141467274010633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2026472191089627237",
+        "created_at": "2026-02-25T01:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026472191089627237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyannyan6/stat…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/cyannyan6/status/2026467354490843454",
+              "start": 158,
+              "url": "https://t.co/qsnEIr0df7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026472191089627237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 313,
+                "id": "1339490167451574272",
+                "start": 300,
+                "username": "Lina_Hoshino"
+              }
+            ]
+          },
+          "text": "关于我不小心和一个VTuber订婚的故事\n\n- 作为一个普通的后端开发，偷偷在网上扮演黑客美少女\n\n- 粉丝私信”什么时候小盐也能黑苹果GPU”，发现了真正的黑客美少女林小姐\n\n- 完全理解不了林小姐在干什么，实力过于悬殊，思考我要不毕业算了…\n\n- 被林小姐发现在直播Rust，并被邀请一起去做苹果漏洞讲座\n\n- ”我真的不会啊”这样拒绝了两次，但是她觉得我很酷必须和我一起，所以一直没有放弃\n\n- 深入接触后，一不小心陷入爱河\n\n- 然后我房子没了，就是那么突然（\n\n- Lina飞到美国来救我\n\n- 离开美国，决定和林小姐一起来东京生活\n\n- 变成了百合科技组合\n\n- 公开订婚并准备婚礼中💕 @Lina_Hoshino"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 38921,
+          "like_count": 618,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026467354490843454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于我不小心和一个VTuber订婚的故事\n\n- 作为一个普通的后端开发，偷偷在网上扮演黑客美少女\n\n- 粉丝私信”什么时候小盐也能黑苹果GPU”，发现了真正的黑客美少女林小姐\n\n- 完全理解不了林小姐在干什么，实力过于悬殊，思考我要不毕业算了…\n\n- 被林小姐发现在直播Rust，并被邀请一起去做苹果漏洞讲座\n\n- https://t.co/qsnEIr0df7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 836,
+          "like_count": 125274,
+          "listed_count": 8,
+          "media_count": 2913,
+          "tweet_count": 24257
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T20:25:55.000Z",
+        "description": "✧ 在人间迷路的小小黑客猫娘 ✧ 好像是YouTube简中订阅第一VTuber ✧ 女孩子，百合已订婚 @lina_hoshino ✧ 前谷歌工程师，偶尔是画师/唱见 英语EN @cyannyan6 ʚ 永远不毕业 ɞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "lina_hoshino"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "cyannyan6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan.yt/magic",
+                "end": 23,
+                "expanded_url": "http://cyan.yt/magic",
+                "start": 0,
+                "url": "https://t.co/KZ2gCJbRgO"
+              }
+            ]
+          }
+        },
+        "id": "1466141467274010633",
+        "location": "Tokyo-to, Japan",
+        "name": "星乃小盐Cyan🧂✨ / 百合婚礼准备中",
+        "pinned_tweet_id": "2015387001596551454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936417185808719872/PR6k56Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7342,
+          "following_count": 1037,
+          "like_count": 13564,
+          "listed_count": 31,
+          "media_count": 700,
+          "tweet_count": 6068
+        },
+        "url": "https://t.co/KZ2gCJbRgO",
+        "username": "cyanvtb",
+        "verified": true
+      }
+    ]
+  }
+}

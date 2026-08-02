@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037708376499716097"
+      ],
+      "media_source_tweet_id": [
+        "2037708436692152814"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2037953824493900277",
+    "created_at": "2026-03-28T18:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037953824493900277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754774517594181632",
+          "start": 3,
+          "username": "ValenceLab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R7zugM93jO",
+          "end": 53,
+          "expanded_url": "https://x.com/ValenceLab/status/2037708436692152814/photo/1",
+          "media_key": "3_2037708376499716097",
+          "start": 30,
+          "url": "https://t.co/R7zugM93jO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037953824493900277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037708436692152814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValenceLab: 好消息，AI和人都有幻觉了 https://t.co/R7zugM93jO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2037708376499716097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdk-OEagAEhT3d.jpg",
+        "width": 1189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037708376499716097"
+          ],
+          "media_source_tweet_id": [
+            "2037708436692152814"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2037953824493900277",
+        "created_at": "2026-03-28T18:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037953824493900277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754774517594181632",
+              "start": 3,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7zugM93jO",
+              "end": 53,
+              "expanded_url": "https://x.com/ValenceLab/status/2037708436692152814/photo/1",
+              "media_key": "3_2037708376499716097",
+              "start": 30,
+              "url": "https://t.co/R7zugM93jO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037953824493900277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037708436692152814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValenceLab: 好消息，AI和人都有幻觉了 https://t.co/R7zugM93jO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037708376499716097"
+          ]
+        },
+        "author_id": "1754774517594181632",
+        "conversation_id": "2037708436692152814",
+        "created_at": "2026-03-28T01:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037708436692152814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7zugM93jO",
+              "end": 37,
+              "expanded_url": "https://x.com/ValenceLab/status/2037708436692152814/photo/1",
+              "media_key": "3_2037708376499716097",
+              "start": 14,
+              "url": "https://t.co/R7zugM93jO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037708436692152814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 35212,
+          "like_count": 330,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "好消息，AI和人都有幻觉了 https://t.co/R7zugM93jO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 846,
+          "like_count": 126254,
+          "listed_count": 8,
+          "media_count": 2922,
+          "tweet_count": 24360
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 141,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1808582397749014579",
+    "created_at": "2024-07-03T19:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T20:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808582397749014579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KitaganA1saku/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/KitaganA1saku/status/1808540281127719106",
+          "start": 9,
+          "url": "https://t.co/lqbogQbrdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808582397749014579",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808540281127719106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "痛苦证明我还活着 https://t.co/lqbogQbrdN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1808582397749014579",
+        "created_at": "2024-07-03T19:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T20:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808582397749014579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KitaganA1saku/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/KitaganA1saku/status/1808540281127719106",
+              "start": 9,
+              "url": "https://t.co/lqbogQbrdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808582397749014579",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808540281127719106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痛苦证明我还活着 https://t.co/lqbogQbrdN"
+      },
+      {
+        "attachments": {},
+        "author_id": "1746169774147776512",
+        "conversation_id": "1808540281127719106",
+        "created_at": "2024-07-03T16:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T17:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808540281127719106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808540281127719106",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦证明我还活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌 | 我需要钱🚪88 重庆／青岛接线下\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "MTG"
+              },
+              {
+                "end": 157,
+                "start": 151,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 622,
+          "like_count": 86303,
+          "listed_count": 5,
+          "tweet_count": 18892
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ friendly \n\nLearning FPGA, ASIC, RiscV & GaN HEMTs 🤓😵‍\nWelcome to point out my mistakes 😊\nAmateur chemistry, psychotropic drug theory enthusiast.",
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "蓝朔🌘爱折耳根香菜榴莲互fo 痛苦阅读GaN论文中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807446003873984513/Q24ZduOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 427,
+          "like_count": 16700,
+          "listed_count": 2,
+          "tweet_count": 16392
+        },
+        "username": "KitaganA1saku",
+        "verified": false
+      }
+    ]
+  }
+}

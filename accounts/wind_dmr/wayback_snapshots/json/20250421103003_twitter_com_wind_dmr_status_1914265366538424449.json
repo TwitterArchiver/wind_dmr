@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914228759407779840"
+      ],
+      "media_source_tweet_id": [
+        "1914228760909410420"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Pope Francis",
+          "id": "806597775282421760",
+          "name": "Pope Francis"
+        }
+      }
+    ],
+    "conversation_id": "1914265366538424449",
+    "created_at": "2025-04-21T10:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T11:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914265366538424449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MJXIoozvk6",
+          "end": 80,
+          "expanded_url": "https://x.com/bbcchinese/status/1914228760909410420/photo/1",
+          "media_key": "3_1914228759407779840",
+          "start": 57,
+          "url": "https://t.co/MJXIoozvk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914265366538424449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914228760909410420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 【最新消息】梵蒂冈宣布，教宗方济各（Pope Francis）逝世，享年88岁。 https://t.co/MJXIoozvk6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_1914228759407779840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpC06idWYAAxlpG.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914228759407779840"
+          ],
+          "media_source_tweet_id": [
+            "1914228760909410420"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "1914265366538424449",
+        "created_at": "2025-04-21T10:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T11:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914265366538424449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJXIoozvk6",
+              "end": 80,
+              "expanded_url": "https://x.com/bbcchinese/status/1914228760909410420/photo/1",
+              "media_key": "3_1914228759407779840",
+              "start": 57,
+              "url": "https://t.co/MJXIoozvk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914265366538424449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914228760909410420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 【最新消息】梵蒂冈宣布，教宗方济各（Pope Francis）逝世，享年88岁。 https://t.co/MJXIoozvk6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914228759407779840"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1914228760909410420",
+        "created_at": "2025-04-21T08:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914228760909410420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJXIoozvk6",
+              "end": 64,
+              "expanded_url": "https://x.com/bbcchinese/status/1914228760909410420/photo/1",
+              "media_key": "3_1914228759407779840",
+              "start": 41,
+              "url": "https://t.co/MJXIoozvk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914228760909410420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 114896,
+          "like_count": 933,
+          "quote_count": 59,
+          "reply_count": 139,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "【最新消息】梵蒂冈宣布，教宗方济各（Pope Francis）逝世，享年88岁。 https://t.co/MJXIoozvk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 707,
+          "like_count": 114668,
+          "listed_count": 8,
+          "media_count": 2773,
+          "tweet_count": 23301
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892810,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11695,
+          "media_count": 23253,
+          "tweet_count": 152450
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

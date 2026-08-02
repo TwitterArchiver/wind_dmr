@@ -1,0 +1,438 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846810837301932032",
+          "name": "Shoes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      }
+    ],
+    "conversation_id": "1811989372448965088",
+    "created_at": "2024-07-13T05:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T06:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811989372448965088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hinekurebow/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/hinekurebow/status/1811706316039356565",
+          "start": 22,
+          "url": "https://t.co/Rl6i4jPnKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811989372448965088",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811706316039356565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一眼：我要\n第二眼：七万日元一双？？？？ https://t.co/Rl6i4jPnKk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "1811989372448965088",
+        "created_at": "2024-07-13T05:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T06:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811989372448965088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hinekurebow/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/hinekurebow/status/1811706316039356565",
+              "start": 22,
+              "url": "https://t.co/Rl6i4jPnKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811989372448965088",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811706316039356565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一眼：我要\n第二眼：七万日元一双？？？？ https://t.co/Rl6i4jPnKk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811359038153900032",
+            "3_1811359058248826880"
+          ]
+        },
+        "author_id": "3097356912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "1811706316039356565",
+        "created_at": "2024-07-12T10:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T11:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811706316039356565"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "くろねこスニーカー",
+              "probability": 0.3551,
+              "start": 1,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hinekurebou.crap.jp/?p=45443",
+              "end": 39,
+              "expanded_url": "https://hinekurebou.crap.jp/?p=45443",
+              "start": 16,
+              "status": 200,
+              "title": "「くろねこスニーカー」発売中！ – フレミングの反り返る親指",
+              "unwound_url": "https://hinekurebou.crap.jp/?p=45443",
+              "url": "https://t.co/3K8MKfYf9C"
+            },
+            {
+              "display_url": "pic.twitter.com/KEGrMeYIA4",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hinekurebow/status/1811706316039356565/photo/1",
+              "media_key": "3_1811359038153900032",
+              "start": 40,
+              "url": "https://t.co/KEGrMeYIA4"
+            },
+            {
+              "display_url": "pic.twitter.com/KEGrMeYIA4",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hinekurebow/status/1811706316039356565/photo/1",
+              "media_key": "3_1811359058248826880",
+              "start": 40,
+              "url": "https://t.co/KEGrMeYIA4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811706316039356565",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 73057,
+          "like_count": 1527,
+          "quote_count": 52,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "「くろねこスニーカー」発売中！ https://t.co/3K8MKfYf9C https://t.co/KEGrMeYIA4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 637,
+          "like_count": 88033,
+          "listed_count": 5,
+          "tweet_count": 19271
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-19T07:39:16.000Z",
+        "description": "ステキな商品を紹介「フレミングの反り返る親指」/Amazon.co.jpアソシエイト/hinekurebou.crap.jp",
+        "id": "3097356912",
+        "name": "ひねくれ坊",
+        "pinned_tweet_id": "872387756495749122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/871847477078405120/fqeUC6mm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90347,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1018,
+          "tweet_count": 10181
+        },
+        "username": "hinekurebow",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "1793604879774351433",
+    "created_at": "2024-05-23T23:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T00:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793789863906701570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786627897232433152",
+          "start": 0,
+          "username": "Dave2Mush"
+        },
+        {
+          "end": 19,
+          "id": "1164388321545449472",
+          "start": 11,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793789863906701570",
+    "in_reply_to_user_id": "1786627897232433152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793700999598649695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dave2Mush @imwsl90 ：“这公司还在？”\n有没有可能dw是Adobe做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "1793604879774351433",
+        "created_at": "2024-05-23T23:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T00:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793789863906701570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786627897232433152",
+              "start": 0,
+              "username": "Dave2Mush"
+            },
+            {
+              "end": 19,
+              "id": "1164388321545449472",
+              "start": 11,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793789863906701570",
+        "in_reply_to_user_id": "1786627897232433152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793700999598649695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dave2Mush @imwsl90 ：“这公司还在？”\n有没有可能dw是Adobe做的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786627897232433152",
+        "conversation_id": "1793604879774351433",
+        "created_at": "2024-05-23T17:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T18:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793700999598649695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793700999598649695",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793604879774351433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 我记得用它的时候最后一个版本叫 mx。 这公司还在？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 620,
+          "like_count": 83469,
+          "listed_count": 5,
+          "tweet_count": 17787
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T05:24:27.000Z",
+        "description": "",
+        "id": "1786627897232433152",
+        "name": "Dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786629132383657984/1PC5t885_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 79,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 416
+        },
+        "username": "Dave2Mush",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "产品：出海、跨境支付、SaaS | 程序员: iOS/JS | Blog: https://t.co/LB6NMaM0wb ｜Tg: https://t.co/TJY88FJKQ3 | Tg Channel: https://t.co/7fdzedpBMT | 私信加吹水群|可接商业推广服务",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 61,
+                "expanded_url": "http://imwsl.com",
+                "start": 38,
+                "url": "https://t.co/LB6NMaM0wb"
+              },
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 90,
+                "expanded_url": "http://t.me/imwsl90",
+                "start": 67,
+                "url": "https://t.co/TJY88FJKQ3"
+              },
+              {
+                "display_url": "t.me/900",
+                "end": 128,
+                "expanded_url": "http://t.me/900",
+                "start": 105,
+                "url": "https://t.co/7fdzedpBMT"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "name": "衛斯理",
+        "pinned_tweet_id": "1790703361828012230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46466,
+          "following_count": 7412,
+          "like_count": 32218,
+          "listed_count": 323,
+          "tweet_count": 53269
+        },
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

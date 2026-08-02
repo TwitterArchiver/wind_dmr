@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2051928547422605322",
+    "created_at": "2026-05-06T19:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T20:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052103047611097129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1137671960605761537",
+          "start": 0,
+          "username": "_BUCCHOU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052103047611097129",
+    "in_reply_to_user_id": "1137671960605761537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051928547422605322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_BUCCHOU_ 你好，我在重庆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2237,
+        "media_key": "3_2051928439599570944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnqC1LaoAAVGYu.jpg",
+        "width": 1497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2051928547422605322",
+        "created_at": "2026-05-06T19:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052103047611097129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1137671960605761537",
+              "start": 0,
+              "username": "_BUCCHOU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052103047611097129",
+        "in_reply_to_user_id": "1137671960605761537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051928547422605322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_BUCCHOU_ 你好，我在重庆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051928439599570944"
+          ]
+        },
+        "author_id": "1137671960605761537",
+        "conversation_id": "2051928547422605322",
+        "created_at": "2026-05-06T07:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051928547422605322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQfR6MspjY",
+              "end": 91,
+              "expanded_url": "https://x.com/_BUCCHOU_/status/2051928547422605322/photo/1",
+              "media_key": "3_2051928439599570944",
+              "start": 68,
+              "url": "https://t.co/pQfR6MspjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051928547422605322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1940,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "重庆有人挂壁吗？周末或者每天晚上有空，我们去餐厅假装点菜挂壁，挂渴了再团购一杯最便宜小奶茶分着喝，乏了就逛逛商场起身卡按摩椅三十秒试用 https://t.co/pQfR6MspjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 876,
+          "like_count": 127363,
+          "listed_count": 10,
+          "media_count": 2968,
+          "tweet_count": 24818
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-09T10:45:07.000Z",
+        "description": "重庆人 男的 不是糖人 性取向正常\n\n部分推禁止评论是为了防机器人！\n\n线下看置顶，互转很麻烦我只互关，需要先私聊！！\n\n不卖图不卖视频不收门槛，警惕付费陷阱。\n个人QQ和聊天群均免费，参考置顶进入，群比较抽象希望你别介意。\n\n女装只是兴趣 更不更新凭心情",
+        "id": "1137671960605761537",
+        "location": "地球",
+        "name": "迷你小部长",
+        "pinned_tweet_id": "2050921610039931032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017582870400016384/yeZbjGh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10924,
+          "following_count": 623,
+          "like_count": 2595,
+          "listed_count": 54,
+          "media_count": 320,
+          "tweet_count": 1497
+        },
+        "username": "_BUCCHOU_",
+        "verified": false
+      }
+    ]
+  }
+}

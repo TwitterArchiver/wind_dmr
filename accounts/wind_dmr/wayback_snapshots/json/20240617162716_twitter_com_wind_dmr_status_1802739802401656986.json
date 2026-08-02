@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1802687204931858845",
+    "created_at": "2024-06-17T16:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T17:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802739802401656986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1680195212919050246",
+          "start": 0,
+          "username": "msmaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802739802401656986",
+    "in_reply_to_user_id": "1680195212919050246",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802687204931858845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msmaoi Ctmo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1802687204931858845",
+        "created_at": "2024-06-17T16:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T17:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802739802401656986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1680195212919050246",
+              "start": 0,
+              "username": "msmaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802739802401656986",
+        "in_reply_to_user_id": "1680195212919050246",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802687204931858845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msmaoi Ctmo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802687196371312640"
+          ]
+        },
+        "author_id": "1680195212919050246",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1802687204931858845",
+        "created_at": "2024-06-17T12:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T13:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802687204931858845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RSQziTruT4",
+              "end": 37,
+              "expanded_url": "https://twitter.com/msmaoi/status/1802687204931858845/photo/1",
+              "media_key": "3_1802687196371312640",
+              "start": 14,
+              "url": "https://t.co/RSQziTruT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802687204931858845",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜在用哪一家运营商刷推？ https://t.co/RSQziTruT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 622,
+          "like_count": 83804,
+          "listed_count": 5,
+          "tweet_count": 18085
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T12:39:02.000Z",
+        "description": "在燥热烦闷的暑气中沉湎，沉没于冰冷的湖底 / あの世行きのバスに乗ってさらば / 簡単なこともわからないわ、あたしってなんだっけ",
+        "id": "1680195212919050246",
+        "location": "西湖风景名胜区",
+        "name": "三澄 葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780168448833904640/4cnUgW8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 272,
+          "like_count": 4002,
+          "listed_count": 0,
+          "tweet_count": 518
+        },
+        "username": "msmaoi",
+        "verified": false
+      }
+    ]
+  }
+}

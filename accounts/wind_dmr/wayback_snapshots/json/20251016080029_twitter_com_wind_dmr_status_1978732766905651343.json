@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1978071838048637302",
+    "created_at": "2025-10-16T08:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T09:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978732766905651343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2309986128",
+          "start": 0,
+          "username": "GodJonesy"
+        },
+        {
+          "end": 26,
+          "id": "1315706812935487489",
+          "start": 11,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978732766905651343",
+    "in_reply_to_user_id": "2309986128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978106635768701380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GodJonesy @maigo_wakatake 都吃吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1978071838048637302",
+        "created_at": "2025-10-16T08:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978732766905651343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2309986128",
+              "start": 0,
+              "username": "GodJonesy"
+            },
+            {
+              "end": 26,
+              "id": "1315706812935487489",
+              "start": 11,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978732766905651343",
+        "in_reply_to_user_id": "2309986128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978106635768701380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GodJonesy @maigo_wakatake 都吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2309986128",
+        "conversation_id": "1978071838048637302",
+        "created_at": "2025-10-14T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978106635768701380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            },
+            {
+              "end": 25,
+              "id": "4736358500",
+              "start": 16,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978106635768701380",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978071838048637302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake @wind_dmr 都喜欢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 810,
+          "like_count": 121335,
+          "listed_count": 9,
+          "media_count": 2870,
+          "tweet_count": 23853
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-25T12:54:14.000Z",
+        "description": "",
+        "id": "2309986128",
+        "name": "星间奔逃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/433206044953567232/oSn2lu_3_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 1137,
+          "like_count": 10968,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 1779
+        },
+        "username": "GodJonesy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "多意识体-桔梗系统。北雁ふみんです。被剪掉垂耳的传染性兔（部分时候不是）。持久而长久的睡眠障碍者。🚪128，是的、我们需要钱。she/her/they/them, if it matters",
+        "id": "1315706812935487489",
+        "location": "いいえ 見えはしない",
+        "name": "咪仑唑达",
+        "pinned_tweet_id": "1968144116866593084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 206,
+          "like_count": 2959,
+          "listed_count": 9,
+          "media_count": 2241,
+          "tweet_count": 20128
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1877949901063217353",
+    "created_at": "2025-01-11T05:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T06:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877949901063217353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usamibrandon/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/usamibrandon/status/1877742016232132691",
+          "start": 14,
+          "url": "https://t.co/XLlWCcjTS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877949901063217353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877742016232132691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直是牛马，随便扔的那种 https://t.co/XLlWCcjTS0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1877949901063217353",
+        "created_at": "2025-01-11T05:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T06:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877949901063217353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usamibrandon/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/usamibrandon/status/1877742016232132691",
+              "start": 14,
+              "url": "https://t.co/XLlWCcjTS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877949901063217353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877742016232132691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直是牛马，随便扔的那种 https://t.co/XLlWCcjTS0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877742006698450945"
+          ]
+        },
+        "author_id": "915239915234799616",
+        "conversation_id": "1877742016232132691",
+        "created_at": "2025-01-10T15:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T16:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877742016232132691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNP7btkjyy",
+              "end": 36,
+              "expanded_url": "https://x.com/usamibrandon/status/1877742016232132691/photo/1",
+              "media_key": "3_1877742006698450945",
+              "start": 13,
+              "url": "https://t.co/BNP7btkjyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877742016232132691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 798,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "請珍惜一直陪在你身邊的人 https://t.co/BNP7btkjyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 691,
+          "like_count": 103417,
+          "listed_count": 7,
+          "media_count": 2590,
+          "tweet_count": 21743
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-03T15:39:34.000Z",
+        "description": "",
+        "id": "915239915234799616",
+        "location": "Zurich, Switzerland",
+        "name": "Betelgeuse🌸",
+        "pinned_tweet_id": "1637420522840674304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835956731513384960/ZMBdaYd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 3918,
+          "like_count": 10973,
+          "listed_count": 1,
+          "media_count": 821,
+          "tweet_count": 3715
+        },
+        "username": "usamibrandon",
+        "verified": false
+      }
+    ]
+  }
+}

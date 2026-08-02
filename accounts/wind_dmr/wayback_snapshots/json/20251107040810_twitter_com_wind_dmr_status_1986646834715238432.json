@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1986628632312488245",
+    "created_at": "2025-11-07T04:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T05:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986646834715238432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "619772067",
+          "start": 0,
+          "username": "peter12ji"
+        },
+        {
+          "end": 26,
+          "id": "1601175062748737537",
+          "start": 11,
+          "username": "kirisamecoffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986646834715238432",
+    "in_reply_to_user_id": "619772067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986639934594445569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peter12ji @kirisamecoffee 那墙很厚了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1986628632312488245",
+        "created_at": "2025-11-07T04:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T05:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986646834715238432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "619772067",
+              "start": 0,
+              "username": "peter12ji"
+            },
+            {
+              "end": 26,
+              "id": "1601175062748737537",
+              "start": 11,
+              "username": "kirisamecoffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986646834715238432",
+        "in_reply_to_user_id": "619772067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986639934594445569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peter12ji @kirisamecoffee 那墙很厚了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "619772067",
+        "conversation_id": "1986628632312488245",
+        "created_at": "2025-11-07T03:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986639934594445569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            },
+            {
+              "end": 25,
+              "id": "1601175062748737537",
+              "start": 10,
+              "username": "kirisamecoffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986639934594445569",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986639516346864010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr @kirisamecoffee 也可以说是隔壁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 818,
+          "like_count": 121968,
+          "listed_count": 9,
+          "media_count": 2884,
+          "tweet_count": 23964
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-27T05:04:15.000Z",
+        "description": "protected static final String SexualOrientation =“gay”;",
+        "id": "619772067",
+        "name": "Peter Ji",
+        "pinned_tweet_id": "1555750575442378752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2344985280/___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 3146,
+          "like_count": 104288,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 14041
+        },
+        "username": "peter12ji",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T11:21:10.000Z",
+        "description": "雾雨咖啡店公式账号/霧雨珈琲店公式アカウント/ Kirisame COFFEE Official Account / Avatar by @papaiaMK2 Account operated by STAFF 📧業務連絡　kirisamecoffee@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "papaiaMK2"
+              }
+            ]
+          }
+        },
+        "id": "1601175062748737537",
+        "location": "上海市黄浦区云南北路18号",
+        "name": "霧雨珈琲店 Official − Kirisame COFFEE",
+        "pinned_tweet_id": "1754348446302310740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799667485807173632/HI2LaQAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 34,
+          "like_count": 160,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 330
+        },
+        "username": "kirisamecoffee",
+        "verified": false
+      }
+    ]
+  }
+}

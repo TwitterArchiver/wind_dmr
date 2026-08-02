@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1930739919250718967",
+    "created_at": "2025-06-05T21:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T22:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930739919250718967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "5709522",
+          "start": 3,
+          "username": "mranti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930739919250718967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930560495724999094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mranti: 这个冰毒前体是竟然是“过氧化二异丙苯”，非常常用的工业化学用品，因为工业应用实在很广泛，全世界包括美国都没有列入进出口管制。因为这个追究中国逻辑在哪里？怎么全世界只有你美国有事？太矫情了。要管理，更简单可行的是在美国禁毒、和墨西哥谈联合禁毒执法。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1930739919250718967",
+        "created_at": "2025-06-05T21:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T22:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930739919250718967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "5709522",
+              "start": 3,
+              "username": "mranti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930739919250718967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930560495724999094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mranti: 这个冰毒前体是竟然是“过氧化二异丙苯”，非常常用的工业化学用品，因为工业应用实在很广泛，全世界包括美国都没有列入进出口管制。因为这个追究中国逻辑在哪里？怎么全世界只有你美国有事？太矫情了。要管理，更简单可行的是在美国禁毒、和墨西哥谈联合禁毒执法。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5709522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1930560495724999094",
+        "created_at": "2025-06-05T09:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:12:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930553402507067725",
+          "1930560495724999094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/USA_China_Talk…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/USA_China_Talk/status/1930540092478870005",
+              "start": 124,
+              "url": "https://t.co/0kHZMSx8Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930560495724999094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 103725,
+          "like_count": 359,
+          "quote_count": 10,
+          "reply_count": 55,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930540092478870005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个冰毒前体是竟然是“过氧化二异丙苯”，非常常用的工业化学用品，因为工业应用实在很广泛，全世界包括美国都没有列入进出口管制。因为这个追究中国逻辑在哪里？怎么全世界只有你美国有事？太矫情了。要管理，更简单可行的是在美国禁毒、和墨西哥谈联合禁毒执法。 https://t.co/0kHZMSx8Zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 709,
+          "like_count": 115493,
+          "listed_count": 9,
+          "media_count": 2821,
+          "tweet_count": 23420
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "1930714640075632993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372743,
+          "following_count": 11355,
+          "like_count": 418,
+          "listed_count": 3355,
+          "media_count": 2994,
+          "tweet_count": 218484
+        },
+        "username": "mranti",
+        "verified": true
+      }
+    ]
+  }
+}

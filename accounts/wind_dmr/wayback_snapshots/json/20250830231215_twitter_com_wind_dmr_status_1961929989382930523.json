@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1961929088811327937",
+    "created_at": "2025-08-30T23:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T00:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961929989382930523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1296540863045046272",
+          "start": 0,
+          "username": "kuzutakowasabi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961929989382930523",
+    "in_reply_to_user_id": "1296540863045046272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961929088811327937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuzutakowasabi 大屁股星人幼体是粉白色的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1961929078115860480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzosGg-bAAA3BP-.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1961929088811327937",
+        "created_at": "2025-08-30T23:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T00:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961929989382930523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1296540863045046272",
+              "start": 0,
+              "username": "kuzutakowasabi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961929989382930523",
+        "in_reply_to_user_id": "1296540863045046272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961929088811327937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuzutakowasabi 大屁股星人幼体是粉白色的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961929078115860480"
+          ]
+        },
+        "author_id": "1296540863045046272",
+        "conversation_id": "1961929088811327937",
+        "created_at": "2025-08-30T23:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T00:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961929088811327937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Es5729XIcN",
+              "end": 31,
+              "expanded_url": "https://x.com/kuzutakowasabi/status/1961929088811327937/photo/1",
+              "media_key": "3_1961929078115860480",
+              "start": 8,
+              "url": "https://t.co/Es5729XIcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961929088811327937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是大屁股星人 https://t.co/Es5729XIcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 755,
+          "like_count": 119040,
+          "listed_count": 9,
+          "media_count": 2849,
+          "tweet_count": 23593
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-20T20:13:34.000Z",
+        "description": "活得像一坨屎",
+        "id": "1296540863045046272",
+        "name": "デッカ糞タコ🐙🍻",
+        "pinned_tweet_id": "1875989311537172608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878986258644668416/RIDFBcJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90596,
+          "following_count": 2007,
+          "like_count": 11799,
+          "listed_count": 524,
+          "media_count": 2489,
+          "tweet_count": 8826
+        },
+        "username": "kuzutakowasabi",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

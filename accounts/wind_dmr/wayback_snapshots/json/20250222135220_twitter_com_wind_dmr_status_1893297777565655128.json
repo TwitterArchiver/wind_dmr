@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1893297245774086629",
+    "created_at": "2025-02-22T13:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893297777565655128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "852583758716743680",
+          "start": 0,
+          "username": "Xinlongzhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893297777565655128",
+    "in_reply_to_user_id": "852583758716743680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893297245774086629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinlongzhai 我擦，不用洗洁精用啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1893297245774086629",
+        "created_at": "2025-02-22T13:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893297777565655128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "852583758716743680",
+              "start": 0,
+              "username": "Xinlongzhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893297777565655128",
+        "in_reply_to_user_id": "852583758716743680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893297245774086629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinlongzhai 我擦，不用洗洁精用啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852583758716743680",
+        "conversation_id": "1893297245774086629",
+        "created_at": "2025-02-22T13:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893297245774086629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wind_dmr/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/wind_dmr/status/1892917107723231504",
+              "start": 141,
+              "url": "https://t.co/psPpOBledS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893297245774086629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892917107723231504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山东人就我所知的若干“个例”，差不多就是这样\n\n比如曾经有个山东小孩跟我说他洗碗的时候把洗洁精涂抹在碗上搓一遍，然后再用水冲，然后他的父亲看到之后就打了他一顿，打他的理由是这样洗碗太浪费洗洁精\n\n另一个小孩看课文被感动了，模仿课文里的样子给他爹做饭，结果还是被打，理由是无事献殷勤 https://t.co/psPpOBledS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 705,
+          "like_count": 110737,
+          "listed_count": 8,
+          "media_count": 2676,
+          "tweet_count": 22711
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-13T18:06:23.000Z",
+        "description": "",
+        "id": "852583758716743680",
+        "name": "XinlongZhai",
+        "pinned_tweet_id": "1698014567249629195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1358612885996412934/-dPuI8ct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 302,
+          "like_count": 4845,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 11687
+        },
+        "username": "Xinlongzhai",
+        "verified": false
+      }
+    ]
+  }
+}

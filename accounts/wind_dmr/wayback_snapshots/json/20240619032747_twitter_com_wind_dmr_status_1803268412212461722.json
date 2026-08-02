@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1803031011917545704",
+    "created_at": "2024-06-19T03:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T04:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803268412212461722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "SUKI_2023wasted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803268412212461722",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803031011917545704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUKI_2023wasted 从未见过的版本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1803031011917545704",
+        "created_at": "2024-06-19T03:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T04:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803268412212461722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "SUKI_2023wasted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803268412212461722",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803031011917545704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUKI_2023wasted 从未见过的版本"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803030995794534400"
+          ]
+        },
+        "author_id": "1664988013406089217",
+        "conversation_id": "1803031011917545704",
+        "created_at": "2024-06-18T11:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803031011917545704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UgaIpm5pbC",
+              "end": 31,
+              "expanded_url": "https://twitter.com/SUKI_2023wasted/status/1803031011917545704/photo/1",
+              "media_key": "3_1803030995794534400",
+              "start": 8,
+              "url": "https://t.co/UgaIpm5pbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803031011917545704",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 673,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天骗到的氯硝 https://t.co/UgaIpm5pbC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 619,
+          "like_count": 83910,
+          "listed_count": 5,
+          "tweet_count": 18153
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "ftx🏳️‍⚧️｜泛｜🚩Ⓐ 🏴｜18⬆️｜0.5switch｜妹妹：@EwayYii  日常号：@donk1llmyv1b3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "EwayYii"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "donk1llmyv1b3"
+              }
+            ]
+          }
+        },
+        "id": "1664988013406089217",
+        "name": "SUKI-2.0｜",
+        "pinned_tweet_id": "1802700447272050874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796051320518086657/cbvtCnnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 364,
+          "like_count": 12042,
+          "listed_count": 0,
+          "tweet_count": 3070
+        },
+        "username": "SUKI_2023wasted",
+        "verified": false
+      }
+    ]
+  }
+}

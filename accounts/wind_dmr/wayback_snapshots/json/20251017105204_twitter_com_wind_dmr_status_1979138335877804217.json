@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979134132492902400"
+      ],
+      "media_source_tweet_id": [
+        "1979134147139342798"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1979138335877804217",
+    "created_at": "2025-10-17T10:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979138335877804217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WL6CLhs1IB",
+          "end": 48,
+          "expanded_url": "https://x.com/maigo_wakatake/status/1979134147139342798/photo/1",
+          "media_key": "3_1979134132492902400",
+          "start": 25,
+          "url": "https://t.co/WL6CLhs1IB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979138335877804217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979134147139342798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: 3人で。 https://t.co/WL6CLhs1IB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_1979134132492902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dMAfIXIAAbA6P.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979134132492902400"
+          ],
+          "media_source_tweet_id": [
+            "1979134147139342798"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1979138335877804217",
+        "created_at": "2025-10-17T10:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979138335877804217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WL6CLhs1IB",
+              "end": 48,
+              "expanded_url": "https://x.com/maigo_wakatake/status/1979134147139342798/photo/1",
+              "media_key": "3_1979134132492902400",
+              "start": 25,
+              "url": "https://t.co/WL6CLhs1IB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979138335877804217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979134147139342798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: 3人で。 https://t.co/WL6CLhs1IB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979134132492902400"
+          ]
+        },
+        "author_id": "1315706812935487489",
+        "conversation_id": "1979134147139342798",
+        "created_at": "2025-10-17T10:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979134147139342798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WL6CLhs1IB",
+              "end": 28,
+              "expanded_url": "https://x.com/maigo_wakatake/status/1979134147139342798/photo/1",
+              "media_key": "3_1979134132492902400",
+              "start": 5,
+              "url": "https://t.co/WL6CLhs1IB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979134147139342798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "3人で。 https://t.co/WL6CLhs1IB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 811,
+          "like_count": 121405,
+          "listed_count": 9,
+          "media_count": 2871,
+          "tweet_count": 23860
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "多意识体-桔梗系统。北雁ふみんです。被剪掉垂耳的传染性兔（部分时候不是）。持久而长久的睡眠障碍者。🚪128，是的、我们需要钱。she/her/they/them, if it matters",
+        "id": "1315706812935487489",
+        "location": "いいえ 見えはしない",
+        "name": "卡尼太芬",
+        "pinned_tweet_id": "1968144116866593084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 206,
+          "like_count": 2968,
+          "listed_count": 9,
+          "media_count": 2247,
+          "tweet_count": 20142
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

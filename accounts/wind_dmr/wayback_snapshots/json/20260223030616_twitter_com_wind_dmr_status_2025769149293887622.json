@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2025769149293887622",
+    "created_at": "2026-02-23T03:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025769149293887622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "74064214",
+          "start": 3,
+          "username": "mrbleem_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025769149293887622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025733008154833070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mrbleem_eth: 2008年10月，长者在上海交通大学学报发表了一篇题为《新时期我国信息技术产业的发展》的论文，提出了“未来智能化、机器学习会大有作为、需加大GPU技术的研究、SaaS会成为软件发展的重要方向……”等观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2025769149293887622",
+        "created_at": "2026-02-23T03:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025769149293887622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "74064214",
+              "start": 3,
+              "username": "mrbleem_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025769149293887622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025733008154833070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mrbleem_eth: 2008年10月，长者在上海交通大学学报发表了一篇题为《新时期我国信息技术产业的发展》的论文，提出了“未来智能化、机器学习会大有作为、需加大GPU技术的研究、SaaS会成为软件发展的重要方向……”等观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "74064214",
+        "conversation_id": "2025733008154833070",
+        "created_at": "2026-02-23T00:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025733008154833070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4307Lee/status…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/4307Lee/status/2025609278770602313",
+              "start": 102,
+              "url": "https://t.co/9Bgzsw1k6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025733008154833070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18009,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025609278770602313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2008年10月，长者在上海交通大学学报发表了一篇题为《新时期我国信息技术产业的发展》的论文，提出了“未来智能化、机器学习会大有作为、需加大GPU技术的研究、SaaS会成为软件发展的重要方向……”等观点 https://t.co/9Bgzsw1k6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 835,
+          "like_count": 125227,
+          "listed_count": 8,
+          "media_count": 2913,
+          "tweet_count": 24255
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-14T03:57:25.000Z",
+        "description": "一事无成",
+        "id": "74064214",
+        "location": "瓦坎达",
+        "name": "克斯马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854461099221139456/MMyjd2hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31489,
+          "following_count": 864,
+          "like_count": 2750,
+          "listed_count": 245,
+          "media_count": 1862,
+          "tweet_count": 68389
+        },
+        "username": "mrbleem_eth",
+        "verified": false
+      }
+    ]
+  }
+}

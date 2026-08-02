@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1817214327730143733",
+    "created_at": "2024-07-27T15:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T16:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817215575145558312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1127549174831026176",
+          "start": 0,
+          "username": "Kwlght"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817215575145558312",
+    "in_reply_to_user_id": "1127549174831026176",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817214327730143733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kwlght 你没o，你只是吃了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1817214327730143733",
+        "created_at": "2024-07-27T15:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T16:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817215575145558312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1127549174831026176",
+              "start": 0,
+              "username": "Kwlght"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817215575145558312",
+        "in_reply_to_user_id": "1127549174831026176",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817214327730143733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kwlght 你没o，你只是吃了（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817214322118201344"
+          ]
+        },
+        "author_id": "1127549174831026176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1817214327730143733",
+        "created_at": "2024-07-27T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817214327730143733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8IiHpbTNwb",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Kwlght/status/1817214327730143733/photo/1",
+              "media_key": "3_1817214322118201344",
+              "start": 7,
+              "url": "https://t.co/8IiHpbTNwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817214327730143733",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没o（坚定 https://t.co/8IiHpbTNwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 662,
+          "like_count": 91319,
+          "listed_count": 5,
+          "tweet_count": 19767
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-12T12:20:46.000Z",
+        "description": "泉/水水是小名/精分/170/50kg   中文/日本語勉強中  あなた→@Arcee__RC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "Arcee__RC"
+              }
+            ]
+          }
+        },
+        "id": "1127549174831026176",
+        "name": "白板",
+        "pinned_tweet_id": "1814094872225415324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757890017240797184/TWj-7qMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 138,
+          "like_count": 369,
+          "listed_count": 3,
+          "tweet_count": 473
+        },
+        "username": "Kwlght",
+        "verified": false
+      }
+    ]
+  }
+}

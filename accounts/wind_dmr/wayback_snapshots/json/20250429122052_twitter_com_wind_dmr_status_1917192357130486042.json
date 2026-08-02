@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916970926882869248"
+      ],
+      "media_source_tweet_id": [
+        "1916970929617571845"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1917192357130486042",
+    "created_at": "2025-04-29T12:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T13:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917192357130486042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1575411450574647296",
+          "start": 3,
+          "username": "arca20220921"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCkpsIbhrr",
+          "end": 47,
+          "expanded_url": "https://x.com/arca20220921/status/1916970929617571845/photo/1",
+          "media_key": "3_1916970926882869248",
+          "start": 24,
+          "url": "https://t.co/oCkpsIbhrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917192357130486042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916970929617571845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arca20220921: 黒猫の会食 https://t.co/oCkpsIbhrr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_1916970926882869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gppy5sWa0AApCEY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916970926882869248"
+          ],
+          "media_source_tweet_id": [
+            "1916970929617571845"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1917192357130486042",
+        "created_at": "2025-04-29T12:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T13:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917192357130486042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575411450574647296",
+              "start": 3,
+              "username": "arca20220921"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCkpsIbhrr",
+              "end": 47,
+              "expanded_url": "https://x.com/arca20220921/status/1916970929617571845/photo/1",
+              "media_key": "3_1916970926882869248",
+              "start": 24,
+              "url": "https://t.co/oCkpsIbhrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917192357130486042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916970929617571845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arca20220921: 黒猫の会食 https://t.co/oCkpsIbhrr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916970926882869248"
+          ]
+        },
+        "author_id": "1575411450574647296",
+        "conversation_id": "1916970929617571845",
+        "created_at": "2025-04-28T21:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T22:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916970929617571845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCkpsIbhrr",
+              "end": 29,
+              "expanded_url": "https://x.com/arca20220921/status/1916970929617571845/photo/1",
+              "media_key": "3_1916970926882869248",
+              "start": 6,
+              "url": "https://t.co/oCkpsIbhrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916970929617571845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 10436,
+          "like_count": 1271,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "黒猫の会食 https://t.co/oCkpsIbhrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 704,
+          "like_count": 114380,
+          "listed_count": 8,
+          "media_count": 2779,
+          "tweet_count": 23302
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T09:05:45.000Z",
+        "description": "スクショ、保存、引用、転載やめて✕",
+        "id": "1575411450574647296",
+        "location": "パドキア共和国デントラ地区ククルーマウンテン",
+        "name": "黒猫一家(引用やめて❌)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609794350594297859/psVcCZti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 162,
+          "like_count": 350242,
+          "listed_count": 37,
+          "media_count": 8,
+          "tweet_count": 12768
+        },
+        "username": "arca20220921",
+        "verified": false
+      }
+    ]
+  }
+}

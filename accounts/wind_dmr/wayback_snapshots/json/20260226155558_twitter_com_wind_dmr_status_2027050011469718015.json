@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2026895030447710664",
+    "created_at": "2026-02-26T15:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T16:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027050011469718015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1256377778192084992",
+          "start": 0,
+          "username": "LuvLetter_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027050011469718015",
+    "in_reply_to_user_id": "1256377778192084992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026895030447710664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvLetter_moe 原来你也玩ingress"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2026886938188460034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDy7m6aMAIN3Oh.jpg",
+        "width": 2930
+      },
+      {
+        "height": 1685,
+        "media_key": "3_2026891834241544193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCD3YmIbcAE5Gpp.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2026892077611757571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCD3mwwaMAMjR0g.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2026895030447710664",
+        "created_at": "2026-02-26T15:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027050011469718015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1256377778192084992",
+              "start": 0,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027050011469718015",
+        "in_reply_to_user_id": "1256377778192084992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026895030447710664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvLetter_moe 原来你也玩ingress"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026886938188460034",
+            "3_2026891834241544193",
+            "3_2026892077611757571"
+          ]
+        },
+        "author_id": "1256377778192084992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2026895030447710664",
+        "created_at": "2026-02-26T05:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026895030447710664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcTU1Qye4p",
+              "end": 192,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2026895030447710664/photo/1",
+              "media_key": "3_2026886938188460034",
+              "start": 169,
+              "url": "https://t.co/bcTU1Qye4p"
+            },
+            {
+              "display_url": "pic.x.com/bcTU1Qye4p",
+              "end": 192,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2026895030447710664/photo/1",
+              "media_key": "3_2026891834241544193",
+              "start": 169,
+              "url": "https://t.co/bcTU1Qye4p"
+            },
+            {
+              "display_url": "pic.x.com/bcTU1Qye4p",
+              "end": 192,
+              "expanded_url": "https://x.com/LuvLetter_moe/status/2026895030447710664/photo/1",
+              "media_key": "3_2026892077611757571",
+              "start": 169,
+              "url": "https://t.co/bcTU1Qye4p"
+            },
+            {
+              "display_url": "x.com/LuvLetter_moe/…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/LuvLetter_moe/status/2025591393541148692",
+              "start": 193,
+              "url": "https://t.co/2tNmVN7IrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026895030447710664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "考虑到出现数据异常的时间最早, 以及华为青浦园区里出现的大量 AI 生成 portal 描述的迹象, ooxxcc(Orz_c) 和 yumimao 就是相关scan/recon AI作弊的开发者; 而相关武汉好朋友的 rvfg linkverba editing  应该也是获取了类似的作弊工具.\n据我所知这几个人除了日常频繁聚会外, 似乎工作上也有相互内推的情况. 结合上述明显异常信息, 可以明显质疑这几人的道德操守."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6047,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025591393541148692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考虑到出现数据异常的时间最早, 以及华为青浦园区里出现的大量 AI 生成 portal 描述的迹象, ooxxcc(Orz_c) 和 yumimao 就是相关scan/recon AI作弊的开发者; 而相关武汉好朋友的 rvfg linkverba editing  应该也是获取了类似的作弊工具.\n据我所知这几个人除了日常频繁聚会外, https://t.co/bcTU1Qye4p https://t.co/2tNmVN7IrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 838,
+          "like_count": 125355,
+          "listed_count": 8,
+          "media_count": 2913,
+          "tweet_count": 24260
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T00:21:09.000Z",
+        "description": "Life can be much broader.   TG: https://t.co/IZs416pyTF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rainbow8loop",
+                "end": 55,
+                "expanded_url": "http://t.me/rainbow8loop",
+                "start": 32,
+                "url": "https://t.co/IZs416pyTF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LuvLetterShelf",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@LuvLetterShelf",
+                "start": 0,
+                "url": "https://t.co/i8aMhUz9FO"
+              }
+            ]
+          }
+        },
+        "id": "1256377778192084992",
+        "location": "Shanghai",
+        "name": "Luv Letter",
+        "pinned_tweet_id": "2007839857415225574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256379106431651841/phJ9TAHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10135,
+          "following_count": 1142,
+          "like_count": 25501,
+          "listed_count": 62,
+          "media_count": 3453,
+          "tweet_count": 10635
+        },
+        "url": "https://t.co/i8aMhUz9FO",
+        "username": "LuvLetter_moe",
+        "verified": true
+      }
+    ]
+  }
+}

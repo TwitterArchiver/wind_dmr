@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1881817645743579214",
+    "created_at": "2025-01-21T21:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T22:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881817645743579214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "999126961",
+          "start": 3,
+          "username": "TigerHixTang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881817645743579214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881510465748250930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TigerHixTang: 打开推特和 Reddit，一面倒的负面消息让人喘不过气，唯一治愈的内容几乎都是二次元。快说谢谢二次元"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1881817645743579214",
+        "created_at": "2025-01-21T21:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T22:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881817645743579214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "999126961",
+              "start": 3,
+              "username": "TigerHixTang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881817645743579214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881510465748250930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TigerHixTang: 打开推特和 Reddit，一面倒的负面消息让人喘不过气，唯一治愈的内容几乎都是二次元。快说谢谢二次元"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "999126961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1881510465748250930",
+        "created_at": "2025-01-21T01:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881510465748250930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881510465748250930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2607,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "打开推特和 Reddit，一面倒的负面消息让人喘不过气，唯一治愈的内容几乎都是二次元。快说谢谢二次元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 703,
+          "like_count": 104848,
+          "listed_count": 7,
+          "media_count": 2605,
+          "tweet_count": 22064
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-09T11:39:27.000Z",
+        "description": "OMORI translator (Simplified Chinese). Dev at @hakuyalabs and @cytoidio. VR & HCI researcher. Part-time doodler. Header by @FluffyChiongyi 💛💕.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "hakuyalabs"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "cytoidio"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "FluffyChiongyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tigerhix.me",
+                "end": 23,
+                "expanded_url": "https://tigerhix.me",
+                "start": 0,
+                "url": "https://t.co/vP9YYExv9U"
+              }
+            ]
+          }
+        },
+        "id": "999126961",
+        "location": "BLACK SPACE",
+        "name": "TigerHix",
+        "pinned_tweet_id": "1363284206705541120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549676649590898689/Jc92Cy7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228,
+          "following_count": 5177,
+          "like_count": 28787,
+          "listed_count": 13,
+          "media_count": 306,
+          "tweet_count": 5304
+        },
+        "url": "https://t.co/vP9YYExv9U",
+        "username": "TigerHixTang",
+        "verified": false
+      }
+    ]
+  }
+}

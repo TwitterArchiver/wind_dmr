@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1883154089783234808",
+    "created_at": "2025-01-25T14:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T15:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883154089783234808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenji82/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kenji82/status/1883095519381336408",
+          "start": 11,
+          "url": "https://t.co/vEhkZl8P3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883154089783234808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883095519381336408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "龙娘 鳞片 就这个好 https://t.co/vEhkZl8P3b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1883154089783234808",
+        "created_at": "2025-01-25T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883154089783234808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenji82/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kenji82/status/1883095519381336408",
+              "start": 11,
+              "url": "https://t.co/vEhkZl8P3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883154089783234808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883095519381336408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "龙娘 鳞片 就这个好 https://t.co/vEhkZl8P3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883095510640451585"
+          ]
+        },
+        "author_id": "35456053",
+        "conversation_id": "1883095519381336408",
+        "created_at": "2025-01-25T10:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883095519381336408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6BRDvqaIE",
+              "end": 23,
+              "expanded_url": "https://x.com/kenji82/status/1883095519381336408/photo/1",
+              "media_key": "3_1883095510640451585",
+              "start": 0,
+              "url": "https://t.co/r6BRDvqaIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883095519381336408",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 26878,
+          "like_count": 1795,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r6BRDvqaIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 697,
+          "like_count": 106278,
+          "listed_count": 7,
+          "media_count": 2612,
+          "tweet_count": 22225
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-26T12:34:44.000Z",
+        "description": "絵を描いて生きてます　 お仕事募集しております。 お仕事の御依頼などご連絡はこちらへお願いいたします。kenji82.bryant24@gmail.com\n無断転載・使用・AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "makimurashunsuke.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://makimurashunsuke.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/Ptet7nJDSD"
+              }
+            ]
+          }
+        },
+        "id": "35456053",
+        "location": "日本 愛知",
+        "name": "マキムラシュンスケ",
+        "pinned_tweet_id": "1448577045521317888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096026924843823107/cXoK3efm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56799,
+          "following_count": 672,
+          "like_count": 1026,
+          "listed_count": 710,
+          "media_count": 437,
+          "tweet_count": 10244
+        },
+        "url": "https://t.co/Ptet7nJDSD",
+        "username": "kenji82",
+        "verified": false
+      }
+    ]
+  }
+}

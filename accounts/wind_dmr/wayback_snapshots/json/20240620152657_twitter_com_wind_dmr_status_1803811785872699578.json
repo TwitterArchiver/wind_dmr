@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1803811785872699578",
+    "created_at": "2024-06-20T15:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T16:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803811785872699578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500892581508829184",
+          "start": 3,
+          "username": "hxhwdxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803811785872699578",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803679405782474954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hxhwdxg: 戒断反应是水气，不会给人当头一棒，只会在每一个绵绵长夜里慢慢深入骨髓，寒气侵体四肢百骸，在本能地想起每个甜蜜瞬间的时刻掐住脖子挤出眼泪，抽丝拨茧的苦痛就那样袭来了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1803811785872699578",
+        "created_at": "2024-06-20T15:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T16:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803811785872699578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500892581508829184",
+              "start": 3,
+              "username": "hxhwdxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803811785872699578",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803679405782474954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hxhwdxg: 戒断反应是水气，不会给人当头一棒，只会在每一个绵绵长夜里慢慢深入骨髓，寒气侵体四肢百骸，在本能地想起每个甜蜜瞬间的时刻掐住脖子挤出眼泪，抽丝拨茧的苦痛就那样袭来了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1500892581508829184",
+        "conversation_id": "1803679405782474954",
+        "created_at": "2024-06-20T06:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803679405782474954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803679405782474954",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1950,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "戒断反应是水气，不会给人当头一棒，只会在每一个绵绵长夜里慢慢深入骨髓，寒气侵体四肢百骸，在本能地想起每个甜蜜瞬间的时刻掐住脖子挤出眼泪，抽丝拨茧的苦痛就那样袭来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 619,
+          "like_count": 84285,
+          "listed_count": 5,
+          "tweet_count": 18258
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T17:54:49.000Z",
+        "description": "下体男关注死你爹妈死全家",
+        "id": "1500892581508829184",
+        "name": "极差气候",
+        "pinned_tweet_id": "1540039863294398464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776460573645111296/GPcEH61Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4251,
+          "following_count": 95,
+          "like_count": 2318,
+          "listed_count": 11,
+          "tweet_count": 855
+        },
+        "username": "hxhwdxg",
+        "verified": false
+      }
+    ]
+  }
+}

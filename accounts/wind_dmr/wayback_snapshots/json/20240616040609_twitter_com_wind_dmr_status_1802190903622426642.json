@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1802190126048575760",
+    "created_at": "2024-06-16T04:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T05:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802190903622426642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631223299937038336",
+          "start": 0,
+          "username": "bucketfishie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802190903622426642",
+    "in_reply_to_user_id": "1631223299937038336",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802190126048575760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bucketfishie 喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1802190126048575760",
+        "created_at": "2024-06-16T04:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T05:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802190903622426642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631223299937038336",
+              "start": 0,
+              "username": "bucketfishie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802190903622426642",
+        "in_reply_to_user_id": "1631223299937038336",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802190126048575760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bucketfishie 喵。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1631223299937038336",
+        "conversation_id": "1802190126048575760",
+        "created_at": "2024-06-16T04:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T05:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802190126048575760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802190126048575760",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵啊喵喵啊喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 619,
+          "like_count": 83647,
+          "listed_count": 5,
+          "tweet_count": 18012
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T09:22:08.000Z",
+        "description": "🏳️‍⚧️魔法少女エクスプレス今から受付中",
+        "id": "1631223299937038336",
+        "location": "猫",
+        "name": "琳裝桶 右腦⚧️",
+        "pinned_tweet_id": "1797272813293764611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736891666026356737/BPFTJYoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 581,
+          "like_count": 2665,
+          "listed_count": 0,
+          "tweet_count": 2293
+        },
+        "username": "bucketfishie",
+        "verified": false
+      }
+    ]
+  }
+}

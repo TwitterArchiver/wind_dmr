@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1816736027005857792"
+      ],
+      "media_source_tweet_id": [
+        "1816736034035544272"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "1817038663790002659",
+    "created_at": "2024-07-27T03:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T04:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817038663790002659"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "大鳳",
+          "probability": 0.4859,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "アズレン"
+        },
+        {
+          "end": 58,
+          "start": 49,
+          "tag": "AzurLane"
+        },
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1518346340069167105",
+          "start": 3,
+          "username": "shuzi_harpseal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/beZSbVA5MP",
+          "end": 91,
+          "expanded_url": "https://twitter.com/shuzi_harpseal/status/1816736034035544272/photo/1",
+          "media_key": "3_1816736027005857792",
+          "start": 68,
+          "url": "https://t.co/beZSbVA5MP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817038663790002659",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816736034035544272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuzi_harpseal: 指揮官様、大鳳とどこかにでかけてみます？\n-\n#アズレン #AzurLane #cosplay https://t.co/beZSbVA5MP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1816736027005857792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTZXyoRWsAAeYdM.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816736027005857792"
+          ],
+          "media_source_tweet_id": [
+            "1816736034035544272"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1817038663790002659",
+        "created_at": "2024-07-27T03:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T04:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817038663790002659"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "大鳳",
+              "probability": 0.4859,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "アズレン"
+            },
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "AzurLane"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1518346340069167105",
+              "start": 3,
+              "username": "shuzi_harpseal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/beZSbVA5MP",
+              "end": 91,
+              "expanded_url": "https://twitter.com/shuzi_harpseal/status/1816736034035544272/photo/1",
+              "media_key": "3_1816736027005857792",
+              "start": 68,
+              "url": "https://t.co/beZSbVA5MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817038663790002659",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816736034035544272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuzi_harpseal: 指揮官様、大鳳とどこかにでかけてみます？\n-\n#アズレン #AzurLane #cosplay https://t.co/beZSbVA5MP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816736027005857792"
+          ]
+        },
+        "author_id": "1518346340069167105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1816736034035544272",
+        "created_at": "2024-07-26T07:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T08:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816736034035544272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "アズレン"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "AzurLane"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/beZSbVA5MP",
+              "end": 71,
+              "expanded_url": "https://twitter.com/shuzi_harpseal/status/1816736034035544272/photo/1",
+              "media_key": "3_1816736027005857792",
+              "start": 48,
+              "url": "https://t.co/beZSbVA5MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816736034035544272",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 20159,
+          "like_count": 1355,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "指揮官様、大鳳とどこかにでかけてみます？\n-\n#アズレン #AzurLane #cosplay https://t.co/beZSbVA5MP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 662,
+          "like_count": 91163,
+          "listed_count": 5,
+          "tweet_count": 19737
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T21:49:19.000Z",
+        "description": "#コスプレイヤー Shuzi 舒子 🇨🇳🇺🇸🇨🇦🇯🇵 🎀ピンクのヤンデレが好き 🎀よろしくお願いします 🎀 フォローありがとう🎀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "コスプレイヤー"
+              }
+            ]
+          }
+        },
+        "id": "1518346340069167105",
+        "location": "Toronto, Ontario",
+        "name": "Shuzi_舒子",
+        "pinned_tweet_id": "1722171954730271088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751352536915697664/n7RjG7OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58070,
+          "following_count": 313,
+          "like_count": 689,
+          "listed_count": 313,
+          "tweet_count": 645
+        },
+        "username": "shuzi_harpseal",
+        "verified": false
+      }
+    ]
+  }
+}

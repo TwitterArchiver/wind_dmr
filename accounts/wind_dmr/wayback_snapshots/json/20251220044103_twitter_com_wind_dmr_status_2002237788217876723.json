@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2002237788217876723",
+    "created_at": "2025-12-20T04:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T05:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002237788217876723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qrivasi/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/qrivasi/status/2001960085317382310",
+          "start": 16,
+          "url": "https://t.co/dVU8yq9vZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002237788217876723",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001960085317382310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake https://t.co/dVU8yq9vZz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2001960079546048512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hkFePa4AAtw7e.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2002237788217876723",
+        "created_at": "2025-12-20T04:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002237788217876723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qrivasi/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/qrivasi/status/2001960085317382310",
+              "start": 16,
+              "url": "https://t.co/dVU8yq9vZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002237788217876723",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001960085317382310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake https://t.co/dVU8yq9vZz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001960079546048512"
+          ]
+        },
+        "author_id": "752746497968484353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001960085317382310",
+        "created_at": "2025-12-19T10:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001960085317382310"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Ginger bell",
+              "probability": 0.5489,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IT773pzgBg",
+              "end": 39,
+              "expanded_url": "https://x.com/qrivasi/status/2001960085317382310/photo/1",
+              "media_key": "3_2001960079546048512",
+              "start": 16,
+              "url": "https://t.co/IT773pzgBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001960085317382310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2062,
+          "impression_count": 1567693,
+          "like_count": 99931,
+          "quote_count": 746,
+          "reply_count": 477,
+          "retweet_count": 17945
+        },
+        "reply_settings": "everyone",
+        "text": "Ginger bell 🔔🎅🏼 https://t.co/IT773pzgBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 824,
+          "like_count": 123903,
+          "listed_count": 8,
+          "media_count": 2902,
+          "tweet_count": 24110
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "多意识体-桔梗系统。北雁ふみんです。被剪掉垂耳的传染性兔（部分时候不是）。持久而长久的睡眠障碍者。🚪128，是的、我们需要钱。she/her/they/them, if it matters",
+        "id": "1315706812935487489",
+        "location": "太陽系の常識を　覆して触れたい",
+        "name": "3-Methylthiofentanyl",
+        "pinned_tweet_id": "1993130972410425532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 203,
+          "like_count": 2988,
+          "listed_count": 8,
+          "media_count": 2320,
+          "tweet_count": 20722
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-12T06:08:45.000Z",
+        "description": "📧 business inquiries: DM or WhatsApp 085183201328",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/qrivasi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/qrivasi",
+                "start": 0,
+                "url": "https://t.co/nonOfLRz1z"
+              }
+            ]
+          }
+        },
+        "id": "752746497968484353",
+        "name": "KOS (Komunitas Orang Sinting)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837551858220781568/WdqNda5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236890,
+          "following_count": 756,
+          "like_count": 78893,
+          "listed_count": 84,
+          "media_count": 6985,
+          "tweet_count": 69901
+        },
+        "url": "https://t.co/nonOfLRz1z",
+        "username": "qrivasi",
+        "verified": true
+      }
+    ]
+  }
+}

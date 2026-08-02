@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1890512248247902647",
+    "created_at": "2025-02-15T03:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T04:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890609110619398218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1806735924258377728",
+          "start": 0,
+          "username": "AwAii777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890609110619398218",
+    "in_reply_to_user_id": "1806735924258377728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890512248247902647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwAii777 他们为啥不吃短效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1890512248247902647",
+        "created_at": "2025-02-15T03:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T04:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890609110619398218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806735924258377728",
+              "start": 0,
+              "username": "AwAii777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890609110619398218",
+        "in_reply_to_user_id": "1806735924258377728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890512248247902647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwAii777 他们为啥不吃短效"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890512240736186368"
+          ]
+        },
+        "author_id": "1806735924258377728",
+        "conversation_id": "1890512248247902647",
+        "created_at": "2025-02-14T21:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T22:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890512248247902647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0FU0lHqo9",
+              "end": 69,
+              "expanded_url": "https://x.com/AwAii777/status/1890512248247902647/photo/1",
+              "media_key": "3_1890512240736186368",
+              "start": 46,
+              "url": "https://t.co/s0FU0lHqo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890512248247902647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内应该普及基本的医疗卫生教育 在初中就开始 一种畸形拧巴的社会正在无米线的领域展开了👍🏿 https://t.co/s0FU0lHqo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 703,
+          "like_count": 109867,
+          "listed_count": 8,
+          "media_count": 2652,
+          "tweet_count": 22559
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T17:06:49.000Z",
+        "description": "里账:@TTHoiKawaiii/爱国青年:@Uselessovo/🏳️‍⚧️🏳️‍🌈/麦当劳重度成瘾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "TTHoiKawaiii"
+              },
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Uselessovo"
+              }
+            ]
+          }
+        },
+        "id": "1806735924258377728",
+        "location": "浪漫冰冷華北",
+        "name": "草莓麥旋風🐹",
+        "pinned_tweet_id": "1888926628556018006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875947068558376960/fk5paLWd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 418,
+          "like_count": 3565,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 3728
+        },
+        "username": "AwAii777",
+        "verified": false
+      }
+    ]
+  }
+}

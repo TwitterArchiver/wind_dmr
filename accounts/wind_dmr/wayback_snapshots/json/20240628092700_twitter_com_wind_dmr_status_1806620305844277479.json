@@ -1,0 +1,387 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1806620305844277479",
+    "created_at": "2024-06-28T09:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T10:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806620305844277479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/syunsyun1050/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/syunsyun1050/status/1785339162889208263",
+          "start": 32,
+          "url": "https://t.co/sCPs203q25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806620305844277479",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1785339162889208263",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草。日本右美od地雷系mtf\n但她好有钱 钱哪来的v我5000 https://t.co/sCPs203q25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1806620305844277479",
+        "created_at": "2024-06-28T09:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806620305844277479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syunsyun1050/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/syunsyun1050/status/1785339162889208263",
+              "start": 32,
+              "url": "https://t.co/sCPs203q25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806620305844277479",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1785339162889208263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草。日本右美od地雷系mtf\n但她好有钱 钱哪来的v我5000 https://t.co/sCPs203q25"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1785339158942388224",
+            "3_1785339158921392128",
+            "3_1785339158929776640",
+            "3_1785339158929780736"
+          ]
+        },
+        "author_id": "1372668186143772674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1785339162889208263",
+        "created_at": "2024-04-30T16:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-30T17:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1785339162889208263"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "東京",
+              "probability": 0.7538,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "病み垢"
+            },
+            {
+              "end": 66,
+              "start": 51,
+              "tag": "病み垢さんとお友達になりたい"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 92,
+              "start": 80,
+              "tag": "病み垢男子と繋がりたい"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "LGBTQ"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "男の娘"
+            },
+            {
+              "end": 117,
+              "start": 105,
+              "tag": "男の娘好きと繋がりたい"
+            },
+            {
+              "end": 133,
+              "start": 118,
+              "tag": "いいねで気になった人フォロー"
+            },
+            {
+              "end": 140,
+              "start": 134,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EgewXmAYS4",
+              "end": 164,
+              "expanded_url": "https://twitter.com/syunsyun1050/status/1785339162889208263/photo/1",
+              "media_key": "3_1785339158942388224",
+              "start": 141,
+              "url": "https://t.co/EgewXmAYS4"
+            },
+            {
+              "display_url": "pic.twitter.com/EgewXmAYS4",
+              "end": 164,
+              "expanded_url": "https://twitter.com/syunsyun1050/status/1785339162889208263/photo/1",
+              "media_key": "3_1785339158921392128",
+              "start": 141,
+              "url": "https://t.co/EgewXmAYS4"
+            },
+            {
+              "display_url": "pic.twitter.com/EgewXmAYS4",
+              "end": 164,
+              "expanded_url": "https://twitter.com/syunsyun1050/status/1785339162889208263/photo/1",
+              "media_key": "3_1785339158929776640",
+              "start": 141,
+              "url": "https://t.co/EgewXmAYS4"
+            },
+            {
+              "display_url": "pic.twitter.com/EgewXmAYS4",
+              "end": 164,
+              "expanded_url": "https://twitter.com/syunsyun1050/status/1785339162889208263/photo/1",
+              "media_key": "3_1785339158929780736",
+              "start": 141,
+              "url": "https://t.co/EgewXmAYS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1785339162889208263",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 432316,
+          "like_count": 253,
+          "quote_count": 27,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "一応男の娘です\n\nあ、性同一性障害MtFです\n\n東京￤OD界隈￤赤マル￤ピアス￤調理製菓\n\n#病み垢 #病み垢さんとお友達になりたい #病み垢女子と繋がりたい #病み垢男子と繋がりたい #LGBTQ #男の娘 #男の娘好きと繋がりたい #いいねで気になった人フォロー #自撮り界隈 https://t.co/EgewXmAYS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 624,
+          "like_count": 85857,
+          "listed_count": 5,
+          "tweet_count": 18724
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T21:56:22.000Z",
+        "description": "病み垢|推し垢|アムカ,OD,酒,タバコ,ピアス,シナモン|リアコしてる推し(@ykt_muhochitai)(@retas__gomi)(@_ykt_ykt_)しんぢゃさん🧬 ニコイチ(@_bad_4)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "ykt_muhochitai"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "retas__gomi"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "_ykt_ykt_"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "username": "_bad_4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3UC6N85GE3Q3J?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/wsPvmfgWDR"
+              }
+            ]
+          }
+        },
+        "id": "1372668186143772674",
+        "name": "しゅんてゃ@病み垢🛐",
+        "pinned_tweet_id": "1785339162889208263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773345109222043648/xJHme--2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 245,
+          "like_count": 21417,
+          "listed_count": 10,
+          "tweet_count": 6856
+        },
+        "url": "https://t.co/wsPvmfgWDR",
+        "username": "syunsyun1050",
+        "verified": false
+      }
+    ]
+  }
+}

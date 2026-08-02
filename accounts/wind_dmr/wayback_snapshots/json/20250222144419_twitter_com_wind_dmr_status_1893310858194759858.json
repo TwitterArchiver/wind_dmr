@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1892917107723231504",
+    "created_at": "2025-02-22T14:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T15:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893310858194759858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1628596641640112128",
+          "start": 0,
+          "username": "Bitheima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893310858194759858",
+    "in_reply_to_user_id": "1628596641640112128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893310192420261948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitheima 化疗没胃口你丫眼瞎没看见？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1892917107723231504",
+        "created_at": "2025-02-22T14:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893310858194759858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1628596641640112128",
+              "start": 0,
+              "username": "Bitheima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893310858194759858",
+        "in_reply_to_user_id": "1628596641640112128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893310192420261948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitheima 化疗没胃口你丫眼瞎没看见？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628596641640112128",
+        "conversation_id": "1892917107723231504",
+        "created_at": "2025-02-22T14:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T15:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893310192420261948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893310192420261948",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892917107723231504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 你又挑食了，挨揍了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 705,
+          "like_count": 110737,
+          "listed_count": 8,
+          "media_count": 2676,
+          "tweet_count": 22713
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T03:26:06.000Z",
+        "description": "大饼2008创造奇迹，穿越牛熊，币圈资深老司机。BRC20 卷地快，比特币生态爱好者，#BRC20 #NFT #铭文 各种冲冲冲。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "BRC20"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "NFT"
+              },
+              {
+                "end": 58,
+                "start": 55,
+                "tag": "铭文"
+              }
+            ]
+          }
+        },
+        "id": "1628596641640112128",
+        "location": "太阳系",
+        "name": "比特黑马💎",
+        "pinned_tweet_id": "1853311287494857140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663345565537824769/eNEUY1z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 998,
+          "like_count": 3912,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 2931
+        },
+        "username": "Bitheima",
+        "verified": false
+      }
+    ]
+  }
+}

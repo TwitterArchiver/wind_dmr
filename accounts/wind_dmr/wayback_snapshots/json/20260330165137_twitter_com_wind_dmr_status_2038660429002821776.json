@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2038660429002821776",
+    "created_at": "2026-03-30T16:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038660429002821776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2556089736",
+          "start": 3,
+          "username": "Zeunders"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038660429002821776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038285703210287547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zeunders: 对于懂电脑的来说，CPU+显卡+主板+内存硬盘电源+配件=能用的电脑（机箱也算配件）。衬衫/水手服+格裙/褶裙+不透肉任意长度袜子+任意平底/低跟女鞋+任意领结小配饰发饰，颜色不超过3种的情况下都算合格，而且兼容所有淡妆和除短发以外的发型……模块化穿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2038660429002821776",
+        "created_at": "2026-03-30T16:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038660429002821776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2556089736",
+              "start": 3,
+              "username": "Zeunders"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038660429002821776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038285703210287547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zeunders: 对于懂电脑的来说，CPU+显卡+主板+内存硬盘电源+配件=能用的电脑（机箱也算配件）。衬衫/水手服+格裙/褶裙+不透肉任意长度袜子+任意平底/低跟女鞋+任意领结小配饰发饰，颜色不超过3种的情况下都算合格，而且兼容所有淡妆和除短发以外的发型……模块化穿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2556089736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2038285703210287547",
+        "created_at": "2026-03-29T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038285703210287547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zeunders/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Zeunders/status/2038284210033803537",
+              "start": 143,
+              "url": "https://t.co/q7T21aeLKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038285703210287547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 16066,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038284210033803537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于懂电脑的来说，CPU+显卡+主板+内存硬盘电源+配件=能用的电脑（机箱也算配件）。衬衫/水手服+格裙/褶裙+不透肉任意长度袜子+任意平底/低跟女鞋+任意领结小配饰发饰，颜色不超过3种的情况下都算合格，而且兼容所有淡妆和除短发以外的发型……模块化穿搭，懂电脑的学这个不超过15分钟。 https://t.co/q7T21aeLKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "𝖘𝖍𝖎𝖒𝖔𝖐𝖆𝖟𝖊|しもかぜ | ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 848,
+          "like_count": 126393,
+          "listed_count": 8,
+          "media_count": 2929,
+          "tweet_count": 24433
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-09T04:37:23.000Z",
+        "description": "Wear dress because I like girls, not want to be a girl.\nhttps://t.co/7yIAyz28q5\nhttps://t.co/Rrji1Bn1bX\nhttps://t.co/XHdxoknqCX\nBackup ID : @Zeunders2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "Zeunders2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/437012",
+                "end": 79,
+                "expanded_url": "http://fantia.jp/fanclubs/437012",
+                "start": 56,
+                "url": "https://t.co/7yIAyz28q5"
+              },
+              {
+                "display_url": "pixiv.net/users/2840865",
+                "end": 103,
+                "expanded_url": "http://pixiv.net/users/2840865",
+                "start": 80,
+                "url": "https://t.co/Rrji1Bn1bX"
+              },
+              {
+                "display_url": "patreon.com/zeunders",
+                "end": 127,
+                "expanded_url": "http://patreon.com/zeunders",
+                "start": 104,
+                "url": "https://t.co/XHdxoknqCX"
+              }
+            ]
+          }
+        },
+        "id": "2556089736",
+        "name": "碧碧",
+        "pinned_tweet_id": "1821980636439257219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1491022580991479810/A2fqmu24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81492,
+          "following_count": 401,
+          "like_count": 4618,
+          "listed_count": 231,
+          "media_count": 309,
+          "tweet_count": 3615
+        },
+        "username": "Zeunders",
+        "verified": false
+      }
+    ]
+  }
+}

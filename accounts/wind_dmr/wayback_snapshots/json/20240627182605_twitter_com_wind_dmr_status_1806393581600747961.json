@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1806383854313406888",
+    "created_at": "2024-06-27T18:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T19:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806393581600747961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1067429630833942528",
+          "start": 0,
+          "username": "Adonis87138570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806393581600747961",
+    "in_reply_to_user_id": "1067429630833942528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806388863100948847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adonis87138570 这辈子不被苹果抢钱😊\n但被三星抢钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1806383854313406888",
+        "created_at": "2024-06-27T18:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T19:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806393581600747961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1067429630833942528",
+              "start": 0,
+              "username": "Adonis87138570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806393581600747961",
+        "in_reply_to_user_id": "1067429630833942528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806388863100948847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adonis87138570 这辈子不被苹果抢钱😊\n但被三星抢钱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1067429630833942528",
+        "conversation_id": "1806383854313406888",
+        "created_at": "2024-06-27T18:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T19:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806388863100948847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806388863100948847",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806388121959088443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 有种经济学解释叫培养消费习惯 星巴克为啥亏本还要把沙发建的那么好卫生打扫那么干净 也从来不赶那些蹭空调的人 不怕你白嫖 你白嫖上瘾了自然就会付出金钱消费了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 622,
+          "like_count": 85717,
+          "listed_count": 5,
+          "tweet_count": 18700
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-27T14:47:10.000Z",
+        "description": "",
+        "id": "1067429630833942528",
+        "name": "桜島チョコラ Adonis",
+        "pinned_tweet_id": "1805544844582121511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1075820074672435200/5VgsANCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 1556,
+          "like_count": 11151,
+          "listed_count": 27,
+          "tweet_count": 1699
+        },
+        "username": "Adonis87138570",
+        "verified": false
+      }
+    ]
+  }
+}

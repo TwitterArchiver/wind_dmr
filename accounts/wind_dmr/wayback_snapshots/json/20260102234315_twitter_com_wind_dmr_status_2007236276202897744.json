@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2007035772256518458",
+    "created_at": "2026-01-02T23:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T00:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007236276202897744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354446986611552258",
+          "start": 0,
+          "username": "bestiseth"
+        },
+        {
+          "end": 21,
+          "id": "2576683783",
+          "start": 11,
+          "username": "aliez_ren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007236276202897744",
+    "in_reply_to_user_id": "1354446986611552258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007073485148094612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bestiseth @aliez_ren 哪里有飞线，那看上去是线路被暴力连着焊盘一起扯下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2007035772256518458",
+        "created_at": "2026-01-02T23:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T00:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007236276202897744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354446986611552258",
+              "start": 0,
+              "username": "bestiseth"
+            },
+            {
+              "end": 21,
+              "id": "2576683783",
+              "start": 11,
+              "username": "aliez_ren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007236276202897744",
+        "in_reply_to_user_id": "1354446986611552258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007073485148094612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bestiseth @aliez_ren 哪里有飞线，那看上去是线路被暴力连着焊盘一起扯下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354446986611552258",
+        "conversation_id": "2007035772256518458",
+        "created_at": "2026-01-02T12:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007073485148094612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2576683783",
+              "start": 0,
+              "username": "aliez_ren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007073485148094612",
+        "in_reply_to_user_id": "2576683783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4177,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007035772256518458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliez_ren 卧槽还飞了这么多线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 838,
+          "like_count": 124511,
+          "listed_count": 8,
+          "media_count": 2907,
+          "tweet_count": 24163
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T15:11:48.000Z",
+        "description": "一个新新新新新新新新新人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oinance.com",
+                "end": 23,
+                "expanded_url": "http://oinance.com",
+                "start": 0,
+                "url": "https://t.co/CnUo6R2k5Z"
+              }
+            ]
+          }
+        },
+        "id": "1354446986611552258",
+        "location": "Shanghai",
+        "name": "loveisbug",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915280289972334592/QUGs6zG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 223,
+          "like_count": 1022,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/CnUo6R2k5Z",
+        "username": "bestiseth",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-19T10:54:43.000Z",
+        "description": "套利工具 https://t.co/3zwOWVengd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "taoli.tools",
+                "end": 28,
+                "expanded_url": "https://taoli.tools",
+                "start": 5,
+                "url": "https://t.co/3zwOWVengd"
+              }
+            ]
+          }
+        },
+        "id": "2576683783",
+        "location": "Yokohama",
+        "name": "Aliez Ren",
+        "pinned_tweet_id": "1994422399962624413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907304486542180352/CMaM_3So_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14785,
+          "following_count": 1542,
+          "like_count": 9857,
+          "listed_count": 282,
+          "media_count": 294,
+          "tweet_count": 2388
+        },
+        "username": "aliez_ren",
+        "verified": true
+      }
+    ]
+  }
+}

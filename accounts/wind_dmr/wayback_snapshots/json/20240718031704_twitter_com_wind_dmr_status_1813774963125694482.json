@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1813759591248982055",
+    "created_at": "2024-07-18T03:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T04:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813774963125694482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745741310819196928",
+          "start": 0,
+          "username": "Mphforlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813774963125694482",
+    "in_reply_to_user_id": "1745741310819196928",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813759591248982055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mphforlove ma'e"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1813759591248982055].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1813759591248982055",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1813759591248982055"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1813759591248982055",
+        "created_at": "2024-07-18T03:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T04:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813774963125694482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745741310819196928",
+              "start": 0,
+              "username": "Mphforlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813774963125694482",
+        "in_reply_to_user_id": "1745741310819196928",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813759591248982055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mphforlove ma'e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 643,
+          "like_count": 89252,
+          "listed_count": 5,
+          "tweet_count": 19447
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T09:35:47.000Z",
+        "description": "ok so …",
+        "id": "1745741310819196928",
+        "location": "今天祈祷上帝下三天mph的雨",
+        "name": "Quixotic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811714917231394818/WUcPaeuU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 68,
+          "like_count": 4769,
+          "listed_count": 0,
+          "tweet_count": 3049
+        },
+        "username": "Mphforlove",
+        "verified": false
+      }
+    ]
+  }
+}

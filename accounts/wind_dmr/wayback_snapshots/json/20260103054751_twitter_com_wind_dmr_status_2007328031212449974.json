@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2007308632225182172",
+    "created_at": "2026-01-03T05:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007328031212449974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007328031212449974",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007308632225182172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 桌子上长得像PDU的是什么……hub还是单纯供电……恐怖口数"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007308628383150081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tkj_VasAEYU4O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007308628899045377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tkkBQaoAE8_vp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2007308632225182172",
+        "created_at": "2026-01-03T05:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007328031212449974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007328031212449974",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007308632225182172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 桌子上长得像PDU的是什么……hub还是单纯供电……恐怖口数"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007308628383150081",
+            "3_2007308628899045377"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2007308632225182172",
+        "created_at": "2026-01-03T04:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007308632225182172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKRKw95v3k",
+              "end": 117,
+              "expanded_url": "https://x.com/jlxc2001/status/2007308632225182172/photo/1",
+              "media_key": "3_2007308628383150081",
+              "start": 94,
+              "url": "https://t.co/NKRKw95v3k"
+            },
+            {
+              "display_url": "pic.x.com/NKRKw95v3k",
+              "end": 117,
+              "expanded_url": "https://x.com/jlxc2001/status/2007308632225182172/photo/1",
+              "media_key": "3_2007308628899045377",
+              "start": 94,
+              "url": "https://t.co/NKRKw95v3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007308632225182172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1378,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "充了半天电，充不开机，还一直是黑屏状态，换了充电器也开不了机，检查后发现，一开始充电用成高通EDL工程线了，一插手机直接进入了9008模式，怪不得黑屏，长按电源键退出9008后能开机了（ https://t.co/NKRKw95v3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 837,
+          "like_count": 124590,
+          "listed_count": 8,
+          "media_count": 2907,
+          "tweet_count": 24170
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8569,
+          "following_count": 123,
+          "like_count": 278,
+          "listed_count": 20,
+          "media_count": 524,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

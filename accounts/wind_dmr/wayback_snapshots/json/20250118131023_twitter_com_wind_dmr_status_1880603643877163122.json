@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1880602604981592573",
+    "created_at": "2025-01-18T13:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T14:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880603643877163122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1452928191044091909",
+          "start": 0,
+          "username": "RollingCat0100"
+        },
+        {
+          "end": 31,
+          "id": "1315706812935487489",
+          "start": 16,
+          "username": "maigo_wakatake"
+        },
+        {
+          "end": 41,
+          "id": "1477933242540244994",
+          "start": 32,
+          "username": "lyyyyyye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880603643877163122",
+    "in_reply_to_user_id": "1452928191044091909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880602604981592573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RollingCat0100 @maigo_wakatake @lyyyyyye 你们三个居然混一块了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1880602604981592573",
+        "created_at": "2025-01-18T13:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880603643877163122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1452928191044091909",
+              "start": 0,
+              "username": "RollingCat0100"
+            },
+            {
+              "end": 31,
+              "id": "1315706812935487489",
+              "start": 16,
+              "username": "maigo_wakatake"
+            },
+            {
+              "end": 41,
+              "id": "1477933242540244994",
+              "start": 32,
+              "username": "lyyyyyye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880603643877163122",
+        "in_reply_to_user_id": "1452928191044091909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880602604981592573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RollingCat0100 @maigo_wakatake @lyyyyyye 你们三个居然混一块了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880602597029253120"
+          ]
+        },
+        "author_id": "1452928191044091909",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1880602604981592573",
+        "created_at": "2025-01-18T13:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880602604981592573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1315706812935487489",
+              "start": 4,
+              "username": "maigo_wakatake"
+            },
+            {
+              "end": 29,
+              "id": "1477933242540244994",
+              "start": 20,
+              "username": "lyyyyyye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlA08jGCgX",
+              "end": 53,
+              "expanded_url": "https://x.com/RollingCat0100/status/1880602604981592573/photo/1",
+              "media_key": "3_1880602597029253120",
+              "start": 30,
+              "url": "https://t.co/HlA08jGCgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880602604981592573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝酒。\n@maigo_wakatake @lyyyyyye https://t.co/HlA08jGCgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 691,
+          "like_count": 104050,
+          "listed_count": 7,
+          "media_count": 2600,
+          "tweet_count": 21920
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T09:21:05.000Z",
+        "description": "🚪💰88/可疑的无业闲散人员/ENFP/退圈的情趣玩家/已婚但poly/Cat-to-Rabbit转换成功了。/ We must accept finite disappointment, but we must never lose infinite hope. 😶‍🌫️提问箱在这里⬇️🫣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rollingcat01001",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rollingcat01001",
+                "start": 0,
+                "url": "https://t.co/MaIgXr5oN6"
+              }
+            ]
+          }
+        },
+        "id": "1452928191044091909",
+        "location": "距离您0.12公里",
+        "name": "青口贝好吃（糊游版）",
+        "pinned_tweet_id": "1869389313609531439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871610826429534208/KG5Vf5qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 449,
+          "like_count": 3102,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/MaIgXr5oN6",
+        "username": "RollingCat0100",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "北雁ふみんです。被剪掉垂耳的兔。顺直男🚪128。",
+        "id": "1315706812935487489",
+        "location": "私にも見えるはず",
+        "name": "笋。",
+        "pinned_tweet_id": "1875478418101563469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 202,
+          "like_count": 2821,
+          "listed_count": 6,
+          "media_count": 1902,
+          "tweet_count": 16890
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T09:22:07.000Z",
+        "description": "有病呻吟/酒精，睡眠，裙角，昏暗沼泽/じゃあ今日はやめておくよ",
+        "id": "1477933242540244994",
+        "name": "楼靥",
+        "pinned_tweet_id": "1735125137790533949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689569777482899456/UBncuqv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 169,
+          "like_count": 3284,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2285
+        },
+        "username": "lyyyyyye",
+        "verified": false
+      }
+    ]
+  }
+}

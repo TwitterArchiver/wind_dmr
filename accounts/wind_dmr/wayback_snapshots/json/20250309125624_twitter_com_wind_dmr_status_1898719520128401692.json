@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1898719520128401692",
+    "created_at": "2025-03-09T12:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T13:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898719520128401692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520156802368753664",
+          "start": 3,
+          "username": "ksk41760545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898719520128401692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898370544824926598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ksk41760545: 五彩斑斓的小黑猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1898719520128401692",
+        "created_at": "2025-03-09T12:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T13:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898719520128401692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1520156802368753664",
+              "start": 3,
+              "username": "ksk41760545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898719520128401692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898370544824926598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ksk41760545: 五彩斑斓的小黑猫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520156802368753664",
+        "conversation_id": "1898370544824926598",
+        "created_at": "2025-03-08T13:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T14:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898370544824926598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shouldhavecat/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/shouldhavecat/status/1897891464123679035",
+              "start": 9,
+              "url": "https://t.co/fQ1UjYeSO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898370544824926598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897891464123679035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五彩斑斓的小黑猫 https://t.co/fQ1UjYeSO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 704,
+          "like_count": 112051,
+          "listed_count": 8,
+          "media_count": 2702,
+          "tweet_count": 22989
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "pinned_tweet_id": "1664605179973607426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877754360484233216/REPrzXGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 307,
+          "like_count": 16552,
+          "listed_count": 6,
+          "media_count": 4238,
+          "tweet_count": 12798
+        },
+        "username": "ksk41760545",
+        "verified": false
+      }
+    ]
+  }
+}

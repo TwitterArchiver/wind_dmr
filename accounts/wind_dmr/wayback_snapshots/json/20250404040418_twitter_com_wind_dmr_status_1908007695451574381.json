@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907892698641510400"
+      ],
+      "media_source_tweet_id": [
+        "1907892702395662445"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1908007695451574381",
+    "created_at": "2025-04-04T04:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T05:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908007695451574381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1027764083565711360",
+          "start": 3,
+          "username": "__Inty__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CCpgmQKy9b",
+          "end": 61,
+          "expanded_url": "https://x.com/__Inty__/status/1907892702395662445/photo/1",
+          "media_key": "3_1907892698641510400",
+          "start": 38,
+          "url": "https://t.co/CCpgmQKy9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908007695451574381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907892702395662445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Inty__: 🇺🇸今天美国股市市值蒸发 2.85 万亿美元。 https://t.co/CCpgmQKy9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1907892698641510400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnoyTQwWsAAqVE-.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907892698641510400"
+          ],
+          "media_source_tweet_id": [
+            "1907892702395662445"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908007695451574381",
+        "created_at": "2025-04-04T04:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908007695451574381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1027764083565711360",
+              "start": 3,
+              "username": "__Inty__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCpgmQKy9b",
+              "end": 61,
+              "expanded_url": "https://x.com/__Inty__/status/1907892702395662445/photo/1",
+              "media_key": "3_1907892698641510400",
+              "start": 38,
+              "url": "https://t.co/CCpgmQKy9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908007695451574381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907892702395662445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Inty__: 🇺🇸今天美国股市市值蒸发 2.85 万亿美元。 https://t.co/CCpgmQKy9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907892698641510400"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907892702395662445",
+        "created_at": "2025-04-03T20:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T21:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907892702395662445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCpgmQKy9b",
+              "end": 47,
+              "expanded_url": "https://x.com/__Inty__/status/1907892702395662445/photo/1",
+              "media_key": "3_1907892698641510400",
+              "start": 24,
+              "url": "https://t.co/CCpgmQKy9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907892702395662445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 102038,
+          "like_count": 407,
+          "quote_count": 13,
+          "reply_count": 54,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "🇺🇸今天美国股市市值蒸发 2.85 万亿美元。 https://t.co/CCpgmQKy9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 705,
+          "like_count": 114356,
+          "listed_count": 8,
+          "media_count": 2751,
+          "tweet_count": 23236
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "用中文为你分享世界热点新闻 电报主页 https://t.co/evscxyg2xG YouTube主页 https://t.co/QWKpvf4NCB 电报聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/intynews",
+                "end": 42,
+                "expanded_url": "http://t.me/intynews",
+                "start": 19,
+                "url": "https://t.co/evscxyg2xG"
+              },
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 76,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 53,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 106,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 83,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "头条热点",
+        "pinned_tweet_id": "1906226830585348576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685772,
+          "following_count": 0,
+          "like_count": 1409,
+          "listed_count": 1991,
+          "media_count": 30104,
+          "tweet_count": 87328
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

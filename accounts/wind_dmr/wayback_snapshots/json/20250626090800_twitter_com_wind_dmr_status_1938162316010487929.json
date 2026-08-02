@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1938162316010487929",
+    "created_at": "2025-06-26T09:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T10:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938162316010487929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1109080684419670017",
+          "start": 3,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938162316010487929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938077358726213707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KillerBeeSweety: 你们只看到我每天搞抽象，精神诡异，发无聊的消息，晚睡晚起的样子\n却从没看到我努力生活，熬夜学习，认真与人交流，坚持健身的样子\n你们看不到，我也没干过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1938162316010487929",
+        "created_at": "2025-06-26T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938162316010487929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1109080684419670017",
+              "start": 3,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938162316010487929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938077358726213707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KillerBeeSweety: 你们只看到我每天搞抽象，精神诡异，发无聊的消息，晚睡晚起的样子\n却从没看到我努力生活，熬夜学习，认真与人交流，坚持健身的样子\n你们看不到，我也没干过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1938077358726213707",
+        "created_at": "2025-06-26T03:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938077358726213707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938077358726213707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们只看到我每天搞抽象，精神诡异，发无聊的消息，晚睡晚起的样子\n却从没看到我努力生活，熬夜学习，认真与人交流，坚持健身的样子\n你们看不到，我也没干过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 713,
+          "like_count": 116326,
+          "listed_count": 8,
+          "media_count": 2840,
+          "tweet_count": 23472
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 106,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 83,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1933834878157799925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937020092824317952/wmAs809N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16798,
+          "following_count": 1727,
+          "like_count": 29905,
+          "listed_count": 21,
+          "media_count": 2544,
+          "tweet_count": 20761
+        },
+        "username": "KillerBeeSweety",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1891500090847609092",
+    "created_at": "2025-02-18T08:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T09:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891768686257598653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1542932278694645760",
+          "start": 0,
+          "username": "ozlx9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891768686257598653",
+    "in_reply_to_user_id": "1542932278694645760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891500090847609092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ozlx9n 我不会说中文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1891500090847609092",
+        "created_at": "2025-02-18T08:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T09:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891768686257598653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1542932278694645760",
+              "start": 0,
+              "username": "ozlx9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891768686257598653",
+        "in_reply_to_user_id": "1542932278694645760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891500090847609092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ozlx9n 我不会说中文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542932278694645760",
+        "conversation_id": "1891500090847609092",
+        "created_at": "2025-02-17T14:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891500090847609092"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Nemu",
+              "probability": 0.6226,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Aine",
+              "probability": 0.6041,
+              "start": 49,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891500090847609092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "oomfs from every country 👀\n\nHow to say \"Nemu and Aine\" in your language?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 704,
+          "like_count": 110338,
+          "listed_count": 8,
+          "media_count": 2665,
+          "tweet_count": 22632
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T18:05:12.000Z",
+        "description": "#ꕤ UTAU 絵 創作 気まぐれ┊any prns┊日本語が下手です/my English is poor/我會說中文┊FUB Free┊OC https://t.co/6dKZwgCIn3┊https://t.co/h1DJ0mp3K1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "ꕤ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "artfight.net/~ozlx9n",
+                "end": 96,
+                "expanded_url": "http://artfight.net/~ozlx9n",
+                "start": 73,
+                "url": "https://t.co/6dKZwgCIn3"
+              },
+              {
+                "display_url": "ozlx9n.bsky.social",
+                "end": 120,
+                "expanded_url": "http://ozlx9n.bsky.social",
+                "start": 97,
+                "url": "https://t.co/h1DJ0mp3K1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ozlx9n.straw.page",
+                "end": 23,
+                "expanded_url": "https://ozlx9n.straw.page/",
+                "start": 0,
+                "url": "https://t.co/jcCTyyFfXR"
+              }
+            ]
+          }
+        },
+        "id": "1542932278694645760",
+        "location": "🇹🇼Taiwan/18↑/自己満",
+        "name": "໒꒱·̩͙ ﾟଳ",
+        "pinned_tweet_id": "1869401937550131636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854515680210808833/PQkxXTRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 292,
+          "like_count": 7224,
+          "listed_count": 2,
+          "media_count": 1203,
+          "tweet_count": 6828
+        },
+        "url": "https://t.co/jcCTyyFfXR",
+        "username": "ozlx9n",
+        "verified": false
+      }
+    ]
+  }
+}

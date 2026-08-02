@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129035621861773312",
+          "name": "3D printing"
+        }
+      }
+    ],
+    "conversation_id": "1852667494378434770",
+    "created_at": "2024-11-04T21:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T22:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853543551810085062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608212106549116930",
+          "start": 0,
+          "username": "vuzonline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853543551810085062",
+    "in_reply_to_user_id": "1608212106549116930",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852667494378434770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vuzonline I thought it was a 3d printer blade"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035621861773312",
+              "name": "3D printing"
+            }
+          }
+        ],
+        "conversation_id": "1852667494378434770",
+        "created_at": "2024-11-04T21:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T22:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853543551810085062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608212106549116930",
+              "start": 0,
+              "username": "vuzonline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853543551810085062",
+        "in_reply_to_user_id": "1608212106549116930",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852667494378434770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vuzonline I thought it was a 3d printer blade"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852667491916378112",
+            "3_1852667492432297984"
+          ]
+        },
+        "author_id": "1608212106549116930",
+        "conversation_id": "1852667494378434770",
+        "created_at": "2024-11-02T11:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T12:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852667494378434770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EBNF7SrGy",
+              "end": 63,
+              "expanded_url": "https://x.com/vuzonline/status/1852667494378434770/photo/1",
+              "media_key": "3_1852667491916378112",
+              "start": 40,
+              "url": "https://t.co/1EBNF7SrGy"
+            },
+            {
+              "display_url": "pic.x.com/1EBNF7SrGy",
+              "end": 63,
+              "expanded_url": "https://x.com/vuzonline/status/1852667494378434770/photo/1",
+              "media_key": "3_1852667492432297984",
+              "start": 40,
+              "url": "https://t.co/1EBNF7SrGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852667494378434770",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 34614,
+          "like_count": 1318,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "release sesh after 1 week clean 😟\n\n¡TW! https://t.co/1EBNF7SrGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 676,
+          "like_count": 97578,
+          "listed_count": 6,
+          "tweet_count": 20826
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-28T21:23:54.000Z",
+        "description": "'dw i can quit anytime 🥱'\n\nbmi 28 😟",
+        "id": "1608212106549116930",
+        "location": "16.  5'6 + 80.3kg \nugw 55 ",
+        "name": "ruby ☆",
+        "pinned_tweet_id": "1842193260099272768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851738940249636864/TjdYQD69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 37,
+          "like_count": 1532,
+          "listed_count": 1,
+          "tweet_count": 580
+        },
+        "username": "vuzonline",
+        "verified": false
+      }
+    ]
+  }
+}

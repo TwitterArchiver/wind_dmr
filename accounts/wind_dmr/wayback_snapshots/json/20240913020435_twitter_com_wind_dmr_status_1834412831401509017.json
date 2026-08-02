@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1834273168212775049",
+    "created_at": "2024-09-13T02:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T03:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834412831401509017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1717903248764317696",
+          "start": 0,
+          "username": "TWshouzhuabing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834412831401509017",
+    "in_reply_to_user_id": "1717903248764317696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834273168212775049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWshouzhuabing 我好死喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1834273168212775049",
+        "created_at": "2024-09-13T02:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T03:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834412831401509017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1717903248764317696",
+              "start": 0,
+              "username": "TWshouzhuabing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834412831401509017",
+        "in_reply_to_user_id": "1717903248764317696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834273168212775049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWshouzhuabing 我好死喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717903248764317696",
+        "conversation_id": "1834273168212775049",
+        "created_at": "2024-09-12T16:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T17:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834273168212775049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834273168212775049",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把跨性别相关全都从社交软件里删完了老是有人误会我以为我是药娘男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 667,
+          "like_count": 94880,
+          "listed_count": 5,
+          "tweet_count": 20295
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:57:18.000Z",
+        "description": "友跨路人",
+        "id": "1717903248764317696",
+        "location": "🫓",
+        "name": "［賭上廚師生涯的手抓餅］加腸一塊加蛋一塊油條一塊錢倆辣條五毛一包雞排三塊錢火雞面加十塊開業活動送芝士",
+        "pinned_tweet_id": "1834172491675435265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834187260637704192/MrzBUq3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 293,
+          "like_count": 2234,
+          "listed_count": 0,
+          "tweet_count": 178
+        },
+        "username": "TWshouzhuabing",
+        "verified": false
+      }
+    ]
+  }
+}

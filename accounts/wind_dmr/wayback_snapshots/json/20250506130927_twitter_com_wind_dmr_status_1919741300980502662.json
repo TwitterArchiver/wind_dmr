@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1919590243772088701",
+    "created_at": "2025-05-06T13:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T14:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919741300980502662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1784952411595161600",
+          "start": 0,
+          "username": "sunshinemudkip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919741300980502662",
+    "in_reply_to_user_id": "1784952411595161600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919720964109062570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunshinemudkip 运营策划是傻逼 游戏是好游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1919590243772088701",
+        "created_at": "2025-05-06T13:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919741300980502662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1784952411595161600",
+              "start": 0,
+              "username": "sunshinemudkip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919741300980502662",
+        "in_reply_to_user_id": "1784952411595161600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919720964109062570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunshinemudkip 运营策划是傻逼 游戏是好游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784952411595161600",
+        "conversation_id": "1919590243772088701",
+        "created_at": "2025-05-06T11:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919720964109062570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919720964109062570",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919590243772088701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 赏金模式太容易让人上瘾了，但这运营我不好说……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 705,
+          "like_count": 114586,
+          "listed_count": 8,
+          "media_count": 2792,
+          "tweet_count": 23347
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T14:27:02.000Z",
+        "description": "让一切自然而然的发生~",
+        "id": "1784952411595161600",
+        "name": "太阳水跃鱼੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831683219273441280/p362Wvap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 107,
+          "like_count": 5024,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 722
+        },
+        "username": "sunshinemudkip",
+        "verified": false
+      }
+    ]
+  }
+}

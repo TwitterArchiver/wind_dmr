@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1878730246830391761",
+    "created_at": "2025-01-13T09:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T10:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878730246830391761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666010240725450752",
+          "start": 3,
+          "username": "amedesu01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878730246830391761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878684316093608452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amedesu01: hi大家好我是ame我清理掉了一些關注於是我想和小女孩互關拜託大家轉發一下🥺🥺\n💕轉發抽兩個52三個13.14💕\n順便我接爸爸活呀非綠，我在重慶拜託大家光顧一下我的生意💕💕😭\n可以找我穿孔呀我是穿孔師~位置DM！\n\n拜託了求轉發🥺🥺抽獎請轉評關注~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1878730246830391761].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1878730246830391761",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1878730246830391761"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878684301480562688",
+            "3_1878684301484769280"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1878684316093608452",
+        "created_at": "2025-01-13T06:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T07:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878684316093608452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rJjABFd2R",
+              "end": 148,
+              "expanded_url": "https://x.com/amedesu01/status/1878684316093608452/photo/1",
+              "media_key": "3_1878684301480562688",
+              "start": 125,
+              "url": "https://t.co/5rJjABFd2R"
+            },
+            {
+              "display_url": "pic.x.com/5rJjABFd2R",
+              "end": 148,
+              "expanded_url": "https://x.com/amedesu01/status/1878684316093608452/photo/1",
+              "media_key": "3_1878684301484769280",
+              "start": 125,
+              "url": "https://t.co/5rJjABFd2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878684316093608452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3172,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "hi大家好我是ame我清理掉了一些關注於是我想和小女孩互關拜託大家轉發一下🥺🥺\n💕轉發抽兩個52三個13.14💕\n順便我接爸爸活呀非綠，我在重慶拜託大家光顧一下我的生意💕💕😭\n可以找我穿孔呀我是穿孔師~位置DM！\n\n拜託了求轉發🥺🥺抽獎請轉評關注~ https://t.co/5rJjABFd2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 692,
+          "like_count": 103669,
+          "listed_count": 7,
+          "media_count": 2596,
+          "tweet_count": 21826
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "我是ame呀 喜歡和小女孩玩 重慶接線下",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388过门解锁线下",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1843612455194505470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791642038758522880/l__8_obF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4391,
+          "following_count": 183,
+          "like_count": 7878,
+          "listed_count": 11,
+          "media_count": 476,
+          "tweet_count": 3605
+        },
+        "username": "amedesu01",
+        "verified": false
+      }
+    ]
+  }
+}

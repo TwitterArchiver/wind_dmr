@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1881608401735836046",
+    "created_at": "2025-01-21T07:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T08:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881608401735836046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1451061564954480648",
+          "start": 3,
+          "username": "cherish2032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881608401735836046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880482271167410318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cherish2032: 你好阿!这里是筱意坐标上海\nMTF/ 地雷糸/OD/泛性恋/精神病人/人格分裂/度焦虑/边缘型人格障碍\n香香软软男娘一枚呀\n喜欢和香软软的萌宝宝扩列\n未满18不约线下\n想和我聊天请过🚪66/188/520女孩子豁免ᖰ˃̵ ֊ ˂̵ᖳ\n天气好冷想…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1881608401735836046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1881608401735836046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1881608401735836046"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880482259847061504"
+          ]
+        },
+        "author_id": "1451061564954480648",
+        "conversation_id": "1880482271167410318",
+        "created_at": "2025-01-18T05:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880482271167410318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZHQZX627BH",
+              "end": 165,
+              "expanded_url": "https://x.com/cherish2032/status/1880482271167410318/photo/1",
+              "media_key": "3_1880482259847061504",
+              "start": 142,
+              "url": "https://t.co/ZHQZX627BH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880482271167410318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1055,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你好阿!这里是筱意坐标上海\nMTF/ 地雷糸/OD/泛性恋/精神病人/人格分裂/度焦虑/边缘型人格障碍\n香香软软男娘一枚呀\n喜欢和香软软的萌宝宝扩列\n未满18不约线下\n想和我聊天请过🚪66/188/520女孩子豁免ᖰ˃̵ ֊ ˂̵ᖳ\n天气好冷想要一个温暖的金主T^T欢迎交友宝宝们♡ https://t.co/ZHQZX627BH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 702,
+          "like_count": 104614,
+          "listed_count": 7,
+          "media_count": 2604,
+          "tweet_count": 22036
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-21T05:43:41.000Z",
+        "description": "MTF/ 地雷系/OD/泛性恋/精神病人/人格分裂 男高/ 门66/188/520/1314",
+        "id": "1451061564954480648",
+        "name": "筱意🏳️‍⚧️",
+        "pinned_tweet_id": "1880482271167410318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760658056617349120/74dOVWa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 321,
+          "like_count": 501,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 2490
+        },
+        "username": "cherish2032",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1896044540911632604",
+    "created_at": "2025-03-02T07:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T08:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896096839650459711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1294873066984488960",
+          "start": 0,
+          "username": "Qiji67373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896096839650459711",
+    "in_reply_to_user_id": "1294873066984488960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896044540911632604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiji67373 花了多少钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1896044540911632604",
+        "created_at": "2025-03-02T07:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T08:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896096839650459711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1294873066984488960",
+              "start": 0,
+              "username": "Qiji67373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896096839650459711",
+        "in_reply_to_user_id": "1294873066984488960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896044540911632604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiji67373 花了多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294873066984488960",
+        "conversation_id": "1896044540911632604",
+        "created_at": "2025-03-02T03:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T04:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896044540911632604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qiji67373/stat…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Qiji67373/status/1890765217983762884",
+              "start": 148,
+              "url": "https://t.co/hhUY8R2LnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896044540911632604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 617,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890765217983762884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后还是找了一家做了，，，过程比较不理智，那天早上找到一家机构面诊，得到了一个荒谬的回复\n销售&amp;医生：“你的身份证是男性的话我们不能做胸部项目，但只要你去派出所开个证明把性别改成女就能做了。”\n这个说法对于一个改证无望的小跨妹打击有点太大了\n然后换了个机构当天就做完了\n嗯，，效果还不错 https://t.co/hhUY8R2LnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 701,
+          "like_count": 111246,
+          "listed_count": 8,
+          "media_count": 2691,
+          "tweet_count": 22827
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "愿你我都做生活的高手；奇迹如风掠过荒野；",
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "风掠过荒野",
+        "pinned_tweet_id": "1830654663928201280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713957329677500418/wAHUHaSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 510,
+          "like_count": 3922,
+          "listed_count": 8,
+          "media_count": 395,
+          "tweet_count": 5415
+        },
+        "username": "Qiji67373",
+        "verified": false
+      }
+    ]
+  }
+}

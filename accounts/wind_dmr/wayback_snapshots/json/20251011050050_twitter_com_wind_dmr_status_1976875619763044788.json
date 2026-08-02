@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976602910453821440"
+      ],
+      "media_source_tweet_id": [
+        "1976602938895425782"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1976875619763044788",
+    "created_at": "2025-10-11T05:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976875619763044788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2955015397",
+          "start": 3,
+          "username": "_princessGORIRA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/InzLO2NGsm",
+          "end": 51,
+          "expanded_url": "https://x.com/_princessGORIRA/status/1976602938895425782/photo/1",
+          "media_key": "3_1976602910453821440",
+          "start": 28,
+          "url": "https://t.co/InzLO2NGsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976875619763044788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12217
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976602938895425782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_princessGORIRA: 実証実験結果 https://t.co/InzLO2NGsm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976602910453821440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25N3-OacAA5YQX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976602910453821440"
+          ],
+          "media_source_tweet_id": [
+            "1976602938895425782"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1976875619763044788",
+        "created_at": "2025-10-11T05:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976875619763044788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2955015397",
+              "start": 3,
+              "username": "_princessGORIRA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/InzLO2NGsm",
+              "end": 51,
+              "expanded_url": "https://x.com/_princessGORIRA/status/1976602938895425782/photo/1",
+              "media_key": "3_1976602910453821440",
+              "start": 28,
+              "url": "https://t.co/InzLO2NGsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976875619763044788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12217
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976602938895425782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_princessGORIRA: 実証実験結果 https://t.co/InzLO2NGsm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976602910453821440"
+          ]
+        },
+        "author_id": "2955015397",
+        "conversation_id": "1976602938895425782",
+        "created_at": "2025-10-10T10:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976602938895425782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/InzLO2NGsm",
+              "end": 30,
+              "expanded_url": "https://x.com/_princessGORIRA/status/1976602938895425782/photo/1",
+              "media_key": "3_1976602910453821440",
+              "start": 7,
+              "url": "https://t.co/InzLO2NGsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976602938895425782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4316,
+          "impression_count": 3626321,
+          "like_count": 114775,
+          "quote_count": 459,
+          "reply_count": 180,
+          "retweet_count": 12217
+        },
+        "reply_settings": "everyone",
+        "text": "実証実験結果 https://t.co/InzLO2NGsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 803,
+          "like_count": 120885,
+          "listed_count": 9,
+          "media_count": 2866,
+          "tweet_count": 23811
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-01T15:28:25.000Z",
+        "description": "ごきげんよう 1でバズる土木女改め 年1でバズる建設インフルエンサーです トンネルが好きです ていうか大きな構造物が好きです 重機乗れます 車は乗れません ソフトバンクホークスさんお仕事させてください 今日もご安全に🦍🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/happy_gorira_r…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/happy_gorira_rose?igsh=YTNzdnBwMGo3bTJv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/kIGagEnNMT"
+              }
+            ]
+          }
+        },
+        "id": "2955015397",
+        "location": "少女革命ウテナは人生 ハンターハンターは聖書 一生鷹党",
+        "name": "プリンセスゴリラ",
+        "pinned_tweet_id": "1811215693305770432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963083584413302785/0tZDfPPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25460,
+          "following_count": 1902,
+          "like_count": 84987,
+          "listed_count": 101,
+          "media_count": 4062,
+          "tweet_count": 59533
+        },
+        "url": "https://t.co/kIGagEnNMT",
+        "username": "_princessGORIRA",
+        "verified": true
+      }
+    ]
+  }
+}

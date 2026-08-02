@@ -1,0 +1,227 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1803222505118941577",
+    "created_at": "2024-06-19T03:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T04:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803265679887573059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1074834113109127168",
+          "start": 0,
+          "username": "NadaNotWithThee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803265679887573059",
+    "in_reply_to_user_id": "1074834113109127168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803265360558432591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NadaNotWithThee 所以他们才是精神病，我们是好猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1803222505118941577",
+        "created_at": "2024-06-19T03:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T04:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803265679887573059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1074834113109127168",
+              "start": 0,
+              "username": "NadaNotWithThee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803265679887573059",
+        "in_reply_to_user_id": "1074834113109127168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803265360558432591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NadaNotWithThee 所以他们才是精神病，我们是好猫"
+      },
+      {
+        "attachments": {},
+        "author_id": "1074834113109127168",
+        "conversation_id": "1803222505118941577",
+        "created_at": "2024-06-19T03:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T04:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803265360558432591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803265360558432591",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803262629500383450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 因为在N久以前精神病的基因或者说精神病背后适应环境的机制可能有利于生存……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 619,
+          "like_count": 83899,
+          "listed_count": 5,
+          "tweet_count": 18150
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-18T01:09:56.000Z",
+        "description": "Nada Otrolocomas 是一只小黑猫🐈‍⬛ 能熟练使用SPSS和精读文本的流浪猫 祝大家自由地早死 支持LGBTQ 🏳️‍🌈 和一切平权运动Blockchain误B请见谅 锁推请接受回Fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nadaotrolocomas",
+                "end": 23,
+                "expanded_url": "https://t.me/nadaotrolocomas",
+                "start": 0,
+                "url": "https://t.co/NpmQOuL7vm"
+              }
+            ]
+          }
+        },
+        "id": "1074834113109127168",
+        "name": "Nada🐈‍⬛台独黑猫（看简介）",
+        "pinned_tweet_id": "1770368976792773004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743946223583924224/8YjyG8Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1043,
+          "like_count": 96189,
+          "listed_count": 12,
+          "tweet_count": 39366
+        },
+        "url": "https://t.co/NpmQOuL7vm",
+        "username": "NadaNotWithThee",
+        "verified": false
+      }
+    ]
+  }
+}

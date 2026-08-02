@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960075311611297792"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1960003156508852533",
+    "created_at": "2025-08-25T20:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T21:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960075315105161681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720098790718443520",
+          "start": 0,
+          "username": "by_yahn"
+        },
+        {
+          "end": 21,
+          "id": "1425258272584617986",
+          "start": 9,
+          "username": "itsiclassic"
+        },
+        {
+          "end": 28,
+          "id": "380749300",
+          "start": 22,
+          "username": "Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BVIh14a2ns",
+          "end": 52,
+          "expanded_url": "https://x.com/wind_dmr/status/1960075315105161681/photo/1",
+          "media_key": "3_1960075311611297792",
+          "start": 29,
+          "url": "https://t.co/BVIh14a2ns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960075315105161681",
+    "in_reply_to_user_id": "1720098790718443520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960055436406644855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@by_yahn @itsiclassic @Apple https://t.co/BVIh14a2ns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2964,
+        "media_key": "3_1960075311611297792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzOWHGmawAAkTgr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960075311611297792"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1960003156508852533",
+        "created_at": "2025-08-25T20:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T21:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960075315105161681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720098790718443520",
+              "start": 0,
+              "username": "by_yahn"
+            },
+            {
+              "end": 21,
+              "id": "1425258272584617986",
+              "start": 9,
+              "username": "itsiclassic"
+            },
+            {
+              "end": 28,
+              "id": "380749300",
+              "start": 22,
+              "username": "Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVIh14a2ns",
+              "end": 52,
+              "expanded_url": "https://x.com/wind_dmr/status/1960075315105161681/photo/1",
+              "media_key": "3_1960075311611297792",
+              "start": 29,
+              "url": "https://t.co/BVIh14a2ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960075315105161681",
+        "in_reply_to_user_id": "1720098790718443520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960055436406644855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@by_yahn @itsiclassic @Apple https://t.co/BVIh14a2ns"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098790718443520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1960003156508852533",
+        "created_at": "2025-08-25T19:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960055436406644855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425258272584617986",
+              "start": 0,
+              "username": "itsiclassic"
+            },
+            {
+              "end": 19,
+              "id": "380749300",
+              "start": 13,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960055436406644855",
+        "in_reply_to_user_id": "1425258272584617986",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960003156508852533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsiclassic @Apple AI?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 747,
+          "like_count": 118608,
+          "listed_count": 8,
+          "media_count": 2844,
+          "tweet_count": 23549
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T15:21:34.000Z",
+        "description": "I love giving you premium items and I love minimalism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helloyahn.gumroad.com",
+                "end": 23,
+                "expanded_url": "https://helloyahn.gumroad.com",
+                "start": 0,
+                "url": "https://t.co/v1sbf32HqG"
+              }
+            ]
+          }
+        },
+        "id": "1720098790718443520",
+        "location": "My Work →",
+        "name": "YAHN",
+        "pinned_tweet_id": "1953759717722918930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957898638610382848/cFbkt5GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 53,
+          "like_count": 1247,
+          "listed_count": 21,
+          "media_count": 495,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/v1sbf32HqG",
+        "username": "by_yahn",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T00:50:33.000Z",
+        "description": "the nostalgic side of apple",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/iclassic",
+                "end": 23,
+                "expanded_url": "http://youtube.com/iclassic",
+                "start": 0,
+                "url": "https://t.co/wz43sfxMYi"
+              }
+            ]
+          }
+        },
+        "id": "1425258272584617986",
+        "location": "Toronto/Phoenix",
+        "name": "iClassic",
+        "pinned_tweet_id": "1952900528075358643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860883506106171393/2wmG9z6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9153,
+          "following_count": 44,
+          "like_count": 1912,
+          "listed_count": 38,
+          "media_count": 427,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/wz43sfxMYi",
+        "username": "itsiclassic",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9915987,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15016,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

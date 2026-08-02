@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818330720865292289",
+        "3_1818330720861134849"
+      ],
+      "media_source_tweet_id": [
+        "1818330740037398712",
+        "1818330740037398712"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "1818678421737947208",
+    "created_at": "2024-07-31T16:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T17:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818678421737947208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610089940301533185",
+          "start": 3,
+          "username": "TouSei_EA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/R4HNrqOrSN",
+          "end": 57,
+          "expanded_url": "https://twitter.com/TouSei_EA/status/1818330740037398712/photo/1",
+          "media_key": "3_1818330720865292289",
+          "start": 34,
+          "url": "https://t.co/R4HNrqOrSN"
+        },
+        {
+          "display_url": "pic.twitter.com/R4HNrqOrSN",
+          "end": 57,
+          "expanded_url": "https://twitter.com/TouSei_EA/status/1818330740037398712/photo/1",
+          "media_key": "3_1818330720861134849",
+          "start": 34,
+          "url": "https://t.co/R4HNrqOrSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818678421737947208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818330740037398712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TouSei_EA: 這樣的場景估計也只有奧林匹克能做到了 https://t.co/R4HNrqOrSN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1818330720865292289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTwCKB1bEAEZSaS.jpg",
+        "width": 1702
+      },
+      {
+        "height": 776,
+        "media_key": "3_1818330720861134849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTwCKB0boAEbMaQ.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818330720865292289",
+            "3_1818330720861134849"
+          ],
+          "media_source_tweet_id": [
+            "1818330740037398712",
+            "1818330740037398712"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "1818678421737947208",
+        "created_at": "2024-07-31T16:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T17:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818678421737947208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610089940301533185",
+              "start": 3,
+              "username": "TouSei_EA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/R4HNrqOrSN",
+              "end": 57,
+              "expanded_url": "https://twitter.com/TouSei_EA/status/1818330740037398712/photo/1",
+              "media_key": "3_1818330720865292289",
+              "start": 34,
+              "url": "https://t.co/R4HNrqOrSN"
+            },
+            {
+              "display_url": "pic.twitter.com/R4HNrqOrSN",
+              "end": 57,
+              "expanded_url": "https://twitter.com/TouSei_EA/status/1818330740037398712/photo/1",
+              "media_key": "3_1818330720861134849",
+              "start": 34,
+              "url": "https://t.co/R4HNrqOrSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818678421737947208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818330740037398712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TouSei_EA: 這樣的場景估計也只有奧林匹克能做到了 https://t.co/R4HNrqOrSN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818330720865292289",
+            "3_1818330720861134849"
+          ]
+        },
+        "author_id": "1610089940301533185",
+        "conversation_id": "1818330740037398712",
+        "created_at": "2024-07-30T17:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T18:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818330740037398712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/R4HNrqOrSN",
+              "end": 42,
+              "expanded_url": "https://twitter.com/TouSei_EA/status/1818330740037398712/photo/1",
+              "media_key": "3_1818330720865292289",
+              "start": 19,
+              "url": "https://t.co/R4HNrqOrSN"
+            },
+            {
+              "display_url": "pic.twitter.com/R4HNrqOrSN",
+              "end": 42,
+              "expanded_url": "https://twitter.com/TouSei_EA/status/1818330740037398712/photo/1",
+              "media_key": "3_1818330720861134849",
+              "start": 19,
+              "url": "https://t.co/R4HNrqOrSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818330740037398712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 27155,
+          "like_count": 351,
+          "quote_count": 6,
+          "reply_count": 24,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "這樣的場景估計也只有奧林匹克能做到了 https://t.co/R4HNrqOrSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2087,
+          "following_count": 661,
+          "like_count": 91597,
+          "listed_count": 5,
+          "tweet_count": 19840
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T01:45:51.000Z",
+        "description": "Chinese｜Chinese Nationalism｜Pan-East Asianism｜Progressive Conservatism｜Centrism｜liberalism｜Pacifism☮️｜日本出身的華韓混血｜東亞政治文化觀察員｜@EAFOF_Official 主席｜日常推：@TouSeiZuiKeAi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 122,
+                "username": "EAFOF_Official"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "TouSeiZuiKeAi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/epW8thkZvp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/epW8thkZvp",
+                "start": 0,
+                "url": "https://t.co/cTipPSRRaI"
+              }
+            ]
+          }
+        },
+        "id": "1610089940301533185",
+        "location": "East Asia",
+        "name": "⚖️東聲❂WALZ❀華☮️",
+        "pinned_tweet_id": "1817031070820487367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790360439987286016/X6ODdfvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1315,
+          "like_count": 11548,
+          "listed_count": 7,
+          "tweet_count": 12636
+        },
+        "url": "https://t.co/cTipPSRRaI",
+        "username": "TouSei_EA",
+        "verified": false
+      }
+    ]
+  }
+}

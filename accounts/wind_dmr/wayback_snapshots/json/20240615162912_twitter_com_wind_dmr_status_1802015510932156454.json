@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1802015510932156454",
+    "created_at": "2024-06-15T16:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T17:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802015510932156454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mionostand/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Mionostand/status/1801979075898061047",
+          "start": 5,
+          "url": "https://t.co/aAZVdZvid1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802015510932156454",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801979075898061047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样吗。 https://t.co/aAZVdZvid1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1802015510932156454",
+        "created_at": "2024-06-15T16:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T17:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802015510932156454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mionostand/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Mionostand/status/1801979075898061047",
+              "start": 5,
+              "url": "https://t.co/aAZVdZvid1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802015510932156454",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801979075898061047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样吗。 https://t.co/aAZVdZvid1"
+      },
+      {
+        "attachments": {},
+        "author_id": "1010463231905796096",
+        "conversation_id": "1801979075898061047",
+        "created_at": "2024-06-15T14:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T15:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801979075898061047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rebecca_hoshin…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/rebecca_hoshino/status/1801817921515409775",
+              "start": 30,
+              "url": "https://t.co/c5cAj4dd5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801979075898061047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801817921515409775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重度抑郁突然开始产生想做些什么事情的幻觉的时候，就很危险了 https://t.co/c5cAj4dd5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 619,
+          "like_count": 83693,
+          "listed_count": 5,
+          "tweet_count": 18006
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-23T10:03:02.000Z",
+        "description": "神经病小女孩，主治医生兼丈夫@Waifu8964  一度の人生だから、楽しいは一番です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Waifu8964"
+              }
+            ]
+          }
+        },
+        "id": "1010463231905796096",
+        "location": "あなたのハート",
+        "name": "𝕄𝕚𝕠",
+        "pinned_tweet_id": "1739239123733389769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769479287923429376/mP6OFJJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 517,
+          "like_count": 17822,
+          "listed_count": 0,
+          "tweet_count": 3158
+        },
+        "username": "Mionostand",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1881576410143391899",
+    "created_at": "2025-01-21T05:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T06:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881576410143391899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qiji67373/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Qiji67373/status/1881576177607078271",
+          "start": 18,
+          "url": "https://t.co/Ixlh93bw5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881576410143391899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881576177607078271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的旅途，是一个令人满意的旅途吗？ https://t.co/Ixlh93bw5q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1881576410143391899",
+        "created_at": "2025-01-21T05:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T06:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881576410143391899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qiji67373/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Qiji67373/status/1881576177607078271",
+              "start": 18,
+              "url": "https://t.co/Ixlh93bw5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881576410143391899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881576177607078271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的旅途，是一个令人满意的旅途吗？ https://t.co/Ixlh93bw5q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881576174570336256"
+          ]
+        },
+        "author_id": "1294873066984488960",
+        "conversation_id": "1881576177607078271",
+        "created_at": "2025-01-21T05:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T06:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881576177607078271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kloWFEXljS",
+              "end": 55,
+              "expanded_url": "https://x.com/Qiji67373/status/1881576177607078271/photo/1",
+              "media_key": "3_1881576174570336256",
+              "start": 32,
+              "url": "https://t.co/kloWFEXljS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881576177607078271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说不上好还是，但这里确实就是终点了。\n\n对自己的旅途还满意吗？ https://t.co/kloWFEXljS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 702,
+          "like_count": 104476,
+          "listed_count": 7,
+          "media_count": 2604,
+          "tweet_count": 22019
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "愿你我都做生活的高手；",
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "奇迹行者抓不住彩色蝴蝶",
+        "pinned_tweet_id": "1830654663928201280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713957329677500418/wAHUHaSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 496,
+          "like_count": 3785,
+          "listed_count": 16,
+          "media_count": 381,
+          "tweet_count": 5207
+        },
+        "username": "Qiji67373",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1810691474390139062",
+    "created_at": "2024-07-09T18:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T19:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810745583688372689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1497984644586762246",
+          "start": 0,
+          "username": "sekawa5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810745583688372689",
+    "in_reply_to_user_id": "1497984644586762246",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810733191445237932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sekawa5 短期0正反馈 花费趋近于正无穷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1810691474390139062",
+        "created_at": "2024-07-09T18:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T19:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810745583688372689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1497984644586762246",
+              "start": 0,
+              "username": "sekawa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810745583688372689",
+        "in_reply_to_user_id": "1497984644586762246",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810733191445237932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sekawa5 短期0正反馈 花费趋近于正无穷"
+      },
+      {
+        "attachments": {},
+        "author_id": "1497984644586762246",
+        "conversation_id": "1810691474390139062",
+        "created_at": "2024-07-09T17:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T18:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810733191445237932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810733191445237932",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810691474390139062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 注意还是看花费和有没有短期正反馈，能不能成对于过程的意义不是很大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 633,
+          "like_count": 87466,
+          "listed_count": 5,
+          "tweet_count": 19114
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T17:19:19.000Z",
+        "description": "没什么朋友所以欢迎找我玩！//\n本体男，X欲很强所以会经常发情//\nNSFW，碎碎念居多，色龙娘爱好者，随缘更新色图，爱看就看，谢谢//",
+        "id": "1497984644586762246",
+        "location": "海雾村",
+        "name": "莎鲨提不起劲",
+        "pinned_tweet_id": "1609925910328905728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497986036353298436/EoRzU6oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 187,
+          "like_count": 626,
+          "listed_count": 1,
+          "tweet_count": 342
+        },
+        "username": "sekawa5",
+        "verified": false
+      }
+    ]
+  }
+}

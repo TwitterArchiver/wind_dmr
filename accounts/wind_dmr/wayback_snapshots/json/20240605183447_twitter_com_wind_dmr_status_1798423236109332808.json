@@ -1,0 +1,257 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1798186741683384747",
+    "created_at": "2024-06-05T18:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T19:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798423236109332808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251467416263000064",
+          "start": 0,
+          "username": "792123a"
+        },
+        {
+          "end": 20,
+          "id": "1757616332240224256",
+          "start": 9,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798423236109332808",
+    "in_reply_to_user_id": "1251467416263000064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798236755201822787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@792123a @B_cat38324 接家用电甚至不用会kvl kcl（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1798186741683384747",
+        "created_at": "2024-06-05T18:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T19:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798423236109332808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251467416263000064",
+              "start": 0,
+              "username": "792123a"
+            },
+            {
+              "end": 20,
+              "id": "1757616332240224256",
+              "start": 9,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798423236109332808",
+        "in_reply_to_user_id": "1251467416263000064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798236755201822787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@792123a @B_cat38324 接家用电甚至不用会kvl kcl（"
+      },
+      {
+        "attachments": {},
+        "author_id": "1251467416263000064",
+        "conversation_id": "1798186741683384747",
+        "created_at": "2024-06-05T06:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T07:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798236755201822787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798236755201822787",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798186741683384747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 不过电工确实不用学这些，最基本的电压电流功率回路学好就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 137,
+                "start": 133,
+                "tag": "MTG"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 618,
+          "like_count": 83776,
+          "listed_count": 5,
+          "tweet_count": 17859
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T11:07:45.000Z",
+        "description": "让我草一下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/rx4ffO2",
+                "end": 23,
+                "expanded_url": "https://b23.tv/rx4ffO2",
+                "start": 0,
+                "url": "https://t.co/JOkkLEo32n"
+              }
+            ]
+          }
+        },
+        "id": "1251467416263000064",
+        "name": "草",
+        "pinned_tweet_id": "1743603448015372386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505687558260682753/UMAbjZRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 183,
+          "like_count": 595,
+          "listed_count": 0,
+          "tweet_count": 8103
+        },
+        "url": "https://t.co/JOkkLEo32n",
+        "username": "792123a",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 90,
+          "like_count": 43,
+          "listed_count": 7,
+          "tweet_count": 2101
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1889381500648353792"
+      ],
+      "media_source_tweet_id": [
+        "1889381526669791470"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1889841766851088570",
+    "created_at": "2025-02-13T00:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T01:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889841766851088570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1302583526676746246",
+          "start": 3,
+          "username": "uhicr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTJXwgP3cH",
+          "end": 34,
+          "expanded_url": "https://x.com/uhicr/status/1889381526669791470/video/1",
+          "media_key": "7_1889381500648353792",
+          "start": 11,
+          "url": "https://t.co/yTJXwgP3cH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889841766851088570",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10227
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889381526669791470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uhicr: https://t.co/yTJXwgP3cH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12066,
+        "height": 720,
+        "media_key": "7_1889381500648353792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1889381500648353792/pu/img/T43M9l1p83UxK4tL.jpg",
+        "public_metrics": {
+          "view_count": 229897
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889381500648353792/pu/vid/avc1/360x270/llGAeLxSugcbc5na.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889381500648353792/pu/vid/avc1/480x360/pvLwl6kYp0U-IQ4w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889381500648353792/pu/vid/avc1/960x720/s91go_edhBfZDbRi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1889381500648353792/pu/pl/WepKPnIGU-F7otm2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1889381500648353792"
+          ],
+          "media_source_tweet_id": [
+            "1889381526669791470"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1889841766851088570",
+        "created_at": "2025-02-13T00:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T01:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889841766851088570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1302583526676746246",
+              "start": 3,
+              "username": "uhicr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTJXwgP3cH",
+              "end": 34,
+              "expanded_url": "https://x.com/uhicr/status/1889381526669791470/video/1",
+              "media_key": "7_1889381500648353792",
+              "start": 11,
+              "url": "https://t.co/yTJXwgP3cH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889841766851088570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10227
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889381526669791470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uhicr: https://t.co/yTJXwgP3cH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1889381500648353792"
+          ]
+        },
+        "author_id": "1302583526676746246",
+        "conversation_id": "1889381526669791470",
+        "created_at": "2025-02-11T18:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T19:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889381526669791470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTJXwgP3cH",
+              "end": 23,
+              "expanded_url": "https://x.com/uhicr/status/1889381526669791470/video/1",
+              "media_key": "7_1889381500648353792",
+              "start": 0,
+              "url": "https://t.co/yTJXwgP3cH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889381526669791470",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5000,
+          "impression_count": 804400,
+          "like_count": 48288,
+          "quote_count": 806,
+          "reply_count": 172,
+          "retweet_count": 10227
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yTJXwgP3cH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 705,
+          "like_count": 109538,
+          "listed_count": 8,
+          "media_count": 2648,
+          "tweet_count": 22529
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-06T12:25:12.000Z",
+        "description": "",
+        "id": "1302583526676746246",
+        "name": "ٰ",
+        "pinned_tweet_id": "1791522603145818445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874438733128228864/T-RS9AgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38713,
+          "following_count": 19,
+          "like_count": 1315,
+          "listed_count": 95,
+          "media_count": 350,
+          "tweet_count": 646
+        },
+        "username": "uhicr",
+        "verified": false
+      }
+    ]
+  }
+}

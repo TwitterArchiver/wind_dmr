@@ -1,0 +1,330 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1805360045783400759",
+    "created_at": "2024-06-24T21:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T22:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805360045783400759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "154601130",
+          "start": 3,
+          "username": "SQEX_MD_NA"
+        },
+        {
+          "end": 29,
+          "id": "1518688063567929348",
+          "start": 20,
+          "username": "FFXIV_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805360045783400759",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805325412261937478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SQEX_MD_NA: New @FFXIV_EN High-Precision Art pieces are available for Pre-Order! The original 25 are also available again as well!\n\nMak…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [FFXIV_EN].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "FFXIV_EN",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "FFXIV_EN"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1805360045783400759",
+        "created_at": "2024-06-24T21:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T22:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805360045783400759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "154601130",
+              "start": 3,
+              "username": "SQEX_MD_NA"
+            },
+            {
+              "end": 29,
+              "id": "1518688063567929348",
+              "start": 20,
+              "username": "FFXIV_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805360045783400759",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805325412261937478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SQEX_MD_NA: New @FFXIV_EN High-Precision Art pieces are available for Pre-Order! The original 25 are also available again as well!\n\nMak…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805325408445120516",
+            "3_1805325408738721793",
+            "3_1805325408713457665",
+            "3_1805325408734527489"
+          ]
+        },
+        "author_id": "154601130",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1805325412261937478",
+        "created_at": "2024-06-24T19:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T20:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805325412261937478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518688063567929348",
+              "start": 4,
+              "username": "FFXIV_EN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Dawntrail game codes begin dispatch June 24, redeemable July 2 Mid-Season Sale Up to 70% OFF. Use Code: “SALE70”. Shop Now Can' t decide which one to buy? Why not try our best-sellers?",
+              "display_url": "sqex.link/go0p",
+              "end": 230,
+              "expanded_url": "https://sqex.link/go0p",
+              "images": [
+                {
+                  "height": 30,
+                  "url": "https://pbs.twimg.com/news_img/1805325422131134466/Fw4pUZCy?format=png&name=orig",
+                  "width": 150
+                },
+                {
+                  "height": 30,
+                  "url": "https://pbs.twimg.com/news_img/1805325422131134466/Fw4pUZCy?format=png&name=150x150",
+                  "width": 30
+                }
+              ],
+              "start": 207,
+              "status": 200,
+              "title": "High-Precision Art",
+              "unwound_url": "https://na.store.square-enix-games.com/merchandise/high-precision-art",
+              "url": "https://t.co/r8KydtOqCC"
+            },
+            {
+              "display_url": "pic.twitter.com/k7GpBocTRR",
+              "end": 254,
+              "expanded_url": "https://twitter.com/SQEX_MD_NA/status/1805325412261937478/photo/1",
+              "media_key": "3_1805325408445120516",
+              "start": 231,
+              "url": "https://t.co/k7GpBocTRR"
+            },
+            {
+              "display_url": "pic.twitter.com/k7GpBocTRR",
+              "end": 254,
+              "expanded_url": "https://twitter.com/SQEX_MD_NA/status/1805325412261937478/photo/1",
+              "media_key": "3_1805325408738721793",
+              "start": 231,
+              "url": "https://t.co/k7GpBocTRR"
+            },
+            {
+              "display_url": "pic.twitter.com/k7GpBocTRR",
+              "end": 254,
+              "expanded_url": "https://twitter.com/SQEX_MD_NA/status/1805325412261937478/photo/1",
+              "media_key": "3_1805325408713457665",
+              "start": 231,
+              "url": "https://t.co/k7GpBocTRR"
+            },
+            {
+              "display_url": "pic.twitter.com/k7GpBocTRR",
+              "end": 254,
+              "expanded_url": "https://twitter.com/SQEX_MD_NA/status/1805325412261937478/photo/1",
+              "media_key": "3_1805325408734527489",
+              "start": 231,
+              "url": "https://t.co/k7GpBocTRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805325412261937478",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4851,
+          "like_count": 108,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "New @FFXIV_EN High-Precision Art pieces are available for Pre-Order! The original 25 are also available again as well!\n\nMake sure to pick your favorite before Pre-Orders close on July 14th at 11:59 pm PDT.\n\nhttps://t.co/r8KydtOqCC https://t.co/k7GpBocTRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 619,
+          "like_count": 85123,
+          "listed_count": 5,
+          "tweet_count": 18555
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-11T17:57:31.000Z",
+        "description": "The official source for Square Enix Merchandise news in North America! Questions about an order placed on our site? Visit https://t.co/8xKI4gPJav",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sqex.to/mdsupport",
+                "end": 145,
+                "expanded_url": "http://sqex.to/mdsupport",
+                "start": 122,
+                "url": "https://t.co/8xKI4gPJav"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.na.square-enix.com/hub/merchandise",
+                "end": 23,
+                "expanded_url": "https://store.na.square-enix.com/hub/merchandise",
+                "start": 0,
+                "url": "https://t.co/ZGlrxec3I3"
+              }
+            ]
+          }
+        },
+        "id": "154601130",
+        "location": "El Segundo, CA",
+        "name": "Square Enix Merchandise (North America)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/891127726119067649/SZpjjgfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57498,
+          "following_count": 92,
+          "like_count": 998,
+          "listed_count": 306,
+          "tweet_count": 3621
+        },
+        "url": "https://t.co/ZGlrxec3I3",
+        "username": "SQEX_MD_NA",
+        "verified": false
+      }
+    ]
+  }
+}

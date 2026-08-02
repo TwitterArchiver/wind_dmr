@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1818982374132383879",
+    "created_at": "2024-08-02T09:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T10:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819303585651609934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671776386024099840",
+          "start": 0,
+          "username": "KaliroOwo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819303585651609934",
+    "in_reply_to_user_id": "1671776386024099840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818982374132383879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaliroOwo8964 hk用不了gpt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1818982374132383879",
+        "created_at": "2024-08-02T09:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T10:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819303585651609934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671776386024099840",
+              "start": 0,
+              "username": "KaliroOwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819303585651609934",
+        "in_reply_to_user_id": "1671776386024099840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818982374132383879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaliroOwo8964 hk用不了gpt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1818982373096316928"
+          ]
+        },
+        "author_id": "1671776386024099840",
+        "conversation_id": "1818982374132383879",
+        "created_at": "2024-08-01T12:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T13:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818982374132383879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818982374132383879",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 988,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们的梯子节点一般连的是哪里?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128 重庆青岛接线下\n｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "FF14"
+              },
+              {
+                "end": 113,
+                "start": 109,
+                "tag": "MTG"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 659,
+          "like_count": 91899,
+          "listed_count": 5,
+          "tweet_count": 19877
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T07:07:36.000Z",
+        "description": "尊重每一个灵魂。想让所有人开心。\n『神秘学家』『药师』『作家』『吉尼斯最能睡记录保持者』『猎鬼师专员』『地雷男娘』|致爱，自由，民主，平等| 政治中立 除了傻逼什么都友~ 利山制药营业中! 过zfb🚪可+Q! 请安全用药! https://t.co/HvMCDSpIY4 https://t.co/oacMvo6sfv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Overdose.wiki",
+                "end": 135,
+                "expanded_url": "http://Overdose.wiki",
+                "start": 112,
+                "url": "https://t.co/HvMCDSpIY4"
+              },
+              {
+                "display_url": "Overspeed.wiki",
+                "end": 159,
+                "expanded_url": "http://Overspeed.wiki",
+                "start": 136,
+                "url": "https://t.co/oacMvo6sfv"
+              }
+            ]
+          }
+        },
+        "id": "1671776386024099840",
+        "location": "利山制药",
+        "name": "科利尔Kaliro『利山制药』【南梁限定】",
+        "pinned_tweet_id": "1817498627901980943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817956388678873088/Iei_CDaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 1421,
+          "like_count": 5451,
+          "listed_count": 0,
+          "tweet_count": 1431
+        },
+        "username": "KaliroOwo8964",
+        "verified": false
+      }
+    ]
+  }
+}

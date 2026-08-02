@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1807319855395389869",
+    "created_at": "2024-06-30T09:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T10:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807342365830746115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807342365830746115",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807319855395389869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 我草我这二甲都思诺思阿普唑仑随便开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1807319855395389869",
+        "created_at": "2024-06-30T09:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T10:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807342365830746115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807342365830746115",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807319855395389869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 我草我这二甲都思诺思阿普唑仑随便开"
+      },
+      {
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1807319855395389869",
+        "created_at": "2024-06-30T07:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T08:27:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807314978959151202",
+          "1807319855395389869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807319855395389869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离谱啊 某市最大的三甲医院 \n劳拉西泮没有 阿普唑伦没有 碳酸锂没有 喹硫平没有 \n医生：领导不觉得丢脸呗，他们不进货我也开不出啊 （）\n我： （）是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 624,
+          "like_count": 86075,
+          "listed_count": 5,
+          "tweet_count": 18827
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "19INFP｜ASD&ADHD｜🐈/🏹/🚴/💻｜CS&EE&AM｜创业公司高管（逃）｜Trans F｜GPG pubKey：04a9b7854a4c18ee14e377fec1d984f0bba1b3b9",
+        "id": "1600208165269741570",
+        "name": "凯瑟琳奈（GD中）",
+        "pinned_tweet_id": "1784823165706981713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802005476810563585/8zv_Msd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3522,
+          "following_count": 1029,
+          "like_count": 23570,
+          "listed_count": 15,
+          "tweet_count": 9453
+        },
+        "username": "MeowCatherina",
+        "verified": false
+      }
+    ]
+  }
+}

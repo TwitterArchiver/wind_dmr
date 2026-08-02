@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1851204414675304863",
+    "created_at": "2024-10-29T10:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T11:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851204414675304863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/myuuuuun/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/myuuuuun/status/1850894229905801236",
+          "start": 34,
+          "url": "https://t.co/WdvsXUBkui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851204414675304863",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850894229905801236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我真看得懂下面那句 但是你要是给我日语菜单和讲日文那就不一定了 https://t.co/WdvsXUBkui"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1851204414675304863",
+        "created_at": "2024-10-29T10:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T11:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851204414675304863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/myuuuuun/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/myuuuuun/status/1850894229905801236",
+              "start": 34,
+              "url": "https://t.co/WdvsXUBkui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851204414675304863",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850894229905801236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我真看得懂下面那句 但是你要是给我日语菜单和讲日文那就不一定了 https://t.co/WdvsXUBkui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850894224776208384"
+          ]
+        },
+        "author_id": "96929719",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1850894229905801236",
+        "created_at": "2024-10-28T13:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T14:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850894229905801236"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "京都",
+              "probability": 0.9461,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rmGReC4wI",
+              "end": 36,
+              "expanded_url": "https://x.com/myuuuuun/status/1850894229905801236/photo/1",
+              "media_key": "3_1850894224776208384",
+              "start": 13,
+              "url": "https://t.co/5rmGReC4wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850894229905801236",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7196,
+          "impression_count": 12709068,
+          "like_count": 117536,
+          "quote_count": 1498,
+          "reply_count": 795,
+          "retweet_count": 12211
+        },
+        "reply_settings": "everyone",
+        "text": "これが京都のおもてなしよ https://t.co/5rmGReC4wI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电 BG8LXU｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "MTG"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 672,
+          "like_count": 96995,
+          "listed_count": 6,
+          "tweet_count": 20745
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-15T06:45:47.000Z",
+        "description": "制作進行のお仕事をしています。",
+        "id": "96929719",
+        "location": "百万遍アニメーション",
+        "name": "みゅーもり",
+        "pinned_tweet_id": "1840960153279197587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/528070197907701762/463y_jPk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 2408,
+          "like_count": 327269,
+          "listed_count": 71,
+          "tweet_count": 118355
+        },
+        "username": "myuuuuun",
+        "verified": true
+      }
+    ]
+  }
+}

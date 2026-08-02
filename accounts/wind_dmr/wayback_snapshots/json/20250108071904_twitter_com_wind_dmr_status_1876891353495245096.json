@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1876662809603510688",
+    "created_at": "2025-01-08T07:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T08:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876891353495245096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866396106718068736",
+          "start": 0,
+          "username": "dixueya2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876891353495245096",
+    "in_reply_to_user_id": "1866396106718068736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876662809603510688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dixueya2024 揪你柰子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1876662809603510688",
+        "created_at": "2025-01-08T07:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876891353495245096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866396106718068736",
+              "start": 0,
+              "username": "dixueya2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876891353495245096",
+        "in_reply_to_user_id": "1866396106718068736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876662809603510688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dixueya2024 揪你柰子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876662667265581056"
+          ]
+        },
+        "author_id": "1866396106718068736",
+        "conversation_id": "1876662809603510688",
+        "created_at": "2025-01-07T16:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T17:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876662809603510688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEnz10PXO8",
+              "end": 28,
+              "expanded_url": "https://x.com/dixueya2024/status/1876662809603510688/video/1",
+              "media_key": "7_1876662667265581056",
+              "start": 5,
+              "url": "https://t.co/MEnz10PXO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876662809603510688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2124,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "突き刺す https://t.co/MEnz10PXO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 690,
+          "like_count": 103105,
+          "listed_count": 7,
+          "media_count": 2577,
+          "tweet_count": 21604
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T08:14:52.000Z",
+        "description": "👁️",
+        "id": "1866396106718068736",
+        "name": "低血壓",
+        "pinned_tweet_id": "1869257948507353156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866396869754339328/MP0iBNcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 3,
+          "like_count": 120,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 36
+        },
+        "username": "dixueya2024",
+        "verified": false
+      }
+    ]
+  }
+}

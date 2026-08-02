@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003759816062431232"
+      ],
+      "media_source_tweet_id": [
+        "2003759824262300028"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2004085023205732461",
+    "created_at": "2025-12-25T07:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T08:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004085023205732461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "331651596",
+          "start": 3,
+          "username": "LightCavalryCZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sbHOKdH7p",
+          "end": 90,
+          "expanded_url": "https://x.com/LightCavalryCZ/status/2003759824262300028/photo/1",
+          "media_key": "3_2003759816062431232",
+          "start": 67,
+          "url": "https://t.co/5sbHOKdH7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004085023205732461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003759824262300028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LightCavalryCZ: 圣诞快乐我的朋友们。\n如果你被要求「不过洋节」也没关系，我们可以一起来庆祝苏联解体34周年。 https://t.co/5sbHOKdH7p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2003759816062431232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87I77OacAATUh_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003759816062431232"
+          ],
+          "media_source_tweet_id": [
+            "2003759824262300028"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2004085023205732461",
+        "created_at": "2025-12-25T07:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004085023205732461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "331651596",
+              "start": 3,
+              "username": "LightCavalryCZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sbHOKdH7p",
+              "end": 90,
+              "expanded_url": "https://x.com/LightCavalryCZ/status/2003759824262300028/photo/1",
+              "media_key": "3_2003759816062431232",
+              "start": 67,
+              "url": "https://t.co/5sbHOKdH7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004085023205732461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003759824262300028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LightCavalryCZ: 圣诞快乐我的朋友们。\n如果你被要求「不过洋节」也没关系，我们可以一起来庆祝苏联解体34周年。 https://t.co/5sbHOKdH7p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003759816062431232"
+          ]
+        },
+        "author_id": "331651596",
+        "conversation_id": "2003759824262300028",
+        "created_at": "2025-12-24T09:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003759824262300028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sbHOKdH7p",
+              "end": 70,
+              "expanded_url": "https://x.com/LightCavalryCZ/status/2003759824262300028/photo/1",
+              "media_key": "3_2003759816062431232",
+              "start": 47,
+              "url": "https://t.co/5sbHOKdH7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003759824262300028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 92530,
+          "like_count": 2036,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞快乐我的朋友们。\n如果你被要求「不过洋节」也没关系，我们可以一起来庆祝苏联解体34周年。 https://t.co/5sbHOKdH7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 830,
+          "like_count": 124274,
+          "listed_count": 8,
+          "media_count": 2906,
+          "tweet_count": 24132
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T14:20:08.000Z",
+        "description": "",
+        "id": "331651596",
+        "location": "Tianjin",
+        "name": "曹哲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351507883058360321/g94--rth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21593,
+          "following_count": 53,
+          "like_count": 368,
+          "listed_count": 102,
+          "media_count": 391,
+          "tweet_count": 2429
+        },
+        "username": "LightCavalryCZ",
+        "verified": true
+      }
+    ]
+  }
+}

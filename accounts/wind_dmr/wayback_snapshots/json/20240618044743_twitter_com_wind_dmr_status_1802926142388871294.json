@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1802926142388871294",
+    "created_at": "2024-06-18T04:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T05:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802926142388871294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1694437145035816960",
+          "start": 3,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802926142388871294",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802920318564245780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theLostCypress: 我的精神比较分裂，但是我的智商又弥补了这一部分，如果我吃多了丙戊酸钠或者舍曲林或者奥氮平之类损害认知的精神药物的话，可能会把我变成一个彻头彻尾的傻逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1802926142388871294",
+        "created_at": "2024-06-18T04:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T05:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802926142388871294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1694437145035816960",
+              "start": 3,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802926142388871294",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802920318564245780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theLostCypress: 我的精神比较分裂，但是我的智商又弥补了这一部分，如果我吃多了丙戊酸钠或者舍曲林或者奥氮平之类损害认知的精神药物的话，可能会把我变成一个彻头彻尾的傻逼。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1694437145035816960",
+        "conversation_id": "1802920318564245780",
+        "created_at": "2024-06-18T04:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T05:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802920318564245780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802920318564245780",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的精神比较分裂，但是我的智商又弥补了这一部分，如果我吃多了丙戊酸钠或者舍曲林或者奥氮平之类损害认知的精神药物的话，可能会把我变成一个彻头彻尾的傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 620,
+          "like_count": 83830,
+          "listed_count": 5,
+          "tweet_count": 18098
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T19:51:33.000Z",
+        "description": "取关请双取谢谢|17岁|INFJ-5w6-tritype593-sp/so|无性别&无性恋，双性浪漫，代词随意|精神分裂患者脑子有病|阿斯伯格倾向|抑郁状态|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|第二人格@theDarkCypress|EN: @Cypress_Albert",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 117,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Cypress_Albert"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert",
+                "start": 0,
+                "url": "https://t.co/JSs8D5a7Jw"
+              }
+            ]
+          }
+        },
+        "id": "1694437145035816960",
+        "location": "我才知道星期八的真名叫作schizophrenia",
+        "name": "住在星期八的柏树🏳‍⚧️🏳️‍🌈（屏蔽必回）",
+        "pinned_tweet_id": "1802534523458240609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767246062312386560/lPNw_-Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 1161,
+          "like_count": 16481,
+          "listed_count": 3,
+          "tweet_count": 4571
+        },
+        "url": "https://t.co/JSs8D5a7Jw",
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

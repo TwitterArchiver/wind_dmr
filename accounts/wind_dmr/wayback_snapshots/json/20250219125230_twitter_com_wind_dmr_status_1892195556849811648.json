@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1892195556849811648",
+    "created_at": "2025-02-19T12:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T13:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892195556849811648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845585178426757120",
+          "start": 3,
+          "username": "jin0jin_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892195556849811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892194296415092926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jin0jin_0: 我觉得苦难和痛苦没有高低贵贱，并不是谁更惨谁才有资格痛苦\n具体的苦难切实地折磨着个体，只要个体感受到痛苦，那么Ta就是痛苦的\n如果说：你没我惨，你没资格在我面前说你很痛苦\n这本质上是在剥夺他人表达自身真实感受的权利，仿佛全宇宙最惨的人才有资格说痛苦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1892195556849811648",
+        "created_at": "2025-02-19T12:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T13:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892195556849811648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845585178426757120",
+              "start": 3,
+              "username": "jin0jin_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892195556849811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892194296415092926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jin0jin_0: 我觉得苦难和痛苦没有高低贵贱，并不是谁更惨谁才有资格痛苦\n具体的苦难切实地折磨着个体，只要个体感受到痛苦，那么Ta就是痛苦的\n如果说：你没我惨，你没资格在我面前说你很痛苦\n这本质上是在剥夺他人表达自身真实感受的权利，仿佛全宇宙最惨的人才有资格说痛苦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845585178426757120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1892194296415092926",
+        "created_at": "2025-02-19T12:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T13:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892194296415092926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rikka_ela/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/rikka_ela/status/1892153505600909361",
+              "start": 142,
+              "url": "https://t.co/9BQhg5lobj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892194296415092926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892153505600909361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得苦难和痛苦没有高低贵贱，并不是谁更惨谁才有资格痛苦\n具体的苦难切实地折磨着个体，只要个体感受到痛苦，那么Ta就是痛苦的\n如果说：你没我惨，你没资格在我面前说你很痛苦\n这本质上是在剥夺他人表达自身真实感受的权利，仿佛全宇宙最惨的人才有资格说痛苦，我们必须选出第一名，其他人都闭嘴 https://t.co/9BQhg5lobj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 705,
+          "like_count": 110505,
+          "listed_count": 8,
+          "media_count": 2665,
+          "tweet_count": 22644
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T21:59:47.000Z",
+        "description": "推文没有固定主题",
+        "id": "1845585178426757120",
+        "name": "锦锦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845600795959697409/tUrLGltX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 119,
+          "like_count": 3491,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1290
+        },
+        "username": "jin0jin_0",
+        "verified": false
+      }
+    ]
+  }
+}

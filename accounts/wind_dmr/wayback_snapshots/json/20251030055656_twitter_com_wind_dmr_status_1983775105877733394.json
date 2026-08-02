@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1983075876763013341",
+    "created_at": "2025-10-30T05:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T06:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983775105877733394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "10324092",
+          "start": 0,
+          "username": "ec12edfae2cb221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983775105877733394",
+    "in_reply_to_user_id": "10324092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983075876763013341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ec12edfae2cb221 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1983075876763013341",
+        "created_at": "2025-10-30T05:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983775105877733394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "10324092",
+              "start": 0,
+              "username": "ec12edfae2cb221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983775105877733394",
+        "in_reply_to_user_id": "10324092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983075876763013341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ec12edfae2cb221 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "10324092",
+        "conversation_id": "1983075876763013341",
+        "created_at": "2025-10-28T07:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983075876763013341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983075876763013341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 135050,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "发现银行的 ai 促销电话会检测 ai 了，发现你用 ai 语音助手接听的就挂断了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 813,
+          "like_count": 121445,
+          "listed_count": 9,
+          "media_count": 2878,
+          "tweet_count": 23925
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-17T04:16:50.000Z",
+        "description": "这个人很懒, 什么都留不下.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "andelf.github.io",
+                "end": 23,
+                "expanded_url": "https://andelf.github.io/",
+                "start": 0,
+                "url": "https://t.co/BnJGh5RCTN"
+              }
+            ]
+          }
+        },
+        "id": "10324092",
+        "name": "王依依",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859656719909142528/H--uqyuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13416,
+          "following_count": 2219,
+          "like_count": 29447,
+          "listed_count": 86,
+          "media_count": 2783,
+          "tweet_count": 38420
+        },
+        "url": "https://t.co/BnJGh5RCTN",
+        "username": "ec12edfae2cb221",
+        "verified": false
+      }
+    ]
+  }
+}

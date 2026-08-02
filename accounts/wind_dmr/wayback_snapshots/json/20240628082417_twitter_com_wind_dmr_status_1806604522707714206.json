@@ -1,0 +1,324 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1806604522707714206",
+    "created_at": "2024-06-28T08:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T09:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806604522707714206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mrjeffu/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mrjeffu/status/1806463678247830011",
+          "start": 4,
+          "url": "https://t.co/iClhB0RN78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806604522707714206",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806463678247830011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf https://t.co/iClhB0RN78"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1806604522707714206",
+        "created_at": "2024-06-28T08:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T09:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806604522707714206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mrjeffu/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mrjeffu/status/1806463678247830011",
+              "start": 4,
+              "url": "https://t.co/iClhB0RN78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806604522707714206",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806463678247830011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf https://t.co/iClhB0RN78"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806341091417092096"
+          ],
+          "media_source_tweet_id": [
+            "1806341303011311715"
+          ]
+        },
+        "author_id": "15709520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1806463678247830011",
+        "created_at": "2024-06-27T23:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T00:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806463678247830011"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Uchino Airi",
+              "probability": 0.5115,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Tokyo",
+              "probability": 0.4679,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pa9IYfelUR",
+              "end": 277,
+              "expanded_url": "https://twitter.com/x_rose2024/status/1806341303011311715/video/1",
+              "media_key": "7_1806341091417092096",
+              "start": 254,
+              "url": "https://t.co/pa9IYfelUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806463678247830011",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2324,
+          "impression_count": 624830,
+          "like_count": 3300,
+          "quote_count": 657,
+          "reply_count": 157,
+          "retweet_count": 511
+        },
+        "reply_settings": "everyone",
+        "text": "Uchino Airi, a candidate in the Tokyo gubernatorial race, stripped during her official public television speech, asking viewers if they thought she was sexy. She asked them to add her as a friend on messaging app LINE and pledged to respond to everyone. https://t.co/pa9IYfelUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘霜风 | Human To Catgirl | INFP | 舞萌初学者 | 我需要钱🚪88其他再说\n | BPD+BD ADHD+ASD GD | #FFXIV 国服鸟区 | 业余无线电 DE BG8LXU | \nEE在读 | 全栈工程师 | 傻逼 |\n爱好COS、胶片摄影 | #MTG #WH40K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "FFXIV"
+              },
+              {
+                "end": 151,
+                "start": 147,
+                "tag": "MTG"
+              },
+              {
+                "end": 158,
+                "start": 152,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "https://www.domerawind.xyz/",
+                "start": 0,
+                "url": "https://t.co/Nmxv9CQIbL"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780857086362198016/-26yGCd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 623,
+          "like_count": 85838,
+          "listed_count": 5,
+          "tweet_count": 18720
+        },
+        "url": "https://t.co/Nmxv9CQIbL",
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-03T10:40:12.000Z",
+        "description": "PhD.  University lecturer at KUIS specializing in Japan's Politics/Nationalist Activism/History Disputes/Pop Culture. Views my own. RT/Likes ≠ endorsements",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jeffreyjhall.com",
+                "end": 23,
+                "expanded_url": "https://www.jeffreyjhall.com/",
+                "start": 0,
+                "url": "https://t.co/AgSybdSfqR"
+              }
+            ]
+          }
+        },
+        "id": "15709520",
+        "location": "Tokyo/Chiba, Japan",
+        "name": "Jeffrey J. Hall 🇯🇵🇺🇸",
+        "pinned_tweet_id": "1805080828030173359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1145271136701186048/PF4cdv71_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40740,
+          "following_count": 1967,
+          "like_count": 28444,
+          "listed_count": 404,
+          "tweet_count": 18916
+        },
+        "url": "https://t.co/AgSybdSfqR",
+        "username": "mrjeffu",
+        "verified": true
+      }
+    ]
+  }
+}

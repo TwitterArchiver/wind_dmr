@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1882880427234570738",
+    "created_at": "2025-01-25T08:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T09:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883069956751032672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1453225475468320776",
+          "start": 0,
+          "username": "BG6HNY_BH6BEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883069956751032672",
+    "in_reply_to_user_id": "1453225475468320776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882880427234570738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG6HNY_BH6BEZ 佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1882880427234570738",
+        "created_at": "2025-01-25T08:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T09:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883069956751032672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1453225475468320776",
+              "start": 0,
+              "username": "BG6HNY_BH6BEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883069956751032672",
+        "in_reply_to_user_id": "1453225475468320776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882880427234570738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG6HNY_BH6BEZ 佬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882880424806113280"
+          ]
+        },
+        "author_id": "1453225475468320776",
+        "conversation_id": "1882880427234570738",
+        "created_at": "2025-01-24T19:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T20:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882880427234570738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIrgA33mHG",
+              "end": 64,
+              "expanded_url": "https://x.com/BG6HNY_BH6BEZ/status/1882880427234570738/photo/1",
+              "media_key": "3_1882880424806113280",
+              "start": 41,
+              "url": "https://t.co/iIrgA33mHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882880427234570738",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "WAZ 40 All CFM!\nTNX VO2AC for last Zone2 https://t.co/iIrgA33mHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 711,
+          "like_count": 106016,
+          "listed_count": 7,
+          "media_count": 2611,
+          "tweet_count": 22168
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T05:02:23.000Z",
+        "description": "这里是Mashiro Chino | 是个HAM（B证） | 是个妹控，骨科玩家 | | 性别🍥中 | JA1016SWL | BH6BEZ/BG6HNY | Shortwave OP of BH7GUL\nアマチュア無線局ＢＨ６ＢＥＺ／ＢＨ７ＧＵＬ／ＢＧ６ＨＮＹ\n贴贴 @verymoes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 135,
+                "username": "verymoes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "izumichino.tk",
+                "end": 23,
+                "expanded_url": "http://www.izumichino.tk",
+                "start": 0,
+                "url": "https://t.co/APdtUfwhpQ"
+              }
+            ]
+          }
+        },
+        "id": "1453225475468320776",
+        "location": "Japan",
+        "name": "Izumi Chino",
+        "pinned_tweet_id": "1744452658289918356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658397707927711745/rUeH4Rcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 311,
+          "like_count": 4801,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/APdtUfwhpQ",
+        "username": "BG6HNY_BH6BEZ",
+        "verified": false
+      }
+    ]
+  }
+}

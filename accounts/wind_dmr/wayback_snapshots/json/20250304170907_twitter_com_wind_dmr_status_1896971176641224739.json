@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896576703016603648",
+        "3_1896576718770417664"
+      ],
+      "media_source_tweet_id": [
+        "1896577197214978404",
+        "1896577197214978404"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896971176641224739",
+    "created_at": "2025-03-04T17:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T18:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896971176641224739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257792281614200834",
+          "start": 3,
+          "username": "Culture_Crit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5YNYKChNF",
+          "end": 113,
+          "expanded_url": "https://x.com/Culture_Crit/status/1896577197214978404/photo/1",
+          "media_key": "3_1896576703016603648",
+          "start": 90,
+          "url": "https://t.co/p5YNYKChNF"
+        },
+        {
+          "display_url": "pic.x.com/p5YNYKChNF",
+          "end": 113,
+          "expanded_url": "https://x.com/Culture_Crit/status/1896577197214978404/photo/1",
+          "media_key": "3_1896576718770417664",
+          "start": 90,
+          "url": "https://t.co/p5YNYKChNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896971176641224739",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13843
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896577197214978404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Culture_Crit: Every aspect of life is being stripped of color.\n\nWhat is causing this? https://t.co/p5YNYKChNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1896576703016603648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlH-doCWEAAi8PL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1226,
+        "media_key": "3_1896576718770417664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlH-eiuWMAAexj4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896576703016603648",
+            "3_1896576718770417664"
+          ],
+          "media_source_tweet_id": [
+            "1896577197214978404",
+            "1896577197214978404"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896971176641224739",
+        "created_at": "2025-03-04T17:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T18:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896971176641224739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257792281614200834",
+              "start": 3,
+              "username": "Culture_Crit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5YNYKChNF",
+              "end": 113,
+              "expanded_url": "https://x.com/Culture_Crit/status/1896577197214978404/photo/1",
+              "media_key": "3_1896576703016603648",
+              "start": 90,
+              "url": "https://t.co/p5YNYKChNF"
+            },
+            {
+              "display_url": "pic.x.com/p5YNYKChNF",
+              "end": 113,
+              "expanded_url": "https://x.com/Culture_Crit/status/1896577197214978404/photo/1",
+              "media_key": "3_1896576718770417664",
+              "start": 90,
+              "url": "https://t.co/p5YNYKChNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896971176641224739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13843
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896577197214978404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Culture_Crit: Every aspect of life is being stripped of color.\n\nWhat is causing this? https://t.co/p5YNYKChNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896576703016603648",
+            "3_1896576718770417664"
+          ]
+        },
+        "author_id": "1257792281614200834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896577197214978404",
+        "created_at": "2025-03-03T15:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896577197214978404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5YNYKChNF",
+              "end": 95,
+              "expanded_url": "https://x.com/Culture_Crit/status/1896577197214978404/photo/1",
+              "media_key": "3_1896576703016603648",
+              "start": 72,
+              "url": "https://t.co/p5YNYKChNF"
+            },
+            {
+              "display_url": "pic.x.com/p5YNYKChNF",
+              "end": 95,
+              "expanded_url": "https://x.com/Culture_Crit/status/1896577197214978404/photo/1",
+              "media_key": "3_1896576718770417664",
+              "start": 72,
+              "url": "https://t.co/p5YNYKChNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896577197214978404",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15408,
+          "impression_count": 18023571,
+          "like_count": 177152,
+          "quote_count": 2711,
+          "reply_count": 7788,
+          "retweet_count": 13843
+        },
+        "reply_settings": "everyone",
+        "text": "Every aspect of life is being stripped of color.\n\nWhat is causing this? https://t.co/p5YNYKChNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 702,
+          "like_count": 111536,
+          "listed_count": 8,
+          "media_count": 2696,
+          "tweet_count": 22906
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T22:00:32.000Z",
+        "description": "A new, independent culture publication — read / support us here 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "culture-critic.com/welcome",
+                "end": 23,
+                "expanded_url": "https://www.culture-critic.com/welcome",
+                "start": 0,
+                "url": "https://t.co/NFdbVgKJFz"
+              }
+            ]
+          }
+        },
+        "id": "1257792281614200834",
+        "location": "Join 115,000+ readers →",
+        "name": "Culture Critic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595924931002486786/ffRhSilk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631822,
+          "following_count": 1304,
+          "like_count": 56974,
+          "listed_count": 6431,
+          "media_count": 5623,
+          "tweet_count": 10182
+        },
+        "url": "https://t.co/NFdbVgKJFz",
+        "username": "Culture_Crit",
+        "verified": true
+      }
+    ]
+  }
+}

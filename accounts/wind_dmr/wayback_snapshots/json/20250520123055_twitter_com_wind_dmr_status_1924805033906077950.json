@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1924707060496924975",
+    "created_at": "2025-05-20T12:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T13:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924805033906077950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467102254",
+          "start": 0,
+          "username": "disksing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924805033906077950",
+    "in_reply_to_user_id": "467102254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924707060496924975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@disksing Windows早就有了的功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1924707060496924975",
+        "created_at": "2025-05-20T12:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924805033906077950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467102254",
+              "start": 0,
+              "username": "disksing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924805033906077950",
+        "in_reply_to_user_id": "467102254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924707060496924975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@disksing Windows早就有了的功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467102254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1924707060496924975",
+        "created_at": "2025-05-20T06:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T07:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924707060496924975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924707060496924975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7090,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "华为的新电脑在触控显示屏上画一个假的触控板真是神来之笔。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 709,
+          "like_count": 114825,
+          "listed_count": 9,
+          "media_count": 2807,
+          "tweet_count": 23394
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T03:44:03.000Z",
+        "description": "生活有时是喜剧，有时是悲剧，但是不管什么时候都可以发段子。｜因为淋过雨，看别人淋雨的时候，送上录音笔。｜先天离婚圣体，古希腊掌管录音笔的神。｜https://t.co/w5SkYgz0KA 〔备用账号 @shadiaofriend〕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "shadiaofriend"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bento.me/disksing",
+                "end": 94,
+                "expanded_url": "http://bento.me/disksing",
+                "start": 71,
+                "url": "https://t.co/w5SkYgz0KA"
+              }
+            ]
+          }
+        },
+        "id": "467102254",
+        "name": "象牙山刘能",
+        "pinned_tweet_id": "1847109505810944047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904882584955609089/xgyeRR4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41505,
+          "following_count": 607,
+          "like_count": 23977,
+          "listed_count": 180,
+          "media_count": 1160,
+          "tweet_count": 16213
+        },
+        "username": "disksing",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2037408672213803336",
+    "created_at": "2026-03-27T05:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037408672213803336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1685385026152648704",
+          "start": 3,
+          "username": "P0lyblank"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037408672213803336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7937
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036591451824394554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @P0lyblank: plan A: suicide\nplan B: suicide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2037408672213803336",
+        "created_at": "2026-03-27T05:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037408672213803336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1685385026152648704",
+              "start": 3,
+              "username": "P0lyblank"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037408672213803336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7937
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036591451824394554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @P0lyblank: plan A: suicide\nplan B: suicide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685385026152648704",
+        "conversation_id": "2036591451824394554",
+        "created_at": "2026-03-24T23:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T00:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036591451824394554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036591451824394554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 342808,
+          "like_count": 24800,
+          "quote_count": 140,
+          "reply_count": 81,
+          "retweet_count": 7937
+        },
+        "reply_settings": "everyone",
+        "text": "plan A: suicide\nplan B: suicide"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2468,
+          "following_count": 846,
+          "like_count": 126189,
+          "listed_count": 8,
+          "media_count": 2921,
+          "tweet_count": 24345
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T20:21:28.000Z",
+        "description": "system of a clown",
+        "id": "1685385026152648704",
+        "name": "𓆝 𓆟 𓆞 𓆟 𓆝",
+        "pinned_tweet_id": "1916154708042953175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034050297006592001/RpJMsW38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3476,
+          "following_count": 843,
+          "like_count": 70055,
+          "listed_count": 1,
+          "media_count": 2183,
+          "tweet_count": 6685
+        },
+        "username": "P0lyblank",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049630756247662592",
+        "3_2049630756067303424",
+        "3_2049630756021153792"
+      ],
+      "media_source_tweet_id": [
+        "2050168354309091445",
+        "2050168354309091445",
+        "2050168354309091445"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2050474164298072288",
+    "created_at": "2026-05-02T07:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050474164298072288"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 11,
+          "tag": "今日のいいデザイン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "55441749",
+          "start": 3,
+          "username": "sbr_m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GejKv0j4jh",
+          "end": 115,
+          "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+          "media_key": "3_2049630756247662592",
+          "start": 92,
+          "url": "https://t.co/GejKv0j4jh"
+        },
+        {
+          "display_url": "pic.x.com/GejKv0j4jh",
+          "end": 115,
+          "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+          "media_key": "3_2049630756067303424",
+          "start": 92,
+          "url": "https://t.co/GejKv0j4jh"
+        },
+        {
+          "display_url": "pic.x.com/GejKv0j4jh",
+          "end": 115,
+          "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+          "media_key": "3_2049630756021153792",
+          "start": 92,
+          "url": "https://t.co/GejKv0j4jh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050474164298072288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050168354309091445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sbr_m: #今日のいいデザイン\n紙と電子機器の組み合わせ好きなんだけど全然ないのは、そもそも相性悪いのかなぁ。\nIKEAのカメラは日本では発売されなかった欲しかったやつ。 https://t.co/GejKv0j4jh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2049630756247662592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHAUDrbcAAMROO.jpg",
+        "width": 686
+      },
+      {
+        "height": 546,
+        "media_key": "3_2049630756067303424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHAUDAbYAAK-_I.jpg",
+        "width": 506
+      },
+      {
+        "height": 333,
+        "media_key": "3_2049630756021153792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHAUC1bMAAwBv8.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049630756247662592",
+            "3_2049630756067303424",
+            "3_2049630756021153792"
+          ],
+          "media_source_tweet_id": [
+            "2050168354309091445",
+            "2050168354309091445",
+            "2050168354309091445"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2050474164298072288",
+        "created_at": "2026-05-02T07:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050474164298072288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "今日のいいデザイン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "55441749",
+              "start": 3,
+              "username": "sbr_m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GejKv0j4jh",
+              "end": 115,
+              "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+              "media_key": "3_2049630756247662592",
+              "start": 92,
+              "url": "https://t.co/GejKv0j4jh"
+            },
+            {
+              "display_url": "pic.x.com/GejKv0j4jh",
+              "end": 115,
+              "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+              "media_key": "3_2049630756067303424",
+              "start": 92,
+              "url": "https://t.co/GejKv0j4jh"
+            },
+            {
+              "display_url": "pic.x.com/GejKv0j4jh",
+              "end": 115,
+              "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+              "media_key": "3_2049630756021153792",
+              "start": 92,
+              "url": "https://t.co/GejKv0j4jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050474164298072288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050168354309091445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sbr_m: #今日のいいデザイン\n紙と電子機器の組み合わせ好きなんだけど全然ないのは、そもそも相性悪いのかなぁ。\nIKEAのカメラは日本では発売されなかった欲しかったやつ。 https://t.co/GejKv0j4jh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049630756247662592",
+            "3_2049630756067303424",
+            "3_2049630756021153792"
+          ]
+        },
+        "author_id": "55441749",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2050168354309091445",
+        "created_at": "2026-05-01T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050168354309091445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "今日のいいデザイン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GejKv0j4jh",
+              "end": 104,
+              "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+              "media_key": "3_2049630756247662592",
+              "start": 81,
+              "url": "https://t.co/GejKv0j4jh"
+            },
+            {
+              "display_url": "pic.x.com/GejKv0j4jh",
+              "end": 104,
+              "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+              "media_key": "3_2049630756067303424",
+              "start": 81,
+              "url": "https://t.co/GejKv0j4jh"
+            },
+            {
+              "display_url": "pic.x.com/GejKv0j4jh",
+              "end": 104,
+              "expanded_url": "https://x.com/sbr_m/status/2050168354309091445/photo/1",
+              "media_key": "3_2049630756021153792",
+              "start": 81,
+              "url": "https://t.co/GejKv0j4jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050168354309091445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 520,
+          "impression_count": 102023,
+          "like_count": 1931,
+          "quote_count": 21,
+          "reply_count": 19,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "#今日のいいデザイン\n紙と電子機器の組み合わせ好きなんだけど全然ないのは、そもそも相性悪いのかなぁ。\nIKEAのカメラは日本では発売されなかった欲しかったやつ。 https://t.co/GejKv0j4jh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 847,
+          "like_count": 127050,
+          "listed_count": 8,
+          "media_count": 2949,
+          "tweet_count": 24637
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-10T02:23:58.000Z",
+        "description": "Nue inc代表取締役｜企画から社会実装まで｜360°どの相談きても対応可能\n\n■Xで書けない長文noteで連載中（🔗https://t.co/8oKwcvflDR）\n■クリエイティブ学びたい人向け講義（🔗https://t.co/z7IkYcdE8W）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/hZlOc",
+                "end": 83,
+                "expanded_url": "https://x.gd/hZlOc",
+                "start": 60,
+                "url": "https://t.co/8oKwcvflDR"
+              },
+              {
+                "display_url": "x.gd/eXjcW",
+                "end": 127,
+                "expanded_url": "https://x.gd/eXjcW",
+                "start": 104,
+                "url": "https://t.co/z7IkYcdE8W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nue-inc.jp",
+                "end": 23,
+                "expanded_url": "https://www.nue-inc.jp/",
+                "start": 0,
+                "url": "https://t.co/KvfOXs8mzy"
+              }
+            ]
+          }
+        },
+        "id": "55441749",
+        "location": "日本 京都府",
+        "name": "松倉 早星＠領域横断型プランナー",
+        "pinned_tweet_id": "2006893478098465079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441543561153941513/b4cuBmAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16204,
+          "following_count": 843,
+          "like_count": 10952,
+          "listed_count": 213,
+          "media_count": 4263,
+          "tweet_count": 40791
+        },
+        "url": "https://t.co/KvfOXs8mzy",
+        "username": "sbr_m",
+        "verified": true
+      }
+    ]
+  }
+}

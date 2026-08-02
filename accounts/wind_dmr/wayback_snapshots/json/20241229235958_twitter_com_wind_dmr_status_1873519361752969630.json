@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      }
+    ],
+    "conversation_id": "1873519361752969630",
+    "created_at": "2024-12-29T23:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T00:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873519361752969630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anothercohen/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/anothercohen/status/1873110949693145332",
+          "start": 28,
+          "url": "https://t.co/oSEIlDJTeX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873519361752969630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873110949693145332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "右手卡西欧小方块左手Galaxy watch这辈子有了 https://t.co/oSEIlDJTeX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "1873519361752969630",
+        "created_at": "2024-12-29T23:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T00:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873519361752969630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anothercohen/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/anothercohen/status/1873110949693145332",
+              "start": 28,
+              "url": "https://t.co/oSEIlDJTeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873519361752969630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873110949693145332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右手卡西欧小方块左手Galaxy watch这辈子有了 https://t.co/oSEIlDJTeX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873110940540919808"
+          ]
+        },
+        "author_id": "557440724",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596891185152",
+              "name": "Jewelry - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          }
+        ],
+        "conversation_id": "1873110949693145332",
+        "created_at": "2024-12-28T20:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T21:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873110949693145332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDkImqaNcR",
+              "end": 23,
+              "expanded_url": "https://x.com/anothercohen/status/1873110949693145332/photo/1",
+              "media_key": "3_1873110940540919808",
+              "start": 0,
+              "url": "https://t.co/TDkImqaNcR"
+            },
+            {
+              "display_url": "x.com/StevenPulteFam…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/StevenPulteFam/status/1872790798384939418",
+              "start": 24,
+              "url": "https://t.co/dTAEtXMpk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873110949693145332",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2430,
+          "impression_count": 3099970,
+          "like_count": 18960,
+          "quote_count": 347,
+          "reply_count": 882,
+          "retweet_count": 819
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872790798384939418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/TDkImqaNcR https://t.co/dTAEtXMpk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 680,
+          "like_count": 102353,
+          "listed_count": 7,
+          "media_count": 2556,
+          "tweet_count": 21335
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-19T05:09:37.000Z",
+        "description": "Now: Co-founder @hellopatient | Previously: Led consumer and growth product @carbonhealth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "hellopatient"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "carbonhealth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hellopatient.com",
+                "end": 23,
+                "expanded_url": "http://hellopatient.com",
+                "start": 0,
+                "url": "https://t.co/ffZ6C02aDr"
+              }
+            ]
+          }
+        },
+        "id": "557440724",
+        "location": "Austin, TX",
+        "name": "Alex Cohen",
+        "pinned_tweet_id": "1857468513255924107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836796710896402432/NwxJX4Mb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198836,
+          "following_count": 1037,
+          "like_count": 112752,
+          "listed_count": 1220,
+          "media_count": 5233,
+          "tweet_count": 36305
+        },
+        "url": "https://t.co/ffZ6C02aDr",
+        "username": "anothercohen",
+        "verified": true
+      }
+    ]
+  }
+}

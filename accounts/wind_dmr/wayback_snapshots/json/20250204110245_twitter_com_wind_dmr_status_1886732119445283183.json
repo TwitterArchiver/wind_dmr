@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1886726182915473414",
+    "created_at": "2025-02-04T11:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T12:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886732119445283183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554005819649568768",
+          "start": 0,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886732119445283183",
+    "in_reply_to_user_id": "1554005819649568768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886726182915473414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingattackqwq 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1886726182915473414",
+        "created_at": "2025-02-04T11:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886732119445283183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886732119445283183",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886726182915473414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886612595593109506"
+          ]
+        },
+        "author_id": "1554005819649568768",
+        "conversation_id": "1886726182915473414",
+        "created_at": "2025-02-04T10:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886726182915473414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AT0vbXR6nI",
+              "end": 34,
+              "expanded_url": "https://x.com/wingattackqwq/status/1886726182915473414/photo/1",
+              "media_key": "3_1886612595593109506",
+              "start": 11,
+              "url": "https://t.co/AT0vbXR6nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886726182915473414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到自动回复的原因了 https://t.co/AT0vbXR6nI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 705,
+          "like_count": 108306,
+          "listed_count": 8,
+          "media_count": 2628,
+          "tweet_count": 22416
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "普通女大～诚招泰国手术投资人 |  答辩，考研，考试，竞赛，实习 | 生活压的我喘不过气 | 奋斗的青春 | 门槛 88 | 目前没对象，诚招对象，只限女生和男娘，同城就好🙏",
+        "id": "1554005819649568768",
+        "location": "枕阳",
+        "name": "小兔姬没有小肚叽🎀",
+        "pinned_tweet_id": "1844407565960216918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800152492036304897/Zj9RQm7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9712,
+          "following_count": 3468,
+          "like_count": 2807,
+          "listed_count": 12,
+          "media_count": 69,
+          "tweet_count": 2243
+        },
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005054734219313153",
+        "3_2005054737394397184"
+      ],
+      "media_source_tweet_id": [
+        "2005054745338413112",
+        "2005054745338413112"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005471771949228531",
+    "created_at": "2025-12-29T02:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T03:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005471771949228531"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "LAMIA",
+          "probability": 0.513,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 30,
+          "normalized_text": "BlackY",
+          "probability": 0.4953,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953066082841079808",
+          "start": 3,
+          "username": "filbym_otoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4y8LcvfNi",
+          "end": 56,
+          "expanded_url": "https://x.com/filbym_otoge/status/2005054745338413112/photo/1",
+          "media_key": "3_2005054734219313153",
+          "start": 33,
+          "url": "https://t.co/d4y8LcvfNi"
+        },
+        {
+          "display_url": "pic.x.com/d4y8LcvfNi",
+          "end": 56,
+          "expanded_url": "https://x.com/filbym_otoge/status/2005054745338413112/photo/1",
+          "media_key": "3_2005054737394397184",
+          "start": 33,
+          "url": "https://t.co/d4y8LcvfNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005471771949228531",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005054745338413112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @filbym_otoge: LAMIA -BlackY- https://t.co/d4y8LcvfNi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2005054734219313153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NiqFRbgAE7VqS.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2005054737394397184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NiqRGbcAAL9ot.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005054734219313153",
+            "3_2005054737394397184"
+          ],
+          "media_source_tweet_id": [
+            "2005054745338413112",
+            "2005054745338413112"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005471771949228531",
+        "created_at": "2025-12-29T02:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T03:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005471771949228531"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "LAMIA",
+              "probability": 0.513,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "BlackY",
+              "probability": 0.4953,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953066082841079808",
+              "start": 3,
+              "username": "filbym_otoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4y8LcvfNi",
+              "end": 56,
+              "expanded_url": "https://x.com/filbym_otoge/status/2005054745338413112/photo/1",
+              "media_key": "3_2005054734219313153",
+              "start": 33,
+              "url": "https://t.co/d4y8LcvfNi"
+            },
+            {
+              "display_url": "pic.x.com/d4y8LcvfNi",
+              "end": 56,
+              "expanded_url": "https://x.com/filbym_otoge/status/2005054745338413112/photo/1",
+              "media_key": "3_2005054737394397184",
+              "start": 33,
+              "url": "https://t.co/d4y8LcvfNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005471771949228531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005054745338413112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @filbym_otoge: LAMIA -BlackY- https://t.co/d4y8LcvfNi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005054734219313153",
+            "3_2005054737394397184"
+          ]
+        },
+        "author_id": "1953066082841079808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005054745338413112",
+        "created_at": "2025-12-27T23:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T00:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005054745338413112"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "LAMIA",
+              "probability": 0.4571,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 12,
+              "normalized_text": "BlackY",
+              "probability": 0.4679,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4y8LcvfNi",
+              "end": 38,
+              "expanded_url": "https://x.com/filbym_otoge/status/2005054745338413112/photo/1",
+              "media_key": "3_2005054734219313153",
+              "start": 15,
+              "url": "https://t.co/d4y8LcvfNi"
+            },
+            {
+              "display_url": "pic.x.com/d4y8LcvfNi",
+              "end": 38,
+              "expanded_url": "https://x.com/filbym_otoge/status/2005054745338413112/photo/1",
+              "media_key": "3_2005054737394397184",
+              "start": 15,
+              "url": "https://t.co/d4y8LcvfNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005054745338413112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 45081,
+          "like_count": 2282,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "LAMIA -BlackY- https://t.co/d4y8LcvfNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 830,
+          "like_count": 124284,
+          "listed_count": 8,
+          "media_count": 2906,
+          "tweet_count": 24140
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T12:10:28.000Z",
+        "description": "音ゲーやってます！やってる人ならもちフォロバするよ！/maimai🌈、CHUNITHM、オンゲキ、プロセカ/エンカは基本大歓迎の人です！/\n(⋈◍＞◡＜◍)。✧♡@chatora__78106",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "chatora__78106"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/filbym_officia…",
+                "end": 23,
+                "expanded_url": "https://x.com/filbym_official?t=2RfO55dFlvZW1fChpmVQnw&s=09",
+                "start": 0,
+                "url": "https://t.co/uFRCAbhZ8i"
+              }
+            ]
+          }
+        },
+        "id": "1953066082841079808",
+        "location": "千葉北西部/やってる場所は頻度順に松戸、八柱、船橋、秋葉だよ",
+        "name": "FilbyM@音ゲ",
+        "pinned_tweet_id": "2005171164872933535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994673027490222081/6jfqRQWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 322,
+          "like_count": 4702,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 2895
+        },
+        "url": "https://t.co/uFRCAbhZ8i",
+        "username": "filbym_otoge",
+        "verified": false
+      }
+    ]
+  }
+}

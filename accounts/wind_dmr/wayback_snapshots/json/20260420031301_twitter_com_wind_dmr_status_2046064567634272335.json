@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042154766277701632"
+      ],
+      "media_source_tweet_id": [
+        "2045416541727105188"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2046064567634272335",
+    "created_at": "2026-04-20T03:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046064567634272335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723177835102363648",
+          "start": 3,
+          "username": "ame_daily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hlgjr1NwVi",
+          "end": 38,
+          "expanded_url": "https://x.com/ame_daily/status/2045416541727105188/photo/1",
+          "media_key": "3_2042154766277701632",
+          "start": 15,
+          "url": "https://t.co/hlgjr1NwVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046064567634272335",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 694
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045416541727105188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_daily: https://t.co/hlgjr1NwVi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2042154766277701632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcw8KxacAAHAJ0.png",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042154766277701632"
+          ],
+          "media_source_tweet_id": [
+            "2045416541727105188"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2046064567634272335",
+        "created_at": "2026-04-20T03:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046064567634272335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723177835102363648",
+              "start": 3,
+              "username": "ame_daily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlgjr1NwVi",
+              "end": 38,
+              "expanded_url": "https://x.com/ame_daily/status/2045416541727105188/photo/1",
+              "media_key": "3_2042154766277701632",
+              "start": 15,
+              "url": "https://t.co/hlgjr1NwVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046064567634272335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 694
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045416541727105188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_daily: https://t.co/hlgjr1NwVi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042154766277701632"
+          ]
+        },
+        "author_id": "1723177835102363648",
+        "conversation_id": "2045416541727105188",
+        "created_at": "2026-04-18T08:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045416541727105188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlgjr1NwVi",
+              "end": 23,
+              "expanded_url": "https://x.com/ame_daily/status/2045416541727105188/photo/1",
+              "media_key": "3_2042154766277701632",
+              "start": 0,
+              "url": "https://t.co/hlgjr1NwVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045416541727105188",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 46522,
+          "like_count": 6390,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 694
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hlgjr1NwVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "我是傻逼",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 843,
+          "like_count": 126822,
+          "listed_count": 8,
+          "media_count": 2942,
+          "tweet_count": 24578
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T03:16:50.000Z",
+        "description": "daily account for #amechan from #NEEDY_GIRL_OVERDOSE ˚₊‧꒰ა ♱ ໒꒱ ‧₊˚ spoilers + tws !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "amechan"
+              },
+              {
+                "end": 52,
+                "start": 32,
+                "tag": "NEEDY_GIRL_OVERDOSE"
+              }
+            ]
+          }
+        },
+        "id": "1723177835102363648",
+        "location": "中/eng/少し日",
+        "name": "daily ame🥀(and some kangel)",
+        "pinned_tweet_id": "1907438645663187283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852758439208042496/p0V3Enyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8590,
+          "following_count": 10,
+          "like_count": 1024,
+          "listed_count": 7,
+          "media_count": 736,
+          "tweet_count": 1352
+        },
+        "username": "ame_daily",
+        "verified": false
+      }
+    ]
+  }
+}

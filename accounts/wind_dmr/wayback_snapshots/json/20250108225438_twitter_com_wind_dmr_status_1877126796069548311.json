@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1876969101861482838",
+    "created_at": "2025-01-08T22:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T23:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877126796069548311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489688049680515072",
+          "start": 0,
+          "username": "wakaba_yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877126796069548311",
+    "in_reply_to_user_id": "1489688049680515072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876969101861482838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakaba_yuu 数学问题解答的怎么样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1876969101861482838].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876969101861482838",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1876969101861482838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1876969101861482838",
+        "created_at": "2025-01-08T22:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T23:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877126796069548311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489688049680515072",
+              "start": 0,
+              "username": "wakaba_yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877126796069548311",
+        "in_reply_to_user_id": "1489688049680515072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876969101861482838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakaba_yuu 数学问题解答的怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 690,
+          "like_count": 103289,
+          "listed_count": 7,
+          "media_count": 2579,
+          "tweet_count": 21650
+        },
+        "username": "wind_dmr",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T19:51:32.000Z",
+        "description": "黒色界隈🖤┊︎戀人@mana_ikuta┊︎大一辣妹┊︎無性別 - Agender",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "mana_ikuta"
+              }
+            ]
+          }
+        },
+        "id": "1489688049680515072",
+        "location": "Ciudad de México",
+        "name": "葉🎐",
+        "pinned_tweet_id": "1842586505434542149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873392021987282944/d3D_C6HM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21467,
+          "following_count": 758,
+          "like_count": 13595,
+          "listed_count": 58,
+          "media_count": 240,
+          "tweet_count": 1894
+        },
+        "username": "wakaba_yuu",
+        "verified": false
+      }
+    ]
+  }
+}
