@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2093831550786023830",
+    "created_at": "2026-08-30T00:16:42.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T01:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093855392988377141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1059515845",
+          "start": 0,
+          "username": "guanyuhan426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093855392988377141",
+    "in_reply_to_user_id": "1059515845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093831550786023830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanyuhan426 但黄金却跌了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2093830877239508992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7IFtmbAAAV4Ej.png",
+        "width": 2508
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2093830963654737920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7IKvhawAAZfJs.png",
+        "width": 2508
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2093831356430290944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7IhmuaEAA7gtG.png",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2093831550786023830",
+        "created_at": "2026-08-30T00:16:42.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093855392988377141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1059515845",
+              "start": 0,
+              "username": "guanyuhan426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093855392988377141",
+        "in_reply_to_user_id": "1059515845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093831550786023830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanyuhan426 但黄金却跌了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093830877239508992",
+            "3_2093830963654737920",
+            "3_2093831356430290944"
+          ]
+        },
+        "author_id": "1059515845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2093831550786023830",
+        "created_at": "2026-08-29T22:41:57.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T23:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093831550786023830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asB6k2uZv6",
+              "end": 168,
+              "expanded_url": "https://x.com/guanyuhan426/status/2093831550786023830/photo/1",
+              "media_key": "3_2093830877239508992",
+              "start": 145,
+              "url": "https://t.co/asB6k2uZv6"
+            },
+            {
+              "display_url": "pic.x.com/asB6k2uZv6",
+              "end": 168,
+              "expanded_url": "https://x.com/guanyuhan426/status/2093831550786023830/photo/1",
+              "media_key": "3_2093830963654737920",
+              "start": 145,
+              "url": "https://t.co/asB6k2uZv6"
+            },
+            {
+              "display_url": "pic.x.com/asB6k2uZv6",
+              "end": 168,
+              "expanded_url": "https://x.com/guanyuhan426/status/2093831550786023830/photo/1",
+              "media_key": "3_2093831356430290944",
+              "start": 145,
+              "url": "https://t.co/asB6k2uZv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093831550786023830",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093830877239508992"
+          },
+          {
+            "media_key": "3_2093830963654737920"
+          },
+          {
+            "media_key": "3_2093831356430290944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1244,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在同时关注俄罗斯可能和NATO打核战的风险，现在看来需要密切关注了，因为上两周欧元和瑞士法郎全都出现了异常波动，对于这样的大型货币来说这种波动是值得关注的异常事件，说明有大资金在移动，目前我的考虑是如果欧元破了2023年高点的话，三战并且是核战的可能性会提高，同时这阵子要多盯着BTC https://t.co/asB6k2uZv6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2093855392988377141",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 872,
+          "like_count": 128885,
+          "listed_count": 8,
+          "media_count": 3008,
+          "tweet_count": 25036
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-01-04T04:13:30.000Z",
+        "description": "基于兴趣用心做独特的内容，媒体行业从业经验20年以上，对媒体已经累了所以完全不考虑运营；目前做内容的预算主要靠交易，交易策略以投入最少时间和精力为主，会毫无保留的分享所有赚钱的机会；10年前日本留学日记个人网站更新中https://t.co/7RHVBiICM3  English OK 日本語 OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pc426.com",
+                "end": 131,
+                "expanded_url": "http://pc426.com",
+                "start": 108,
+                "url": "https://t.co/7RHVBiICM3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pc426.com",
+                "end": 23,
+                "expanded_url": "http://pc426.com",
+                "start": 0,
+                "url": "https://t.co/7RHVBiICM3"
+              }
+            ]
+          }
+        },
+        "id": "1059515845",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093838378622169545",
+        "name": "guanyuhan426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059515845/1471165687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729191491835330560/IcniYltK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10964,
+          "following_count": 717,
+          "like_count": 888,
+          "listed_count": 85,
+          "media_count": 2362,
+          "tweet_count": 5548
+        },
+        "url": "https://t.co/7RHVBiICM3",
+        "username": "guanyuhan426",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091006617554657280",
+        "3_2091006617563078657"
+      ],
+      "media_source_tweet_id": [
+        "2091006621962961326",
+        "2091006621962961326"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2091049979100246080",
+    "created_at": "2026-08-22T06:28:59.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T07:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091049979100246080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQe36HLCbL",
+          "end": 65,
+          "expanded_url": "https://x.com/amber_digit2/status/2091006621962961326/photo/1",
+          "media_key": "3_2091006617554657280",
+          "start": 42,
+          "url": "https://t.co/eQe36HLCbL"
+        },
+        {
+          "display_url": "pic.x.com/eQe36HLCbL",
+          "end": 65,
+          "expanded_url": "https://x.com/amber_digit2/status/2091006621962961326/photo/1",
+          "media_key": "3_2091006617563078657",
+          "start": 42,
+          "url": "https://t.co/eQe36HLCbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091049979100246080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091006617554657280"
+      },
+      {
+        "media_key": "3_2091006617563078657"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091006621962961326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: 男的应该至少把自己捯饬成我这样才能成为成功男人 https://t.co/eQe36HLCbL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091006617554657280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQS_cKZWIAAKaJA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091006617563078657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQS_cKbWoAE6Qsu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091006617554657280",
+            "3_2091006617563078657"
+          ],
+          "media_source_tweet_id": [
+            "2091006621962961326",
+            "2091006621962961326"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2091049979100246080",
+        "created_at": "2026-08-22T06:28:59.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091049979100246080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQe36HLCbL",
+              "end": 65,
+              "expanded_url": "https://x.com/amber_digit2/status/2091006621962961326/photo/1",
+              "media_key": "3_2091006617554657280",
+              "start": 42,
+              "url": "https://t.co/eQe36HLCbL"
+            },
+            {
+              "display_url": "pic.x.com/eQe36HLCbL",
+              "end": 65,
+              "expanded_url": "https://x.com/amber_digit2/status/2091006621962961326/photo/1",
+              "media_key": "3_2091006617563078657",
+              "start": 42,
+              "url": "https://t.co/eQe36HLCbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091049979100246080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091006617554657280"
+          },
+          {
+            "media_key": "3_2091006617563078657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091006621962961326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: 男的应该至少把自己捯饬成我这样才能成为成功男人 https://t.co/eQe36HLCbL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091006617554657280",
+            "3_2091006617563078657"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2091006621962961326",
+        "created_at": "2026-08-22T03:36:42.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091006621962961326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQe36HLCbL",
+              "end": 47,
+              "expanded_url": "https://x.com/amber_digit2/status/2091006621962961326/photo/1",
+              "media_key": "3_2091006617554657280",
+              "start": 24,
+              "url": "https://t.co/eQe36HLCbL"
+            },
+            {
+              "display_url": "pic.x.com/eQe36HLCbL",
+              "end": 47,
+              "expanded_url": "https://x.com/amber_digit2/status/2091006621962961326/photo/1",
+              "media_key": "3_2091006617563078657",
+              "start": 24,
+              "url": "https://t.co/eQe36HLCbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091006621962961326",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091006617554657280"
+          },
+          {
+            "media_key": "3_2091006617563078657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2755,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "男的应该至少把自己捯饬成我这样才能成为成功男人 https://t.co/eQe36HLCbL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2091049979100246080",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 876,
+          "like_count": 128685,
+          "listed_count": 8,
+          "media_count": 3007,
+          "tweet_count": 25033
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʀɪᴠ @amber_medusozoa\n❤︎ @noaayoyaoaya\nhttps://t.co/QNf2y4Wqos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 62,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 39,
+                "url": "https://t.co/QNf2y4Wqos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2091039711066284211",
+        "name": "amber🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5364,
+          "following_count": 902,
+          "like_count": 4177,
+          "listed_count": 6,
+          "media_count": 239,
+          "tweet_count": 3150
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2087470134709662184",
+    "created_at": "2026-08-12T13:10:53.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087527243237216653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087527243237216653",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087526092806787405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake 很高兴听到（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2087470134709662184",
+        "created_at": "2026-08-12T13:10:53.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087527243237216653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087527243237216653",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087526092806787405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake 很高兴听到（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "2087470134709662184",
+        "created_at": "2026-08-12T13:06:19.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087526092806787405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4736358500",
+              "start": 0,
+              "username": "wind_dmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087526092806787405",
+        "in_reply_to_user_id": "4736358500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087524610527117530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wind_dmr 早就买新的了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087527243237216653",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 875,
+          "like_count": 128585,
+          "listed_count": 8,
+          "media_count": 3005,
+          "tweet_count": 25024
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "Artefarita eksperimenta kuniklo. Used to be a Kitakari. 以及当然了我需要钱。",
+        "id": "1315706812935487489",
+        "is_identity_verified": false,
+        "location": "Ará Orún",
+        "most_recent_tweet_id": "2087526092806787405",
+        "name": "⌘",
+        "pinned_tweet_id": "2082343805421011074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315706812935487489/1707997123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 211,
+          "like_count": 3202,
+          "listed_count": 11,
+          "media_count": 2441,
+          "tweet_count": 22067
+        },
+        "url": "",
+        "username": "maigo_wakatake",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

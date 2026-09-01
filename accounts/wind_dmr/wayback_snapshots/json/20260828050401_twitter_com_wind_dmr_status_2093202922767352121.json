@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Museums and Institutions ",
+          "id": "1095348424499593216",
+          "name": "Museums"
+        }
+      }
+    ],
+    "conversation_id": "2093202922767352121",
+    "created_at": "2026-08-28T05:04:01.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093202922767352121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1514578546768834562",
+          "start": 3,
+          "username": "Black_Water_M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093202922767352121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092900449628328332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Black_Water_M: 🍞【二戰美國海軍怎麼一次煮100人份？答案就在這本1944年的軍用食譜裡】\n\n如果軍艦上一次要供應數百人吃飯，食譜就不能只寫「鹽少許、奶油適量」。\n\n黑水博物館這次登錄的，是民國33年(1944)美國海軍《The Cook Book of…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2092899426297868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt48IcacAAEj4_.jpg",
+        "width": 1705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Museums and Institutions ",
+              "id": "1095348424499593216",
+              "name": "Museums"
+            }
+          }
+        ],
+        "conversation_id": "2093202922767352121",
+        "created_at": "2026-08-28T05:04:01.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093202922767352121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1514578546768834562",
+              "start": 3,
+              "username": "Black_Water_M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093202922767352121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092900449628328332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Black_Water_M: 🍞【二戰美國海軍怎麼一次煮100人份？答案就在這本1944年的軍用食譜裡】\n\n如果軍艦上一次要供應數百人吃飯，食譜就不能只寫「鹽少許、奶油適量」。\n\n黑水博物館這次登錄的，是民國33年(1944)美國海軍《The Cook Book of…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092899426297868288"
+          ]
+        },
+        "author_id": "1514578546768834562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Museums and Institutions ",
+              "id": "1095348424499593216",
+              "name": "Museums"
+            }
+          }
+        ],
+        "conversation_id": "2092900449628328332",
+        "created_at": "2026-08-27T09:02:06.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092900449628328332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBJlEPMT11",
+              "end": 161,
+              "expanded_url": "https://x.com/Black_Water_M/status/2092900449628328332/photo/1",
+              "media_key": "3_2092899426297868288",
+              "start": 138,
+              "url": "https://t.co/YBJlEPMT11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092900449628328332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092899426297868288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 902,
+                "start": 896,
+                "tag": "黑水博物館"
+              },
+              {
+                "end": 920,
+                "start": 903,
+                "tag": "BlackWaterMuseum"
+              },
+              {
+                "end": 926,
+                "start": 921,
+                "tag": "美國海軍"
+              },
+              {
+                "end": 934,
+                "start": 927,
+                "tag": "USNavy"
+              },
+              {
+                "end": 968,
+                "start": 935,
+                "tag": "TheCookBookOfTheUnitedStatesNavy"
+              },
+              {
+                "end": 978,
+                "start": 969,
+                "tag": "NAVSANDA"
+              },
+              {
+                "end": 982,
+                "start": 979,
+                "tag": "二戰"
+              },
+              {
+                "end": 988,
+                "start": 983,
+                "tag": "WWII"
+              },
+              {
+                "end": 994,
+                "start": 989,
+                "tag": "軍事後勤"
+              },
+              {
+                "end": 1000,
+                "start": 995,
+                "tag": "軍艦伙食"
+              },
+              {
+                "end": 1007,
+                "start": 1001,
+                "tag": "軍事飲食史"
+              },
+              {
+                "end": 1012,
+                "start": 1008,
+                "tag": "烘焙兵"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "blackwater.tw/15q27b",
+                "end": 894,
+                "expanded_url": "https://www.blackwater.tw/15q27b",
+                "start": 871,
+                "url": "https://t.co/nQ9HAjScQE"
+              }
+            ]
+          },
+          "text": "🍞【二戰美國海軍怎麼一次煮100人份？答案就在這本1944年的軍用食譜裡】\n\n如果軍艦上一次要供應數百人吃飯，食譜就不能只寫「鹽少許、奶油適量」。\n\n黑水博物館這次登錄的，是民國33年(1944)美國海軍《The Cook Book of the United States Navy》（《美國海軍食譜》）NAVSANDA第7號出版物，由美國海軍部補給與主計署編纂，全書430頁。\n\n這本書從最前面的營養學開始，接著教伙食人員如何安排早餐、正餐與晚餐，甚至提供春、夏、秋、冬四季各一週的完整示範菜單。\n\n真正進入食譜後，規模就完全不是家庭料理了。\n\n書中多數配方直接以：\n\n100 Portions\n「100人份」\n為標準，並保留空白欄讓伙食人員換算更大的供餐人數。對500至1,000人的伙食單位，材料放大後還要減少約5%；超過1,000人則減少約10%。\n\n館藏本第14頁就留下實際計算痕跡：原本100人份需要7磅乾海軍豆，換算1,000人份後寫成63磅，正好就是放大10倍再減少10%。\n\n📖 書裡收錄的內容也遠超過一般食譜：\n\n咖啡有滴濾法、布袋沖煮法、真空式咖啡壺法與循環滲濾壺法；肉類、魚類、蛋、乳酪、蔬菜、湯品、三明治與甜點都有大量供餐配方。\n\n後段近百頁則專門處理烘焙，從麵粉、酵母、糖、蛋與起酥油的作用，一路寫到麵包、蛋糕、派、餅乾與甜甜圈。\n\n第402至406頁甚至設有Trouble Shooting（故障排除）：蛋糕塌陷、派皮過硬、餅乾過度攤開、甜甜圈吸油太多、麵包體積不足，都逐項列出可能原因與處理方法。\n\n最後第409至430頁還有整整22頁索引，讓伙食人員可以直接依食材、菜餚、烹調方法或技術問題查找頁碼。\n\n而這一本並不是單純保存下來的公發書籍。前蝴蝶頁仍留有：\n\nProperty of Sal Amendola Bkr 2/c\n\n「薩爾・阿門多拉所有，二等烘焙兵。」\n\n一本80多年前的美國海軍食譜，留下的不只是菜色，而是一整套二戰軍艦如何規劃、計算、烹調與烘焙大量伙食的工作方法。\n\n🔗 完整館藏說明：\nhttps://t.co/nQ9HAjScQE\n\n#黑水博物館 #BlackWaterMuseum #美國海軍 #USNavy #TheCookBookOfTheUnitedStatesNavy #NAVSANDA #二戰 #WWII #軍事後勤 #軍艦伙食 #軍事飲食史 #烘焙兵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3185,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🍞【二戰美國海軍怎麼一次煮100人份？答案就在這本1944年的軍用食譜裡】\n\n如果軍艦上一次要供應數百人吃飯，食譜就不能只寫「鹽少許、奶油適量」。\n\n黑水博物館這次登錄的，是民國33年(1944)美國海軍《The Cook Book of the United States https://t.co/YBJlEPMT11"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2093202922767352121",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 872,
+          "like_count": 128855,
+          "listed_count": 8,
+          "media_count": 3008,
+          "tweet_count": 25036
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-14T12:17:35.000Z",
+        "description": "EXPERIENCE History",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackwater.tw",
+                "end": 23,
+                "expanded_url": "https://www.blackwater.tw/",
+                "start": 0,
+                "url": "https://t.co/sccLcMHz5k"
+              }
+            ]
+          }
+        },
+        "id": "1514578546768834562",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092943827564671082",
+        "name": "Black Water Museum",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514578546768834562/1649940194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514584751453003780/F1394iOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 67,
+          "like_count": 1614,
+          "listed_count": 3,
+          "media_count": 1515,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/sccLcMHz5k",
+        "username": "Black_Water_M",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

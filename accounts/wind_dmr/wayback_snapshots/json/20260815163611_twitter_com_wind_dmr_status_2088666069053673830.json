@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2088561175282037035",
+    "created_at": "2026-08-15T16:36:11.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088666069053673830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1139572918583562240",
+          "start": 0,
+          "username": "_HalfSweet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088666069053673830",
+    "in_reply_to_user_id": "1139572918583562240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088561175282037035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_HalfSweet 搞过一套，还送了十块裸芯片来着🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088561151923892224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwPTVAasAAB5ka.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2088561175282037035",
+        "created_at": "2026-08-15T16:36:11.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088666069053673830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1139572918583562240",
+              "start": 0,
+              "username": "_HalfSweet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088666069053673830",
+        "in_reply_to_user_id": "1139572918583562240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088561175282037035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_HalfSweet 搞过一套，还送了十块裸芯片来着🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088561151923892224"
+          ]
+        },
+        "author_id": "1139572918583562240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088561175282037035",
+        "created_at": "2026-08-15T09:39:22.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088561175282037035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obHYdA6X1Z",
+              "end": 84,
+              "expanded_url": "https://x.com/_HalfSweet/status/2088561175282037035/photo/1",
+              "media_key": "3_2088561151923892224",
+              "start": 61,
+              "url": "https://t.co/obHYdA6X1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088561175282037035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088561151923892224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8718,
+          "like_count": 115,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "找到了当初做的第一个量产产品，Air001的硬件设计和软件SDK开发全部都由我完成。不知道还有多少推友对这个东西有印象🤣 https://t.co/obHYdA6X1Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088666069053673830",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 876,
+          "like_count": 128660,
+          "listed_count": 8,
+          "media_count": 3005,
+          "tweet_count": 25028
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-14T16:38:50.000Z",
+        "description": "Embedded SWE \nRust & TypeScript first \nBut almost write C/C++ & Python",
+        "id": "1139572918583562240",
+        "is_identity_verified": false,
+        "location": "HalfSweetIsland",
+        "most_recent_tweet_id": "2088659900478246932",
+        "name": "Pipe",
+        "pinned_tweet_id": "2010570006179074495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139572918583562240/1677777995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957313333159464960/fnOkaQSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 482,
+          "like_count": 3575,
+          "listed_count": 6,
+          "media_count": 444,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "_HalfSweet",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
