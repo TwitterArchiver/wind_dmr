@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2101510034555383966",
+    "created_at": "2026-09-20T05:28:49.000Z",
+    "display_text_range": [
+      42,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101544087447085446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "13605432",
+          "start": 0,
+          "username": "FelicityCWells"
+        },
+        {
+          "end": 29,
+          "id": "1500296751122550788",
+          "start": 16,
+          "username": "emmie_shelly"
+        },
+        {
+          "end": 41,
+          "id": "2072208739281866752",
+          "start": 30,
+          "username": "jingzi6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101544087447085446",
+    "in_reply_to_user_id": "13605432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101537064386752792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FelicityCWells @emmie_shelly @jingzi6666 皮下而不是肌注吗 似乎皮下很痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2101510034555383966",
+        "created_at": "2026-09-20T05:28:49.000Z",
+        "display_text_range": [
+          42,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101544087447085446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "13605432",
+              "start": 0,
+              "username": "FelicityCWells"
+            },
+            {
+              "end": 29,
+              "id": "1500296751122550788",
+              "start": 16,
+              "username": "emmie_shelly"
+            },
+            {
+              "end": 41,
+              "id": "2072208739281866752",
+              "start": 30,
+              "username": "jingzi6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101544087447085446",
+        "in_reply_to_user_id": "13605432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101537064386752792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FelicityCWells @emmie_shelly @jingzi6666 皮下而不是肌注吗 似乎皮下很痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "13605432",
+        "conversation_id": "2101510034555383966",
+        "created_at": "2026-09-20T05:00:55.000Z",
+        "display_text_range": [
+          26,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101537064386752792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1500296751122550788",
+              "start": 0,
+              "username": "emmie_shelly"
+            },
+            {
+              "end": 25,
+              "id": "2072208739281866752",
+              "start": 14,
+              "username": "jingzi6666"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A more advanced simulator for estradiol levels with injectable estradiol esters.",
+              "display_url": "advsim.transfemscience.org/?r=2&e=41&d1=5…",
+              "end": 59,
+              "expanded_url": "https://advsim.transfemscience.org/?r=2&e=41&d1=5&d2=10&ra=33&i1=7&dl1=&i2=7&dl2=&s=6&h=0&xm=28",
+              "start": 36,
+              "status": 200,
+              "title": "Injectable Estradiol Simulator Advanced",
+              "unwound_url": "https://transfemscience.org/misc/injectable-e2-simulator-advanced/?r=2&e=41&d1=5&d2=10&ra=33&i1=7&dl1=&i2=7&dl2=&s=6&h=0&xm=28",
+              "url": "https://t.co/wGDyqENJKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101537064386752792",
+        "in_reply_to_user_id": "1500296751122550788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101526800363040804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emmie_shelly @jingzi6666 每周5mg皮下注射\nhttps://t.co/wGDyqENJKg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2101544087447085446",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 879,
+          "like_count": 130038,
+          "listed_count": 8,
+          "media_count": 3010,
+          "tweet_count": 25065
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n🎀milf👗but🌌still🖖scifi🤖tech🚀space🥵nerd🍥girl💍arc\nထasd✨adhd🥀mdd🦋bpd🧡rsd❤️‍🩹cptsd🪞agp🌸sapphic🏳️‍⚧️she/her/slut\n🚪69/384/520/888",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FelicityCWells",
+                "end": 23,
+                "expanded_url": "http://t.me/FelicityCWells",
+                "start": 0,
+                "url": "https://t.co/SE5laWBXV8"
+              }
+            ]
+          }
+        },
+        "id": "13605432",
+        "is_identity_verified": false,
+        "location": "RLE | Sol-Terra",
+        "most_recent_tweet_id": "2101537826349216219",
+        "name": "✨悱💋Felicity✨🏳️‍⚧️🏳️‍🌈🇺🇦🎗️",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13605432/1407396735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987879490685661185/7ZaSLUmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 4694,
+          "like_count": 32409,
+          "listed_count": 37,
+          "media_count": 883,
+          "tweet_count": 33407
+        },
+        "url": "https://t.co/SE5laWBXV8",
+        "username": "FelicityCWells",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-06T02:26:45.000Z",
+        "description": "Ā",
+        "id": "1500296751122550788",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101526800363040804",
+        "name": "Sophia",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013601115607080960/ldFtrRRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 2096,
+          "like_count": 5826,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "emmie_shelly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T06:42:47.000Z",
+        "description": "176/60，胸88/腰69/臀89，在减了🙂找金主😫\n90后江苏农村贫苦mtf🥲qq：2075589861\n靠打零工，做脱毛，赛博要饭，泰国旅游变性，\n卖雌二醇，泌乳药，减肥产品等维持生活😮‍💨\n我还要再存5万才够srs🙂‍↕️",
+        "id": "2072208739281866752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101450385882046558",
+        "name": "京子🍥（糖商）",
+        "pinned_tweet_id": "2073341408740884941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072208739281866752/1783156555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073338424229240833/qrruTRLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1809,
+          "like_count": 49,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "jingzi6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

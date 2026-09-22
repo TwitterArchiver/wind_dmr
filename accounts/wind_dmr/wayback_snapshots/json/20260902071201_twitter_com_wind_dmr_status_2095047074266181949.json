@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2094894309653008573",
+    "created_at": "2026-09-02T07:12:01.000Z",
+    "display_text_range": [
+      34,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095047074266181949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1069472883276046336",
+          "start": 0,
+          "username": "Kellyv_ai"
+        },
+        {
+          "end": 22,
+          "id": "1348806764",
+          "start": 11,
+          "username": "SteavnHill"
+        },
+        {
+          "end": 33,
+          "id": "2570456390",
+          "start": 23,
+          "username": "EEbyClark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095047074266181949",
+    "in_reply_to_user_id": "1069472883276046336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095013362837123098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kellyv_ai @SteavnHill @EEbyClark 这段回复含人量听起来极低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2094894309653008573",
+        "created_at": "2026-09-02T07:12:01.000Z",
+        "display_text_range": [
+          34,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095047074266181949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1069472883276046336",
+              "start": 0,
+              "username": "Kellyv_ai"
+            },
+            {
+              "end": 22,
+              "id": "1348806764",
+              "start": 11,
+              "username": "SteavnHill"
+            },
+            {
+              "end": 33,
+              "id": "2570456390",
+              "start": 23,
+              "username": "EEbyClark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095047074266181949",
+        "in_reply_to_user_id": "1069472883276046336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095013362837123098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kellyv_ai @SteavnHill @EEbyClark 这段回复含人量听起来极低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069472883276046336",
+        "conversation_id": "2094894309653008573",
+        "created_at": "2026-09-02T04:58:03.000Z",
+        "display_text_range": [
+          23,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095013362837123098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1348806764",
+              "start": 0,
+              "username": "SteavnHill"
+            },
+            {
+              "end": 22,
+              "id": "2570456390",
+              "start": 12,
+              "username": "EEbyClark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095013362837123098",
+        "in_reply_to_user_id": "1348806764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094970480184930337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SteavnHill @EEbyClark 自动布线确实是几十年的难题。\n但“自动布线没解决 = AI 做不了高频”\n高频设计本来也不是一次 Router 跑完，而是 约束 → Layout → SI/EM 仿真 → 修改 → 再验证。\nAI 真正需要解决的不是“完美自动布线”，而是把这个工程闭环跑起来。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2095047074266181949",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 871,
+          "like_count": 128972,
+          "listed_count": 8,
+          "media_count": 3008,
+          "tweet_count": 25042
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-03T06:06:19.000Z",
+        "description": "干过大厂，也创过业\n拿过融资，也踩过坑\n少聊概念，多做产品\nBuilding in public\nhttps://t.co/wtwvVLaqEl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/kellyvv",
+                "end": 72,
+                "expanded_url": "https://github.com/kellyvv",
+                "start": 49,
+                "url": "https://t.co/wtwvVLaqEl"
+              }
+            ]
+          }
+        },
+        "id": "1069472883276046336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095017348130640101",
+        "name": "KellyV",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069472883276046336/1749325121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798678291576233984/gDIWq-fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 1317,
+          "like_count": 516,
+          "listed_count": 15,
+          "media_count": 359,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "Kellyv_ai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-13T09:29:55.000Z",
+        "description": "中国一切问题，站在我们汉人是俄国干闺女的角度，就通了。俄爹奴役了200多个种族，汉人连给干爹当奴隶人也不行？埋土里人家都怕脏了地，只能扔江里？ 还有，明粉滚一边去。来路不明的皇帝，大脚回民马后；一群色目将领；一个MSL马和马三保。元朝却开放言论，汉人可以自由写杂剧，有了共同的神话传说。汉人要自知。",
+        "id": "1348806764",
+        "is_identity_verified": false,
+        "location": "Moon",
+        "most_recent_tweet_id": "2095033686874038381",
+        "name": "Steavn Hill",
+        "pinned_tweet_id": "2060948742367539297",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3514374862/49d0954edf8a8937938b20fff53d8d0a_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 1024,
+          "like_count": 29282,
+          "listed_count": 8,
+          "media_count": 202,
+          "tweet_count": 17956
+        },
+        "url": "",
+        "username": "SteavnHill",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-06-16T07:39:36.000Z",
+        "description": "Embedded Software & Hardware Engineer/Former Goertek Empolyee/ESP32&RK3568 in learning/The meaning of life is struggle.",
+        "id": "2570456390",
+        "is_identity_verified": false,
+        "location": "Qingdao",
+        "most_recent_tweet_id": "2094971060538273853",
+        "name": "Clark",
+        "pinned_tweet_id": "1553673023320133632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2570456390/1402904415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568591951909519366/oj9KyR1j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 361,
+          "like_count": 962,
+          "listed_count": 3,
+          "media_count": 591,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "EEbyClark",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

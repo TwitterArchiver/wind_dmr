@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "2098040461000638817",
+    "created_at": "2026-09-10T15:43:23.000Z",
+    "display_text_range": [
+      10,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098074867505791427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2835473672",
+          "start": 0,
+          "username": "0xrootRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098074867505791427",
+    "in_reply_to_user_id": "2835473672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098040461000638817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xrootRE 又敬意了，eFuse在三星knox上用了多少年了，只不过同样的技术被拿到车上用而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "2098040461000638817",
+        "created_at": "2026-09-10T15:43:23.000Z",
+        "display_text_range": [
+          10,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098074867505791427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2835473672",
+              "start": 0,
+              "username": "0xrootRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098074867505791427",
+        "in_reply_to_user_id": "2835473672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098040461000638817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xrootRE 又敬意了，eFuse在三星knox上用了多少年了，只不过同样的技术被拿到车上用而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2835473672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044387802",
+              "name": "Tesla - Model 3"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2098040461000638817",
+        "created_at": "2026-09-10T13:26:40.000Z",
+        "display_text_range": [
+          0,
+          183
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098040461000638817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xrootre/statu…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/0xrootre/status/2097688866715324673",
+              "start": 184,
+              "url": "https://t.co/aHVzITwMVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098040461000638817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "通过安全分析发现：特斯拉的核心是一条以硬件熔丝（/sys/firmware/oem/eom）为根锚点的信任链：未熔断/已熔断决定车辆是否处于工厂可开发状态，is-development-car（基于 Tesla 私有 PKI 证书链）和 is-fused 两条判据共同决定 is-in-factory/is-factory-gated 这层工厂门控状态，进而级联影响 is_customer_car（客户车辆）、GUI_serviceMode（服务模式）、Dyno Mode（测功机模式）、Swan Mode/Transport Mode（运输模式）等一系列 UI 覆盖状态和权限开关。每一种模式都不是孤立开关，而是通过 use-factory-odin-config、ssh-config、DisplayOverlayMessage 等多处消费方共同引用同一个上游信号，构成一棵完整的信任树。\n\n真正让我印象深刻的，是这条链路把\"不可逆的物理熔丝烧录\"作为唯一的、硬件级的根信任锚点，而不是依赖某个可被篡改的软件标志位——这次分析里可以绕过的所有软件层判定（VIN隐私、is-development-car证书检查、/var/etc/in-factory哨兵文件、lockdown脚本），最终追根溯源都会撞回同一个物理熔丝寄存器，而这个寄存器本身在真实硬件上是不可逆写入的。这是一种非常克制、非常经典的安全工程哲学：软件层的判定可以有无数个（甚至可以被合理地绕过用于调试），但只要根信任锚点是硬件级、不可逆的，整套系统的安全边界就始终有兜底——这次分析里能够安全地做各种\"熔丝状态实验\"而不担心真正破坏车辆安全性，恰恰是因为这个设计本身经得起研究者的反复拆解。\n\n这套体系从工厂根密钥注入、熔丝烧录、到 BLE 手机钥匙的 ECDH+白名单协议、再到 UDS 诊断通道与密钥保管服务 vaultd 的多层隔离——每一处都能看到\"纵深防御\"和\"最小信任\"被认真落地。作为一次完整的安全架构学习案例，Tesla 在这套系统里展现出的工程严谨度，值得所有做安全设计的人认真学习。向 Tesla 的工程团队致以敬意。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3537,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097688866715324673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通过安全分析发现：特斯拉的核心是一条以硬件熔丝（/sys/firmware/oem/eom）为根锚点的信任链：未熔断/已熔断决定车辆是否处于工厂可开发状态，is-development-car（基于 Tesla 私有 PKI 证书链）和 is-fused 两条判据共同决定 is-in-factory/is-factory-gated 这层工厂门控状态，进而级联影响 https://t.co/aHVzITwMVg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2098074867505791427",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 871,
+          "like_count": 129141,
+          "listed_count": 8,
+          "media_count": 3010,
+          "tweet_count": 25048
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-29T07:33:51.000Z",
+        "description": "2G 3G 4G 5G security/ Baseband research/ RF research/ IoT Re/ AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "0x0root.com",
+                "end": 23,
+                "expanded_url": "http://0x0root.com",
+                "start": 0,
+                "url": "https://t.co/krwseX11wb"
+              }
+            ]
+          }
+        },
+        "id": "2835473672",
+        "is_identity_verified": false,
+        "location": "The Kingdom of Belgium",
+        "most_recent_tweet_id": "2098065639076397340",
+        "name": "0xroot",
+        "pinned_tweet_id": "1673911967042641921",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031390297834532867/dlNPawnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7182,
+          "following_count": 2101,
+          "like_count": 9590,
+          "listed_count": 135,
+          "media_count": 892,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/krwseX11wb",
+        "username": "0xrootRE",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

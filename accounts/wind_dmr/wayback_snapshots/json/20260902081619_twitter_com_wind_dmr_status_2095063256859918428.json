@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095063248974614529"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094894309653008573",
+    "created_at": "2026-09-02T08:16:19.000Z",
+    "display_text_range": [
+      11,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095063256859918428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1069472883276046336",
+          "start": 0,
+          "username": "Kellyv_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pPKVWDMBjH",
+          "end": 93,
+          "expanded_url": "https://x.com/wind_dmr/status/2095063256859918428/photo/1",
+          "media_key": "3_2095063248974614529",
+          "start": 70,
+          "url": "https://t.co/pPKVWDMBjH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095063256859918428",
+    "in_reply_to_user_id": "1069472883276046336",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095063248974614529"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094894309653008573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kellyv_ai 奇怪的斜线，直角甚至锐角转弯，同一个网络莫名其妙的改变粗细，明明可以走直线却拐个大弯，多的懒得看了，进步空间还很大（ https://t.co/pPKVWDMBjH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2095063248974614529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMo7MEbkAEDRiL.jpg",
+        "width": 968
+      },
+      {
+        "duration_ms": 8238,
+        "height": 3840,
+        "media_key": "13_2094893101320155136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094893101320155136/img/0L82kfvslfzMYMtd.jpg",
+        "public_metrics": {
+          "view_count": 13290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094893101320155136/pl/CC_qovdz4jA_kyqN.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094893101320155136/vid/avc1/720x1280/D-05mL6Vr5QATLSL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094893101320155136/vid/avc1/1080x1920/wrul81cHq3WXptA8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094893101320155136/vid/avc1/320x568/YCKrkazWG4qGXnQG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094893101320155136/vid/avc1/480x852/hxaF8s1lmhspk6KZ.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094893101320155136/vid/avc1/2160x3840/sq7icg3pK1yxIr1g.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095063248974614529"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094894309653008573",
+        "created_at": "2026-09-02T08:16:19.000Z",
+        "display_text_range": [
+          11,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095063256859918428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1069472883276046336",
+              "start": 0,
+              "username": "Kellyv_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPKVWDMBjH",
+              "end": 93,
+              "expanded_url": "https://x.com/wind_dmr/status/2095063256859918428/photo/1",
+              "media_key": "3_2095063248974614529",
+              "start": 70,
+              "url": "https://t.co/pPKVWDMBjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095063256859918428",
+        "in_reply_to_user_id": "1069472883276046336",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095063248974614529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094894309653008573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kellyv_ai 奇怪的斜线，直角甚至锐角转弯，同一个网络莫名其妙的改变粗细，明明可以走直线却拐个大弯，多的懒得看了，进步空间还很大（ https://t.co/pPKVWDMBjH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094893101320155136"
+          ]
+        },
+        "author_id": "1069472883276046336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094894309653008573",
+        "created_at": "2026-09-01T21:04:59.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T22:03:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094894018190840234",
+          "2094894309653008573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxomvUpxXz",
+              "end": 174,
+              "expanded_url": "https://x.com/Kellyv_ai/status/2094894309653008573/video/1",
+              "media_key": "13_2094893101320155136",
+              "start": 151,
+              "url": "https://t.co/rxomvUpxXz"
+            },
+            {
+              "display_url": "x.com/Kellyv_ai/stat…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/Kellyv_ai/status/2094031675827335570",
+              "start": 175,
+              "url": "https://t.co/zckzndkF17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094894309653008573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094893101320155136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 169,
+                "start": 166,
+                "tag": "AI"
+              },
+              {
+                "end": 179,
+                "start": 170,
+                "tag": "Hardware"
+              },
+              {
+                "end": 184,
+                "start": 180,
+                "tag": "PCB"
+              },
+              {
+                "end": 199,
+                "start": 185,
+                "tag": "BuildInPublic"
+              }
+            ]
+          },
+          "text": "第一块，完全由 AI 工程师设计、开发，并且真正成功点亮的 PCB，诞生了。\n\n不是 Demo。\n不是仿真。\n不是两层小板。\n是一块有一定复杂度的 4 层 PCB。\n固件已经成功烧录。\n首灯已经亮了。\n\n从设计到硬件落地，AI 真的开始进入物理的工程世界了。\n\n这一次，不是 AI 写代码。\n是 AI 把一块真实的电路板做出来了。\n#AI #Hardware #PCB #BuildInPublic"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 41294,
+          "like_count": 294,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094031675827335570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一块，完全由 AI 工程师设计、开发，并且真正成功点亮的 PCB，诞生了。\n\n不是 Demo。\n不是仿真。\n不是两层小板。\n是一块有一定复杂度的 4 层 PCB。\n固件已经成功烧录。\n首灯已经亮了。\n\n从设计到硬件落地，AI 真的开始进入物理的工程世界了。\n\n这一次，不是 AI 写代码。\n是 AI https://t.co/rxomvUpxXz https://t.co/zckzndkF17"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2095063256859918428",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 871,
+          "like_count": 128971,
+          "listed_count": 8,
+          "media_count": 3009,
+          "tweet_count": 25043
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-03T06:06:19.000Z",
+        "description": "干过大厂，也创过业\n拿过融资，也踩过坑\n少聊概念，多做产品\nBuilding in public\nhttps://t.co/wtwvVLaqEl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/kellyvv",
+                "end": 72,
+                "expanded_url": "https://github.com/kellyvv",
+                "start": 49,
+                "url": "https://t.co/wtwvVLaqEl"
+              }
+            ]
+          }
+        },
+        "id": "1069472883276046336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095017348130640101",
+        "name": "KellyV",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069472883276046336/1749325121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798678291576233984/gDIWq-fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 1317,
+          "like_count": 516,
+          "listed_count": 15,
+          "media_count": 359,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "Kellyv_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

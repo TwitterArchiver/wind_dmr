@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100427430582460416"
+      ],
+      "media_source_tweet_id": [
+        "2100449671814472058"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2100511069202731240",
+    "created_at": "2026-09-17T09:03:59.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100511069202731240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788530078412132352",
+          "start": 3,
+          "username": "zane_os"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZVjSTnM29",
+          "end": 73,
+          "expanded_url": "https://x.com/zane_os/status/2100449671814472058/photo/1",
+          "media_key": "3_2100427430582460416",
+          "start": 50,
+          "url": "https://t.co/wZVjSTnM29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100511069202731240",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100427430582460416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100449671814472058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zane_os: 当Deepseek出了一款类似 Grok Bot 工具 be like： https://t.co/wZVjSTnM29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2100427430582460416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY3npxaoAA6y6j.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100427430582460416"
+          ],
+          "media_source_tweet_id": [
+            "2100449671814472058"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2100511069202731240",
+        "created_at": "2026-09-17T09:03:59.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100511069202731240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788530078412132352",
+              "start": 3,
+              "username": "zane_os"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZVjSTnM29",
+              "end": 73,
+              "expanded_url": "https://x.com/zane_os/status/2100449671814472058/photo/1",
+              "media_key": "3_2100427430582460416",
+              "start": 50,
+              "url": "https://t.co/wZVjSTnM29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100511069202731240",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100427430582460416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100449671814472058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zane_os: 当Deepseek出了一款类似 Grok Bot 工具 be like： https://t.co/wZVjSTnM29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100427430582460416"
+          ]
+        },
+        "author_id": "1788530078412132352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2100449671814472058",
+        "created_at": "2026-09-17T05:00:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100449671814472058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZVjSTnM29",
+              "end": 60,
+              "expanded_url": "https://x.com/zane_os/status/2100449671814472058/photo/1",
+              "media_key": "3_2100427430582460416",
+              "start": 37,
+              "url": "https://t.co/wZVjSTnM29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100449671814472058",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100427430582460416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 19312,
+          "like_count": 713,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "当Deepseek出了一款类似 Grok Bot 工具 be like： https://t.co/wZVjSTnM29"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2100511069202731240",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 879,
+          "like_count": 129769,
+          "listed_count": 8,
+          "media_count": 3010,
+          "tweet_count": 25056
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2024-05-09T11:23:03.000Z",
+        "description": "你好，我是Zane!\n喜欢体验各种AI大模型和开发工具\n平常会发一些AI和Web3的新闻\n主要研究方向为TelegramBot生态开发",
+        "id": "1788530078412132352",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2100504087662141872",
+        "name": "Zane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788530078412132352/1759422876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805084052514594816/LDNa5TLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 506,
+          "like_count": 4839,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 3034
+        },
+        "url": "",
+        "username": "zane_os",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
