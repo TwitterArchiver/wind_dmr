@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "4736358500",
+    "conversation_id": "1884908216741671246",
+    "created_at": "2025-01-30T10:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884908216741671246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/visualscat/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/visualscat/status/1884676656851202470",
+          "start": 2,
+          "url": "https://t.co/9B75WD1drj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884908216741671246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884676656851202470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猫 https://t.co/9B75WD1drj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4736358500",
+        "conversation_id": "1884908216741671246",
+        "created_at": "2025-01-30T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884908216741671246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/visualscat/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/visualscat/status/1884676656851202470",
+              "start": 2,
+              "url": "https://t.co/9B75WD1drj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884908216741671246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884676656851202470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫 https://t.co/9B75WD1drj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884676636362063872"
+          ]
+        },
+        "author_id": "1546639149872168960",
+        "conversation_id": "1884676656851202470",
+        "created_at": "2025-01-29T18:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T19:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884676656851202470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkcszoPOfd",
+              "end": 23,
+              "expanded_url": "https://x.com/visualscat/status/1884676656851202470/video/1",
+              "media_key": "7_1884676636362063872",
+              "start": 0,
+              "url": "https://t.co/ZkcszoPOfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884676656851202470",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 74937,
+          "like_count": 5823,
+          "quote_count": 61,
+          "reply_count": 10,
+          "retweet_count": 833
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZkcszoPOfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜COS 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "MTG"
+              },
+              {
+                "end": 102,
+                "start": 96,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1700889566964810104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 706,
+          "like_count": 107704,
+          "listed_count": 8,
+          "media_count": 2618,
+          "tweet_count": 22355
+        },
+        "username": "wind_dmr",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T23:34:53.000Z",
+        "description": "Black Cats are not bad luck. They are elegant loving and delightful companions 🐈‍⬛❤️",
+        "id": "1546639149872168960",
+        "name": "Black cats are not bad luck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789834661281079296/EbSdsCSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192777,
+          "following_count": 27,
+          "like_count": 151,
+          "listed_count": 468,
+          "media_count": 4408,
+          "tweet_count": 4435
+        },
+        "username": "visualscat",
+        "verified": true
+      }
+    ]
+  }
+}

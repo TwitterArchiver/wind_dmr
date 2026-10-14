@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102739776709484544",
+        "3_2102739786528350208"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102704761648849231",
+    "created_at": "2026-09-23T12:40:08.000Z",
+    "display_text_range": [
+      8,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T13:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102739793864245382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1082260455937044480",
+          "start": 0,
+          "username": "Pajoca_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4oFBTPcrPH",
+          "end": 32,
+          "expanded_url": "https://x.com/wind_dmr/status/2102739793864245382/photo/1",
+          "media_key": "3_2102739776709484544",
+          "start": 9,
+          "url": "https://t.co/4oFBTPcrPH"
+        },
+        {
+          "display_url": "pic.x.com/4oFBTPcrPH",
+          "end": 32,
+          "expanded_url": "https://x.com/wind_dmr/status/2102739793864245382/photo/1",
+          "media_key": "3_2102739786528350208",
+          "start": 9,
+          "url": "https://t.co/4oFBTPcrPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102739793864245382",
+    "in_reply_to_user_id": "1082260455937044480",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102739776709484544"
+      },
+      {
+        "media_key": "3_2102739786528350208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102704761648849231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pajoca_ https://t.co/4oFBTPcrPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1955,
+        "media_key": "3_2102739776709484544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5ur6XaYAALTAc.jpg",
+        "width": 1856
+      },
+      {
+        "height": 1955,
+        "media_key": "3_2102739786528350208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5use8aYAAZRVo.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102739776709484544",
+            "3_2102739786528350208"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102704761648849231",
+        "created_at": "2026-09-23T12:40:08.000Z",
+        "display_text_range": [
+          8,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102739793864245382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1082260455937044480",
+              "start": 0,
+              "username": "Pajoca_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oFBTPcrPH",
+              "end": 32,
+              "expanded_url": "https://x.com/wind_dmr/status/2102739793864245382/photo/1",
+              "media_key": "3_2102739776709484544",
+              "start": 9,
+              "url": "https://t.co/4oFBTPcrPH"
+            },
+            {
+              "display_url": "pic.x.com/4oFBTPcrPH",
+              "end": 32,
+              "expanded_url": "https://x.com/wind_dmr/status/2102739793864245382/photo/1",
+              "media_key": "3_2102739786528350208",
+              "start": 9,
+              "url": "https://t.co/4oFBTPcrPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102739793864245382",
+        "in_reply_to_user_id": "1082260455937044480",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102739776709484544"
+          },
+          {
+            "media_key": "3_2102739786528350208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102704761648849231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pajoca_ https://t.co/4oFBTPcrPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2102704760881287168"
+          ]
+        },
+        "author_id": "1082260455937044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2102704761648849231",
+        "created_at": "2026-09-23T10:20:56.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102704761648849231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102704761648849231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1426,
+          "impression_count": 386663,
+          "like_count": 2455,
+          "quote_count": 60,
+          "reply_count": 28,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "謎技術により端末によって見た目が激変するバグアンケートを作成！\n・ブラウザ版：投票するとツイートが動的に爆伸び(物理)する\n・iPhone：選択肢が空欄化し何の投票なのか分からない\n・Android：文字化け付きの怪しい選択肢が見える(今回のタネ)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜SH&💊｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2102739793864245382",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 878,
+          "like_count": 130448,
+          "listed_count": 8,
+          "media_count": 3013,
+          "tweet_count": 25068
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-07T12:59:34.000Z",
+        "description": "興味：数学/化学/物理/生物/天文/地理/言語/世界史、プログラミング(C#,JS等)/PC活用術　\n★素数ニュース　ㅤ\nアイコン通り短毛の一般猫ですฅㅤ\nWebサイトで便利なツールやサイトを紹介＆配布してますㅤ\nねこやポケモン大好き！Slitherioなうㅤ\n仲良くして頂けると嬉しいです😸ㅤ\n猫大B3/しっぽは1本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pajoca.com",
+                "end": 23,
+                "expanded_url": "https://pajoca.com/",
+                "start": 0,
+                "url": "https://t.co/vzWP5DAxad"
+              }
+            ]
+          }
+        },
+        "id": "1082260455937044480",
+        "is_identity_verified": false,
+        "location": "Japan\nㅤ↓\nにゃぱん王国(in 動物界) に移住",
+        "most_recent_tweet_id": "2102739094073942373",
+        "name": "パジョカ (Pajoca)",
+        "pinned_tweet_id": "1669108452323467269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082260455937044480/1724807354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004511770543828992/LRcrw1fS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4170,
+          "following_count": 668,
+          "like_count": 190122,
+          "listed_count": 35,
+          "media_count": 2075,
+          "tweet_count": 12991
+        },
+        "url": "https://t.co/vzWP5DAxad",
+        "username": "Pajoca_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

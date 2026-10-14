@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108774248223498240"
+      ]
+    },
+    "author_id": "4736358500",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2108774253453856880",
+    "created_at": "2026-10-10T04:18:55.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T05:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108774253453856880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBuNpIx5AI",
+          "end": 63,
+          "expanded_url": "https://x.com/wind_dmr/status/2108774253453856880/photo/1",
+          "media_key": "3_2108774248223498240",
+          "start": 40,
+          "url": "https://t.co/BBuNpIx5AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108774253453856880",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108774248223498240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2384Mbps  两千兆入户 万兆内网的威力\n百度网盘：谁把光纤伸我机房里了 https://t.co/BBuNpIx5AI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 47,
+        "media_key": "3_2108774248223498240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPfAYjaYAAB6fI.jpg",
+        "width": 132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108774248223498240"
+          ]
+        },
+        "author_id": "4736358500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2108774253453856880",
+        "created_at": "2026-10-10T04:18:55.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108774253453856880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBuNpIx5AI",
+              "end": 63,
+              "expanded_url": "https://x.com/wind_dmr/status/2108774253453856880/photo/1",
+              "media_key": "3_2108774248223498240",
+              "start": 40,
+              "url": "https://t.co/BBuNpIx5AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108774253453856880",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108774248223498240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2384Mbps  两千兆入户 万兆内网的威力\n百度网盘：谁把光纤伸我机房里了 https://t.co/BBuNpIx5AI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "FF14"
+              },
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "MTG"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2108774253453856880",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 881,
+          "like_count": 131199,
+          "listed_count": 7,
+          "media_count": 3036,
+          "tweet_count": 25105
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

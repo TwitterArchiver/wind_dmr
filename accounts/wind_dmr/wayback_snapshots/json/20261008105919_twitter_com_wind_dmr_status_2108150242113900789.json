@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107924560020422656"
+      ],
+      "media_source_tweet_id": [
+        "2107924569114005706"
+      ]
+    },
+    "author_id": "4736358500",
+    "conversation_id": "2108150242113900789",
+    "created_at": "2026-10-08T10:59:19.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T11:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108150242113900789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1351218086649720837",
+          "start": 3,
+          "username": "actuallyaridan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3yZLnhevw",
+          "end": 77,
+          "expanded_url": "https://x.com/actuallyaridan/status/2107924569114005706/photo/1",
+          "media_key": "3_2107924560020422656",
+          "start": 54,
+          "url": "https://t.co/G3yZLnhevw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108150242113900789",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2107924560020422656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107924569114005706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @actuallyaridan: This should be illegal, you know? https://t.co/G3yZLnhevw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 879,
+        "media_key": "3_2107924560020422656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUDaOBVWwAAf-ye.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107924560020422656"
+          ],
+          "media_source_tweet_id": [
+            "2107924569114005706"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2108150242113900789",
+        "created_at": "2026-10-08T10:59:19.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108150242113900789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1351218086649720837",
+              "start": 3,
+              "username": "actuallyaridan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3yZLnhevw",
+              "end": 77,
+              "expanded_url": "https://x.com/actuallyaridan/status/2107924569114005706/photo/1",
+              "media_key": "3_2107924560020422656",
+              "start": 54,
+              "url": "https://t.co/G3yZLnhevw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108150242113900789",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2107924560020422656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107924569114005706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @actuallyaridan: This should be illegal, you know? https://t.co/G3yZLnhevw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107924560020422656"
+          ]
+        },
+        "author_id": "1351218086649720837",
+        "conversation_id": "2107924569114005706",
+        "created_at": "2026-10-07T20:02:35.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T21:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107924569114005706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3yZLnhevw",
+              "end": 57,
+              "expanded_url": "https://x.com/actuallyaridan/status/2107924569114005706/photo/1",
+              "media_key": "3_2107924560020422656",
+              "start": 34,
+              "url": "https://t.co/G3yZLnhevw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107924569114005706",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2107924560020422656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 155965,
+          "like_count": 2098,
+          "quote_count": 7,
+          "reply_count": 150,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "This should be illegal, you know? https://t.co/G3yZLnhevw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜🚪128｜BPD+BD ADHD+ASD ｜🍥｜#FF14 鸟区｜业余无线电｜EE｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "FF14"
+              },
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "MTG"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "WH40K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "domerawind.xyz",
+                "end": 23,
+                "expanded_url": "http://domerawind.xyz",
+                "start": 0,
+                "url": "https://t.co/FKBvWzk65J"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2108150242113900789",
+        "name": "ShimoKaze",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4736358500/1661684970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 880,
+          "like_count": 131138,
+          "listed_count": 7,
+          "media_count": 3032,
+          "tweet_count": 25099
+        },
+        "url": "https://t.co/FKBvWzk65J",
+        "username": "wind_dmr",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-18T17:21:29.000Z",
+        "description": "21 & 🏳️‍🌈 | customer service agent and app tester at @minifinder | developed @neofreebird | contact: adnan@aridan.net | jana-ice-tea-aholic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "minifinder"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "neofreebird"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aridan.net",
+                "end": 23,
+                "expanded_url": "http://aridan.net",
+                "start": 0,
+                "url": "https://t.co/LehduzCodM"
+              }
+            ]
+          }
+        },
+        "id": "1351218086649720837",
+        "is_identity_verified": false,
+        "location": "Växjö, Sweden",
+        "most_recent_tweet_id": "2108143096516972569",
+        "name": "aridan",
+        "pinned_tweet_id": "1751275472107786415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1351218086649720837/1663050857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893426003373907969/qfjoDfvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 1670,
+          "like_count": 29615,
+          "listed_count": 13,
+          "media_count": 6055,
+          "tweet_count": 39658
+        },
+        "url": "https://t.co/LehduzCodM",
+        "username": "actuallyaridan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
